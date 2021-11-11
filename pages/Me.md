@@ -1,26 +1,42 @@
 ---
 permalink: /me/
-title: me
+title: ME
 layout: single
 ---
 I am current a final-year undergraduate student of Elite Program, Software Academy at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/).  I have won **The best short paper award in CIKM2021** as the first author (My first paper in the undergraduate year). 
 
 My current research interests lies primarily in understanding the blackbox of DNN especially the mechanism of GNN. Revolving on this ultimate goal, I mainly study the following topics : **Fundamental Research on Deep Learning** (Initialization strategy, Regularization method), **Understanding how to use GNN in different scenarios**. 
 
-My research interests lie primarily in opening the black box of Deep Neuron Network and understanding the mechanism of Graph Neuron Network.
-
 Currently, I am actively particpiate in the **new** AI community: [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg) which is organized by my good friends: [Libo Qin]([Libo Qin - Home Page (hit.edu.cn)](http://ir.hit.edu.cn/~lbqin/)), Qian Liu, Jianan Zhao, Xiangyu Zhao. Welcome to become a member of our community! Also welcome to my visit my Chinese blog at [Zhihu](https://huanhuqueyue.github.io/MyBlog/[https://scholar.google.com/citations?user=3XUANDAAAAAJ&hl=en&oi=ao) with more than . 
 
 
 
 ### Selected publication
+<ul>
+    <li>
+      <p>
+        <strong> Neuron Campaign for Initialization Guided by Information Bottleneck Theory </strong><br>
+        <strong>CIKM2021 Best Short Paper</strong><br>
+        <strong>Haitao Mao*</strong>, Xu Chen*, Qiang Fu*, Lun Du*, Han Shi, Dongmei Zhang <br>
+        [<a href="https://arxiv.org/pdf/2108.06530.pdf">pdf</a>]
+        [<a href="https://github.com/huanhuqueyue/CIKM-IBCI">github</a>]
+        [<a href="">blog</a>]
+      </p>
+    </li>
+</ul>
 
-- [Neuron Campaign for Initialization Guided by Information Bottleneck Theory](https://dl.acm.org/doi/abs/10.1145/3459637.3482153)  
-  CIKM2021 **Best Short Paper Award** 
-  **Haitao Mao***, Xu Chen\*, Qiang Fu\*, Lun Du\*, Shi Han, Dongmei Zhang
-  [[pdf](https://arxiv.org/pdf/2108.06530.pdf)] [[code](https://github.com/huanhuqueyue/CIKM-IBCI)]
+### Research Interests
+- Adaptative learning on graph-structured data
+- Fundamental Research on Deep Neuron Network especially Graph Neural Network (i.e. initialization strategy, regularization methods)
+- Rethinking how to use GNN in different tasks
+- Graph Neuron Network for Large Scale Graph
+- adversarial attack in NLP
 
-
+### Familiar Research Topic
+- Knowledge Graph Construction(NER, Document-level relation extraction)
+- Knowledge Graph Completion
+- Session Recommendation System
+- Click-Through Rate (CTR)
 
 ### Internship
 
