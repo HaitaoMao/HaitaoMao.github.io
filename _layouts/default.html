@@ -12,6 +12,34 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script>
+      MathJax = {
+        tex: {
+          inlineMath: [['$','$'],['$$','$$'],['\\(','\\)']],
+          processEscapes: true
+        }
+      }
+
+    </script>
+    <style>
+      * {
+        font-family: 'PT Sans Narrow',sans-serif;
+        }
+
+        .archive > p,ul,li {
+          font-size: 14px;
+        }
+
+      @media (min-width: 64em) {
+        .archive {
+          /* float: right;
+          width: calc(100% - 200px);
+          padding-right: 200px; */
+        }
+      }
+    </style>
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
