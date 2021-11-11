@@ -10,7 +10,7 @@ There is no way for me to have any achievements without your help. Sincerely tha
     <li>
         <p>
             <a href="http://www.cse.msu.edu/~tangjili/">Jiliang Tang</a><br>
-            My incoming P.hD. supervisor.
+            My incoming PhD supervisor.
         </p>
     </li>
     <li>
