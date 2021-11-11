@@ -1,6 +1,6 @@
 ---
 permalink: /friends/
-title: Friends and Mentos
+title: Friends and Mentors
 layout: single
 ---
 There is no way for me to have any achievements without your help. Sincerely thanks to all the friends and mentors who help me in this journey. 
@@ -9,7 +9,8 @@ There is no way for me to have any achievements without your help. Sincerely tha
 <ul>
     <li>
         <p>
-            <a href="http://www.cse.msu.edu/~tangjili/">Jiliang Tang</a>
+            <a href="http://www.cse.msu.edu/~tangjili/">Jiliang Tang</a><br>
+            My incoming P.hD. supervisor.
         </p>
     </li>
     <li>
