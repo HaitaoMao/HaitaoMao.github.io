@@ -20,7 +20,7 @@ title                    : "悫躍"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Haitao Mao (毛海涛)"
-description              : "The best singer among researchers."
+description              : "Laugh loudly, laugh often, and most important, laugh at yourself."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ words_per_minute         : 200
 author:
   name             : "Haitao Mao (毛海涛)"
   avatar           : https://z3.ax1x.com/2021/11/10/Iaxkxe.jpg
-  bio              : "The best singer among researchers."
+  bio              : "Laugh loudly, laugh often, and most important, laugh at yourself."
   location         : "China, Chengdu"
   links:
     - label: "Email"
