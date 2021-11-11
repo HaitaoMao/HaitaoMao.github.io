@@ -1,8 +1,7 @@
 ---
-title: Edge Case
+title: CIKM2021
 layout: category
-permalink: /categories/edge-case/
-taxonomy: Edge Case
+permalink: /categories/CIKM2021/
+taxonomy: CIKM2021|Best Short Paper|Neuron Campaign for Initialization Guided by Information Bottleneck Theory
 ---
 
-Sample post listing for the category `Edge Case`.

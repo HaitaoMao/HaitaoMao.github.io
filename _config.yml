@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Runtus"
+title                    : "悫躍"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Haitao Mao (毛海涛)"
+description              : "The best singer among researchers."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,18 +102,26 @@ words_per_minute         : 200
 
 # Site Author
 author:
-  name             : "Runtus"
-  avatar           : https://lao-lan-go.oss-cn-beijing.aliyuncs.com/vuepress/avatar.png
-  bio              : "I am an **amazing** person."
-  location         : "China"
-  email            : 1145141919810@qq.com
+  name             : "Haitao Mao (毛海涛)"
+  avatar           : https://z3.ax1x.com/2021/11/10/Iaxkxe.jpg
+  bio              : "The best singer among researchers."
+  location         : "China, Chengdu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      url: "mailto:2018091609027@uestc.edu.cn"
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://scholar.google.com/citations?user=3GmlKM4AAAAJ&hl=en"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/haitao-mao-742862204/"
+    - label: "Zhihu"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.zhihu.com/column/c_1223551570643632128"
+    - label: "GitHub"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/huanhuqueyue"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"

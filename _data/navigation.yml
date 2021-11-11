@@ -2,7 +2,9 @@
 main:
   - title: BLOGS
     url: /blogs/
-  - title: ABOUT
-    url: /about/
+  - title: Me
+    url: /Me/
   - title: PUBLICATIONS
     url: /publications/
+  - title: FRIENDS
+    url: /friends/
