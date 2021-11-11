@@ -2,8 +2,8 @@
 main:
   - title: BLOGS
     url: /blogs/
-  - title: Me
-    url: /Me/
+  - title: me
+    url: /me/
   - title: PUBLICATIONS
     url: /publications/
   - title: FRIENDS
