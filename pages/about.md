@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: About
+permalink: /Me/
+title: Me
 layout: single
 ---
 I am current a final-year undergraduate student of Elite Program, Software Academy at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/).  I have won **The best short paper award in CIKM2021** as the first author (My first paper in the undergraduate year). 
