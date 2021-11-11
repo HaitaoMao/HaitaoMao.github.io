@@ -20,7 +20,7 @@ Currently, I am actively particpiate in the **new** AI community: [MLNLP](https:
         <strong>Haitao Mao*</strong>, Xu Chen*, Qiang Fu*, Lun Du*, Han Shi, Dongmei Zhang <br>
         [<a href="https://arxiv.org/pdf/2108.06530.pdf">pdf</a>]
         [<a href="https://github.com/huanhuqueyue/CIKM-IBCI">github</a>]
-        [<a href="">blog</a>]
+        [<a href="https://huanhuqueyue.github.io/personal-page/categories/edge-case/">blog</a>]
       </p>
     </li>
 </ul>
