@@ -5,7 +5,7 @@ layout: single
 ---
 There is no way for me to have any achievements without your help. Sincerely thanks to all the friends and mentors who help me in this journey. 
 
-# Best mentors
+# Best mentors on my research road.
 <ul>
     <li>
         <p>
@@ -41,7 +41,7 @@ There is no way for me to have any achievements without your help. Sincerely tha
 
 
 
-## Best friends
+## Best friends on my research road.
 <ul>
     <li>
         <p>
@@ -89,14 +89,14 @@ There is no way for me to have any achievements without your help. Sincerely tha
         <p>
             <a href="https://www.microsoft.com/en-us/research/people/xiaoyizhang/">Xiaoyi Zhang</a>
             <br>
-            My roommate and guider to MSRA
+            My roommate and guider to MSRA。
         </p>
     </li>
     <li>
         <p>
             <a href="https://www.linkedin.com/in/ziteng-liu-602b3410a/">Ziteng Liu</a>
             <br>
-            My roommate and open the door to physics and chemsitry
+            My roommate and open the door to physics and chemsitry。
         </p>
     </li>
 </ul>
@@ -104,7 +104,7 @@ There is no way for me to have any achievements without your help. Sincerely tha
 
 
 
-## Best group
+## Best group on my research road.
 <ul>
     <li>
         <p>

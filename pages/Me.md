@@ -7,7 +7,7 @@ I am current a final-year undergraduate student of Elite Program, Software Acade
 
 My current research interests lies primarily in understanding the blackbox of DNN especially the mechanism of GNN. Revolving on this ultimate goal, I mainly study the following topics : **Fundamental Research on Deep Learning** (Initialization strategy, Regularization method), **Understanding how to use GNN in different scenarios**. 
 
-Currently, I am actively particpiate in the **new** AI community: [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg) which is organized by my good friends: [Libo Qin]([Libo Qin - Home Page (hit.edu.cn)](http://ir.hit.edu.cn/~lbqin/)), Qian Liu, Jianan Zhao, Xiangyu Zhao. Welcome to become a member of our community! Also welcome to my visit my Chinese blog at [Zhihu](https://huanhuqueyue.github.io/MyBlog/[https://scholar.google.com/citations?user=3XUANDAAAAAJ&hl=en&oi=ao) with more than . 
+Currently, I am actively particpiating in the **new** AI community: [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg) which is organized by my good friends: [Libo Qin]([Libo Qin - Home Page (hit.edu.cn)](http://ir.hit.edu.cn/~lbqin/)), Qian Liu, Jianan Zhao, Xiangyu Zhao. Welcome to become a member of our community! Also welcome to my visit my Chinese blog at [Zhihu](https://huanhuqueyue.github.io/MyBlog/[https://scholar.google.com/citations?user=3XUANDAAAAAJ&hl=en&oi=ao) with more than 1600 followers. 
 
 
 
