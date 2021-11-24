@@ -9,12 +9,6 @@ There is no way for me to have any achievements without your help. Sincerely tha
 <ul>
     <li>
         <p>
-            <a href="http://www.cse.msu.edu/~tangjili/">Jiliang Tang</a><br>
-            My incoming PhD supervisor.
-        </p>
-    </li>
-    <li>
-        <p>
             <a href="https://www.microsoft.com/en-us/research/people/ludu/">Lun Du</a>: Researcher in MSRA<br>
             Mentor? No. More like a good brother can talk freely from the research to everday life.
         </p>
@@ -118,13 +112,6 @@ There is no way for me to have any achievements without your help. Sincerely tha
             <a href="https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/">Data Analysis team, Data Knowledge Intelligence Group</a>, Microsoft Research Asia
             <br>
               The best MSRA team founded by Han Shi. The first time I met so many interesting P.hD. students. Each meal with you is with great fun. Time with you is the most beautiful advanture in my life time.
-        </p>
-    </li>
-    <li>
-        <p>
-            <a href="http://dse.cse.msu.edu/">Data Science and Engineering Lab</a>, Michigan State University
-            <br>
-               My incoming PhD group. Looking forward to it!
         </p>
     </li>
 </ul>
