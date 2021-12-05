@@ -3,7 +3,28 @@ permalink: /publications/
 title: Publications
 layout: single
 ---
-  
+
+# Pre-print
+<ul>
+    <li>
+      <p>
+        <strong>Source Free Graph Unsupervised Domain Adaptation </strong><br>
+        <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Han Shi, Dongmei Zhang <br>
+        [<a href="https://arxiv.org/pdf/2108.06530.pdf">pdf</a>]
+      </p>
+    </li>
+    <li>
+      <p>
+        <strong>Neuron with Steady Response Leads to Better Generalization</strong><br>
+        Qiang Fu*, Lun Du*,<strong>Haitao Mao*</strong>, Xu Chen, Wei Fang, Han Shi, Dongmei Zhang <br>
+        (first student author)
+        [<a href="https://arxiv.org/pdf/2111.15414.pdf">pdf</a>]
+      </p>
+    </li>
+</ul>
+
+
+# Conference Paper
 <ul>
     <li>
       <p>
