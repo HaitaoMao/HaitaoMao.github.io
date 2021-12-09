@@ -31,9 +31,9 @@ So the most important characteristics in DA are as follows:
 
 - Source domain are well-labeled and target domain are unlabeled
 - **Difference**: There exists the domain gap between source and target domain.  
-  - covariate shift(marginal distribution shift): the most common domain gap where <span> $ P(X_s) \ne P(X_t) $ and $ P(Y|X_s) = P(Y|X_t) $ </span> which is the prior knowledge **we assume** in the proof of this paper.
-  - target shift (conditional distribution shift):  <span> $ P(X_s) = P(X_t) $  and $ P(Y|X_s) \ne P(Y|X_t)$</span>
-  - Joint distribution shift:  $P(X_s) \ne P(X_t)$ and <span>$P(Y|X_s) \ne P(Y|X_t)$</span> which is the most difficult one with no assumption.
+  - covariate shift(marginal distribution shift): the most common domain gap where `$ P(X_s) \ne P(X_t) $`and `$ P(Y|X_s) = P(Y|X_t) $`  which is the prior knowledge **we assume** in the proof of this paper.
+  - target shift (conditional distribution shift):  `$ P(X_s) = P(X_t) $`  and `$ P(Y|X_s) \ne P(Y|X_t)$`
+  - Joint distribution shift:  `$P(X_s) \ne P(X_t)$` and `$P(Y|X_s) \ne P(Y|X_t)$` which is the most difficult one with no assumption.
 - **Related**: The task is related, which means labels in the source domain and the labels in the target domain **are the same**. Here we need to clarify its difference between the recent popular pretrain (specifically talking about graph). The key is related
   - Methods in graph pretrain first use unlabeled graph to learn a good representation for different tasks, then they use the labeled data for the specific downstream task to finetune the parameters. The key of pretrain is **enhances a model with labeled data by leveraging additional knowledge from unlabeled data**.
   - Methods in the proposed DA first use labeled source graph to learn a discriminative model and adapt it to the **unlabeled** target graph. With no label in the target domain, it is a harder problem than pretraining. The key of DA  is an unlabeled classification problem by leveraging the relation information between node features and labels learned from a labeled source data.  
@@ -328,11 +328,11 @@ After so many efforts to introduce the domain adaptation, now it is the time to 
 
 We first give some mathematics definitions on graph and our task for a clear and elegant expression.
 
-A graph is defined as: $G=(V,E,X,Y)$, $V=(v_1,\cdots, v_n)$ is the node set with $n$ nodes and $E$ is the edge set. $X$ is the node feature where $Y$ is the node label.  
+A graph is defined as: `$G=(V,E,X,Y)$`, `$V=(v_1,\cdots, v_n)$` is the node set with $n$ nodes and $E$ is the edge set. $X$ is the node feature where $Y$ is the node label.  
 
-The model we used can be expressed as a conditional probablity $ \mathcal{Q} (Y|G ; \theta)$.
+The model we used can be expressed as a conditional probablity `$ \mathcal{Q} (Y|G ; \theta)$`.
 
-To better express the model for each node and considering about the design of the GNN, we decompose the model as: $\mathcal{Q}(Y|G;\theta)={ \prod_{v_i \in V}q(y_i|x_i,\mathcal{N}_i;\theta)}$ where $\mathcal{N}_i$ is the neighboorhood of the node $i$, $q$ is the conditional probability for each node.
+To better express the model for each node and considering about the design of the GNN, we decompose the model as: `$\mathcal{Q}(Y|G;\theta)={ \prod_{v_i \in V}q(y_i|x_i,\mathcal{N}_i;\theta)}$` where `$\mathcal{N}_i$` is the neighboorhood of the node $i$, $q$ is the conditional probability for each node.
 
 Then the **unsupervised graph domain adaptation UGDA** can be expressed in a mathematic form.
 
@@ -464,11 +464,11 @@ Then the problem is that how to define local neighbor and the node with smae str
 
 
 The mathmatical formulation of the SC loss is :
-$$
+`$$
 \mathcal{L}_{SC} =  \lambda_1  \sum_{(v_i, v_j) \in \mathbf{E_t}} \log J_{ij}  -  \epsilon \cdot \mathbb{E}_{v_n \sim p_{n}} [\log J_{in} ]
         + \lambda_2 \sum_{(v_i, v_j) \in \mathbf{\mathcal{S}_t}} \log J_{ij} - \epsilon \cdot \mathbb{E}_{v_n \sim p_{n}} \left[\log J_{in}\right]
-$$
-where $J_{ij} = \sigma(\left\langle\!\mathbf{\hat{y}_t^{(i)}}, \mathbf{\hat{y}_t^{(j)}}\!\right\rangle)$, $p_{n}$ and $p_{n}'$ are the distributions for negative samples, and $\epsilon$ is the number of negative samples. We use uniform distributions for $p_{n}$ and $p_{n}'$ while they can be adjusted if needed. $\epsilon$ is set as 5 in our experiments. In all our experiments except for the hyperparameter sensitive analysis, $\lambda_1$ and $\lambda_2$ are set to the default value 1.0. 
+$$`
+where `$J_{ij} = \sigma(\left\langle\!\mathbf{\hat{y}_t^{(i)}}, \mathbf{\hat{y}_t^{(j)}}\!\right\rangle)$`, `$p_{n}$ and $p_{n}'$` are the distributions for negative samples, and $\epsilon$ is the number of negative samples. We use uniform distributions for `$p_{n}$` and $p_{n}'$` while they can be adjusted if needed. $\epsilon$ is set as 5 in our experiments. In all our experiments except for the hyperparameter sensitive analysis, `$\lambda_1$` and `$\lambda_2$` are set to the default value 1.0. 
 
 
 
