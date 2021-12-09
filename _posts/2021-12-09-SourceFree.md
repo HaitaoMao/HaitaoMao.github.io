@@ -78,7 +78,7 @@ The intuition of the instance-based methods is that we can identify the importan
 
 **problem Setting:**
 
-<div>Given $D_S= \left \{ x_{S_i}, y_{S_i} \right \}^{n_S}_{i=1}$, $D_T=\left \{ x_{T_i} \right \}^{n_T}_{i=1}$, </div>
+Given `$D_S= \left \{ x_{S_i}, y_{S_i} \right \}^{n_S}_{i=1}$, $D_T=\left \{ x_{T_i} \right \}^{n_T}_{i=1}$`
 
 The goal is to learn $f_T$, $s.t. \sum_i \epsilon (f_T(x_{T_i}),y_{T_i}) $ is small
 
@@ -86,7 +86,7 @@ where $y_{T_i}$  is unknown.
 
 **The assumptions are:**
 
-<span>
+<span> 
 $ \mathcal{Y}_{S}=\mathcal{Y}_{T},$  and $P(Y_S|X_S)=P(Y_T|X_T) $
 </span>
 $\mathcal{X}_{S}=\mathcal{X}_{T},$
