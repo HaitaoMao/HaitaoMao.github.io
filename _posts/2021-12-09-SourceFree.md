@@ -1,7 +1,7 @@
 ---
 title: Source Free Unsupervised Graph Domain Adaptation
 layout: category
-permalink: /categories/edge-case/
+permalink: /categories/sourcefree/
 taxonomy: Source Free Unsupervised Graph Domain Adaptation
 ---
 # Source Free Unsupervised Graph Domain Adaptation
