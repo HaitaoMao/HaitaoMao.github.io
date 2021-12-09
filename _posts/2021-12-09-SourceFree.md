@@ -32,8 +32,8 @@ So the most important characteristics in DA are as follows:
 - Source domain are well-labeled and target domain are unlabeled
 - **Difference**: There exists the domain gap between source and target domain.  
   - covariate shift(marginal distribution shift): the most common domain gap where <span> $ P(X_s) \ne P(X_t) $ and $ P(Y|X_s) = P(Y|X_t) $ </span> which is the prior knowledge **we assume** in the proof of this paper.
-  - target shift (conditional distribution shift):  `$ P(X_s) = P(X_t) $` and `$ P(Y|X_s) \ne P(Y|X_t)$`
-  - Joint distribution shift:  $P(X_s) \ne P(X_t)$ and `$P(Y|X_s) \ne P(Y|X_t)$` which is the most difficult one with no assumption.
+  - target shift (conditional distribution shift):  <span> $ P(X_s) = P(X_t) $  and $ P(Y|X_s) \ne P(Y|X_t)$</span>
+  - Joint distribution shift:  $P(X_s) \ne P(X_t)$ and <span>$P(Y|X_s) \ne P(Y|X_t)$</span> which is the most difficult one with no assumption.
 - **Related**: The task is related, which means labels in the source domain and the labels in the target domain **are the same**. Here we need to clarify its difference between the recent popular pretrain (specifically talking about graph). The key is related
   - Methods in graph pretrain first use unlabeled graph to learn a good representation for different tasks, then they use the labeled data for the specific downstream task to finetune the parameters. The key of pretrain is **enhances a model with labeled data by leveraging additional knowledge from unlabeled data**.
   - Methods in the proposed DA first use labeled source graph to learn a discriminative model and adapt it to the **unlabeled** target graph. With no label in the target domain, it is a harder problem than pretraining. The key of DA  is an unlabeled classification problem by leveraging the relation information between node features and labels learned from a labeled source data.  
@@ -78,7 +78,7 @@ The intuition of the instance-based methods is that we can identify the importan
 
 **problem Setting:**
 
-Given `$D_S= \left \{ x_{S_i}, y_{S_i} \right \}^{n_S}_{i=1}$, $D_T=\left \{ x_{T_i} \right \}^{n_T}_{i=1}$`
+Given  `$D_S= \left \{ x_{S_i}, y_{S_i} \right \}^{n_S}_{i=1}$, $D_T=\left \{ x_{T_i} \right \}^{n_T}_{i=1}$`
 
 The goal is to learn $f_T$, $s.t. \sum_i \epsilon (f_T(x_{T_i}),y_{T_i}) $ is small
 
