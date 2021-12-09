@@ -74,7 +74,7 @@ Revolving on the above goal to mitagate the domain gap, we first give some tradi
 
 #### Instance-based transfer learning approaches
 
-The intuition of the instance-based methods is that we can identify the importance of an source example is in the feature distribution of the target domain. (这句话感觉意思写的不是很明确)
+The intuition of the instance-based methods is that we can identify the importance of an source example is in the feature distribution of the target domain. 
 
 **problem Setting:**
 
@@ -163,7 +163,7 @@ $\phi$ is the kernel function (similar with the kernel in SVM), the sample are p
 
 minimize the distance between the two distribution. 
 
-**Hilbertt-Schmidt Independence Criterion** (感觉在这个位置没有很好的建立和后面问题的关联性)
+**Hilbertt-Schmidt Independence Criterion** 
 
 With the distance metric, I think we can find the dependence with the metric. It computes the Hilbert-Schmidt norm of a cross-covariance perator in the RKHS. The more depedent feature is, the more neccerary we should preserve it.
 $$
