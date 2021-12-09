@@ -338,7 +338,7 @@ Then the **unsupervised graph domain adaptation UGDA** can be expressed in a mat
 
 So the inputs are a labeled source graph $G_s=(V_S,E_S,X_S,Y_s)$ and an unlabeled target graph $G_T=(V_T,E_T,X_T)$.
 
-The output is $\mathcal{Q}(Y|G;\theta_t)$ a model with good performance on the target domain.
+The output is `$\mathcal{Q}(Y|G;\theta_t)$` a model with good performance on the target domain.
 
 
 
@@ -362,11 +362,11 @@ The entire training framework will be the following two stages:
 
 - The **unaccessible** source training procedure
   - input: labeled source graph $G_S=(V_S,E_S,X_S,Y_s)$
-  - output: a well-trained source model: $\mathcal{Q}(Y|G;\theta_S)$
+  - output: a well-trained source model: `$\mathcal{Q}(Y|G;\theta_S)$`
   - **Notice that:** this procedure is totally **unaccessible** in the SFUGDA scenario. We can not determine neither the model architecture nor what optimizer to use. So it is hard to define what is a well-trained model. In the experiment of this paper, we think the well-trained model is the model with the best validation performance on the source domain.
 - The adaptation procedure.
-  - input: unlabeled target graph $G_T=(V_T,E_T,X_T)$  well-trained source model $\mathcal{Q}(Y|G;\theta_S)$
-  - output: well-trained target model $\mathcal{Q}(Y|G;\theta_T)$
+  - input: unlabeled target graph `$G_T=(V_T,E_T,X_T)$`  well-trained source model `$\mathcal{Q}(Y|G;\theta_S)$`
+  - output: well-trained target model `$\mathcal{Q}(Y|G;\theta_T)$`
   - **Notice that:** as we cannot decide the model architecture, so the algorithm in the adaptation procedure cannot have any specific design to particular model component like BatchNorm or WeightNorm. In other word, the algorithm should be **model agnostic**
 
 
@@ -468,7 +468,7 @@ The mathmatical formulation of the SC loss is :
 \mathcal{L}_{SC} =  \lambda_1  \sum_{(v_i, v_j) \in \mathbf{E_t}} \log J_{ij}  -  \epsilon \cdot \mathbb{E}_{v_n \sim p_{n}} [\log J_{in} ]
         + \lambda_2 \sum_{(v_i, v_j) \in \mathbf{\mathcal{S}_t}} \log J_{ij} - \epsilon \cdot \mathbb{E}_{v_n \sim p_{n}} \left[\log J_{in}\right]
 $$`
-where `$J_{ij} = \sigma(\left\langle\!\mathbf{\hat{y}_t^{(i)}}, \mathbf{\hat{y}_t^{(j)}}\!\right\rangle)$`, `$p_{n}$ and $p_{n}'$` are the distributions for negative samples, and $\epsilon$ is the number of negative samples. We use uniform distributions for `$p_{n}$` and $p_{n}'$` while they can be adjusted if needed. $\epsilon$ is set as 5 in our experiments. In all our experiments except for the hyperparameter sensitive analysis, `$\lambda_1$` and `$\lambda_2$` are set to the default value 1.0. 
+where `$J_{ij} = \sigma(\left\langle\!\mathbf{\hat{y}_t^{(i)}}, \mathbf{\hat{y}_t^{(j)}}\!\right\rangle)$`, `$p_{n}$ and $p_{n}'$` are the distributions for negative samples, and $\epsilon$ is the number of negative samples. We use uniform distributions for `$p_{n}$` and `$p_{n}'$` while they can be adjusted if needed. $\epsilon$ is set as 5 in our experiments. In all our experiments except for the hyperparameter sensitive analysis, `$\lambda_1$` and `$\lambda_2$` are set to the default value 1.0. 
 
 
 
