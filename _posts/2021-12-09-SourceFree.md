@@ -86,7 +86,7 @@ where $y_{T_i}$  is unknown.
 
 **The assumptions are:**
 
-$\mathcal{Y}_{S}=\mathcal{Y}_{T},$ and $P(Y_S|X_S)=P(Y_T|X_T)$
+$ \mathcal{Y}_{S}=\mathcal{Y}_{T},$  and $P(Y_S|X_S)=P(Y_T|X_T) $
 
 $\mathcal{X}_{S}=\mathcal{X}_{T},$
 
@@ -115,7 +115,6 @@ $$
 
 Denote that $\beta(x)=\frac{P_T(x)}{P_S(x)}$ which can be viewed as the weight on each instance which describe the probability of the souce example appearing in the target domain to reduce the domain shift. 
 
-#### 
 
 #### Feature-based Transfer Learning Approaches
 
@@ -330,9 +329,9 @@ We first give some mathematics definitions on graph and our task for a clear and
 
 A graph is defined as: $G=(V,E,X,Y)$, $V=(v_1,\cdots, v_n)$ is the node set with $n$ nodes and $E$ is the edge set. $X$ is the node feature where $Y$ is the node label.  
 
-The model we used can be expressed as a conditional probablity $\mathcal{Q}(Y|G;\theta)$.
+The model we used can be expressed as a conditional probablity $ \mathcal{Q} (Y|G ; \theta)$.
 
-To better express the model for each node and considering about the design of the GNN, we decompose the model as: $\mathcal{Q}(Y|G;\theta)={\textstyle \prod_{v_i \in V}q(y_i|x_i,\mathcal{N}_i;\theta)}$ where $\mathcal{N}_i$ is the neighboorhood of the node $i$, $q$ is the conditional probability for each node.
+To better express the model for each node and considering about the design of the GNN, we decompose the model as: $\mathcal{Q}(Y|G;\theta)={ \prod_{v_i \in V}q(y_i|x_i,\mathcal{N}_i;\theta)}$ where $\mathcal{N}_i$ is the neighboorhood of the node $i$, $q$ is the conditional probability for each node.
 
 Then the **unsupervised graph domain adaptation UGDA** can be expressed in a mathematic form.
 
@@ -466,7 +465,7 @@ Then the problem is that how to define local neighbor and the node with smae str
 The mathmatical formulation of the SC loss is :
 $$
 \mathcal{L}_{SC} =  \lambda_1  \sum_{(v_i, v_j) \in \mathbf{E_t}} \log J_{ij}  -  \epsilon \cdot \mathbb{E}_{v_n \sim p_{n}} [\log J_{in} ]
-        + \lambda_2 \sum_{(v_i, v_j) \in \mathbf{\mathcal{S}_t}} \log J_{ij} - \epsilon \cdot \mathbb{E}_{v_n \sim p_{n}'} \left[\log J_{in}\right]
+        + \lambda_2 \sum_{(v_i, v_j) \in \mathbf{\mathcal{S}_t}} \log J_{ij} - \epsilon \cdot \mathbb{E}_{v_n \sim p_{n}} \left[\log J_{in}\right]
 $$
 where $J_{ij} = \sigma(\left\langle\!\mathbf{\hat{y}_t^{(i)}}, \mathbf{\hat{y}_t^{(j)}}\!\right\rangle)$, $p_{n}$ and $p_{n}'$ are the distributions for negative samples, and $\epsilon$ is the number of negative samples. We use uniform distributions for $p_{n}$ and $p_{n}'$ while they can be adjusted if needed. $\epsilon$ is set as 5 in our experiments. In all our experiments except for the hyperparameter sensitive analysis, $\lambda_1$ and $\lambda_2$ are set to the default value 1.0. 
 
