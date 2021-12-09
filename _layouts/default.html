@@ -25,6 +25,32 @@
     <script type="text/javascript" id="MathJax-script" async
       src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
     </script>
+    <script type="text/javascript">
+      function yuuki_query_all_nodes_as_array(selector) {
+        return Array.prototype.slice.call(document.querySelectorAll(selector), 0);
+      }
+      
+      function replace_code_to_span(node) {
+        is_inline_math = /^\$(.*)\$$/.exec(node.textContent);
+        is_display_math = /^\$\$(.*)\$\$$/ms.exec(node.textContent) ||
+                /^\\begin\{.+\}(.*)\\end\{.+\}/ms.exec(node.textContent);
+        if (is_inline_math || is_display_math) {
+          var parent = node.parentNode;
+          var replacement = document.createElement('span');
+          if (is_display_math) {
+            replacement.class = "yuuki_mathjax_inline"
+          } else {
+            replacement.class = "yuuki_mathjax_display"
+          }
+          replacement.textContent = node.textContent;
+          parent.replaceChild(replacement, node);
+        }
+      }
+      
+      document.addEventListener('DOMContentLoaded', function() {
+        yuuki_query_all_nodes_as_array("code").map(replace_code_to_span);
+      });
+      </script>
     <style>
       * {
         font-family: 'PT Sans Narrow',sans-serif;
