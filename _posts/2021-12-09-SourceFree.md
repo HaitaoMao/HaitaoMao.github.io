@@ -362,7 +362,7 @@ The entire training framework will be the following two stages:
 
 - The **unaccessible** source training procedure
   - input: labeled source graph $G_S=(V_S,E_S,X_S,Y_s)$
-  - output: a well-trained source model: `$\mathcal{Q}(Y|G;\theta_S)$`
+  - output: a well-trained source model: <span>$\mathcal{Q}(Y|G;\theta_S)$</span>
   - **Notice that:** this procedure is totally **unaccessible** in the SFUGDA scenario. We can not determine neither the model architecture nor what optimizer to use. So it is hard to define what is a well-trained model. In the experiment of this paper, we think the well-trained model is the model with the best validation performance on the source domain.
 - The adaptation procedure.
   - input: unlabeled target graph `$G_T=(V_T,E_T,X_T)$`  well-trained source model `$\mathcal{Q}(Y|G;\theta_S)$`
