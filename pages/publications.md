@@ -11,6 +11,7 @@ layout: single
         <strong>Source Free Graph Unsupervised Domain Adaptation </strong><br>
         <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Han Shi, Dongmei Zhang <br>
         [<a href="https://arxiv.org/pdf/2112.00955.pdf">pdf</a>]
+        [<a href="https://huanhuqueyue.github.io/personal-page/categories/sourcefree/">blog</a>]
       </p>
     </li>
     <li>
