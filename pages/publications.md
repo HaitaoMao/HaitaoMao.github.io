@@ -33,7 +33,8 @@ layout: single
         <strong>Haitao Mao*</strong>, Xu Chen*, Qiang Fu*, Lun Du*, Han Shi, Dongmei Zhang <br>
         [<a href="https://arxiv.org/pdf/2108.06530.pdf">pdf</a>]
         [<a href="https://github.com/huanhuqueyue/CIKM-IBCI">github</a>]
-        [<a href="https://huanhuqueyue.github.io/personal-page/categories/edge-case/">blog</a>]
+        [<a href="https://huanhuqueyue.github.io/personal-page/categories/neuronCampaign/">blog</a>]
+        [<a href="https://github.com/huanhuqueyue/personal-page/blob/master/_files/AITime%20CIKM21%20-%20Neuron%20Campaign.pdf">AI TIME presentation</a>]
       </p>
     </li>
 </ul>
