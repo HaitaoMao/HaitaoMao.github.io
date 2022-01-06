@@ -34,7 +34,11 @@ layout: single
         [<a href="https://arxiv.org/pdf/2108.06530.pdf">pdf</a>]
         [<a href="https://github.com/huanhuqueyue/CIKM-IBCI">github</a>]
         [<a href="https://huanhuqueyue.github.io/personal-page/categories/neuronCampaign/">blog</a>]
-        [<a href="https://github.com/huanhuqueyue/personal-page/blob/master/_files/AITime%20CIKM21%20-%20Neuron%20Campaign.pdf">AI TIME presentation</a>]
+        [<a href="https://github.com/huanhuqueyue/personal-page/blob/master/_files/Init_poster.pdf">Offical Poster</a>]
+        [<a href="https://github.com/huanhuqueyue/personal-page/blob/master/_files/CIKM21_Neuron_Campaign_for_Initialization_Guided_by_Information_Bottleneck_Theory.pdf"> Offical Slides</a>]
+        [<a href="https://github.com/huanhuqueyue/personal-page/blob/master/_files/Init_video.mp4">Offical Poster</a>]
+        [<a href="https://github.com/huanhuqueyue/personal-page/blob/master/_files/AITime%20CIKM21%20-%20Neuron%20Campaign.pdf">AI TIME presentation Slides</a>]
+        [<a href="https://www.bilibili.com/video/BV1fL411V7FP?spm_id_from=333.1007.top_right_bar_window_history.content.click">AI TIME Presentation Video</a>]
       </p>
     </li>
 </ul>
