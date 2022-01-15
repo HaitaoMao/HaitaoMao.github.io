@@ -36,7 +36,7 @@ Currently, I am actively particpiating in a **new** AI community: [MLNLP](https:
 - Adaptative learning on graph-structured data
 - Fundamental Research on Deep Neuron Network especially Graph Neural Network (i.e. initialization strategy, regularization methods)
 - Financial Knowledge Graph
-- Rethinking how to use GNN in different tasks
+
 
 
 ### Familiar Research Topic
