@@ -97,7 +97,7 @@ The compatibility matrix is defined as follows：
 $$
 \mathbf{H}=\left(\mathbf{Y}^{\top} \mathbf{A} \mathbf{Y}\right) \oslash\left(\mathbf{Y}^{\top} \mathbf{A} \mathbf{E}\right)
 $$
-$Y\in \mathbb{R}^{|\mathcal{V}|\times |\mathcal{Y}|}$   is a class indicator matrix.  $|\mathcal{V}|\times |\mathcal{Y}|$ is a $|\mathcal{V}|\times |\mathcal{Y}|$ all-ones matrix.  $\oslash$ is Hadamard (element-wise division), In the $H$ matrix, the diagonal elements measure the homophily.
+`$Y\in \mathbb{R}^{|\mathcal{V}|\times |\mathcal{Y}|}$`   is a class indicator matrix.  `$|\mathcal{V}|\times |\mathcal{Y}|$` is a `$|\mathcal{V}|\times |\mathcal{Y}|$` all-ones matrix.  `$\oslash$` is Hadamard (element-wise division), In the `$H$` matrix, the diagonal elements measure the homophily.
 
 #### Class-wise measurement
 
@@ -176,7 +176,7 @@ The key is that **how to generate the heterophilous edge?**
 
 ![img](https://pica.zhimg.com/80/v2-bc04fa5d9a83591190c3de90ed0cd5cd_720w.png)
 
-The key is to add synthetic,cross label edge s that connect nodes with different labels. where $\gamma$ is the noise probability, $D_c, c \in \mathcal{C}$ is a discrete neighborhood distribution for each class $c \in \mathcal{C}$, which has been predefined.  For example, the neighborhood distribution for class $0$ is: $D_0 = catrgorical([0, 1/2, 0, 0, 0, 0, 1/2])$. Notice that this probability is predefined. This leads to quite interesting experiments result. Please refer to the original paper. 
+The key is to add synthetic,cross label edge s that connect nodes with different labels. where `$\gamma$` is the noise probability, `$D_c, c \in \mathcal{C}$` is a discrete neighborhood distribution for each class `$c \in \mathcal{C}$`, which has been predefined.  For example, the neighborhood distribution for class `$0$` is: `$D_0 = catrgorical([0, 1/2, 0, 0, 0, 0, 1/2])$`. Notice that this probability is predefined. This leads to quite interesting experiments result. Please refer to the original paper. 
 
 The detailed procedure can be seen in Is Homophily a Necessity for Graph Neural Networks?
 
@@ -185,8 +185,8 @@ The detailed procedure can be seen in Is Homophily a Necessity for Graph Neural 
 CSBM(contextual stochastic block model) is a graph generator, which is a generative model for random graphs. It has been widely used in graph clustering. It has such feature:
 
 - node features are Gaussian random vectors, where the mean of the Gaussian depends on the community assignment.
-- The difference of the means is controlled by a parameter $\mu$
-- the difference of the edge densities in the communities and between the communities is controlled by a parameter $\lambda$.  $\lambda>0$ correspond to homophilc graphs.
+- The difference of the means is controlled by a parameter `$\mu$`
+- the difference of the edge densities in the communities and between the communities is controlled by a parameter `$\lambda$`.  `$\lambda>0$` correspond to homophilc graphs.
 
 We will have more detailed introduction about it later
 
@@ -204,14 +204,14 @@ arg \min_F \mathcal{L} = ||F-S||^2_F + c \cdot tr(F^TLF)
 $$
 The design space first focuses on the first term, which means to preserve the original feature. Correct, if the heterphoily neighbor may disturb it. **Adaptive self-loop is necceary**
 
-Then for the second term  with smoothness assumption, the questions is raised: Is smoothness hurt the distuiguishbility?  From the frequency perspective, low signal may be good, however, if in the optimal case $\lambda=0$, much information is lose in this procedure.
+Then for the second term  with smoothness assumption, the questions is raised: Is smoothness hurt the distuiguishbility?  From the frequency perspective, low signal may be good, however, if in the optimal case `$\lambda=0$`, much information is lose in this procedure.
 
 Then the solution will be:
 
 - Instead of node similarity, we want to find the neighbor difference, or can be called high frequency signal
 - find more diverse neighbor to inlarge receptive field for more information
-  - Conduct more adjacent matrixes than $L$ for more useful signal. For example KNN graph,, structure-graph.
-  - build deeper GNN and select the useful neighbor, In other word $tr(F^TLF)$ becomes $tr(F^T (\alpha_1 L^1+\alpha_2 L^2+\alpha_3 L^3)F)$. May be the third order neighbor can help become a homophily graph. **In fact, oversmoothness and heterphily problem are just the two sides of a coin**
+  - Conduct more adjacent matrixes than `$L$` for more useful signal. For example KNN graph,, structure-graph.
+  - build deeper GNN and select the useful neighbor, In other word `$tr(F^TLF)$` becomes `$tr(F^T (\alpha_1 L^1+\alpha_2 L^2+\alpha_3 L^3)F)$`. May be the third order neighbor can help become a homophily graph. **In fact, oversmoothness and heterphily problem are just the two sides of a coin**
 
 
 
@@ -247,13 +247,13 @@ The solution of SimP-GCN is the following three steps:
 $$
 \mathbf{P}^{(l)}=\mathrm{s}^{(l)} * \tilde{\mathbf{D}}^{-1 / 2} \tilde{\mathrm{A}} \tilde{\mathrm{D}}^{-1 / 2}+\left(1-\mathrm{s}^{(l)}\right) * \mathrm{D}_{f}^{-1 / 2} \mathbf{A}_{f} \mathbf{D}_{f}^{-1 / 2}
 $$
-where $\mathbf{P}^{(l)}$ is the propogation matrix, KNN adjacent $A_f$ is defined by feature cosine similarity, select the top K similar nodes as neighborhood.
+where `$\mathbf{P}^{(l)}$` is the propogation matrix, KNN adjacent `$A_f$` is defined by feature cosine similarity, select the top K similar nodes as neighborhood.
 
 The adaptive combination score is learned as:
 $$
 \mathbf{s}^{(l)}=\sigma\left(\mathbf{H}^{(l-1)} \mathbf{W}_{s}^{(l)}+b_{s}^{(l)}\right)
 $$
-where $\mathbf{W}_{s}^{(l)} \in \mathbb{R}^{d^{(l-1)} \times 1}$
+where `$\mathbf{W}_{s}^{(l)} \in \mathbb{R}^{d^{(l-1)} \times 1}$`
 
 **Adaptive self-loop** as
 $$
@@ -263,13 +263,13 @@ $$
 $$
 K_{i}^{(l)}=\mathbf{H}_{i}^{(l-1)} \mathbf{W}_{K}^{(l)}+b_{K}^{(l)}
 $$
-where $\mathbf{W}_{K}^{(l)} \in \mathbb{R}^{d^{(l-1)} \times 1}$
+where `$\mathbf{W}_{K}^{(l)} \in \mathbb{R}^{d^{(l-1)} \times 1}$`
 
 **SSL task** to preserve the original node feature similarity
 $$
 \mathcal{L}_{\text {self }}(\mathbf{A}, \mathbf{X})=\frac{1}{|\mathcal{T}|} \sum_{\left(v_{i}, v_{j}\right) \in \mathcal{T}}\left\|f_{w}\left(\mathbf{H}_{i}^{(l)}-\mathbf{H}_{j}^{(l)}\right)-\mathrm{S}_{i j}\right\|^{2}
 $$
-where $S_{ij}$ is the cosine node feature similarity between node i and j, SSL is a regression to learn original feature similarity and dissimilarity.
+where `$S_{ij}$` is the cosine node feature similarity between node i and j, SSL is a regression to learn original feature similarity and dissimilarity.
 
 #### H2GCN: Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs
 
@@ -285,7 +285,7 @@ They point that combine is better for generalization theorical.
 
 Theoritical Jusfiction is that 
 
-> Consider a graph G without self-loops with node features $x_v = onehot(y_v)$ for each node $v$, and an equal number of nodes per class $y ∈ Y$ in the training set $\mathcal{T}_V$ . Also assume that all nodes in $T_V$ have degree d, and proportion h of their neighbors belong to the same class, while proportion $\frac{1−h} {|Y|−1} $of them belong to any other class (uniformly). Then for $h < \frac{1−|Y|+2d}{ 2|Y|d}$ , a simple GCN layer formulated as $(A + I)XW$ is less robust, i.e., misclassifies a node for smaller train/test data deviations, than a $AXW $layer that separates the ego- and neighbor-embeddings
+> Consider a graph G without self-loops with node features `$x_v = onehot(y_v)$` for each node `$v$`, and an equal number of nodes per class `$y ∈ Y$` in the training set `$\mathcal{T}_V$`. Also assume that all nodes in `$T_V$` have degree d, and proportion h of their neighbors belong to the same class, while proportion `$\frac{1−h} {|Y|−1} $`of them belong to any other class (uniformly). Then for `$h < \frac{1−|Y|+2d}{ 2|Y|d}$` , a simple GCN layer formulated as `$(A + I)XW$` is less robust, i.e., misclassifies a node for smaller train/test data deviations, than a `$AXW $`layer that separates the ego- and neighbor-embeddings
 
 **TODO: give more intuition on the proof**
 
@@ -321,13 +321,13 @@ $$
 \mathcal{F}_{H}=\varepsilon I - D^{-1 / 2} A D^{-1 / 2}=(\varepsilon-1) I+L
 $$
 
-where $\epsilon$ is the hyperparameter to balance the low and high frequency: amplifies the low-frequency signals and restrains the high-frequency signals.(also the self loop, see below)
+where `$\epsilon$` is the hyperparameter to balance the low and high frequency: amplifies the low-frequency signals and restrains the high-frequency signals.(also the self loop, see below)
 
 **multi channel by self-gate:**
 $$
 \tilde{\mathbf{h}}_{i}=\alpha_{i j}^{L}\left(\mathcal{F}_{L} \cdot \mathbf{H}\right)_{i}+\alpha_{i j}^{H}\left(\mathcal{F}_{H} \cdot \mathbf{H}\right)_{i}=\varepsilon \mathbf{h}_{i}+\sum_{j \in \mathcal{N}_{i}} \frac{\alpha_{i j}^{L}-\alpha_{i j}^{H}}{\sqrt{d_{i} d_{j}}} \mathbf{h}_{j}
 $$
-$\alpha_{i,j}^L+\alpha_{i,j}^H = 1$ as the two part of the signal. It is learned from 
+`$\alpha_{i,j}^L+\alpha_{i,j}^H = 1$` as the two part of the signal. It is learned from 
 $$
 \alpha_{i j}^{G}=\tanh \left(\mathbf{g}^{\top}\left[\mathbf{h}_{i} \| \mathbf{h}_{j}\right]\right)
 $$
@@ -346,7 +346,7 @@ The learning is three step, similar to the former one:
 $$
 H_{L}^{l}=\operatorname{ReLU}\left(H_{\mathrm{LP}} H^{l-1} W_{L}^{l-1}\right), H_{H}^{l}=\operatorname{ReLU}\left(H_{\mathrm{HP}} H^{l-1} W_{H}^{l-1}\right), H_{I}^{l}=\operatorname{ReLU}\left(I H^{l-1} W_{I}^{l-1}\right)
 $$
-where $H_{LP} = A$, $H_{LP} = L$ 
+where `$H_{LP} = A$`, `$H_{LP} = L$` 
 
 **Feature-based weight Learning:** (like self gate )
 $$
@@ -385,7 +385,7 @@ In this paper, they point out
 - pooling and aggregate will compress the structural information of nodes in neighborhoods. Multi channel to preserve the neighbor structure is neccerary.
 - Caputure long-rang on the geometric continuous latent space. (graph embedding technique to conduct new information)
 
-**structural neighborhood** is conducted on different Graph Embedding measurement  like DeepWalk, IsoMap. The neighbor is defined as $\mathcal{N}(v)=\left(\left\{N_{g}(v), N_{s}(v)\right\}, \tau\right)$, each $\tau$ is a geometric graph embdding methods with $N_{s}(v)=\left\{u \mid u \in V, d\left(\boldsymbol{z}_{u}, \boldsymbol{z}_{v}\right)<\rho\right\}$  $\rho$ is hyperparameter predefined.
+**structural neighborhood** is conducted on different Graph Embedding measurement  like DeepWalk, IsoMap. The neighbor is defined as `$\mathcal{N}(v)=\left(\left\{N_{g}(v), N_{s}(v)\right\}, \tau\right)$`, each `$\tau$` is a geometric graph embdding methods with `$N_{s}(v)=\left\{u \mid u \in V, d\left(\boldsymbol{z}_{u}, \boldsymbol{z}_{v}\right)<\rho\right\}$`  `$\rho$` is hyperparameter predefined.
 
 **Bi-level (multi channel) aggregation** is a multi-channel aggregation 
 
@@ -393,13 +393,13 @@ In this paper, they point out
   $$
   \boldsymbol{e}_{(i, r)}^{v, l+1}=p\left(\left\{\boldsymbol{h}_{u}^{l} \mid u \in N_{i}(v), \tau\left(\boldsymbol{z}_{v}, \boldsymbol{z}_{u}\right)=r\right\}\right), \forall i \in\{g, s\}, \forall r \in R
   $$
-  $p$ is a permutation-invariant function like mean aggregation. 
+  `$p$` is a permutation-invariant function like mean aggregation. 
 
 - High-level aggregation (aggregate the multi-channel representation)
   $$
   \boldsymbol{m}_{v}^{l+1}=\underset{i \in\{g, s\}, r \in R}{q}\left(\left(\boldsymbol{e}_{(i, r)}^{v, l+1},(i, r)\right)\right)
   $$
-  $q$ is a pooling operation
+  `$q$` is a pooling operation
 
 - Non-linear transform
 
@@ -420,13 +420,13 @@ The structural distance can be computed as:
 $$
 f_{\tau}(g, h)=f_{\tau-1}(g, h)+\mathcal{D}\left(s\left(\mathcal{N}_{\tau}(g)\right), s\left(\mathcal{N}_{\tau}(h)\right)\right)
 $$
-$S_1$ and $S_2$  are two ordered degree sequences and the distance is computed by DTW.
+`$S_1$` and `$S_2$`  are two ordered degree sequences and the distance is computed by DTW.
 
 The edge weight is computed as 
 $$
 w_{\tau}(g, h)=e^{-f_{\tau}(g, h)}, \quad \tau=0,1, \ldots T
 $$
-which $\tau$ means multi hop neighbor.
+which `$\tau$` means multi hop neighbor.
 
 **Multi channel aggregation:**  
 $$
@@ -455,7 +455,7 @@ This paper want  to go beyond the local aggegation is harmful for disassortative
 $$
 a_{v}=\operatorname{ATTEND}\left(c, z_{v}\right) \in \mathbb{R}, \forall v \in V
 $$
-where $c$ is a calibration vector that is randomly initialized and jointly learned during training. This procedure, make the distance but similar nodes together.
+where `$c$` is a calibration vector that is randomly initialized and jointly learned during training. This procedure, make the distance but similar nodes together.
 
 **Non-local aggregation:**
 
@@ -485,7 +485,7 @@ $$
 $$
 The key on this idea is that: maybe one-hop neighbor is homophily, but the two-hop neighbor is homophily. Just find them. The theoritical proof as follows
 
-> Theorem 2 Consider a graph  $\mathcal{G}$  without self-loops    with label set  $\mathcal{Y}$ , where for each node  v , its neighbors' class labels  $\left\{y_{u}: u \in N(v)\right\}$  are conditionally independent given  $y_{v}$ , and $P\left(y_{u}=\right.   \left.y_{v} \mid y_{v}\right)=h$, $P\left(y_{u}=y \mid y_{v}\right)=\frac{1-h}{|\mathcal{Y}|-1}, \forall y \neq y_{v} $.  Then, the 2 -hop neighborhood  $N_{2}(v)$  for a node  $v$  will always be homophily-dominant in expectation.
+> Theorem 2 Consider a graph  `$\mathcal{G}$`  without self-loops with label set  `$\mathcal{Y}$` , where for each node  v , its neighbors' class labels  `$\left\{y_{u}: u \in N(v)\right\}$`  are conditionally independent given  `$y_{v}$` , and `$P\left(y_{u}=\right.   \left.y_{v} \mid y_{v}\right)=h$`, `$P\left(y_{u}=y \mid y_{v}\right)=\frac{1-h}{|\mathcal{Y}|-1}, \forall y \neq y_{v} $`.  Then, the 2 -hop neighborhood  `$N_{2}(v)$`  for a node  `$v$`  will always be homophily-dominant in expectation.
 
 **Combination of Intermediate representations**
 
@@ -503,7 +503,7 @@ The framework is just like a layer selection:
 
 ![](https://pic3.zhimg.com/80/v2-1c01e94fa819e027afbafa8574d341b9_720w.png)
 
-The GPR at some natural number $K$,  $\sum_{k=0}^{K} \gamma_{k} \tilde{\mathbf{A}}_{\mathrm{sym}}^{k}$ is actual corresponds to lean optimial polynomial graph filter.
+The GPR at some natural number `$K$`,  `$\sum_{k=0}^{K} \gamma_{k} \tilde{\mathbf{A}}_{\mathrm{sym}}^{k}$` is actual corresponds to lean optimial polynomial graph filter.
 
 ![](https://pica.zhimg.com/80/v2-4653fb3515c7a05c416130b11d0c4e50_720w.png)
 
