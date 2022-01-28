@@ -4,6 +4,7 @@ layout: category
 permalink: /categories/A review on heterophily graph/
 taxonomy: A review on heterophily graph
 
+
 ---
 
 # A review on heterophily graph
@@ -50,7 +51,7 @@ and  `$F$` is the eigenvector the corresponding to `$\lambda_1$`, which is an al
 
 **Then how does this smoothness indeed help us to learn a discriminative model? With homophily assumption, it reduce the noise in the same class. In other words, reduce the intra-class variance for easier classification**
 
-Smoothness can also be viewed as the noisy (variance) reduced. Assume that the noise power is the same, defined by its variance `$\sigma^2$`. Then after aggregation, the new variance is `$\sum_{v_j \in N_{v_i}}a_{i,j}^2 \cdot \sigma^2$`. where `$a_{i,j}$` is the aggregator factor. For example, `$a_{i,j} = \frac{1}{||N_{v_i}||}$` for mean aggregetor 
+Smoothness can also be viewed as the noisy (variance) reduced. Assume that the noise power is the same, defined by its variance $\sigma^2$. Then after aggregation, the new variance is $\sum_{v_j \in N_{v_i}}a_{i,j}^2 \cdot \sigma^2$. where $a_{i,j}$ is the aggregator factor. For example, $a_{i,j} = \frac{1}{||N_{v_i}||}$ for mean aggregetor 
 
 
 
@@ -62,11 +63,11 @@ The feature smooth can be measure as
 $$
 \lambda_{f}=\frac{\left\|\sum_{v \in \mathcal{V}}\left(\sum_{v^{\prime} \in \mathcal{N}_{v}}\left(x_{v}-x_{v^{\prime}}\right)\right)^{2}\right\|_{1}}{|\mathcal{E}| \cdot d}
 $$
+感觉这里的understanding还不是很深
 
+If $\lambda_l$ is large, and $\lambda_f$ is small， GNN can work well which reduce the intra-class variance a lot. 
 
-If `$\lambda_l$` is large, and `$\lambda_f$` is small， GNN can work well which reduce the intra-class variance a lot. 
-
-Anyway, whenever `$\lambda_l$` is the small, GNN can help to reduce the noise for smoothness and lower intra-class variance.    
+Anyway, whenever $\lambda_l$ is the small, GNN can help to reduce the noise for smoothness and lower intra-class variance.    
 
 (The explanation is somehow still needed to be proved here. Wait for your discussion)
 
@@ -82,8 +83,8 @@ Basically, when we talk about measurement, it is the label measurement in most c
 
 Then two basic measurement are 
 
-- Edge homophily ratio: `$h=\frac{\left|\left\{(u, v):(u, v) \in \mathcal{E} \wedge y_{u}=y_{v}\right\}\right|}{|\mathcal{E}|}$`
-- Node homophily ratio: `$h= \frac{1}{|\mathcal{V}|}  \sum_{v\in \mathcal{V}} \frac{\left|\left\{(u, v): v \in \mathcal{N}_v \wedge y_{u}=y_{v}\right\}\right|}{d_u}$`
+- Edge homophily ratio: $h=\frac{\left|\left\{(u, v):(u, v) \in \mathcal{E} \wedge y_{u}=y_{v}\right\}\right|}{|\mathcal{E}|}$
+- Node homophily ratio: $h= \frac{1}{|\mathcal{V}|}  \sum_{v\in \mathcal{V}} \frac{\left|\left\{(u, v): v \in \mathcal{N}_v \wedge y_{u}=y_{v}\right\}\right|}{d_u}$
 
 Notice that, please be careful whether your graph is a directed one or indirected one. This setting will definitely influence you performance!
 
