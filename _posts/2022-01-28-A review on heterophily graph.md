@@ -259,13 +259,17 @@ $$
 where $\mathbf{W}_{s}^{(l)} \in \mathbb{R}^{d^{(l-1)} \times 1}$
 
 **Adaptive self-loop** as
+
 $$
 \tilde{\mathbf{P}}^{(l)}=\mathbf{P}^{(l)}+\gamma \mathbf{D}_{K}^{(l)}
 $$
+ 
  $\mathbf{D}_{K}^{(l)} = diag(K_1^{(l)},K_2^{(l)}, K_n^{(l)} )$ , it is learned from 
+
 $$
 K_{i}^{(l)}=\mathbf{H}_{i}^{(l-1)} \mathbf{W}_{K}^{(l)}+b_{K}^{(l)}
 $$
+
 where $\mathbf{W}_{K}^{(l)} \in \mathbb{R}^{d^{(l-1)} \times 1}$
 
 **SSL task** to preserve the original node feature similarity
@@ -288,7 +292,8 @@ They point that combine is better for generalization theorical.
 
 Theoritical Jusfiction is that 
 
-> Consider a graph G without self-loops with node features $x_v = onehot(y_v)$ for each node $v$, and an equal number of nodes per class $y ∈ Y$ in the training set $\mathcal{T}_V$ . Also assume that all nodes in $T_V$ have degree d, and proportion h of their neighbors belong to the same class, while proportion $\frac{1−h} {|Y|−1} $of them belong to any other class (uniformly). Then for $h < \frac{1−|Y|+2d}{ 2|Y|d}$ , a simple GCN layer formulated as $(A + I)XW$ is less robust, i.e., misclassifies a node for smaller train/test data deviations, than a $AXW $layer that separates the ego- and neighbor-embeddings
+
+Consider a graph G without self-loops with node features `$x_v = onehot(y_v)$` for each node `$v$`, and an equal number of nodes per class `$y ∈ Y$` in the training set `$\mathcal{T}_V$` . Also assume that all nodes in `$T_V$` have degree d, and proportion h of their neighbors belong to the same class, while proportion `$\frac{1−h} {|Y|−1} $`of them belong to any other class (uniformly). Then for `$h < \frac{1−|Y|+2d}{ 2|Y|d}$` , a simple GCN layer formulated as `$(A + I)XW$` is less robust, i.e., misclassifies a node for smaller train/test data deviations, than a `$AXW $` layer that separates the ego- and neighbor-embeddings.
 
 **TODO: give more intuition on the proof**
 
@@ -352,16 +357,20 @@ $$
 where $H_{LP} = A$, $H_{LP} = L$ 
 
 **Feature-based weight Learning:** (like self gate )
+
 $$
 \begin{array}{l}
 \tilde{\alpha}_{L}^{l}=\sigma\left(H_{L}^{l} \tilde{W}_{L}^{l}\right), \tilde{\alpha}_{H}^{l}=\sigma\left(H_{H}^{l} \tilde{W}_{H}^{l}\right), \tilde{\alpha}_{I}^{l}=\sigma\left(H_{I}^{l} \tilde{W}_{I}^{l}\right), \tilde{W}_{L}^{l-1}, \tilde{W}_{H}^{l-1}, \tilde{W}_{I}^{l-1} \in \mathbb{R}^{F_{l} \times 1} \\
 {\left[\alpha_{L}^{l}, \alpha_{H}^{l}, \alpha_{I}^{l}\right]=\operatorname{Softmax}\left(\left[\tilde{\alpha}_{L}^{l}, \tilde{\alpha}_{H}^{l}, \tilde{\alpha}_{I}^{l}\right] W_{\text {Mix }}^{l} / T,\right), W_{\text {Mix }}^{l} \in \mathbb{R}^{3 \times 3}, T \in \mathbb{R} \text { is the temperature; }}
 \end{array}
 $$
+
 **multi channel aggregate:**
+
 $$
 H^{l}=\left(\operatorname{diag}\left(\alpha_{L}^{l}\right) H_{L}^{l}+\operatorname{diag}\left(\alpha_{H}^{l}\right) H_{H}^{l}+\operatorname{diag}\left(\alpha_{I}^{l}\right) H_{I}^{l}\right)
 $$
+
 **Notice that more than FAGCN,  this is a framework which can be applied to any GNN model**
 
 
@@ -388,7 +397,9 @@ In this paper, they point out
 - pooling and aggregate will compress the structural information of nodes in neighborhoods. Multi channel to preserve the neighbor structure is neccerary.
 - Caputure long-rang on the geometric continuous latent space. (graph embedding technique to conduct new information)
 
-**structural neighborhood** is conducted on different Graph Embedding measurement  like DeepWalk, IsoMap. The neighbor is defined as $\mathcal{N}(v)=\left(\left\{N_{g}(v), N_{s}(v)\right\}, \tau\right)$, each $\tau$ is a geometric graph embdding methods with $N_{s}(v)=\left\{u \mid u \in V, d\left(\boldsymbol{z}_{u}, \boldsymbol{z}_{v}\right)<\rho\right\}$  $\rho$ is hyperparameter predefined.
+**structural neighborhood** is conducted on different Graph Embedding measurement  like DeepWalk, IsoMap. The neighbor is defined as $\mathcal{N}(v)=(\{N_{g}(v), N_{s}(v)\}, \tau)$, each $\tau$ is a geometric graph embdding methods with $N_{s}(v)=\left\{u \mid u \in V, d\left(\boldsymbol{z}_{u}, \boldsymbol{z}_{v}\right)<\rho\right\}$ ,
+
+$\rho$ is hyperparameter predefined.
 
 **Bi-level (multi channel) aggregation** is a multi-channel aggregation 
 
@@ -448,7 +459,8 @@ $$
 
 #### Query Attention (NL-MLP):Non-Local Graph Neural Networks
 
-This paper want  to go beyond the local aggegation is harmful for disassortative graphs. It is necceary to have **non-local aggregation to capture long-range dependencies(nodes with the same label are distant from each other) with attention query. **
+This paper want  to go beyond the local aggegation is harmful for disassortative graphs. It is necceary to have 
+**non-local aggregation to capture long-range dependencies(nodes with the same label are distant from each other) with attention query. **
 
 ![](https://pic1.zhimg.com/80/v2-60a6a17a0ea1d724c10d92e265159605_720w.png)
 
@@ -488,7 +500,7 @@ $$
 $$
 The key on this idea is that: maybe one-hop neighbor is homophily, but the two-hop neighbor is homophily. Just find them. The theoritical proof as follows
 
-> Theorem 2 Consider a graph  $\mathcal{G}$  without self-loops    with label set  $\mathcal{Y}$ , where for each node  v , its neighbors' class labels  $\left\{y_{u}: u \in N(v)\right\}$  are conditionally independent given  $y_{v}$ , and $P\left(y_{u}=\right.   \left.y_{v} \mid y_{v}\right)=h$, $P\left(y_{u}=y \mid y_{v}\right)=\frac{1-h}{|\mathcal{Y}|-1}, \forall y \neq y_{v} $.  Then, the 2 -hop neighborhood  $N_{2}(v)$  for a node  $v$  will always be homophily-dominant in expectation.
+Theorem 2 Consider a graph  `$\mathcal{G}$`  without self-loops    with label set  `$\mathcal{Y}$` , where for each node  v , its neighbors' class labels  `$\left\{y_{u}: u \in N(v)\right\}$`  are conditionally independent given  `$y_{v}$` , and `$P\left(y_{u}=\right.   \left.y_{v} \mid y_{v}\right)=h$`, `$P\left(y_{u}=y \mid y_{v}\right)=\frac{1-h}{|\mathcal{Y}|-1}, \forall y \neq y_{v} $`.  Then, the 2 -hop neighborhood  `$N_{2}(v)$`  for a node  `$v$`  will always be homophily-dominant in expectation.
 
 **Combination of Intermediate representations**
 
