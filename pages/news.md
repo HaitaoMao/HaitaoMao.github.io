@@ -3,8 +3,9 @@ permalink: /news/
 title: NEWS
 layout: single
 ---
+- 01/2022: It's so glad to serve as the pc of ICML2022
 - 01/2022: I make a one-hour talk in AI TIME community about our paper! see the [video](https://www.bilibili.com/video/BV1fL411V7FP?spm_id_from=333.1007.top_right_bar_window_history.content.click) and [introduction](https://mp.weixin.qq.com/s/PEt7m_iadPGm9puO0S0nHw)
-- 11/2021: Our CIKM2021 paper got the best short paper award! see my blog for more information. [link](https://huanhuqueyue.github.io/personal-page/categories/edge-case/)
+- 11/2021: Our CIKM2021 paper got the best short paper award! see my blog for more information. [link](https://huanhuqueyue.github.io/personal-page/categories/neuronCampaign/)
 - 10/2021: My first internship period ends in MSRA and win the title: **star of tomorrow** (10%)
 - 10/2021: Our CIKM2021 paper got the best short paper nominatation! Wait for our poster representation on the conference.
 - 10/2021: My undergraduate story is reported by the offical account of UESTC and Xinhua website. [link](https://mp.weixin.qq.com/s/CMcPWZ1YTafE8CUQcA619Q)

@@ -5,7 +5,7 @@ layout: single
 ---
 I am current a final-year undergraduate student of Elite Program, Software Academy at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). I have won **The best short paper award in CIKM2021** as the first author (My first paper in the undergraduate year). 
 
-My current research interests lies primarily in understanding the blackbox of DNN especially the mechanism of GNN. Revolving on this ultimate goal, I mainly study the following topics : **Fundamental Research on Deep Learning** (Initialization strategy, Regularization method), **Financial Knowledge Graph**. 
+My current research interests lies primarily in understanding the blackbox of DNN especially the mechanism of GNN. Revolving on this ultimate goal, I mainly study the following topics : **Adaptative learning on graph-structured data**, **Fundamental Research on Deep Learning** (Initialization strategy, Regularization method), **Financial Knowledge Graph**. 
 
 Currently, I am actively particpiating in a **new** AI community: [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg) which is organized by my good friends: Libo Qin, Qian Liu, Jianan Zhao, Xiangyu Zhao. Welcome to become a member of our community! Also welcome to my visit my Chinese blog at [Zhihu](https://www.zhihu.com/people/que-yue-3-77) with more than 1600 followers. 
 
@@ -44,6 +44,10 @@ Currently, I am actively particpiating in a **new** AI community: [MLNLP](https:
 - Knowledge Graph Completion
 - Session Recommendation System
 - Click-Through Rate (CTR)
+
+
+### service
+- ICML 2022
 
 ### Internship
 

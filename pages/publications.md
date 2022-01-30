@@ -4,28 +4,20 @@ title: Publications
 layout: single
 ---
 
-# Pre-print
+
+# Adaptative learning on graph-structured data
 <ul>
     <li>
       <p>
         <strong>Source Free Graph Unsupervised Domain Adaptation </strong><br>
         <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Han Shi, Dongmei Zhang <br>
-        [<a href="https://arxiv.org/pdf/2112.00955.pdf">pdf</a>]
+        Preprint [<a href="https://arxiv.org/pdf/2112.00955.pdf">pdf</a>]
         [<a href="https://huanhuqueyue.github.io/personal-page/categories/sourcefree/">blog</a>]
-      </p>
-    </li>
-    <li>
-      <p>
-        <strong>Neuron with Steady Response Leads to Better Generalization</strong><br>
-        Qiang Fu*, Lun Du*,<strong>Haitao Mao*</strong>, Xu Chen*, Wei Fang*, Han Shi, Dongmei Zhang <br>
-        (first student author) <br>
-        [<a href="https://arxiv.org/pdf/2111.15414.pdf">pdf</a>]
       </p>
     </li>
 </ul>
 
-
-# Conference Paper
+# Fundamental Research on Deep Neuron Network
 <ul>
     <li>
       <p>
@@ -44,4 +36,15 @@ layout: single
         [<a href="https://www.bilibili.com/video/BV1fL411V7FP?spm_id_from=333.1007.top_right_bar_window_history.content.click">AI TIME Presentation Video</a>]
       </p>
     </li>
+    <li>
+      <p>
+        <strong>Neuron with Steady Response Leads to Better Generalization</strong><br>
+        Qiang Fu*, Lun Du*,<strong>Haitao Mao*</strong>, Xu Chen*, Wei Fang*, Han Shi, Dongmei Zhang <br>
+        (first student author) <br>
+        Preprint [<a href="https://arxiv.org/pdf/2111.15414.pdf">pdf</a>]
+      </p>
+    </li>
 </ul>
+
+
+# Financial Knowledge Graph
