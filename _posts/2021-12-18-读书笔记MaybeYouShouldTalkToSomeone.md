@@ -1,10 +1,10 @@
 ---
-title: Maybe you should talk to someone
+title: 读书笔记Maybe you should talk to someone
 layout: category
 permalink: /categories/MayBeYouShould/
 taxonomy: Maybe you should talk to someone
 ---
-# Maybe you should talk to someone
+# 读书笔记Maybe you should talk to someone
 
 ## 序：当痛苦可以被言说
 
