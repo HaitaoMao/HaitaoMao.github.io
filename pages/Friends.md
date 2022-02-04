@@ -67,7 +67,7 @@ There is no way for me to have any achievements without your help. Sincerely tha
     </li>
     <li>
         <p>
-            <a href="bhwangfy.github.io">Bohan Wang</a>
+            <a href="https://bhwangfy.github.io">Bohan Wang</a>
             <br>
             a genius in mathematics.
         </p>
