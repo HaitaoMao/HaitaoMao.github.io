@@ -1,6 +1,6 @@
 ---
-permalink: /Group/
-title: Group
+permalink: /GROUP/
+title: GROUP
 layout: single
 ---
 # mathematical learning group
