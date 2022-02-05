@@ -1,4 +1,9 @@
-# Highlight of Linear Algebra
+---
+title: Highlight of Linear Algebra
+layout: category
+permalink: /categories/Math-Linear-Algebra/
+taxonomy: Highlight of Linear Algebra
+---
 
 $Ax=b$, $Ax=\lambda x$ $Av=\sigma u$, <span> $\min{ \frac{||Ax||^2}{||x||^2}}$  </span> 
 
