@@ -1,6 +1,6 @@
 # Highlight of Linear Algebra
 
-$Ax=b$, $Ax=\lambda x$ $Av=\sigma u$, $\min{ \frac{||Ax||^2}{||x||^2}}$  
+$Ax=b$, $Ax=\lambda x$ $Av=\sigma u$, <span> $\min{ \frac{||Ax||^2}{||x||^2}}$  </span> 
 
 - Multiplication Ax using columns of A   
 
@@ -29,7 +29,7 @@ $Ax=b$, $Ax=\lambda x$ $Av=\sigma u$, $\min{ \frac{||Ax||^2}{||x||^2}}$
 
     - The relation between left eigenvector and right,  more vectors with 0
 
-    - If $A-xy^T$ has rank 1, $\sigma_1 \ge  |\lambda  |$
+    - If $A-xy^T$ has rank 1, <span>$\sigma_1 \ge  |\lambda  |$</span>
 
     - Reflect(affine), scale, reflect, the reduced form
 
@@ -53,18 +53,18 @@ $Ax=b$, $Ax=\lambda x$ $Av=\sigma u$, $\min{ \frac{||Ax||^2}{||x||^2}}$
 
 - norm
 
-  - Eckart young  if B has rank k, $||A-B|| \ge ||A - A_k||$
+  - Eckart young  if B has rank k, <span>$||A-B|| \ge ||A - A_k||$</span>
   - Inner product
   - Matrix Norm: three norm only effected by $\sigma$, what about others.
-    - l2 norm: $\max \frac{||Ax||}{||x||} = \sigma_1$
+    - l2 norm: <span>$\max \frac{||Ax||}{||x||} = \sigma_1$</span>
     - Frobenius: $\sqrt{\sigma_1^2+\sigma_2^2+\cdots + \sigma_r^2}$
-    - Nuclear norm:   $\sigma_1+\sigma_2+\cdots + \sigma_r$      The minimum value of $||U||_F||V||_F$  $||A^TA||_N=||A||_F^2$
-  - Vector Norm  $l_0, l_1, l_2, l_\infin$
-  - The inituition or the matrix norm: The minimum of  $||V||_p$
+    - Nuclear norm:   $\sigma_1+\sigma_2+\cdots + \sigma_r$      The minimum value of <span>$||U||_F||V||_F$  $||A^TA||_N=||A||_F^2$</span>
+  - Vector Norm  $l_0, l_1, l_2, l_\infty$
+  - The inituition or the matrix norm: The minimum of  <span>$||V||_p$</span>
   - Norm的性质：  Rescale， triangle
-  - Function norm-> vector space to be completed  $||v_n - v_\infin|| \to 0 $  **I do not understand**
+  - Function norm-> vector space to be completed  <span>$||v_n - v_\infty||<span> \to 0 $  
     - ending with all zero is not completed  p105 
-    - $norm < \infin$
+    - $norm < \infty$
   - spectral radius: about the stationary of Markov chain
 
 - Application
@@ -153,11 +153,9 @@ $ABx=\lambda x$, $BABx=\lambda Bx$ ,  $Bx$是BA的eigenvector   **eigenvector也
   - $A^{-1}$ 
     $$
     \frac{dA^{-1}}{dt} = - A^{-1}\frac{dA}{dt}A^{-1}
+    $$
 
-  $$
-    
-  - $\lambda$
-  $$
+
 
     \frac{d\lambda}{dt}=y^T\frac{dA}{dt}x
   $$
