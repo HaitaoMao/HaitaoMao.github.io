@@ -85,4 +85,4 @@ My achievement in UESTC are:
 
 
 ### Support
-This page is supported by [Hanlin Lan](runtus.top), one of my best friends in undergraduate period. Thanks for his great help.
+This page is supported by [Hanlin Lan](https://runtus.top), one of my best friends in undergraduate period. Thanks for his great help.
