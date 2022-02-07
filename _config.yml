@@ -20,7 +20,7 @@ title                    : "悫躍"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Haitao Mao (毛海涛)"
-description              : "Laugh loudly, laugh often, and most important, laugh at yourself."
+description              : "Undergraduate student in UESTC."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
