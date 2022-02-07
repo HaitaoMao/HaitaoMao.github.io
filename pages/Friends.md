@@ -112,7 +112,7 @@ There is no way for me to have any achievements without your help. Sincerely tha
             <a href="https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/">Data Analysis team, Data Knowledge Intelligence Group</a>, Microsoft Research Asia
             <br>
               The best MSRA team founded by Han Shi. The first time I met so many interesting P.hD. students. Each meal with you is with great fun. Time with you is the most beautiful advanture in my life time.
-            <br> So glad to have so many good friends: <a href="https://enshengshi.github.io/">Ensheng Shi</a>
+            <br> So glad to have so many good friends: <a href="https://enshengshi.github.io/">Ensheng Shi</a>, Tianle Li, Xinyi He, Zhoujun Cheng, Wei Tang, Wei Tao, Hengyu Liu, Xiaojun Ma, Jiaxin Shi, Jialiang Xu, Lingbo Li, Xiaoyuan Ni, Xiaojun Ma.
             <br> Our life in MSRA recorded on <a href="https://www.bilibili.com/video/BV1bT4y1C7bc?spm_id_from=333.999.0.0">bilibili</a>
         </p>
     </li>
