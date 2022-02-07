@@ -4,7 +4,7 @@ title: GROUP
 layout: single
 ---
 # mathematical learning group
-It is glad to organize such a mathmatical learning group, which focuses on matrix analysis, convex optimization. We are very glad to open source our note occassionally after we finish several sections~ If you are interested in, Please contact with me freely.
+It is glad to organize such a mathmatical learning group, which focuses on matrix analysis, convex optimization. We are very glad to open source our note occassionally after we finish several sections~ If you are interested in, please contact with me freely.
 
 ## Current form
 
