@@ -105,6 +105,8 @@ There is no way for me to have any achievements without your help. Sincerely tha
             <a href="https://jotang.club/jotanger.html">Jotang(caramel) Studio</a>, University of Electronic Science and Technology of China
             <br>
             The best undergraduate studio founded by <a href="https://www.zuozuovera.com/">Xinyue Shen</a> in UESTC. The days spent in Jotang studio is just like the fantastic film slots in dream. Do you also like a cup of coffee with caramel?
+            <img src = "https://pic4.zhimg.com/80/v2-d52e74191f576239e945b80692d5bb0e_720w.jpeg">
+            <img src = "https://pic1.zhimg.com/80/v2-4f45d128734f2ee20fc7e8a6abb5f678_720w.jpeg">
         </p>
     </li>
     <li>
@@ -114,6 +116,7 @@ There is no way for me to have any achievements without your help. Sincerely tha
               The best MSRA team founded by Han Shi. The first time I met so many interesting P.hD. students. Each meal with you is with great fun. Time with you is the most beautiful advanture in my life time.
             <br> So glad to have so many good friends: <a href="https://enshengshi.github.io/">Ensheng Shi</a>, Tianle Li, Xinyi He, Zhoujun Cheng, Wei Tang, Wei Tao, Hengyu Liu, Xiaojun Ma, Jiaxin Shi, Jialiang Xu, Lingbo Li, Xiaoyuan Ni, Xiaojun Ma.
             <br> Our life in MSRA recorded on <a href="https://www.bilibili.com/video/BV1bT4y1C7bc?spm_id_from=333.999.0.0">bilibili</a>
+            <img src = "https://pica.zhimg.com/80/v2-5eb03cbc6d11f062577f0306d8ebeaac_720w.jpeg">
         </p>
     </li>
 </ul>
