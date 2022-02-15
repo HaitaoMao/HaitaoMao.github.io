@@ -74,9 +74,9 @@ There is no way for me to have any achievements without your help. Sincerely tha
     </li>
     <li>
         <p>
-            <a href="">Xu Chen</a>
+            Xu Chen
             <br>
-            execellent co-author who can solve any problem I met.
+            excellent co-author who can solve any problem I met.
         </p>
     </li>
     <li>

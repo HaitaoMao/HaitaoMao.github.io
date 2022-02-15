@@ -29,13 +29,13 @@ Additional we will talk about:
 
 ## How does graph classification borrows ideas from Image Classification?
 
-It is not hard to think about the relationship between graph classification and Image classification. Image can be viewed as a specific graph which each node is a pixel which has three features on RGB, and the edge structure is more like grid. It seems natural to generalize the idea from Image to graph. As most graphs have the similar properties like image which are locality, stationarity, and composionality. 
+It is not hard to think about the relationship between graph classification and Image classification. Image can be viewed as a specific graph which each node is a pixel which has three features on RGB, and the edge structure is more like grid. It seems natural to generalize the idea from image to graph. As most graphs have the similar properties like image which are locality, stationarity, and composionality. 
 
 CNN has followining advantages:
 
 - Comparing with methods from spectral domain which rely on fixed spectrum of graph Laplacian for single structure, CNN can **handle graphs with varying size and connectivity**
 - Comparing with differentiable Neural Graph Fingerprint (another family of method inspired by Fingerprint), feature are not directed sum up localized vertex features, weights in CNN ensure the power to filter the unimportant features.
-- Comparing with traditional Graph Kernel methods, the time complexity comes down from quadratic to linear on #nodes
+- Comparing with traditional Graph Kernel methods, the time complexity comes down from quadratic to linear on the number of nodes
 
 
 
@@ -66,7 +66,7 @@ We will detailed these algorithms in the following part.
 The key idea in PATCHY-SAN is how to extract locally connected regions from graphs which serves as the receptive fields of a convolutional architecture. Revolving on this goal, two steps are constructed:
 
 - Determine the node sequences for which $k$ nodes are selected into neighbor graph with fixed order.
-- Normalize a graph: turn a graph representation into a vector representation.
+- Normalize a graph: turn a graph representation into a vectotar representation.
 
 The corresponding challenge are:
 
@@ -80,10 +80,12 @@ The corresponding challenge are:
 **Neighbor Determining：** First select the top $w$ elements as candidate, select neighbor (determined by the node labeling) from a sequence which generate from the center node (red node in CNN).  **Here has no order**
 
 **Graph Normalize:** normalizing the neighborhood assembled. The target is that graph distance in the origin space can be reconstructed as much as possible in the feature space.
+
 $$
-\hat{\ell}=\underset{\ell}{\arg \min } \mathbb{E}_{\mathcal{G}}\left[\left|\mathbf{d}_{\mathbf{A}}\left(\mathbf{A}^{\ell}(G), \mathbf{A}^{\ell}\left(G^{\prime}\right)\right)-\mathbf{d}_{\mathbf{G}}\left(G, G^{\prime}\right)\right|\right]
+\hat{\ell}=\underset{\ell}{\arg \min } \mathbb{E}_{\mathcal{G}}\left[\left|\mathbf{d}_{\mathbf{A}}\left(\mathbf{A}^{\ell}(G), \mathbf{A}^{\ell}\left(G^{\prime}\right)\right)-\mathbf{d}_{\mathbf{G}}\left(G, G^{\prime}\right)\right|\right] 
 $$
-where $A^l\$ is the labeling procedure.
+
+where $A^l$ is the labeling procedure.
 
 So the label is just the inverse of the rank for $d(u,v) < d(w,v) \to r(u) < r(w) \to \mathcal{l}(u) > \mathcal{l}(v)$. NAUTY is used as the labeling method, which accepts prior node partitions as input and breaks remaining ties by choosing the lexicographically maximal adjacency matrix.
 
@@ -101,12 +103,10 @@ Yet, the above method still has much merits:
 Then our question is: how to take advantage of the great deep learning power to find the receptive field (**non-local with global topology**) and determine the order.  The key idea is a deep learning version **WL test**. The steps are as following:
 
 **To extract node feature and structure information**,  a diffusion based graph convolution layer:
-
 $$
 Z = f(\tilde{D}^{-1}\tilde{A}XW)
 $$
-
-where $\tilde{A} = A + I$, `$\tilde{D}_{ii} = \sum_j \tilde{A}_{ij}$`. $f()$ is the tanh activation function Notice that view $Y = XW$，the procedure is similar to 1-WL test. Then $Z$ can be viewed as a WL signature vector. The non-linear function can be viewed as mapping to the new color.
+where $\tilde{A} = A + I$, `$\tilde{D}_{ii} = \sum_j \tilde{A}_{ij}$`. <span>$f()$</span> is the tanh activation function Notice that view $Y = XW$，the procedure is similar to 1-WL test. Then $Z$ can be viewed as a WL signature vector. The non-linear function can be viewed as mapping to the new color.
 
 **To find the order of nodes**: sortpooling is proposed. Notice that the above GNN can be viewed as a WL-test procedure. **It is also a labeling procedure!** The continuous WL color $Z^t$ is used for sorting. 
 
@@ -138,7 +138,7 @@ Can we have local pooling like CV, following a structure: CNN-pooling-CNN-poolin
 To design **local** graph pooling, following chanlleges should be solved:
 
 - What is the local patch that should be pooled?  clustering or downsampling.
-- What will the graph like after pooling for the node number becomes smaller than before? What is the node feature and new graph structure?  selection or aggregation.
+- What will the graph be like after pooling for the node number becomes smaller than before? What is the node feature and new graph structure?  selection or aggregation.
 
 To solve them challenge, various methods is proposed which can be roughly categorized into:
 
@@ -150,18 +150,18 @@ To solve them challenge, various methods is proposed which can be roughly catego
     - spatial persepective including diffpooling
     - spectral perspective including Eigenpooling, mincut pooling
 
-Paremeter-free clustering pooling uses the traditional machine learning method to pre-compute the cluster matrix for pooling based on graph-theoretical property. However, it neither consider the node feature nor adapts to specific task. We will not discuss in details here.  We 
+Paremeter-free clustering pooling uses the traditional machine learning method to pre-compute the cluster matrix for pooling based on graph-theoretical property. However, it neither consider the node feature nor adapts to specific task. We will not discuss in details here.   
 
 Here we focus on the end-to-end method model-based pooling and the second question: What will the graph like after pooling for the node number becomes smaller than before?
 
 ### Cluster pooling 
 
- Cluster pooling cluster similar nodes into a single super node node by exploiting their hierarchical structure. T
+Cluster pooling cluster similar nodes into one super node node by exploiting their hierarchical structure. 
 
 It shares the following steps:
 
-- Predefine the cluster number (the node number after pooling)
-- Learn an assign matrix $S \in \mathbb{R}^{n_l\times n_{l+1}}$ ）Softly divide origin graph into subgraphs. **However, in this most,the assign matrix is a computational heavy dense matrix**
+- Predefine the cluster number $n^{l+1}$ (the node number after pooling) 
+- Learn an assign matrix $S \in \mathbb{R}^{n_l\times n_{l+1}}$ ）Softly divide origin graph into subgraphs. **However, in this case,the assign matrix is a computational heavy dense matrix**
 - Coarsen graph: Update node feature in the same cluster into one supernode $X^{(l+1)} = S^{(l)^T} Z^{(l)}$  
 - Update adjacent matrix $A^{(l+1)} = S^{(l)^T} A^{(l)}S^{(l)}$
 
@@ -173,7 +173,7 @@ We will first introduce the spatial ones.
 
 Diffpool is the first paper on hierarchical graph pooling and define the above learning scheme.  
 
-How to learn $S$ is simple which is parallel with GNN model.
+How to learn $S$ is simple and parallel with GNN model.
 
 The hidden representation is learnt by 
 $$
@@ -183,28 +183,28 @@ and the assign matrix $S$ is learnt by
 $$
 S^{(l)}=softmax \left (\operatorname{GNN}_{l, \text { embed }}\left(A^{(l)}, X^{(l)}\right) \right)
 $$
-The output dimension is the predefine cluster numbers.
+The output dimension is the predefine cluster numbers.  **Notice that Z is not the node hidden representation for classification, but parallel with the original GNN model with different learnable parameter.**
 
 However,  $S^{(l)}$ is a large dense matrix with quadratic node size. where the former selection pooling will solve this problem.
 
 
 
-Then we will introduce from spectral perspective.
-
 #### STRUCTPOOL: STRUCTURED GRAPH POOLING VIA CONDITIONAL RANDOM FIELDS
 
 It is hard to write this part for too many prior knowledge on CRF is needed, I will write about it later~
 
+Then we will introduce from spectral perspective inspired from the spectral pooling.
+
 #### EigenPooling: Graph Convolutional Networks with EigenPooling
 
-In DiffPooling, $S$ is a global soft assignment matrix. However, pooling should also taken local structural information (subgraph) into consideration.  It is hard to extract for: 
+In DiffPooling, $S$ is a global soft assignment matrix with global structural information. However, pooling should also taken local structural information (subgraph) into consideration.  It is hard to extract without the help of local spectral graph signal: 
 
 - the subgraphs may contain different numbers of nodes, thus a fixed size pooling operator cannot work for all subgraphs
 - the subgraphs could have very different structures, which may require different approaches to summarize the information for the supernode representation.
 
 To extract this information, graph fourier transformation with Laplacian matrix is introduced with understanding in spectral domain. EigenPooling focuses on how to preserve the graph signal in pooling. 
 
-**Assign matrix** is learnt from spectral cluster (we will introduce on the fundmental machine learning blog).  Unlike the soft assignment, the graph is divided into different subgraphs. For each subgraph(cluster) $G^k$, it has an indicate matrix $C^k\in \mathbb{R}^{N\times N_k}$ where $N_k$ is the node number in this cluster.  $C^k[i,j]=1$ means node $i$ is the $j_{th}$ node on the $k$ cluster. 
+**Assign matrix** is learnt from spectral cluster (we will introduce on the fundmental machine learning blog).  Unlike the soft assignment, the graph nodes are divided into different subgraphs. For each subgraph(cluster) $G^k$, it has an indicate matrix $C^k\in \mathbb{R}^{N\times N_k}$ where $N_k$ is the node number in this cluster.  $C^k[i,j]=1$ means node $i$ is the $j_{th}$ node on the $k$ cluster. 
 
 **Update adjacent matrix**
 
@@ -229,7 +229,6 @@ The adjacent matrix is update by the following four steps to remain only inter-c
   $$
   A_{coar} = S^TA_{ext}S
   $$
-  
 
 **Feature Update: ** Unlike directly update the feature, it first updates the graph signal. then the feature will update according to the new signal. It has following steps:
 
@@ -252,21 +251,17 @@ To avoid expensive eigendecomposition on spectral clustering, Mincut pooling des
 - formulate a continuous relaxation of the normalized minCUT problem can be optimized by GNN
 - learns the solution taken node features into consideration
 
-**Assignment matrix **is similar with diffpool where
-
+**Assignment matrix **is similar with diffpool with a parallel GNN learn for assign matrix
 $$
 \begin{aligned}
 \overline{\mathbf{X}} &=\operatorname{GNN}\left(\mathbf{X}, \tilde{\mathbf{A}} ; \boldsymbol{\Theta}_{\mathrm{GNN}}\right) \\
 \mathbf{S} &=\operatorname{SOFTMAX}\left(\operatorname{MLP}\left(\overline{\mathbf{X}} ; \boldsymbol{\Theta}_{\mathrm{MLP}}\right)\right)
 \end{aligned}
 $$
-
 **The optimization object for minCUT ** is:
-
 $$
 \mathcal{L}_{u}=\mathcal{L}_{c}+\mathcal{L}_{o}=\underbrace{-\frac{\operatorname{Tr}\left(\mathbf{S}^{T} \tilde{\mathbf{A}} \mathbf{S}\right)}{\operatorname{Tr}\left(\mathbf{S}^{T} \tilde{\mathbf{D}} \mathbf{S}\right)}}_{\mathcal{L}_{c}}+\underbrace{\left\|\frac{\mathbf{S}^{T} \mathbf{S}}{\left\|\mathbf{S}^{T} \mathbf{S}\right\|_{F}}-\frac{\mathbf{I}_{K}}{\sqrt{K}}\right\|_{F}}_{\mathcal{L}_{o}}
 $$
-
 where $|| \cdot ||_F$ is the Frobenius norm $\tilde{D}$ is the normalized degree matrix.
 
 $\mathcal{L}_{c}$ is a mincut solution, which will reach optimal when it just fits the $K$ component in graph. However, it may falls into trivial solution for assign all matrix into one cluster. 
@@ -346,13 +341,13 @@ Y=\sigma\left(\tilde{D}^{-\frac{1}{2}} \tilde{A} \tilde{D}^{-\frac{1}{2}} X \The
 $$
 where $\Theta_{a t t}\in \mathbb{R}^{F\times 1}$ , the activation function is tanh
 
-TopKpooling can be written as:
+TopKpooling can be rewritten as:
 $$
 Y=\sigma(\sigma\left(\tilde{D}^{-\frac{1}{2}} \tilde{A} \tilde{D}^{-\frac{1}{2}} X W\right) \Theta_{a t t} / ||\Theta_{a t t}||_2)
 $$
 where the activation function is sigmoid.
 
-Other operation are same with TopKPool. 
+Other operation are same as TopKPool. 
 
 Maybe this scoring is better than TopKPool, or the achitecture is better. 
 
@@ -382,7 +377,37 @@ where $\overrightarrow{\mathbf{a}}\in \mathbb{R}^{2d\times 1}$.
 
 ### Go beyond pooling: GMN with clustering (MEMORY-BASED GRAPH NETWORKS)
 
+Similar with the graph pooling method, GMN also keeps in mind with the graph cluster. However, it joint  learn node representation and coarsen the graph without **new graph structure update but a fully connnected graph** which may lose much information. It uses the update query for find new structure and memory to maintain the refined graph information.
 
+It mainly has the following procedure:
+
+- Generate the original query $Q^0$ with MPNN (GAT) or simple MLP
+
+- Generate the Key matrix $K \in \mathbb{R}^{n_{l+1} \times d_l}$  which is just the key cluster center. The cluster is computed by the student t-distribution for a particular query.
+  $$
+  C_{i, j}=\frac{\left(1+\left\|q_{i}-k_{j}\right\|^{2} / \tau\right)^{-\frac{\tau+1}{2}}}{\sum_{j^{\prime}}\left(1+\left\|q_{i}-k_{j^{\prime}}\right\|^{2} / \tau\right)^{-\frac{\tau+1}{2}}}
+  $$
+  Then the representation is combine and aggregated as  
+  $$
+  \mathbf{C}^{(l)}=\operatorname{softmax}\left(\Gamma_{\phi}\left(\|_{k=0}^{|h|} \mathbf{C}_{k}^{(l)}\right)\right) \in \mathbb{R}^{n_{l} \times n_{l+1}}
+  $$
+  where $\Gamma_{\phi}$ is a $[1\times 1]$ convolutional operator for reduction. 
+
+- Value updated (new node feature)
+  $$
+  \mathbf{V}^{(l)}=\mathbf{C}^{(l) \top} \mathbf{Q}^{(l)} \in \mathbb{R}^{n_{l+1} \times d_{l}}
+  $$
+
+- Update the new query set (cluster center) 
+  $$
+  \mathbf{Q}^{(l+1)}=\sigma\left(\mathbf{V}^{(l)} \mathbf{W}\right) \in \mathbb{R}^{n_{l+1} \times d_{l+1}}
+  $$
+
+
+
+The graph structure is only utilized on the encoder, other is just like an iterative node feature clustering.
+
+ 
 
 
 
@@ -390,7 +415,7 @@ where $\overrightarrow{\mathbf{a}}\in \mathbb{R}^{2d\times 1}$.
 
 In the last part, we mainly focus on how pooling can coarse the graph. However, pooling may also induce much noise and may not be so effectiveness.  
 
-Another family methods focus on another key compoent in GNN, the readout function.  
+Another family methods focus on another key compoent in GNN, the readout function, for example Set2Set.  
 
 One direction is how to extract graph feature effectively once (without refining node feature and adjacent matrix.
 
@@ -400,51 +425,73 @@ We will not introduce the second one in this blog for it is another big problem 
 
 
 
+### CapsGNN: CAPSULE GRAPH NEURAL NETWORK
+
+The major readout function often takes the input in a scalar method (compute the numerical maximum element.) which lose much properties. It is better to encode in a vector method like Capsule. It can generate multiple embedding to capture properties from different perspectives,  routing preserves all the information from low-level capsules and routes them to the closest high-level capsules.
+
+CapsGNN contains three key blocks:
+
+- Basic node capsule extraction block: GNN
+- High level graph capsule with: attention and dynamic routing
+- generate class capsule for graphb classification.
+
+The paper is about how to apply capsule network on graph structure data. 
+
+The attention procedure is proposed for normalized the feature in different channels from different layers
+
+![](https://pic1.zhimg.com/80/v2-102b990ff605386a1db9de17570a6c25_720w.png)
+
+The rescale attention is like: 
+$$
+\operatorname{scaled}\left(\boldsymbol{s}_{(n, i)}\right)=\frac{F_{a t t n}\left(\tilde{\boldsymbol{s}_{n}}\right)_{i}}{\sum_{n} F_{a t t n}\left(\tilde{\boldsymbol{s}_{n}}\right)_{i}} \boldsymbol{s}_{(n, i)}
+$$
+And $F_{attn}$ is just two-layer MLP. 
+
+**Calculate votes:**capsules of different nodes from the same channel share the transform matrix, which results in a set of votes. $V\in \mathbb{R}^{N\times C_{all}\times P \times d}$
+
+Then dynamic routing mechaism for the final classification result. We will not detail the capsule network here for it is too complicated and is just about another topic.
+
+
+
 ### GMN: ACCURATE LEARNING OF GRAPH REPRESENTATIONS WITH GRAPH MULTISET POOLING
 
 In this paper, it first formulates the graph pooling problem as a multiset encoding problem with auxiliary information about the graph structure.  Instead of using pooling for layers, it performs a single but strong single pooling both injectiveness and permutation invariance. Also, the method shows very good result on multiple tasks.
 
 The method is self-attention style with an multi dimension query set.
-
 $$
 att(Q,K,V)=f(QK^T)V
 $$
-
 $Q\in \mathbb{R}^{n_1\times d_k}$ is not generated by the feature, but a learnable parameter matrix by default.
 
 To utilize GNN into this framework, Graph Multi-head Attention is defined as:
-
 $$
 \operatorname{GMH}(\boldsymbol{Q}, \boldsymbol{H}, \boldsymbol{A})=\left[O_{1}, \ldots, O_{h}\right] \boldsymbol{W}^{O} ; \quad O_{i}=\operatorname{Att}\left(\boldsymbol{Q} \boldsymbol{W}_{i}^{Q}, \operatorname{GNN}_{i}^{K}(\boldsymbol{H}, \boldsymbol{A}), \operatorname{GNN}_{i}^{V}(\boldsymbol{H}, \boldsymbol{A})\right)
 $$
-
 $Q$ is a learnable parameter matrix, $K$ and $V$ are generated by two-layer GNN. 
 
 Then the key component **Graph Multiset Pooling with Graph Multi-head Attention** is defined as: 
-
 $$
 \operatorname{GMPool}_{k}(\boldsymbol{H}, \boldsymbol{A})=\mathrm{LN}(\boldsymbol{Z}+\operatorname{rFF}(\boldsymbol{Z})) ; \quad \boldsymbol{Z}=\mathrm{LN}(\boldsymbol{S}+\operatorname{GMH}(\boldsymbol{S}, \boldsymbol{H}, \boldsymbol{A}))
 $$
-
 $k$ is the dimension of query size
 
 Then remove the query for a simple self attention for inter-node relation:
-
 $$
 \operatorname{SelfAtt}(\boldsymbol{H})=\mathrm{LN}(\boldsymbol{Z}+\operatorname{rFF}(\boldsymbol{Z})) ; \quad \boldsymbol{Z}=\mathrm{LN}(\boldsymbol{H}+\mathrm{MH}(\boldsymbol{H}, \boldsymbol{H}, \boldsymbol{H}))
 $$
-
 The whole structure is:
-
 $$
 \text { Pooling }(\boldsymbol{H}, \boldsymbol{A})=\operatorname{GMPool}_{1}\left(\operatorname{SelfAtt}\left(\operatorname{GMPool}_{k}(\boldsymbol{H}, \boldsymbol{A})\right), \boldsymbol{A}^{\prime}\right)
 $$
-
 Here $A'$ is also a coarsening adjacent matrix. So somehow, it is still hierarchical.
 
 **Theorem part to be added**
 
 This paper somehow astonish me on the ability of attention. However, there are some query hyperparemater to turn. I am wondering, if this can also be applied to the selection pooling, will the performance be better also? What the power of the learnable query instead of self attention.
+
+
+
+
 
 
 
@@ -457,8 +504,7 @@ With the development of graph classification for many years, advanced operation 
 ### A simple yet effective baseline for non-attribute graph classification
 
 In this paper, it proposes a really simple baseline with feature augumentation by neighborhood degree. 
-
-The degree of neighborhood is defined as <span>$DN(v) = \{ degree(u|(u,v) \in E) \}$</span>
+The degree of neighborhood is defined as <span>$DN(v) = \{ degree(u|(u,v) \in E \}$</span>
 
 The procedure is as follow
 
@@ -528,17 +574,101 @@ Moreover, challenges are still for homogeneous node representations even before 
 
 
 
-
-
-
-
-
-
-
-
 ## Graph Kernel Methods
 
-More will be added very quickly including DDGK!
+Kernel trick is usually used in dual SVM. SVM can design different kernels for different specific domains. It is a specific topic for feature engineering. 
+
+### Brief introduction on SVM and kernel method.
+
+SVM is a minimal risk algorithm which wants to make the distance between nodes and decision boundary as large as possible, which wants to
+$$
+\begin{array}{cl}
+\max _{\mathbf{w}} & \text { margin }(\mathbf{w}) \\
+\text { subject to } & \text { every } y_{n} \mathbf{w}^{T} \mathbf{x}_{n}>0 \\
+& \text { margin }(\mathbf{w})=\min _{n=1, \ldots, N} \operatorname{distance}\left(\mathbf{x}_{n}, \mathbf{w}\right)
+\end{array}
+$$
+after simplify, the form can be rewritten as:
+$$
+\begin{array}{cl}
+\min _{\mathbf{w}} & \frac{1}{2}w^Tw \\
+\text { subject to } & \min_{n=1, \cdots, n} y_{n} (\mathbf{w}^{T} \mathbf{x}_{n}+b)>0 
+\end{array}
+$$
+However, the time complexility of solving this problem is linear with the data dimension which grows exponentially with the faeture engineering for higher order interactions. 
+
+ With strong dual condition, the problem can be converted into:
+$$
+\min_{b,w} \to \min_{b,w}\left(\max_{\alpha \ge 0}\mathcal{L}(b,w,\alpha) \right) \to \max_{b,w}\left(\min_{\alpha \ge 0}\mathcal{L}(b,w,\alpha) \right)
+$$
+With solve this problem, we can get:
+$$
+w = \sum_{n=1}^N\alpha_n y_n z_n
+$$
+
+$$
+\sum_{n=1}^N\alpha_ny_ = 0
+$$
+
+where $z_n$ is $x_n$ after feature engineering.
+
+Then the problem canbe solved as:
+$$
+\begin{aligned} \min _{\alpha} & \frac{1}{2} \sum_{n=1}^{N} \sum_{m=1}^{N} \alpha_{n} \alpha_{m} y_{n} y_{m} \mathbf{z}_{n}^{T} \mathbf{z}_{m}-\sum_{n=1}^{N} \alpha_{n} \\ \text { subject to } & \sum_{n=1}^{N} y_{n} \alpha_{n}=0 \\ & \alpha_{n} \geq 0, \text { for } n=1,2, \ldots, N \end{aligned}
+$$
+Then the time complexity is connected to the number of training samples. $\mathbf{z}_{n}^{T} \mathbf{z}_{m}$ is the design space for the kernel function！
+
+The SVM function can be writtern as
+$$
+\mathbf{y} = \left (\sum \alpha_ny_nz_n \right)\mathbf{z} + b
+$$
+Therefore, each new sample will compare the similarity with the kernel function. 
+
+**For kernel method it measures the similarity which corresponds to the inner product**
+
+**For graph kernel, it is design to measure the graph structure similarity**
+
+### Traditional Graph Kernel
+
+Graph kernel learns the structural latent representation by predefined sub-structure for graphs. 
+
+Most of the graph kernel methods belongs to the R-convolution, which the key idea is
+
+- find the atom subgraph pattern (recursively decompose into subgraph)
+- $\phi(\mathcal{G})$ denotes the vector which contains counts of atomic sub-structures. A count vector with normalization.
+- The similarity between graphs is computed as $K(\mathcal{G},\mathcal{G}') = \phi(\mathcal{G}) \cdot \phi(\mathcal{G}')$
+
+Traditional graph kernel focuses on the design of atomic graph sub-structure with limited sub-graph (Graphlet), subtree pattern (WL), walk (random walk) and path (Shorest Path).
+
+**subgraph (graphlet)**
+
+![](https://pic3.zhimg.com/80/v2-27230fbb1c89d6f4b1628ad351001200_1440w.png)
+
+ A graphlet $G$ is an induced and **non-isomorphic subgraphs**. It is generated by add a node, add an edge, remove an edge. The graph kernel with $k \le 5$ will have a count vector with 52 features.
+
+**subtree (WL)**
+
+WL is to iterate over each vertex of a labeled graph and its neighbors in order to create a multiset label. The resultant multiset is given a new label, which is then used for the next iteration until the label set does not change anymore. To compute the similarity, just count the co-occurrences of labels in both graphs. The dimension is based on the number of iteration.
+
+**Path (Shortest path)** 
+
+The shortest path pattern is defined as the triplet $(l_s^i, l_e^i, n_k)$. The kernel similarity just computes the co-occurance of the shortest path pattern.
+
+### Deep Graph Kernel
+
+The intuition is that we count different subgraphs patterns independently. However, it is easy to see some of the subgraph patterns are dependent with each other. A similarity matrix (positive semidefinite) $M$ should be computed.  
+$$
+K(\mathcal{G},\mathcal{G}') = \phi(\mathcal{G})^T \mathcal{M} \phi(\mathcal{G}')
+$$
+It is learnt by the skip gram inspired by Word2Vec, and the key is to find the co-occurance between subgraph patterns.
+
+**SP:** the shortert path with the same source is viewed as the context
+
+**WL:** The multilabel set on different node but the same iteration can be viewed as the context.
+
+
+
+**some weakness**
 
 - graphlet kernel builds kernels based on fixed-sized subgraphs. These subgraphs, which are often called motifs or graphlets, reflect functional network properties. 
   However, due to the combinatorial complexity of subgraph enumeration, graphlet kernels are restricted to subgraphs with few nodes
@@ -549,7 +679,37 @@ More will be added very quickly including DDGK!
 
 
 
+### DDGK:  Learning Graph Representations for Deep Divergence Graph Kernels
 
+DDGK is a new expressive kernel with deep learning which encodes a relaxed notion of graph isomorphism. It breaks the heuristics constraints in the traditional method.
+
+The major perspective are three-fold:
+
+- How to represent a graph (capture the graph information)
+- How to align graphs and find the similarity? cross-graph alignment.
+- How to measure the divergence score(the similarity kernel representation)
+
+Notice that, it is more like a graph embedding method without the supervision signal.
+
+**Graph encoder** should be able to reconstruct structure on some given nodes. It aims to distinguish the label of the neighborhood node with a single linear layer (embedding lookup). 
+$$
+J(\theta)=\sum_{i} \sum_{j \atop e_{i j} \in E} \log \operatorname{Pr}\left(v_{j} \mid v_{i}, \theta\right)
+$$
+**Cross-Graph Attention** aims to measure how much the target graph diverges from the source graph, it use the source graph encoder to predict the structure of the target graph. If the pair is similar, we expect the source graph encoder to correctly predict the target graph’s structure.
+
+A bidirection projection is proposed acrossing pair of nodes. It will assign the source node to the target graph with certain probability.
+$$
+\operatorname{Pr}\left(v_{j} \mid u_{i}\right)=\frac{e^{\mathcal{M}_{T \rightarrow S}\left(v_{j}, u_{i}\right)}}{\sum_{v_{k} \in V_{S}} e^{\mathcal{M}_{T \rightarrow S}\left(v_{k}, u_{i}\right)}}
+$$
+A reverse projection is similar with it. $\mathcal{M}_{T \rightarrow S}\left(v_{j}, u_{i}\right)$ is a simple multiclass classifier.
+
+**Divergence Embedding**
+
+Then each pair of nodes between two graphs are used for comparion. It measure how well the source node can predict the target node neighborhood and concate as the final embedding.
+$$
+\mathcal{D}^{\prime}(T \| S)=\sum_{v_{i} \in V_{T}} \sum_{j \atop e_{j i} \in E_{T}}-\log \operatorname{Pr}\left(v_{j} \mid v_{i}, H_{S}\right)
+$$
+ 
 
 ## Paper Reading List
 
