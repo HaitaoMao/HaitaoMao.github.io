@@ -611,7 +611,6 @@ The prove keys are:
   \tilde{\mathbf{D}}^{1 / 2} \mathbf{x}=\left(\mathbf{D}+\mathbf{I}_{n}\right)^{1 / 2} \mathbf{x}=\sum_{i=1}^{n}\left(\mathbf{x}(i) \sqrt{d_{i}+1}\right) \cdot \mathbf{e}_{\mathbf{i}}
   $$
   
-
 - use the lemma Let $p^(K)_i =  (\frac{I_n+\tilde{A} \tilde{D}^{−1}}{2})^Ke_i$  is the K-th transition probability vector from node i on connected self-looped graph $\tilde{G}$. Let $\lambda\tilde{G}$ denote the spectral gap of $\tilde{G}$. The j-th entry of $p^{(K)}_i$ can be bounded by
   $$
   \left|\mathbf{p}_{i}^{(K)}(j)-\frac{d_{j}+1}{2 m+n}\right| \leq \sqrt{\frac{d_{j}+1}{d_{i}+1}}\left(1-\frac{\lambda_{\tilde{G}}^{2}}{2}\right)^{K} .
@@ -883,7 +882,65 @@ meansubtract which will approach the second large eigenvalue.
 
 #### Evaluating Deep Graph Neural Networks
 
-The most interesting in this paper may reject the last paper perspective, which even single MLP will fall into the oversmooth problem. 
+The most interesting in this paper may reject the last paper perspective, which even single MLP will fall into the oversmooth problem.  This paper study:
+
+- The root problem why deep model performance decay happens in deeper GNN (oversmoothness?)
+- when and how to build deeper GNN?
+
+
+
+##### Experiment setting
+
+- smoothness measurement
+  The stationary state
+  $$
+  \hat{\mathrm{A}}_{i, j}^{\infty}=\frac{\left(d_{i}+1\right)^{r}\left(d_{j}+1\right)^{1-r}}{2 M+N}
+  $$
+  node smoothness: the similarity with the initialization state
+  $$
+  \begin{array}{c}
+  \alpha=\operatorname{Sim}\left(\mathbf{x}_{v}^{k}, \mathbf{x}_{v}^{0}\right) \\
+  \beta=\operatorname{Sim}\left(\mathbf{x}_{v}^{k}, \mathbf{x}_{v}^{\infty}\right) \\
+  N S L_{v}(k)=\alpha *(1-\beta)
+  \end{array}
+  $$
+
+- The number of transformation is $D_t$, the number of propogation is $D_p$
+
+##### Misconception
+
+###### Oversmoothness is not the main contributor
+
+![](https://pic1.zhimg.com/80/v2-17653087fc0bd461acfdd35bca3a0476_1440w.png)
+
+The experiment is to have double propogation and transofrmation to test the performance.
+
+When aggregation double, the performance does not matters too much in layer 8 with 16 propogations. Oversmooth is not the main concept. Also，with less smoothness, the performance does not change too much. But with more parameters, performance indeed drops. 
+
+So does more parameter cause the overfiting.
+
+###### Overfiting is not the main concept
+
+<img src="https://pic2.zhimg.com/80/v2-9916726f79543d0e4162f4a67699f5e7_1440w.png" style="zoom:67%;" />
+
+GCN on both train and test accuracy drop which is not overfiting, which reach the train acc: 100%. It is underfitting.
+
+###### Entangle and disentangle
+
+Entanglement with residual will have much slower performance drop while disentangle model performance drop more quickly. 
+
+##### The key cause
+
+MLP with no residual will drop on this state when stack more MLP.
+
+<img src="https://pica.zhimg.com/80/v2-23dd5af704bb5fe1f7d0d7b63bdb9abf_1440w.png" style="zoom:67%;" />
+
+The performance will decade without residual connection.
+
+- **Why need deep EP?** sparse graph (and large diameter) **How?** combine features in different steps.
+- **Why need deep ET?** large graph with more information. **How** residual, jump connection
+
+
 
 ### Others in oversmoothness
 
@@ -912,6 +969,8 @@ The regularization is defined as the MADGap
 
 
 ### Reading list
+
+- Evaluating Deep Graph Neural Networks
 
 - On Provable Benefits of Depth in Training Graph Convolutional Networks (Towrite)
 
