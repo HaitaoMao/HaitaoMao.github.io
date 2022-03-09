@@ -91,7 +91,7 @@ Let $\lambda_2$ denote the second largest eigenvalue of transition matrix $\tild
 $$
 \left|p_{j}(t)-\pi_{j}\right| \leq \sqrt{\frac{d_{j}}{d_{i}}} \lambda_{2}^{t}
 $$
-**TODO:** check this theory, read GDC
+**TODO:** check this theory, read GDC (上面的证明是哪篇了，我咋给忘了)
 
 
 
@@ -287,7 +287,9 @@ It is proved by
   $$
   The random probablity is just the last term. Actually, aggregation is just a random walk form.
 
-- The distribution will be a little change with GCN symmetric form, beening normalized by $(\widetilde{\operatorname{deg}}(x)\widetilde{\operatorname{deg}}(y))^{-\frac{1}{2}}$
+- The distribution will be a little change with GCN symmetric form, beening normalized by $(\widetilde{\operatorname{deg}}(x)\widetilde{\operatorname{deg}}(y))^{-\frac{1}{2}}$   
+
+**W**在这里会起到什么作用
 
 Then we can unify GCN with the random walk, both of them will share a same stationary distribution.
 
@@ -447,7 +449,7 @@ Suppose that `$\mathbb{E}[||Z||_D] \le \rho ||\bar{X}||_D$` for some $\rho = O(1
 
 understanding on GNN:
 
-- GCN may falls on overfiting the intermediate representation
+- GCN may falls on overfitting the intermediate representation
 - SGC is similar to MLP with true feature
 
 #### Scattering GCN: Overcoming Oversmoothness in Graph Convolutional Networks
@@ -481,7 +483,7 @@ Then all features are combined together as:
 
 residual connection with a cutoff frequency.
 
-Theory part only use some specific graph which GCN can not find but with scattering channels for better expressivity. like cyclic or  bipartite.
+Theory part only use some specific graph which GCN can not find but with scattering channels for better expressivity. like cyclic or bipartite.
 
 #### S2GC: SIMPLE SPECTRAL GRAPH CONVOLUTION
 
@@ -637,7 +639,7 @@ Dropedge is a natural extension of dropedge. Two way to view it:
 - A data augmenter: similar with dropout
 - A mesage reducer: reduce some neighborhoods
   - slow down the convergence speed, the relaxed $\epsilon$-smooth will only increase. 
-  - Smaller gap bhetween the origin feature and the convergence subspace
+  - Smaller gap between the origin feature and the convergence subspace
 
 Dropedge is two-step as:
 
