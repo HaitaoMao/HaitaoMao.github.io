@@ -3,7 +3,7 @@ permalink: /me/
 title: ME
 layout: single
 ---
-I am current a final-year undergraduate student of Elite Program, Software Academy at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). I have won **The best short paper award in CIKM2021** as the first author (My first paper in the undergraduate year). 
+I am current a final-year undergraduate student of Elite Program, Software Academy at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). I have won **The best short paper award in CIKM2021** as the first author (My first paper in the undergraduate year). I am also an incoming PhD student of Michigan State University supervised by [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html) 
 
 My current research interests lies primarily in understanding the blackbox of DNN especially the mechanism of GNN. Revolving on this ultimate goal, I mainly study the following topics : **Adaptative learning on graph-structured data**, **Fundamental Research on Deep Learning** (Initialization strategy, Regularization method), **Financial Knowledge Graph**. 
 
@@ -49,6 +49,7 @@ Currently, I am actively particpiating in a **new** AI community: [MLNLP](https:
 
 ### service
 - ICML 2022
+- NeurIPS 2022
 
 ### Internship
 
@@ -63,7 +64,9 @@ My achievement in MSRA are:
 - Participate in the KDD CUP2021 to handle large-scale graph and get the rank of 23th
 - Help Jianan Zhao to found our guitar club in MSRA.
 
+**Baidu (March, 2022 - now)**
 
+I am now a research intern in search strategy department in Baidu supervised by Lixin Zou.
 
 ### Education
 
