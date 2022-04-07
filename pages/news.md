@@ -3,6 +3,9 @@ permalink: /news/
 title: NEWS
 layout: single
 ---
+- 04/2022: I will host the talks for AI2000.
+- 03/2022: So glad to join Search strategy department in Baidu
+- 03/2022: So glad to be invited to serve as PC in NeurIPS2022
 - 02/2022: So glad to join [AI TIME](http://www.aitime.cn/) as a volunteer for PhD debate.
 - 02/2022: Happy for Ensheng load our 2021 memory on [bilibili](https://www.bilibili.com/video/BV1bT4y1C7bc?spm_id_from=333.999.0.0)
 - 02/2022: Our mathematical learning group open source the first matrix analysis [note](https://github.com/huanhuqueyue/personal-page/blob/master/_files/Math/MatrixAnalysis1.pdf). Feel free to contact me to join our group.

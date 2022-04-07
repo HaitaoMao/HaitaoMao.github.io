@@ -50,6 +50,7 @@ Currently, I am actively particpiating in a **new** AI community: [MLNLP](https:
 ### service
 - ICML 2022
 - NeurIPS 2022
+- KDD 2022
 
 ### Internship
 
