@@ -52,6 +52,8 @@ Currently, I am actively particpiating in a **new** AI community: [MLNLP](https:
 - NeurIPS 2022
 - KDD 2022
 
+### 
+- Host Keynote Session in AITIME: "AI2000: AI young scientist", [[video]](https://www.bilibili.com/video/BV1x94y1d7nL?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click) (An activity invite top AI scientists in China)
 ### Internship
 
 **Microsoft Research Asia (January, 2021 - November, 2021)**
@@ -67,7 +69,8 @@ My achievement in MSRA are:
 
 **Baidu (March, 2022 - now)**
 
-I am now a research intern in search strategy department in Baidu supervised by Lixin Zou.
+I am now a research intern in search strategy department in Baidu supervised by [Lixin Zou](https://www.zoulixin.site/). Now my research topic revolves on debias problem on learning to rank.
+
 
 ### Education
 

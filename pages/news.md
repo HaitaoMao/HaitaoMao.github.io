@@ -3,7 +3,7 @@ permalink: /news/
 title: NEWS
 layout: single
 ---
-- 04/2022: I will host the talks for AI2000.
+- 04/2022: Host Keynote Session in AITIME: "AI2000: AI young scientist", [[video]](https://www.bilibili.com/video/BV1x94y1d7nL?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click) (An activity invite top AI scientists in China. My session include the following scientists: Zhilin Yang, Xin Yang, Jitao Sang, Binkai Huang, Xiang Wang, Jindong Wang, Xiao Wang, Pengshuai Wang, Yuanwei Liu)
 - 03/2022: So glad to join Search strategy department in Baidu
 - 03/2022: So glad to be invited to serve as PC in NeurIPS2022
 - 02/2022: So glad to join [AI TIME](http://www.aitime.cn/) as a volunteer for PhD debate.
