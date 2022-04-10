@@ -9,7 +9,7 @@ I have won **The best short paper award in CIKM2021** as the first author (My fi
 
 My current research interests lies primarily in understanding the blackbox of DNN especially the mechanism of GNN. Revolving on this ultimate goal, I mainly study the following topics : **Adaptative learning on graph-structured data**, **Fundamental Research on Deep Learning** (Initialization strategy, Regularization method), **Financial Knowledge Graph**. 
 
-Currently, I am actively particpiating in a **new** AI community: [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg) which is organized by my good friends: Libo Qin, Qian Liu, Jianan Zhao, Xiangyu Zhao. Welcome to become a member of our community! Also welcome to my visit my Chinese blog at [Zhihu](https://www.zhihu.com/people/que-yue-3-77) with more than 1600 followers. 
+Currently, I am actively particpiating in a **new** AI community: [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg). I am also a hoster in AITIME organized by Tsinghua University. Welcome to my visit my Chinese blog at [Zhihu](https://www.zhihu.com/people/que-yue-3-77) with more than 1700 followers. 
 
 
 
