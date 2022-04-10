@@ -3,7 +3,9 @@ permalink: /me/
 title: ME
 layout: single
 ---
-I am current a final-year undergraduate student of Elite Program, Software Academy at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). I have won **The best short paper award in CIKM2021** as the first author (My first paper in the undergraduate year). I am also an incoming PhD student of Michigan State University supervised by [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html) 
+I am current a final-year undergraduate student of Elite Program, Software Academy at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). 
+I come from the Northeast of China, Heilongjiang, Daqing oil field.
+I have won **The best short paper award in CIKM2021** as the first author (My first paper in the undergraduate year). I am also an incoming PhD student of Michigan State University supervised by [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html) 
 
 My current research interests lies primarily in understanding the blackbox of DNN especially the mechanism of GNN. Revolving on this ultimate goal, I mainly study the following topics : **Adaptative learning on graph-structured data**, **Fundamental Research on Deep Learning** (Initialization strategy, Regularization method), **Financial Knowledge Graph**. 
 
@@ -47,13 +49,16 @@ Currently, I am actively particpiating in a **new** AI community: [MLNLP](https:
 - Click-Through Rate (CTR)
 
 
-### service
+### Service
 - ICML 2022
 - NeurIPS 2022
 - KDD 2022
 
-### 
+### Activity
 - Host Keynote Session in AITIME: "AI2000: AI young scientist", [[video]](https://www.bilibili.com/video/BV1x94y1d7nL?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click) (An activity invite top AI scientists in China)
+- Manage communication group of CIKM2022, NeurIPS2022, more details in [link](https://github.com/MLNLP-World/Top-Conference-WeChat-Group)
+
+
 ### Internship
 
 **Microsoft Research Asia (January, 2021 - November, 2021)**
