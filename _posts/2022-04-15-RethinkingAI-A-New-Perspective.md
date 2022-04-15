@@ -61,3 +61,5 @@ taxonomy: Rethinking AI, A new perspective
 在理论和应用的共同作用下，AI会迈向哲学，从感知计算迈向更高阶的智能。从correlation到causal，从look到do到imagine（what if）。
 
 最后一句话总结我这个博客：让ai回归科学，回归本质的，数学的，哲学的思考，延续ai领域的生命力，让AI走向意识深处。
+
+(能跳脱技术细节，对技术进行抽象，从问题空间重新思考问题是一种很爽的感觉,2333333)
