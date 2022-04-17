@@ -56,7 +56,7 @@ Currently, I am actively particpiating in a **new** AI community: [MLNLP](https:
 
 ### Activity
 - Host Keynote Session in AITIME: "AI2000: AI young scientist", [[video]](https://www.bilibili.com/video/BV1x94y1d7nL?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click) (An activity invite top AI scientists in China)
-- Manage communication group of CIKM2022, NeurIPS2022, more details in [link](https://github.com/MLNLP-World/Top-Conference-WeChat-Group)
+- Manage communication group of CIKM2022, NeurIPS2022, LoG2022, more details in [link](https://github.com/MLNLP-World/Top-Conference-WeChat-Group)
 
 
 ### Internship

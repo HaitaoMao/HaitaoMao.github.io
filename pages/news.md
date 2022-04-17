@@ -3,6 +3,9 @@ permalink: /news/
 title: NEWS
 layout: single
 ---
+- 04/2022: So happy to see new conference on Graph: Learning on Graph [[HomePage]](https://logconference.github.io/#hero). Congratulation to My friend Yuanqi Du, who organize this wonderful organization!
+- 04/2022: Give a talk on Data Science Reading group: An intuitive understanding on DNN. Participants: Yanqiao Zhu, Jianan Zhao, Haonan Wang, Yuanqi Du, Hejie Cui, Yiqiao Jin.
+- 04/2022: Give a talk on MSRA, MSIS seminor, on the topic: Rethinking on out of distribution & generalization problem -- A unify view. Participants: Ze Liu, Libo Qin, Jianan Zhao, Bohan Wang, Wanjun Zhong, Zhiyuan Chen
 - 04/2022: Host Keynote Session in AITIME: "AI2000: AI young scientist", [[video]](https://www.bilibili.com/video/BV1x94y1d7nL?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click) (An activity invite top AI scientists in China. My session include the following scientists: Zhilin Yang, Xin Yang, Jitao Sang, Binkai Huang, Xiang Wang, Jindong Wang, Xiao Wang, Pengshuai Wang, Yuanwei Liu)
 - 03/2022: So glad to join Search strategy department in Baidu
 - 03/2022: So glad to be invited to serve as PC in NeurIPS2022

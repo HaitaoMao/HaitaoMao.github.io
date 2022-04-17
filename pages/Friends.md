@@ -53,9 +53,9 @@ There is no way for me to have any achievements without your help. Sincerely tha
     </li>
     <li>
         <p>
-            <a href="https://andy-border.github.io/">Jianan Zhao</a>
+            <a href="https://andyjzhao.github.io/">Jianan Zhao</a>
             <br>
-            Give me inspiration not only research, but also meditation and guitar.
+            Give me inspiration not only research, but also meditation, guitar, and climbing.
         </p>
     </li>
     <li>
