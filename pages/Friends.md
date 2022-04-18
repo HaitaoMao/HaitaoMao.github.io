@@ -9,6 +9,12 @@ There is no way for me to have any achievements without your help. Sincerely tha
 <ul>
     <li>
         <p>
+            <a href="http://www.cse.msu.edu/~tangjili/index.html">Jiliang Tang</a>: Prof in MSU<br>
+            my best PhD advisor, selfless and with great passion. 
+        </p>
+    </li>
+    <li>
+        <p>
             <a href="https://www.microsoft.com/en-us/research/people/ludu/">Lun Du</a>: Researcher in MSRA<br>
             Mentor? No. More like a good brother can talk freely from the research to everyday life.
         </p>
@@ -99,14 +105,22 @@ There is no way for me to have any achievements without your help. Sincerely tha
 
 
 ## Best group on my research road.
+
 <ul>
     <li>
         <p>
-            <a href="https://jotang.club/jotanger.html">Jotang(caramel) Studio</a>, University of Electronic Science and Technology of China
+            <a href="http://dse.cse.msu.edu/">Data Science and Engineering Lab</a>, Michigan State University
             <br>
-            The best undergraduate studio founded by <a href="https://www.zuozuovera.com/">Xinyue Shen</a> in UESTC. The days spent in Jotang studio is just like the fantastic film slots in dream. Do you also like a cup of coffee with caramel?
-            <img src = "https://pic4.zhimg.com/80/v2-d52e74191f576239e945b80692d5bb0e_720w.jpeg">
-            <img src = "https://pic1.zhimg.com/80/v2-4f45d128734f2ee20fc7e8a6abb5f678_720w.jpeg">
+                I will spent my best PhD adverture on the next coming five years with Prof Jiliang Tang. 
+        </p>
+    </li>
+    <li>
+        <p>
+            Data Science Reading Group
+            <br>
+              This is a reading group organized by Yaoqiao Zhu. I think it is wonderful to meet these exciting young scientists! influence by their great attitude and passion on research. 
+            <br> So glad to have this chance to debate with so many friends: <a href="https://sxkdz.github.io/">Yanqiao Zhu</a>, <a href="https://yuanqidu.github.io/">Yuanqi Du</a>,<a href="https://andyjzhao.github.io/">Jianan Zhao</a>, <a href="https://haonan3.github.io/">Haonan Wang</a>,<a href="https://jieyuz2.github.io/">Jieyu Zhang</a>, Hejie Cui, Yiqiao Jin 
+            <img src = "https://pic4.zhimg.com/80/v2-8ddf8b961575a663a43b9f3af83845ba_1440w.png?source=d16d100b">
         </p>
     </li>
     <li>
@@ -119,4 +133,14 @@ There is no way for me to have any achievements without your help. Sincerely tha
             <img src = "https://pica.zhimg.com/80/v2-5eb03cbc6d11f062577f0306d8ebeaac_720w.jpeg">
         </p>
     </li>
+    <li>
+        <p>
+            <a href="https://jotang.club/jotanger.html">Jotang(caramel) Studio</a>, University of Electronic Science and Technology of China
+            <br>
+            The best undergraduate studio founded by <a href="https://www.zuozuovera.com/">Xinyue Shen</a> in UESTC. The days spent in Jotang studio is just like the fantastic film slots in dream. Do you also like a cup of coffee with caramel?
+            <img src = "https://pic4.zhimg.com/80/v2-d52e74191f576239e945b80692d5bb0e_720w.jpeg">
+            <img src = "https://pic1.zhimg.com/80/v2-4f45d128734f2ee20fc7e8a6abb5f678_720w.jpeg">
+        </p>
+    </li>
+    
 </ul>
