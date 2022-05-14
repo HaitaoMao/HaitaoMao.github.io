@@ -5,7 +5,7 @@ layout: single
 ---
 
 
-# Adaptative learning on graph-structured data
+# Causal Discovery & o.o.d problem
 <ul>
     <li>
       <p>
@@ -40,7 +40,7 @@ layout: single
     <li>
       <p>
         <strong>Neuron with Steady Response Leads to Better Generalization</strong><br>
-        Qiang Fu*, Lun Du*,<strong>Haitao Mao*</strong>, Xu Chen*, Wei Fang*, Shi Han, Dongmei Zhang <br>
+        Qiang Fu*, Lun Du*, <strong>Haitao Mao*</strong>, Xu Chen*, Wei Fang*, Shi Han, Dongmei Zhang <br>
         (first student author) <br>
         Preprint [<a href="https://arxiv.org/pdf/2111.15414.pdf">pdf</a>]
       </p>
@@ -48,4 +48,4 @@ layout: single
 </ul>
 
 
-# Financial Knowledge Graph
+# Others

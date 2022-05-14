@@ -4,10 +4,10 @@ title: ME
 layout: single
 ---
 I am current a final-year undergraduate student of Elite Program, Software Academy at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). 
-I come from the Northeast of China, Heilongjiang, Daqing oil field.
-I have won **The best short paper award in CIKM2021** as the first author (My first paper in the undergraduate year). I am also an incoming PhD student of Michigan State University supervised by [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html) 
+I come from the Northeast of China, Heilongjiang, Daqing.
+I have won **The best short paper award in CIKM2021** as the first author. I am also an incoming PhD student of Michigan State University supervised by [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html) 
 
-My current research interests lies primarily in understanding the blackbox of DNN especially the mechanism of GNN. Revolving on this ultimate goal, I mainly study the following topics : **Adaptative learning on graph-structured data**, **Fundamental Research on Deep Learning** (Initialization strategy, Regularization method), **Financial Knowledge Graph**. 
+My current research interests lies primarily in understanding the blackbox of DNN (Forward process) and the causallity on dataset. Revolving on this ultimate goal, I mainly study the following topics : **Causal discovery on graph-structured data and ranking data**, **Fundamental Research on Deep Learning** (Initialization strategy, Regularization method, Understanding with unify a view). 
 
 Currently, I am actively particpiating in a **new** AI community: [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg). I am also a hoster in AITIME organized by Tsinghua University. Welcome to my visit my Chinese blog at [Zhihu](https://www.zhihu.com/people/que-yue-3-77) with more than 1700 followers. 
 
@@ -36,13 +36,16 @@ Currently, I am actively particpiating in a **new** AI community: [MLNLP](https:
 </ul>
 
 ### Research Interests
-- Adaptative learning on graph-structured data
-- Fundamental Research on Deep Neuron Network especially Graph Neural Network (i.e. initialization strategy, regularization methods)
-- Financial Knowledge Graph
+- Causal Discovery & o.o.d problem on information retrivial and graph-structured data
+- Fundamental Research on Deep Neuron Network especially Graph Neural Network (i.e. initialization strategy, regularization methods, understanding with the unify view)
+
+
 
 
 
 ### Familiar Research Topic
+- Financial Knowledge Graph
+- Controlable molecule generation
 - Knowledge Graph Construction(NER, Document-level relation extraction)
 - Knowledge Graph Completion
 - Session Recommendation System
