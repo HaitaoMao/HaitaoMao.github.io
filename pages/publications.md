@@ -4,7 +4,7 @@ title: Publications
 layout: single
 ---
 
-
+*represents equal contribution.
 # Causal Discovery & o.o.d problem
 <ul>
     <li>
@@ -13,6 +13,13 @@ layout: single
         <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Shi Han, Dongmei Zhang <br>
         Preprint [<a href="https://arxiv.org/pdf/2112.00955.pdf">pdf</a>]
         [<a href="https://huanhuqueyue.github.io/personal-page/categories/sourcefree/">blog</a>]
+      </p>
+    </li>
+    <li>
+      <p>
+        <strong>A Large Scale Search Dataset for Unbiased Learning to Rank </strong><br>
+        Lixin Zou*, <strong>Haitao Mao*</strong>, Xiaokai Chu, Jiliang Tang, Wenwen Ye, Shuaiqiang Wang, Dawei Yin <strong>(first student author)</strong> <br>
+        Preprint [<a href="">pdf</a>] [<a href="">code</a>] 
       </p>
     </li>
 </ul>
@@ -41,7 +48,7 @@ layout: single
       <p>
         <strong>Neuron with Steady Response Leads to Better Generalization</strong><br>
         Qiang Fu*, Lun Du*, <strong>Haitao Mao*</strong>, Xu Chen*, Wei Fang*, Shi Han, Dongmei Zhang <br>
-        (first student author) <br>
+        <strong>(first student author)</strong> <br>
         Preprint [<a href="https://arxiv.org/pdf/2111.15414.pdf">pdf</a>]
       </p>
     </li>

@@ -3,13 +3,17 @@ permalink: /me/
 title: ME
 layout: single
 ---
-I am current a final-year undergraduate student of Elite Program, Software Academy at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). 
-I come from the Northeast of China, Heilongjiang, Daqing.
-I have won **The best short paper award in CIKM2021** as the first author. I am also an incoming PhD student of Michigan State University supervised by [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html) 
+I am a first-year PhD candidate of Michigan State University supervised by [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html).
+And I received my bachelor degree from Elite Program, Software Academy at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. 
+I have won **The best short paper award in CIKM2021** as the first author.  
 
-My current research interests lies primarily in understanding the blackbox of DNN (Forward process) and the causallity on dataset. Revolving on this ultimate goal, I mainly study the following topics : **Causal discovery on graph-structured data and ranking data**, **Fundamental Research on Deep Learning** (Initialization strategy, Regularization method, Understanding with unify a view). 
+My current research interests lies primarily in understanding the blackbox of DNN (forward process) and the causality from a dataset generating process. 
+<strong> I believe </strong>that all the techniques on solving generalization problem, for such as, contrastive learning, meta learning, domain generalization, sharing some similar assumption on the data generating process.
+Revolving on this ultimate goal, I mainly study the following topics : **Causal discovery on graph-structured data and ranking data**, **Fundamental Research on Deep Learning** (Initialization strategy, Regularization method, Understanding with an unify view). 
 
-Currently, I am actively particpiating in a **new** AI community: [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg). I am also a hoster in AITIME organized by Tsinghua University. Welcome to my visit my Chinese blog at [Zhihu](https://www.zhihu.com/people/que-yue-3-77) with more than 1700 followers. 
+I enjoy my life more than research and I am certainly a heavy emotional person with sincerity, which is always thankful to those persons in my life through: relatives, teachers, leaders, precious friends. 
+My interests majorly lies in singing (really good at it), long-distance running, playing guitar. I would like to try all kinds of sports in my spare time.
+
 
 
 
@@ -35,7 +39,7 @@ Currently, I am actively particpiating in a **new** AI community: [MLNLP](https:
     </li>
 </ul>
 
-### Research Interests
+### Major Research Topics
 - Causal Discovery & o.o.d problem on information retrivial and graph-structured data
 - Fundamental Research on Deep Neuron Network especially Graph Neural Network (i.e. initialization strategy, regularization methods, understanding with the unify view)
 
@@ -43,7 +47,7 @@ Currently, I am actively particpiating in a **new** AI community: [MLNLP](https:
 
 
 
-### Familiar Research Topic
+### Familiar Research Interests
 - Financial Knowledge Graph
 - Controlable molecule generation
 - Knowledge Graph Construction(NER, Document-level relation extraction)
@@ -56,8 +60,12 @@ Currently, I am actively particpiating in a **new** AI community: [MLNLP](https:
 - ICML 2022
 - NeurIPS 2022
 - KDD 2022
+- CIKM 2022
+- WSDM 2022
 
-### Activity
+### Recent Activity
+I am actively particpiating in a **new** AI community: [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg). I am also a hoster in [AITIME](http://www.aitime.cn/). Welcome to my visit my Chinese blog at [Zhihu](https://www.zhihu.com/people/que-yue-3-77) with more than 1700 followers. New blogs in English are now moved into this website.
+
 - Host Keynote Session in AITIME: "AI2000: AI young scientist", [[video]](https://www.bilibili.com/video/BV1x94y1d7nL?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click) (An activity invite top AI scientists in China)
 - Manage communication group of CIKM2022, NeurIPS2022, LoG2022, more details in [link](https://github.com/MLNLP-World/Top-Conference-WeChat-Group)
 
@@ -77,12 +85,12 @@ My achievement in MSRA are:
 
 **Baidu (March, 2022 - now)**
 
-I am now a research intern in search strategy department in Baidu supervised by [Lixin Zou](https://www.zoulixin.site/). Now my research topic revolves on debias problem on learning to rank.
+I am now a research intern in search strategy department in Baidu supervised by [Lixin Zou](https://www.zoulixin.site/). Now my research topic in Baidu is Unbiased Learning To Rank.
 
 
 ### Education
 
-**University of Electronic Science and Technology of China  (September 2018 - present)**
+**University of Electronic Science and Technology of China  (September 2018 - June 2022)**
 
 I major in the software and fortunately be selected as a member of Elite program (the international class). And I am among the most excellent students in my academic. 
 
@@ -91,6 +99,7 @@ My achievement in UESTC are:
 - Two report on the offical website of UESTC and a report in Xinhua website
   - [因为热爱所以拼搏，全奖直博的他，成电四年很精彩！](https://mp.weixin.qq.com/s/CMcPWZ1YTafE8CUQcA619Q) 
   - [软件学院本科生在数据挖掘领域顶级会议CIKM上发表论文并获最佳短文奖](https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=81841)
+- Won the Sichuan Provincial Outstanding Graduate title.
 - The **first place** in-class performance (1/58) with an average score of 91.29 and GPA of 3.97.
 - Won the **national first prize** in China Software Cup (20/45000). [[Github](https://github.com/xiaobao520123/EnterpriseNavigator)]
 - Won the **A+** performance (4/40) on the summer camp of **Nation University of Singorpore, School of computing**. 

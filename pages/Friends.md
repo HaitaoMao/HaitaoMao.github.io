@@ -10,7 +10,13 @@ There is no way for me to have any achievements without your help. Sincerely tha
     <li>
         <p>
             <a href="http://www.cse.msu.edu/~tangjili/index.html">Jiliang Tang</a>: Prof in MSU<br>
-            my best PhD advisor, selfless and with great passion. 
+            my PhD advisor, selfless and with great passion. 
+        </p>
+    </li>
+    <li>
+        <p>
+            <a href="https://www.zoulixin.site">Lixin Zou</a>: Research Scientist in Baidu<br>
+            A modest and really hard working mentor.
         </p>
     </li>
     <li>
@@ -38,6 +44,7 @@ There is no way for me to have any achievements without your help. Sincerely tha
         </p>
     </li>
 </ul>
+Additional thanks to other brilliant researchers and advisors help me on my research road: Justin Ding, Shihan Zhang, Yong Liao.
 
 
 
@@ -144,3 +151,19 @@ There is no way for me to have any achievements without your help. Sincerely tha
     </li>
     
 </ul>
+
+
+## My best Undergraduate Friends.
+Thanks to those friends fullfill my wonderful undergraduate life.
+They are Mingxu Xu, Ruijia Wen, Wei Li, Hangyue Li, Yilong Wu, Zhong Zheng, Yuhang Wu, Hanlin Lan, Ninghui Zhu, Yu Kang, Qian Ma, Hao Zhao, Ruisi Zhao, Yang Xu, Haicheng Liao, Xiaohao Xu, Jiacheng Liang, Xingyu Fan, Bochuan Cao.  
+
+
+<img src="https://pic1.zhimg.com/80/v2-fd918d1f30f8a257c2917cac08a8f8cb_1440w.png?source=d16d100b">
+<img src="https://pic3.zhimg.com/80/v2-67c1d4ceafa524ebc350ed642e00bcb8_1440w.png?source=d16d100b">
+<img src="https://pic1.zhimg.com/80/v2-b074ecdbdc6fdd5e5148f9be55218e53_1440w.png?source=d16d100b">
+<img src="https://pic1.zhimg.com/80/v2-196053d7d60bb96f1a3fb315e688334e_1440w.png?source=d16d100b">
+<img src="https://pic3.zhimg.com/80/v2-d57a66f2c079175696322853b589868e_1440w.png?source=d16d100b">
+<img src="https://pica.zhimg.com/80/v2-5ff5be53553e3337a70fd1c61231733d_1440w.png?source=d16d100b">
+<img src="https://pic3.zhimg.com/80/v2-f36c2fe235491a900849d6b8914c81e1_1440w.png?source=d16d100b">
+<img src="https://pic1.zhimg.com/80/v2-82503836567f87ee12fac2d0cb2e0bee_1440w.png?source=d16d100b">
+<img src="https://pic3.zhimg.com/80/v2-db82a5e2711bc9065be889bc45300f1b_1440w.png?source=d16d100b">
