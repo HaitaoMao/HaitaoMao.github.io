@@ -8,8 +8,9 @@ And I received my bachelor degree from Elite Program, Software Academy at [Unive
 I have won **The best short paper award in CIKM2021** as the first author.  
 
 My current research interests lies primarily in understanding the blackbox of DNN (forward process) and the causality from a dataset generating process. 
-<strong> I believe </strong>that all the techniques on solving generalization problem, for such as, contrastive learning, meta learning, domain generalization, sharing some similar assumption on the data generating process.
-Revolving on this ultimate goal, I mainly study the following topics : **Causal discovery on graph-structured data and ranking data**, **Fundamental Research on Deep Learning** (Initialization strategy, Regularization method, Understanding with an unify view). 
+<strong> I believe </strong>that all the techniques on solving generalization problem, for such as, contrastive learning, meta learning, domain generalization, sharing some similar assumption on the data generating process. 
+(I think Matrix Factorization can be a good tool for solving the problem.)
+Revolving on this ultimate goal, I mainly study the following topics : **Causal discovery and o.o.d problem on graph-structured data and ranking data**, **Fundamental Research on Deep Learning** (Initialization strategy, Regularization method, Understanding with an unify view). 
 
 I enjoy my life more than research and I am certainly a heavy emotional person with sincerity, which is always thankful to those persons in my life through: relatives, teachers, leaders, precious friends. 
 My interests majorly lies in singing (really good at it), long-distance running, playing guitar. I would like to try all kinds of sports in my spare time.
@@ -58,7 +59,7 @@ My interests majorly lies in singing (really good at it), long-distance running,
 
 ### Service
 - ICML 2022
-- NeurIPS 2022
+- NeurIPS 2022 (including one workshop)
 - KDD 2022
 - CIKM 2022
 - WSDM 2022
@@ -67,14 +68,14 @@ My interests majorly lies in singing (really good at it), long-distance running,
 I am actively particpiating in a **new** AI community: [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg). I am also a hoster in [AITIME](http://www.aitime.cn/). Welcome to my visit my Chinese blog at [Zhihu](https://www.zhihu.com/people/que-yue-3-77) with more than 1700 followers. New blogs in English are now moved into this website.
 
 - Host Keynote Session in AITIME: "AI2000: AI young scientist", [[video]](https://www.bilibili.com/video/BV1x94y1d7nL?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click) (An activity invite top AI scientists in China)
-- Manage communication group of CIKM2022, NeurIPS2022, LoG2022, more details in [link](https://github.com/MLNLP-World/Top-Conference-WeChat-Group)
+- Manage communication group of CIKM2022, NeurIPS2022, LoG2022, WSDM2023, more details in [link](https://github.com/MLNLP-World/Top-Conference-WeChat-Group)
 
 
 ### Internship
 
 **Microsoft Research Asia (January, 2021 - November, 2021)**
 
-I was the first post-2000s generation research intern in the [Data Knowledge Intelligent Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) (Used to be called Software Analysis Group) leaded by [Dongmei Zhang]([Dongmei Zhang at Microsoft Research](https://www.microsoft.com/en-us/research/people/dongmeiz/)). Fortunately I was guided by Principal Researcher [Qiang Fu](https://scholar.google.com/citations?hl=en&user=bwTLZSIAAAAJ), Researcher [Lun Du](https://scholar.google.com/citations?user=3XUANDAAAAAJ&hl=en&oi=ao), and Senior Principal Researcher Manager [Shi Han](https://www.microsoft.com/en-us/research/people/shihan/). And my research topic in MSRA are: initialization strategy, regularization method, Unsupervised Domain Adaptation on Graph. 
+I was the first post-2000s generation research intern in the [Data Knowledge Intelligent Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) (Used to be called Software Analysis Group) leaded by [Dongmei Zhang]([Dongmei Zhang at Microsoft Research](https://www.microsoft.com/en-us/research/people/dongmeiz/)). Fortunately I was guided by Principal Researcher [Qiang Fu](https://scholar.google.com/citations?hl=en&user=bwTLZSIAAAAJ), Researcher [Lun Du](https://scholar.google.com/citations?user=3XUANDAAAAAJ&hl=en&oi=ao), and Senior Principal Researcher Manager [Shi Han](https://www.microsoft.com/en-us/research/people/shihan/). And my research topic in MSRA are: initialization strategy, regularization method, Unsupervised Domain Adaptation on Graph with three paper published. 
 
 My achievement in MSRA are:
 
@@ -85,7 +86,7 @@ My achievement in MSRA are:
 
 **Baidu (March, 2022 - now)**
 
-I am now a research intern in search strategy department in Baidu supervised by [Lixin Zou](https://www.zoulixin.site/). Now my research topic in Baidu is Unbiased Learning To Rank.
+I am now a research intern in search strategy department in Baidu supervised by [Lixin Zou](https://www.zoulixin.site/). Now my research topic in Baidu is Unbiased Learning To Rank. I am expected to have four or five paper published in this period. 
 
 
 ### Education

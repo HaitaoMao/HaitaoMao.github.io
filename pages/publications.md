@@ -19,7 +19,9 @@ layout: single
       <p>
         <strong>A Large Scale Search Dataset for Unbiased Learning to Rank </strong><br>
         Lixin Zou*, <strong>Haitao Mao*</strong>, Xiaokai Chu, Jiliang Tang, Wenwen Ye, Shuaiqiang Wang, Dawei Yin <strong>(first student author)</strong> <br>
-        Preprint [<a href="">pdf</a>] [<a href="">code</a>] 
+        Preprint [<a href="https://arxiv.org/pdf/2207.03051.pdf">pdf</a>] 
+        [<a href="https://github.com/ChuXiaokai/baidu_ultr_dataset">code</a>] <br>
+        This dataset has sent proposal to WSDM2023 cup, see you then.
       </p>
     </li>
 </ul>

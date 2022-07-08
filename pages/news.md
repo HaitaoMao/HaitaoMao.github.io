@@ -3,7 +3,7 @@ permalink: /news/
 title: NEWS
 layout: single
 ---
-- 07/2022: I host a PhD debate about backdoor attack in deep learning. See the link
+- 07/2022: I host a PhD debate about backdoor attack in deep learning. See in [link](https://mp.weixin.qq.com/s/jdtu5vRiMVRaTg1A1y8Ihg)
 - 06/2022: So glad to be invited to serve as PC of WSDM2023.
 - 06/2022: Give a talk on Data Science Reading group: An intuitive introduction on causal discovery.
 - 06/2022: I won the Sichuan Provincial Outstanding Graduate title.
