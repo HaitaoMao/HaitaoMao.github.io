@@ -3,7 +3,7 @@ permalink: /news/
 title: NEWS
 layout: single
 ---
-- 07/2022: I host a PhD debate about backdoor attack in deep learning. See in [link](https://mp.weixin.qq.com/s/jdtu5vRiMVRaTg1A1y8Ihg)
+- 07/2022: I host a PhD debate about backdoor attack in deep learning. See in [link](https://mp.weixin.qq.com/s/jdtu5vRiMVRaTg1A1y8Ihg) [video](https://www.bilibili.com/video/BV1qT411g7Cq?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054). It is happy to see that there are 22,189 persons watch our live discussion online.
 - 06/2022: So glad to be invited to serve as PC of WSDM2023.
 - 06/2022: Give a talk on Data Science Reading group: An intuitive introduction on causal discovery.
 - 06/2022: I won the Sichuan Provincial Outstanding Graduate title.
@@ -11,7 +11,7 @@ layout: single
 - 04/2022: So happy to see new conference on Graph: Learning on Graph [[HomePage]](https://logconference.github.io/#hero). Congratulation to My friend Yuanqi Du, who organize this wonderful organization!
 - 04/2022: Give a talk on Data Science Reading group: An intuitive understanding on DNN. Participants: Yanqiao Zhu, Jianan Zhao, Haonan Wang, Yuanqi Du, Hejie Cui, Yiqiao Jin.
 - 04/2022: Give a talk on MSRA, MSIS seminor, on the topic: Rethinking on out of distribution & generalization problem -- A unify view. Participants: Ze Liu, Libo Qin, Jianan Zhao, Bohan Wang, Wanjun Zhong, Zhiyuan Chen
-- 04/2022: Host Keynote Session in AITIME: "AI2000: AI young scientist", [[video]](https://www.bilibili.com/video/BV1x94y1d7nL?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click) (An activity invite top AI scientists in China. My session include the following scientists: Zhilin Yang, Xin Yang, Jitao Sang, Binkai Huang, Xiang Wang, Jindong Wang, Xiao Wang, Pengshuai Wang, Yuanwei Liu)
+- 04/2022: Host Keynote Session in AITIME: "AI2000: AI young scientist", [[video]](https://www.bilibili.com/video/BV1x94y1d7nL?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click) (An activity invite top AI scientists in China. My session include the following scientists: Zhilin Yang, Xin Yang, Jitao Sang, Binkai Huang, Xiang Wang, Jindong Wang, Xiao Wang, Pengshuai Wang, Yuanwei Liu). It is happy to see that there are more than 90,000 persons watch our live discussion online.
 - 03/2022: So glad to join Search strategy department in Baidu
 - 03/2022: So glad to be invited to serve as PC of NeurIPS2022
 - 02/2022: So glad to join [AI TIME](http://www.aitime.cn/) as a volunteer for PhD debate.
