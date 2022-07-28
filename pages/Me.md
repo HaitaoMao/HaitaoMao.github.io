@@ -20,7 +20,7 @@ My interests majorly lies in singing (really good at it), long-distance running,
       <p>
         <strong> Neuron Campaign for Initialization Guided by Information Bottleneck Theory </strong><br>
         <strong>CIKM2021 Best Short Paper</strong><br>
-        <strong>Haitao Mao*</strong>, Xu Chen*, Qiang Fu*, Lun Du*, Han Shi, Dongmei Zhang <br>
+        <strong>Haitao Mao*</strong>, Xu Chen*, Qiang Fu*, Lun Du*, Shi Han, Dongmei Zhang <br>
         [<a href="https://arxiv.org/pdf/2108.06530.pdf">pdf</a>]
         [<a href="https://github.com/huanhuqueyue/CIKM-IBCI">github</a>]
         [<a href="https://huanhuqueyue.github.io/personal-page/categories/neuronCampaign/">blog</a>]
@@ -58,12 +58,13 @@ My interests majorly lies in singing (really good at it), long-distance running,
 - NeurIPS 2022 (including one workshop)
 - KDD 2022
 - CIKM 2022
-- WSDM 2022
+- WSDM 2023
 
 ### Recent Activity
 I am actively particpiating in a **new** AI community: [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg). I am also a hoster in [AITIME](http://www.aitime.cn/). Welcome to my visit my Chinese blog at [Zhihu](https://www.zhihu.com/people/que-yue-3-77) with more than 1700 followers. New blogs in English are now moved into this website.
 
-- Host Keynote Session in AITIME: "AI2000: AI young scientist", [[video]](https://www.bilibili.com/video/BV1x94y1d7nL?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click) (An activity invite top AI scientists in China)
+- Serve as the committee member to host the 9th seminar of MLNLP community. Looking forward to your participation! [[news]](https://mp.weixin.qq.com/s/EgeR0ZAooS805wvNc5K6Ug)
+- I host a PhD debate about the backdoor attack in deep learning. See in [link](https://mp.weixin.qq.com/s/jdtu5vRiMVRaTg1A1y8Ihg) [video](https://www.bilibili.com/video/BV1qT411g7Cq?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054). It is happy to see that there are 22,189 persons watching our live discussion online.
 - Manage communication group of CIKM2022, NeurIPS2022, LoG2022, WSDM2023, more details in [link](https://github.com/MLNLP-World/Top-Conference-WeChat-Group)
 
 
@@ -82,10 +83,19 @@ My achievement in MSRA are:
 
 **Baidu (March, 2022 - now)**
 
-I am now a research intern in search strategy department in Baidu supervised by [Lixin Zou](https://www.zoulixin.site/). Now my research topic in Baidu is Unbiased Learning To Rank. I am expected to have four or five paper published in this period. 
+I am now a research intern in search strategy department in Baidu supervised by [Lixin Zou](https://www.zoulixin.site/). Now my research topic in Baidu is Unbiased Learning To Rank. I am still focusing on the unifed view on Graph Neural Network.
+If as expected, my achievement in Baidu will be:
+
+- One dataset paper on Unbiased Learning to rank problem. The paper will provide new practical challenges on this task.
+- Host the WSDM CUP on the above practical dataset.
+- One full paper for causal disocvery on unbiased learning to rank problem.
+- One abstract paper for an unified view on graph neural network.
 
 
 ### Education
+**Michigan State University (September 2022 - present)**
+
+I am a Ph.D. candidate in DSE lab at Michigan State University, supervised by [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). 
 
 **University of Electronic Science and Technology of China  (September 2018 - June 2022)**
 
