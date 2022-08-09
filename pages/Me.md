@@ -3,6 +3,7 @@ permalink: /me/
 title: ME
 layout: single
 ---
+来小毛给他整个🔥，草！走！忽略 ጿ ኈ ቼ ዽ ጿ
 
 I am a first-year Ph.D. candidate at Michigan State University supervised by [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I have won **the best short paper award in CIKM2021** as the first author.
 
@@ -55,10 +56,11 @@ My interests majorly lies in singing (really good at it), long-distance running,
 
 ### Service
 - ICML 2022
-- NeurIPS 2022 (including one workshop)
+- NeurIPS 2022 (additionalone workshop)
 - KDD 2022
 - CIKM 2022
 - WSDM 2023
+- AAAI 2023
 
 ### Recent Activity
 I am actively particpiating in a **new** AI community: [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg). I am also a hoster in [AITIME](http://www.aitime.cn/). Welcome to my visit my Chinese blog at [Zhihu](https://www.zhihu.com/people/que-yue-3-77) with more than 1700 followers. New blogs in English are now moved into this website.
@@ -79,8 +81,8 @@ My achievement in MSRA are:
 - Get the star of tomorrow award (top 10% intern)
 - Get the CIKM2021 best short paper award as the first author.
 - Participate in the KDD CUP2021 to handle large-scale graph and get the rank of 23th
-- Help Jianan Zhao to found our guitar club in MSRA.
-
+- Co-founded MS-Intern Guitar Club with Jianan Zhao.
+- 
 **Baidu (March, 2022 - now)**
 
 I am now a research intern in search strategy department in Baidu supervised by [Lixin Zou](https://www.zoulixin.site/). Now my research topic in Baidu is Unbiased Learning To Rank. I am still focusing on the unifed view on Graph Neural Network.

@@ -3,14 +3,14 @@ permalink: /news/
 title: NEWS
 layout: single
 ---
-- 07/2022: I will serve as a session chair in the 11th MLNLP talk
+- 08/2022 It is happy to serve as the committee member to host the 9th seminar of MLNLP community. Looking forward to your participation! [[news]](https://mp.weixin.qq.com/s/EgeR0ZAooS805wvNc5K6Ug)
 - 07/2022: I host a PhD debate about the backdoor attack in deep learning. See in [link](https://mp.weixin.qq.com/s/jdtu5vRiMVRaTg1A1y8Ihg) [video](https://www.bilibili.com/video/BV1qT411g7Cq?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054). It is happy to see that there are 22,189 persons watching our live discussion online.
 - 06/2022: So glad to be invited to serve as PC of WSDM2023.
 - 06/2022: Give a talk on Data Science Reading group: An intuitive introduction on causal discovery.
 - 06/2022: I won the Sichuan Provincial Outstanding Graduate title.
 - 06/2022: I graduate from Software Academy at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). I am really sad for leaving so many good friends in my undergraduate life. (Much tears these days)
 - 04/2022: So happy to see new the conference on Graph: Learning on Graph [[HomePage]](https://logconference.github.io/#hero). Congratulation to My friend Yuanqi Du, and Yanqiao Zhu, who organize this wonderful organization!
-- 04/2022: Give a talk on Data Science Reading group: An intuitive understanding o\f DNN. Participants: Yanqiao Zhu, Jianan Zhao, Haonan Wang, Yuanqi Du, Hejie Cui, Yiqiao Jin.
+- 04/2022: Give a talk on Data Science Reading group: An intuitive understanding of DNN. Participants: Yanqiao Zhu, Jianan Zhao, Haonan Wang, Yuanqi Du, Hejie Cui, Yiqiao Jin.
 - 04/2022: Give a talk on MSRA, MSIS seminar, on the topic: Rethinking on out of distribution & generalization problem -- A unified view. Participants: Ze Liu, Libo Qin, Jianan Zhao, Bohan Wang, Wanjun Zhong, Zhiyuan Chen
 - 04/2022: Host Keynote Session in AITIME: "AI2000: AI young scientist", [[video]](https://www.bilibili.com/video/BV1x94y1d7nL?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click) (An activity that invites top AI scientists in China. My session include the following scientists: Zhilin Yang, Xin Yang, Jitao Sang, Binkai Huang, Xiang Wang, Jindong Wang, Xiao Wang, Pengshuai Wang, Yuanwei Liu). It is happy to see that there are more than 90,000 persons watch our live discussion online.
 - 03/2022: So glad to join the Search strategy department in Baidu
