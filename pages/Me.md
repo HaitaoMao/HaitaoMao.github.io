@@ -56,18 +56,25 @@ My interests majorly lies in singing (really good at it), long-distance running,
 
 ### Service
 - ICML 2022
-- NeurIPS 2022 (additionalone workshop)
+- NeurIPS 2022 (main conference & TGL workshop)
 - KDD 2022
 - CIKM 2022
 - WSDM 2023
 - AAAI 2023
 
-### Recent Activity
-I am actively particpiating in a **new** AI community: [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg). I am also a hoster in [AITIME](http://www.aitime.cn/). Welcome to my visit my Chinese blog at [Zhihu](https://www.zhihu.com/people/que-yue-3-77) with more than 1700 followers. New blogs in English are now moved into this website.
+### Activity
 
-- Serve as the committee member to host the 9th seminar of MLNLP community. Looking forward to your participation! [[news]](https://mp.weixin.qq.com/s/EgeR0ZAooS805wvNc5K6Ug)
-- I host a PhD debate about the backdoor attack in deep learning. See in [link](https://mp.weixin.qq.com/s/jdtu5vRiMVRaTg1A1y8Ihg) [video](https://www.bilibili.com/video/BV1qT411g7Cq?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054). It is happy to see that there are 22,189 persons watching our live discussion online.
-- Manage communication group of CIKM2022, NeurIPS2022, LoG2022, WSDM2023, more details in [link](https://github.com/MLNLP-World/Top-Conference-WeChat-Group)
+I am a hoster in [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg) and [AITIME](http://www.aitime.cn/). Feel free to contact me if you need a hoster.
+
+
+I have hosted talks as follows:
+- AITIME PhD debate about the low-level vision.
+- AITIME PhD debate about the backdoor attack in deep learning. [video](https://www.bilibili.com/video/BV1qT411g7Cq?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054). (more than 24,000 view)
+- "AI2000: AI young scientist", [[video]](https://www.bilibili.com/video/BV1x94y1d7nL?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click) (more than 90,000 view)
+- The 9th seminar of MLNLP community. [[video]](https://www.bilibili.com/video/BV1wB4y1r7fa?spm_id_from=333.337.search-card.all.click)
+
+
+Manage communication group of CIKM2022, NeurIPS2022, LoG2022, WSDM2023, more details in [link](https://github.com/MLNLP-World/Top-Conference-WeChat-Group)
 
 
 ### Internship
@@ -91,11 +98,10 @@ If as expected, my achievement in Baidu will be:
 - One dataset paper on Unbiased Learning to rank problem. The paper will provide new practical challenges on this task.
 - Host the WSDM CUP on the above practical dataset.
 - One full paper for causal disocvery on unbiased learning to rank problem.
-- One abstract paper for an unified view on graph neural network.
 
 
 ### Education
-**Michigan State University (September 2022 - present)**
+**Michigan State University (August 2022 - present)**
 
 I am a Ph.D. candidate in DSE lab at Michigan State University, supervised by [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). 
 
