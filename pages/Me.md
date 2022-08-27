@@ -64,7 +64,7 @@ My interests majorly lies in singing (really good at it), long-distance running,
 
 ### Activity
 
-I am a hoster in [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg) and [AITIME](http://www.aitime.cn/). Feel free to contact me if you need a hoster.
+I am a host in [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg) and [AITIME](http://www.aitime.cn/). Feel free to contact me if you need a hoster.
 
 
 I have hosted talks as follows:
