@@ -5,7 +5,7 @@ layout: single
 ---
 来小毛给他整个🔥，草！走！忽略 ጿ ኈ ቼ ዽ ጿ
 
-I am a first-year Ph.D. candidate at Michigan State University supervised by [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I have won **the best short paper award in CIKM2021** as the first author.
+I am a first-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I have won **the best short paper award in CIKM2021** as the first author.
 
 My current research interests lie primarily in understanding the black box of DNN (forward process) and the causality of a dataset-generating process. **I believe** that all the techniques for solving the generalization problem, such as contrastive learning, meta-learning, and domain generalization, share some similar assumptions on the data generating process. (I think Matrix Factorization can be a good tool for solving the problem.) Revolving on this ultimate goal, I mainly study the following topics: **Causal discovery and o.o.d problem on graph-structured data and ranking data**, **Fundamental Research on Deep Learning**(Initialization strategy, Regularization method, Understanding with an unified view).
 
@@ -64,17 +64,18 @@ My interests majorly lies in singing (really good at it), long-distance running,
 
 ### Activity
 
-I am a host in [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg) and [AITIME](http://www.aitime.cn/). Feel free to contact me if you need a hoster.
+I am a host in [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg) and [AITIME](http://www.aitime.cn/). Feel free to contact me if you need a host.
 
 
 I have hosted talks as follows:
-- AITIME PhD debate about the low-level vision.
+- AITIME PhD debate about the low-level vision.[video](https://www.bilibili.com/video/BV1aP4y1f7mG?vd_source=85bb42770c1036d2fc85b057595f1054) (more than 17,000 view)
 - AITIME PhD debate about the backdoor attack in deep learning. [video](https://www.bilibili.com/video/BV1qT411g7Cq?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054). (more than 24,000 view)
-- "AI2000: AI young scientist", [[video]](https://www.bilibili.com/video/BV1x94y1d7nL?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click) (more than 90,000 view)
 - The 9th seminar of MLNLP community. [[video]](https://www.bilibili.com/video/BV1wB4y1r7fa?spm_id_from=333.337.search-card.all.click)
+- "AI2000: AI young scientist", [[video]](https://www.bilibili.com/video/BV1x94y1d7nL?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click) (more than 90,000 view)
 
 
 Manage communication group of CIKM2022, NeurIPS2022, LoG2022, WSDM2023, more details in [link](https://github.com/MLNLP-World/Top-Conference-WeChat-Group)
+
 
 
 ### Internship
