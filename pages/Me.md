@@ -66,7 +66,6 @@ My interests majorly lies in singing (really good at it), long-distance running,
 
 I am a host in [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg) and [AITIME](http://www.aitime.cn/). Feel free to contact me if you need a host.
 
-
 I have hosted talks as follows:
 - AITIME PhD debate about the low-level vision.[video](https://www.bilibili.com/video/BV1aP4y1f7mG?vd_source=85bb42770c1036d2fc85b057595f1054) (more than 17,000 view)
 - AITIME PhD debate about the backdoor attack in deep learning. [video](https://www.bilibili.com/video/BV1qT411g7Cq?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054). (more than 24,000 view)
@@ -74,7 +73,9 @@ I have hosted talks as follows:
 - "AI2000: AI young scientist", [[video]](https://www.bilibili.com/video/BV1x94y1d7nL?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click) (more than 90,000 view)
 
 
-Manage communication group of CIKM2022, NeurIPS2022, LoG2022, WSDM2023, more details in [link](https://github.com/MLNLP-World/Top-Conference-WeChat-Group)
+Thanks to my friend Yuanqi Du for invitation, I and Bohan Wang will contribute to the [AI4Science101 project](ai4science101.deepmodeling.com). We really appreciate Yuanqi for he is always doing something to change the world
+
+I also Manage communication group of CIKM2022, NeurIPS2022, LoG2022, WSDM2023 in MLNLP, more details in [link](https://github.com/MLNLP-World/Top-Conference-WeChat-Group)
 
 
 

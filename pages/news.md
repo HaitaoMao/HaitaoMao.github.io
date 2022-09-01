@@ -5,7 +5,7 @@ layout: single
 ---
 
 
-- 08/2022: Thanks to my friend Yuanqi Du for invitation, I and Bohan Wang will contribute to the [AI4Science101 project](ai4science101.deepmodeling.com). We really appreciate Yuanqi for he is always doing something to change the world
+- 08/2022: Thanks to my friend Yuanqi Du for invitation, I and Bohan Wang will contribute to the [AI4Science101 project](ai4science101.deepmodeling.com). We really appreciate Yuanqi for he is always doing something to change the world.
 - 08/2022: Our proposal has been accepted by WSDM CUP2023, hope to see you in WSDM this year.
 - 08/2022: I host a PhD debate about the low-level vision. See in [video](https://www.bilibili.com/video/BV1aP4y1f7mG?vd_source=85bb42770c1036d2fc85b057595f1054) (more than 17,000 view).
 - 08/2022: I arrive at east lansing and start my life as a Ph.D. Student
