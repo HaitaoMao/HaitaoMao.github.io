@@ -36,3 +36,6 @@ layout: single
 - 08/2021: Our short paper **Neuron Campaign for Initialization Guided by Information Bottleneck Theory** is accepted by CIKM2021
 - 06/2021: Our team achieve 23-th place in KDD CUP on the node classification task
 - 12/2020: I join Microsoft Research Asia as a research Intern
+
+
+

@@ -12,7 +12,8 @@ My current research interests lie primarily in understanding the black box of DN
 I enjoy my life more than research and I am certainly a heavy emotional person with sincerity, which is always thankful to those persons in my life through: relatives, teachers, leaders, precious friends. 
 My interests majorly lies in singing (really good at it), long-distance running, playing guitar. I would like to try all kinds of sports in my spare time.
 
-
+### Course
+Encouraged by some of my good friends, I would like to provide my effor to change the Graph Community. I actively start up a new course called [Encouraging Graph Neural Network](https://huanhuqueyue.github.io/Encouraging-Graph-Neural-Network/). The course aims to bridge the gap between the brief introduction and the newest advanced semaniar. It provides history on the related works on GNN and more foundation concepts.
 
 
 ### Selected publication
@@ -56,7 +57,7 @@ My interests majorly lies in singing (really good at it), long-distance running,
 
 ### Service
 - ICML 2022
-- NeurIPS 2022 (main conference & TGL workshop)
+- NeurIPS 2022 (main conference & [TGL workshop](https://sites.google.com/view/tglworkshop2022/home))
 - KDD 2022
 - CIKM 2022
 - WSDM 2023
@@ -67,6 +68,7 @@ My interests majorly lies in singing (really good at it), long-distance running,
 I am a host in [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg) and [AITIME](http://www.aitime.cn/). Feel free to contact me if you need a host.
 
 I have hosted talks as follows:
+- Incoming AITIME PhD debate about theory in Deep Learning. Looking forward to it.
 - AITIME PhD debate about the low-level vision.[video](https://www.bilibili.com/video/BV1aP4y1f7mG?vd_source=85bb42770c1036d2fc85b057595f1054) (more than 17,000 view)
 - AITIME PhD debate about the backdoor attack in deep learning. [video](https://www.bilibili.com/video/BV1qT411g7Cq?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054). (more than 24,000 view)
 - The 9th seminar of MLNLP community. [[video]](https://www.bilibili.com/video/BV1wB4y1r7fa?spm_id_from=333.337.search-card.all.click)
@@ -91,15 +93,16 @@ My achievement in MSRA are:
 - Get the CIKM2021 best short paper award as the first author.
 - Participate in the KDD CUP2021 to handle large-scale graph and get the rank of 23th
 - Co-founded MS-Intern Guitar Club with Jianan Zhao.
-- 
-**Baidu (March, 2022 - now)**
+  
 
-I am now a research intern in search strategy department in Baidu supervised by [Lixin Zou](https://www.zoulixin.site/). Now my research topic in Baidu is Unbiased Learning To Rank. I am still focusing on the unifed view on Graph Neural Network.
-If as expected, my achievement in Baidu will be:
+**Baidu (March, 2022 - September, 2022)**
+
+I am a research intern in search strategy department in Baidu supervised by [Lixin Zou](https://www.zoulixin.site/). Now my research topic in Baidu is Unbiased Learning To Rank. I am still focusing on the unifed view on Graph Neural Network.
+If as expected, my achievements in Baidu are:
 
 - One dataset paper on Unbiased Learning to rank problem. The paper will provide new practical challenges on this task.
-- Host the WSDM CUP on the above practical dataset.
-- One full paper for causal disocvery on unbiased learning to rank problem.
+- Host the WSDM CUP on the above dataset.
+- One full paper for causal disocvery on unbiased learning to rank problem (baseline for the above dataset).
 
 
 ### Education
