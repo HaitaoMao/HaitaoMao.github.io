@@ -91,6 +91,7 @@ My achievement in MSRA are:
 
 - Get the star of tomorrow award (top 10% intern)
 - Get the CIKM2021 best short paper award as the first author.
+- One paper about regularization term accepted by Neurips2022 as the co-first author and first student author.
 - Participate in the KDD CUP2021 to handle large-scale graph and get the rank of 23th
 - Co-founded MS-Intern Guitar Club with Jianan Zhao.
   

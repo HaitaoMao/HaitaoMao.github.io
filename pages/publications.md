@@ -49,9 +49,11 @@ layout: single
     <li>
       <p>
         <strong>Neuron with Steady Response Leads to Better Generalization</strong><br>
-        Qiang Fu*, Lun Du*, <strong>Haitao Mao*</strong>, Xu Chen*, Wei Fang*, Shi Han, Dongmei Zhang <br>
-        <strong>(first student author)</strong> <br>
-        Preprint [<a href="https://arxiv.org/pdf/2111.15414.pdf">pdf</a>]
+        <strong>First student author & Co-first Author</strong> <br>
+        Qiang Fu*, Lun Du*, <strong>Haitao Mao*</strong>, Xu Chen, Wei Fang, Shi Han, Dongmei Zhang <br>
+        <strong> Neurips2022</strong><br> 
+        [<a href="https://arxiv.org/pdf/2111.15414.pdf">pdf</a>]
+        [<a href="https://github.com/huanhuqueyue/Neuron_Steadiness_Regularization">code</a>]
       </p>
     </li>
 </ul>
