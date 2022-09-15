@@ -4,7 +4,7 @@ title: Publications
 layout: single
 ---
 
-*represents equal contribution.
+*represents equal contribution. Co-first authors in name alphabetical order.
 # Causal Discovery & o.o.d problem
 <ul>
     <li>
@@ -18,7 +18,7 @@ layout: single
     <li>
       <p>
         <strong>A Large Scale Search Dataset for Unbiased Learning to Rank </strong><br>
-        Lixin Zou*, <strong>Haitao Mao*</strong>, Xiaokai Chu, Jiliang Tang, Wenwen Ye, Shuaiqiang Wang, Dawei Yin <strong>(first student author)</strong> <br>
+        <strong>Haitao Mao*</strong>, Lixin Zou*, Xiaokai Chu, Jiliang Tang, Wenwen Ye, Shuaiqiang Wang, Dawei Yin <strong>(first student author)</strong> <br>
         Preprint [<a href="https://arxiv.org/pdf/2207.03051.pdf">pdf</a>] 
         [<a href="https://github.com/ChuXiaokai/baidu_ultr_dataset">code</a>] <br>
         This dataset has sent proposal to WSDM2023 cup, see you then.
@@ -50,7 +50,7 @@ layout: single
       <p>
         <strong>Neuron with Steady Response Leads to Better Generalization</strong><br>
         <strong>First student author & Co-first Author</strong> <br>
-        Qiang Fu*, Lun Du*, <strong>Haitao Mao*</strong>, Xu Chen, Wei Fang, Shi Han, Dongmei Zhang <br>
+        <strong>Haitao Mao*</strong>, Qiang Fu*, Lun Du*, Xu Chen, Wei Fang, Shi Han, Dongmei Zhang <br>
         <strong> Neurips2022</strong><br> 
         [<a href="https://arxiv.org/pdf/2111.15414.pdf">pdf</a>]
         [<a href="https://github.com/huanhuqueyue/Neuron_Steadiness_Regularization">code</a>]
