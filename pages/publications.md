@@ -32,7 +32,7 @@ layout: single
       <p>
         <strong> Neuron Campaign for Initialization Guided by Information Bottleneck Theory </strong><br>
         <strong>CIKM2021 Best Short Paper</strong><br>
-        <strong>Haitao Mao*</strong>, Xu Chen*, Qiang Fu*, Lun Du*, Shi Han, Dongmei Zhang <br>
+        <strong>Haitao Mao*</strong>, Lun Du*, Qiang Fu*, Xu Chen*,   Shi Han, Dongmei Zhang <br>
         [<a href="https://arxiv.org/pdf/2108.06530.pdf">pdf</a>]
         [<a href="https://github.com/huanhuqueyue/CIKM-IBCI">github</a>]
         [<a href="https://huanhuqueyue.github.io/personal-page/categories/neuronCampaign/">blog</a>]
@@ -50,7 +50,7 @@ layout: single
       <p>
         <strong>Neuron with Steady Response Leads to Better Generalization</strong><br>
         <strong>First student author & Co-first Author</strong> <br>
-        <strong>Haitao Mao*</strong>, Qiang Fu*, Lun Du*, Xu Chen, Wei Fang, Shi Han, Dongmei Zhang <br>
+        <strong>Haitao Mao*</strong>, Lun Du*, Qiang Fu*, Xu Chen*, Wei Fang, Shi Han, Dongmei Zhang <br>
         <strong> Neurips2022</strong><br> 
         [<a href="https://arxiv.org/pdf/2111.15414.pdf">pdf</a>]
         [<a href="https://github.com/huanhuqueyue/Neuron_Steadiness_Regularization">code</a>]
