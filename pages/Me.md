@@ -34,7 +34,7 @@ Encouraged by some of my good friends, I would like to provide my effor to chang
         [<a href="https://github.com/huanhuqueyue/personal-page/blob/master/_files/CIKM2021/AITime%20CIKM21%20-%20Neuron%20Campaign.pdf">AI TIME presentation Slides</a>]
         [<a href="https://www.bilibili.com/video/BV1fL411V7FP?spm_id_from=333.1007.top_right_bar_window_history.content.click">AI TIME Presentation Video</a>]
         [<a href="https://mp.weixin.qq.com/s/V0pwLwTR-rVpe8h5NL_u3g">AI TIME Report</a>] <br><br>
-        I love this job become the idea is easy and interesting and provide a new perspective, the inspiration comes from the Lottery Ticket theory and Information Bottleneck theory. <br>
+        I love this work become the idea is easy and interesting and provide a new perspective, the inspiration comes from the Lottery Ticket theory and Information Bottleneck theory. <br>
         See our follow up job accept by NeurIPS2022: Neuron with Steady Response Leads to Better Generalization.
       </p>
     </li>
@@ -49,7 +49,7 @@ Encouraged by some of my good friends, I would like to provide my effor to chang
       [<a href="https://github.com/ChuXiaokai/baidu_ultr_dataset">Code</a>]
       [<a href="https://haitaomao.github.io/baidu_ultr_page/">Dataset Homepage</a>]<br><br>
 
-      I love this job for it opens great opportunity in ULTR domain, a very practical but less study domain.  It open multiple new directions in ULTR: pretrain, multi-task learning, user behavir analysis, causal discovery, long tail analysis. It is 20 times bigger than the existing ULTR datasets. <br>
+      I love this work for it opens great opportunity in ULTR domain, a very practical but less study domain.  It open multiple new directions in ULTR: pretrain, multi-task learning, user behavir analysis, causal discovery, long tail analysis. It is 20 times bigger than the existing ULTR datasets. <br>
       The follow up is incoming soon!      
       </p>
 
