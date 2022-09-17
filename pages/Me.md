@@ -33,21 +33,38 @@ Encouraged by some of my good friends, I would like to provide my effor to chang
         [<a href="https://mp.weixin.qq.com/s/PEt7m_iadPGm9puO0S0nHw">AI TIME Introduction </a>]
         [<a href="https://github.com/huanhuqueyue/personal-page/blob/master/_files/CIKM2021/AITime%20CIKM21%20-%20Neuron%20Campaign.pdf">AI TIME presentation Slides</a>]
         [<a href="https://www.bilibili.com/video/BV1fL411V7FP?spm_id_from=333.1007.top_right_bar_window_history.content.click">AI TIME Presentation Video</a>]
-        [<a href="https://mp.weixin.qq.com/s/V0pwLwTR-rVpe8h5NL_u3g">AI TIME Report</a>]
+        [<a href="https://mp.weixin.qq.com/s/V0pwLwTR-rVpe8h5NL_u3g">AI TIME Report</a>] <br><br>
+        I love this job become the idea is easy and interesting and provide a new perspective, the inspiration comes from the Lottery Ticket theory and Information Bottleneck theory. <br>
+        See our follow up job accept by NeurIPS2022: Neuron with Steady Response Leads to Better Generalization.
       </p>
+    </li>
+    <li>
+      <p> 
+      <strong> A Large Scale Search Dataset for Unbiased Learning to Rank </strong> <br>
+      <strong> Top-5 score rank in NeurIPS2022 dataset track </strong><br>
+      <strong> First student author & co-first author</strong><br> 
+      <strong>Haitao Mao*</strong>, Lixin Zou*, Xiaokai Chu, Jiliang Tang, Shuaiqiang Wang, Wenwwen ye, Dawei yin. <br>
+
+      [<a href="https://openreview.net/pdf?id=EZcHYuU_9E">Paper</a>]
+      [<a href="https://github.com/ChuXiaokai/baidu_ultr_dataset">Code</a>]
+      [<a href="https://haitaomao.github.io/baidu_ultr_page/">Dataset Homepage</a>]<br><br>
+
+      I love this job for it opens great opportunity in ULTR domain, a very practical but less study domain.  It open multiple new directions in ULTR: pretrain, multi-task learning, user behavir analysis, causal discovery, long tail analysis. It is 20 times bigger than the existing ULTR datasets. <br>
+      The follow up is incoming soon!      
+      </p>
+
     </li>
 </ul>
 
 ### Major Research Topics
 - Causal Discovery & o.o.d problem on information retrivial and graph-structured data
 - Fundamental Research on Deep Neuron Network especially Graph Neural Network (i.e. initialization strategy, regularization methods, understanding with the unify view)
-
+- Financial Knowledge Graph
 
 
 
 
 ### Familiar Research Interests
-- Financial Knowledge Graph
 - Controlable molecule generation
 - Knowledge Graph Construction(NER, Document-level relation extraction)
 - Knowledge Graph Completion
@@ -101,7 +118,7 @@ My achievement in MSRA are:
 I am a research intern in search strategy department in Baidu supervised by [Lixin Zou](https://www.zoulixin.site/). Now my research topic in Baidu is Unbiased Learning To Rank. I am still focusing on the unifed view on Graph Neural Network.
 If as expected, my achievements in Baidu are:
 
-- One dataset paper on Unbiased Learning to rank problem. The paper will provide new practical challenges on this task.
+- One dataset paper accepte by NeurIPS 2020 dataset track on Unbiased Learning to rank problem. It provides new practical challenges on this task.
 - Host the WSDM CUP on the above dataset.
 - One full paper for causal disocvery on unbiased learning to rank problem (baseline for the above dataset).
 

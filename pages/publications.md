@@ -17,11 +17,13 @@ layout: single
     </li>
     <li>
       <p>
-        <strong>A Large Scale Search Dataset for Unbiased Learning to Rank </strong><br>
-        <strong>Haitao Mao*</strong>, Lixin Zou*, Xiaokai Chu, Jiliang Tang, Wenwen Ye, Shuaiqiang Wang, Dawei Yin <strong>(first student author)</strong> <br>
-        Preprint [<a href="https://arxiv.org/pdf/2207.03051.pdf">pdf</a>] 
-        [<a href="https://github.com/ChuXiaokai/baidu_ultr_dataset">code</a>] <br>
-        This dataset has sent proposal to WSDM2023 cup, see you then.
+        <strong> A Large Scale Search Dataset for Unbiased Learning to Rank </strong> <br>
+        <strong> Top-5 score rank in NeurIPS2022 dataset track </strong><br>
+        <strong> First student author & co-first author</strong>
+        <strong>Haitao Mao*</strong>, Lixin Zou*, Xiaokai Chu, Jiliang Tang, Shuaiqiang Wang, Wenwwen ye, Dawei yin. <br>
+        [<a href="https://openreview.net/pdf?id=EZcHYuU_9E">Paper</a>]
+        [<a href="https://github.com/ChuXiaokai/baidu_ultr_dataset">Code</a>]
+        [<a href="https://haitaomao.github.io/baidu_ultr_page/">Dataset Homepage</a>]<br>
       </p>
     </li>
 </ul>
@@ -51,7 +53,7 @@ layout: single
         <strong>Neuron with Steady Response Leads to Better Generalization</strong><br>
         <strong>First student author & Co-first Author</strong> <br>
         <strong>Haitao Mao*</strong>, Lun Du*, Qiang Fu*, Xu Chen*, Wei Fang, Shi Han, Dongmei Zhang <br>
-        <strong> Neurips2022</strong><br> 
+        <strong> NeurIPS2022</strong><br> 
         [<a href="https://arxiv.org/pdf/2111.15414.pdf">pdf</a>]
         [<a href="https://github.com/huanhuqueyue/Neuron_Steadiness_Regularization">code</a>]
       </p>

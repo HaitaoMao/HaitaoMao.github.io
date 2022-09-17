@@ -29,8 +29,10 @@ About my research:
 
 - Focus on one or two topics on Graph with a deeper understanding. Go math, go more understanding.
 - Have 10 first author papers. It will be 5 one month later. Let's see what will happened then.
+- Mentor student and have 10 co-authored paper.
 - Have my own master piece. I think now I have 1 or 2, but in different topics. Please have one on Graph.
 - Have one strong application background. Now I think it is the financial knowledge Graph. Do not know where to go next. Maybe really deep in machine learning or AI4Science. I will find the answer in these years.
+- If fortunately, have more than 1,000 citations. 
 
 
 
