@@ -21,7 +21,7 @@ layout: single
         <strong> Top-5 score rank in NeurIPS2022 dataset track </strong><br>
         <strong> First student author & co-first author</strong>
         <strong>Haitao Mao*</strong>, Lixin Zou*, Xiaokai Chu, Jiliang Tang, Shuaiqiang Wang, Wenwwen ye, Dawei yin. <br>
-        [<a href="https://openreview.net/pdf?id=EZcHYuU_9E">Paper</a>]
+        [<a href="https://openreview.net/pdf?id=EZcHYuU_9E">pdf</a>]
         [<a href="https://github.com/ChuXiaokai/baidu_ultr_dataset">Code</a>]
         [<a href="https://haitaomao.github.io/baidu_ultr_page/">Dataset Homepage</a>]<br>
       </p>
@@ -55,7 +55,8 @@ layout: single
         <strong>Haitao Mao*</strong>, Lun Du*, Qiang Fu*, Xu Chen*, Wei Fang, Shi Han, Dongmei Zhang <br>
         <strong> NeurIPS2022</strong><br> 
         [<a href="https://arxiv.org/pdf/2111.15414.pdf">pdf</a>]
-        [<a href="https://github.com/huanhuqueyue/Neuron_Steadiness_Regularization">code</a>]
+        [<a href="">code</a>] 
+        <br> This is highly endorsed by Hsiao-Wuen Hon, Manager director of Microsoft Research Asia.
       </p>
     </li>
 </ul>

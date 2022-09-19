@@ -45,7 +45,7 @@ Encouraged by some of my good friends, I would like to provide my effor to chang
       <strong> First student author & co-first author</strong><br> 
       <strong>Haitao Mao*</strong>, Lixin Zou*, Xiaokai Chu, Jiliang Tang, Shuaiqiang Wang, Wenwwen ye, Dawei yin. <br>
 
-      [<a href="https://openreview.net/pdf?id=EZcHYuU_9E">Paper</a>]
+      [<a href="https://openreview.net/pdf?id=EZcHYuU_9E">pdf</a>]
       [<a href="https://github.com/ChuXiaokai/baidu_ultr_dataset">Code</a>]
       [<a href="https://haitaomao.github.io/baidu_ultr_page/">Dataset Homepage</a>]<br><br>
 
