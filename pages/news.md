@@ -4,7 +4,10 @@ title: NEWS
 layout: single
 
 ---
-
+- 10/2022: I host a debate about what theory is neccerary for deep learning
+- 10/2022: I give a talk with my mentor Lixin Zou for kicking off our WSDM CUP
+- 10/2022: Our WSDM CUP about Pre-training & Unbiased Learning for Web Search starts up
+- 09/2022: GIve a talk about Baidu-ULTR dataset in MLNP commmunity.
 - 09/2022: One paper about Unbiased Learning to Rank accepted by NeurIPS2022 dataset track as the co-first author and first student author.
 - 09/2022: One paper about regularization term accepted by NeurIPS2022 as the co-first author and first student author.
 - 09/2022: start my own course: Encouraging Graph Neural Network.

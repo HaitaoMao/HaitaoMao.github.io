@@ -7,13 +7,55 @@ layout: single
 
 I am a first-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I have won **the best short paper award in CIKM2021** as the first author.
 
-My current research interests lie primarily in understanding the black box of DNN (forward process) and the causality of a dataset-generating process. **I believe** that all the techniques for solving the generalization problem, such as contrastive learning, meta-learning, and domain generalization, share some similar assumptions on the data generating process. (I think Matrix Factorization can be a good tool for solving the problem.) Revolving on this ultimate goal, I mainly study the following topics: **Causal discovery and o.o.d problem on graph-structured data and ranking data**, **Fundamental Research on Deep Learning**(Initialization strategy, Regularization method, Understanding with an unified view).
+## So who I am actually?
 
-I enjoy my life more than research and I am certainly a heavy emotional person with sincerity, which is always thankful to those persons in my life through: relatives, teachers, leaders, precious friends. 
-My interests majorly lies in singing (really good at it), long-distance running, playing guitar. I would like to try all kinds of sports in my spare time.
+### A researcher
+My research interest is very simple: find and solve new practical data mining challange, Understanding DNN, especially GNN in data mining, to make them more acceptable and beneficial for AI4Science society.
 
-### Course
-Encouraged by some of my good friends, I would like to provide my effor to change the Graph Community. I actively start up a new course called [Encouraging Graph Neural Network](https://huanhuqueyue.github.io/Encouraging-Graph-Neural-Network/). The course aims to bridge the gap between the brief introduction and the newest advanced semaniar. It provides history on the related works on GNN and more foundation concepts.
+For the new practical challenge in data mining, I try my best to propose and solve the industry problem. My achievements are as follows:
+- Unbiased Learning to Rank
+  - Propose new dataset with new challenges (NeurIPS2022 dataset Track)
+  - Host a competition on the Unbiased Learning & pretraining (WSDM CUP 2023)
+  - Propose a new scenario: **whole-page Unbiased Learning to Rank** with the first solution (Under review)
+- Privacy on Graph
+  - Propose a new scenario: **Source Free Unsupervised Graph Domain Adaptation** with the first solution (Under review)
+- Finanical Knowledge Graph: 
+  - Propose how to transfer information from 10Q and 10K financial report into A machine-readable Database.
+  - Extract the information to conduct Knowledge Graph from he financial report.
+
+
+For understand DNN, typically GNN towards AI4Science. I always believe that GNN is not suitable for all tasks. But we can gain much insight and understanding from it. For example, GNN can be view as the gradient flow for some **energy function** with more physics insights. My achievements are as follows:
+- Understand and enhance general DNN
+  - Propose an Initialization strategy with Neuron Compaign (**Won the CIKM2021 Best Short Paper**)
+  - Propose a regularization term with understanding on how neuron response to different inputs. (NeurIPS 2022)
+- Understand and enhance how to learning on graph
+  - Understanding GNN as the multiview Learning. (arxiv)
+  - Understanding GNN as an energy function.
+- Introduce GNN to more people, especially those in AI4science society.
+  - Write the GNN part of AI4Science101 documents
+  - My course: Encouraging Graph Neural Network
+
+I also have a big dream on my research. **I believe** that all the techniques for solving the generalization problem, such as contrastive learning, meta-learning, and domain generalization, share some similar assumptions on the data generating process. (I think Matrix Factorization can be a good tool for solving the problem.)
+
+
+### A life lover
+I am a I enjoy my life research and I am certainly a heavy emotional person with sincerity, which is always thankful to those persons in my life through: relatives, teachers, leaders, precious friends. 
+My interests lies in singing (really good at it), long-distance running (3000m in 11 mins), playing guitar. I would die if there is one day without music. And I keep running and meditation every to keep health. That indeed helps.
+
+### A lecturer & community builder
+From junior high school, I really enjoy teaching other students and doing presentations though I am still not good at it. I am always practice to becomes a good lecturer. Revolving on this goal: 
+
+I start up a new course called [Encouraging Graph Neural Network](https://huanhuqueyue.github.io/Encouraging-Graph-Neural-Network/). The course aims to bridge the gap between the brief introduction and the newest advanced semaniar. It provides history on the related works on GNN and more foundation concepts.
+
+I am a host in [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg) and [AITIME](http://www.aitime.cn/).
+I have hosted talks with more than 15w as follows:
+- AITIME PhD debate about theory in Deep Learning. 
+- AITIME PhD debate about the low-level vision.[video](https://www.bilibili.com/video/BV1aP4y1f7mG?vd_source=85bb42770c1036d2fc85b057595f1054) (more than 17,000 view)
+- AITIME PhD debate about the backdoor attack in deep learning. [video](https://www.bilibili.com/video/BV1qT411g7Cq?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054). (more than 24,000 view)
+- The 9th seminar of MLNLP community. [[video]](https://www.bilibili.com/video/BV1wB4y1r7fa?spm_id_from=333.337.search-card.all.click)
+- "AI2000: AI young scientist", [[video]](https://www.bilibili.com/video/BV1x94y1d7nL?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click) (more than 90,000 view)
+
+
 
 
 ### Selected publication
@@ -22,16 +64,16 @@ Encouraged by some of my good friends, I would like to provide my effor to chang
       <p>
         <strong> Neuron Campaign for Initialization Guided by Information Bottleneck Theory </strong><br>
         <strong>CIKM2021 Best Short Paper</strong><br>
-        <strong>Haitao Mao*</strong>, Xu Chen*, Qiang Fu*, Lun Du*, Shi Han, Dongmei Zhang <br>
+        <strong>Haitao Mao*</strong>, Lun Du*, Qiang Fu*, Xu Chen*,   Shi Han, Dongmei Zhang <br>
         [<a href="https://arxiv.org/pdf/2108.06530.pdf">pdf</a>]
-        [<a href="https://github.com/huanhuqueyue/CIKM-IBCI">github</a>]
-        [<a href="https://huanhuqueyue.github.io/personal-page/categories/neuronCampaign/">blog</a>]
+        [<a href="https://github.com/HaitaoMao/Neuron-Campaign-for-Initialization-Guided-by-Information-Bottleneck-Theory">github</a>]
+        [<a href="https://haitaomao.github.io/categories/neuronCampaign/">blog</a>]
         [<a href="https://zhuanlan.zhihu.com/p/398198523">Chinese blog</a>]
-        [<a href="https://github.com/huanhuqueyue/personal-page/blob/master/_files/CIKM2021/Init_poster.pdf">Offical Poster</a>]
-        [<a href="https://github.com/huanhuqueyue/personal-page/blob/master/_files/CIKM2021/CIKM21_Neuron_Campaign_for_Initialization_Guided_by_Information_Bottleneck_Theory.pdf">Offical Slides</a>]
-        [<a href="https://github.com/huanhuqueyue/personal-page/blob/master/_files/CIKM2021/Init_video.mp4">Offical Video</a>]
+        [<a href="https://github.com/haitaomao/haitaomao.github.io/blob/master/_files/CIKM2021/Init_poster.pdf">Offical Poster</a>]
+        [<a href="https://github.com/haitaomao/haitaomao.github.io/blob/master/_files/CIKM2021/CIKM21_Neuron_Campaign_for_Initialization_Guided_by_Information_Bottleneck_Theory.pdf">Offical Slides</a>]
+        [<a href="https://github.com/haitaomao/haitaomao.github.io/blob/master/_files/CIKM2021/Init_video.mp4">Offical Video</a>]
         [<a href="https://mp.weixin.qq.com/s/PEt7m_iadPGm9puO0S0nHw">AI TIME Introduction </a>]
-        [<a href="https://github.com/huanhuqueyue/personal-page/blob/master/_files/CIKM2021/AITime%20CIKM21%20-%20Neuron%20Campaign.pdf">AI TIME presentation Slides</a>]
+        [<a href="https://github.com/haitaomao/haitaomao.github.io/blob/master/_files/CIKM2021/AITime%20CIKM21%20-%20Neuron%20Campaign.pdf">AI TIME presentation Slides</a>]
         [<a href="https://www.bilibili.com/video/BV1fL411V7FP?spm_id_from=333.1007.top_right_bar_window_history.content.click">AI TIME Presentation Video</a>]
         [<a href="https://mp.weixin.qq.com/s/V0pwLwTR-rVpe8h5NL_u3g">AI TIME Report</a>] <br><br>
         I love this work become the idea is easy and interesting and provide a new perspective, the inspiration comes from the Lottery Ticket theory and Information Bottleneck theory. <br>
@@ -56,21 +98,6 @@ Encouraged by some of my good friends, I would like to provide my effor to chang
     </li>
 </ul>
 
-### Major Research Topics
-- Causal Discovery & o.o.d problem on information retrivial and graph-structured data
-- Fundamental Research on Deep Neuron Network especially Graph Neural Network (i.e. initialization strategy, regularization methods, understanding with the unify view)
-- Financial Knowledge Graph
-
-
-
-
-### Familiar Research Interests
-- Controlable molecule generation
-- Knowledge Graph Construction(NER, Document-level relation extraction)
-- Knowledge Graph Completion
-- Session Recommendation System
-- Click-Through Rate (CTR)
-
 
 ### Service
 - ICML 2022
@@ -80,12 +107,21 @@ Encouraged by some of my good friends, I would like to provide my effor to chang
 - WSDM 2023
 - AAAI 2023
 
+
+### Familiar Research Interests
+- Knowledge Graph Construction(NER, Document-level relation extraction)
+- Knowledge Graph Completion
+- Session Recommendation System
+- Click-Through Rate (CTR)
+
+
+
 ### Activity
 
 I am a host in [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg) and [AITIME](http://www.aitime.cn/). Feel free to contact me if you need a host.
 
 I have hosted talks as follows:
-- Incoming AITIME PhD debate about theory in Deep Learning. Looking forward to it.
+- AITIME PhD debate about theory in Deep Learning. 
 - AITIME PhD debate about the low-level vision.[video](https://www.bilibili.com/video/BV1aP4y1f7mG?vd_source=85bb42770c1036d2fc85b057595f1054) (more than 17,000 view)
 - AITIME PhD debate about the backdoor attack in deep learning. [video](https://www.bilibili.com/video/BV1qT411g7Cq?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054). (more than 24,000 view)
 - The 9th seminar of MLNLP community. [[video]](https://www.bilibili.com/video/BV1wB4y1r7fa?spm_id_from=333.337.search-card.all.click)
