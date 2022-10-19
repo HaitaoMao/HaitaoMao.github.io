@@ -7,9 +7,7 @@ layout: single
 
 I am a first-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I have won **the best short paper award in CIKM2021** as the first author.
 
-## So who I am actually?
-
-### A researcher
+### I am a researcher
 My research interest is very simple: find and solve new practical data mining challange, Understanding DNN, especially GNN in data mining, to make them more acceptable and beneficial for AI4Science society.
 
 For the new practical challenge in data mining, I try my best to propose and solve the industry problem. My achievements are as follows:
@@ -38,11 +36,11 @@ For understand DNN, typically GNN towards AI4Science. I always believe that GNN 
 I also have a big dream on my research. **I believe** that all the techniques for solving the generalization problem, such as contrastive learning, meta-learning, and domain generalization, share some similar assumptions on the data generating process. (I think Matrix Factorization can be a good tool for solving the problem.)
 
 
-### A life lover
+# I am a life lover
 I am a I enjoy my life research and I am certainly a heavy emotional person with sincerity, which is always thankful to those persons in my life through: relatives, teachers, leaders, precious friends. 
 My interests lies in singing (really good at it), long-distance running (3000m in 11 mins), playing guitar. I would die if there is one day without music. And I keep running and meditation every to keep health. That indeed helps.
 
-### A lecturer & community builder
+### I am a lecturer & community builder
 From junior high school, I really enjoy teaching other students and doing presentations though I am still not good at it. I am always practice to becomes a good lecturer. Revolving on this goal: 
 
 I start up a new course called [Encouraging Graph Neural Network](https://huanhuqueyue.github.io/Encouraging-Graph-Neural-Network/). The course aims to bridge the gap between the brief introduction and the newest advanced semaniar. It provides history on the related works on GNN and more foundation concepts.
