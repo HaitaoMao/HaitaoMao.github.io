@@ -7,7 +7,7 @@ layout: single
 
 I am a first-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I have won **the best short paper award in CIKM2021** as the first author.
 
-### I am a researcher
+#### I am a researcher
 My research interest is very simple: find and solve new practical data mining challange, Understanding DNN, especially GNN in data mining, to make them more acceptable and beneficial for AI4Science society.
 
 For the new practical challenge in data mining, I try my best to propose and solve the industry problem. My achievements are as follows:
@@ -27,27 +27,28 @@ For understand DNN, typically GNN towards AI4Science. I always believe that GNN 
   - Propose an Initialization strategy with Neuron Compaign (**Won the CIKM2021 Best Short Paper**)
   - Propose a regularization term with understanding on how neuron response to different inputs. (NeurIPS 2022)
 - Understand and enhance how to learning on graph
-  - Understanding GNN as the multiview Learning. (arxiv)
-  - Understanding GNN as an energy function.
+  - Understanding GNN as the multiview Learning. (Under review)
+  - Understanding GNN as an energy function. 
 - Introduce GNN to more people, especially those in AI4science society.
-  - Write the GNN part of AI4Science101 documents
-  - My course: Encouraging Graph Neural Network
+  - Write the GNN and causal discovery part of AI4Science101 documents. [homepage](https://ai4science101.deepmodeling.com/en/latest/index.html)
+  - My course: Encouraging Graph Neural Network. [homepage](https://haitaomao.github.io/Encouraging-Graph-Neural-Network/)
+  - I have more plans in the furture. Looking forward to see you!
 
 I also have a big dream on my research. **I believe** that all the techniques for solving the generalization problem, such as contrastive learning, meta-learning, and domain generalization, share some similar assumptions on the data generating process. (I think Matrix Factorization can be a good tool for solving the problem.)
 
 
-# I am a life lover
+#### I am a life lover
 I am a I enjoy my life research and I am certainly a heavy emotional person with sincerity, which is always thankful to those persons in my life through: relatives, teachers, leaders, precious friends. 
 My interests lies in singing (really good at it), long-distance running (3000m in 11 mins), playing guitar. I would die if there is one day without music. And I keep running and meditation every to keep health. That indeed helps.
 
-### I am a lecturer & community builder
+#### I am a lecturer & community builder
 From junior high school, I really enjoy teaching other students and doing presentations though I am still not good at it. I am always practice to becomes a good lecturer. Revolving on this goal: 
 
-I start up a new course called [Encouraging Graph Neural Network](https://huanhuqueyue.github.io/Encouraging-Graph-Neural-Network/). The course aims to bridge the gap between the brief introduction and the newest advanced semaniar. It provides history on the related works on GNN and more foundation concepts.
+I start up a new course called [Encouraging Graph Neural Network](https://haitaomao.github.io/Encouraging-Graph-Neural-Network/). The course aims to bridge the gap between the brief introduction and the newest advanced semaniar. It provides history on the related works on GNN and more foundation concepts.
 
 I am a host in [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg) and [AITIME](http://www.aitime.cn/).
 I have hosted talks with more than 15w as follows:
-- AITIME PhD debate about theory in Deep Learning. 
+- AITIME PhD debate about theory in Deep Learning. [video](https://www.bilibili.com/video/BV1pe4y1U7Pc/?vd_source=85bb42770c1036d2fc85b057595f1054) (more than 24,000 views)
 - AITIME PhD debate about the low-level vision.[video](https://www.bilibili.com/video/BV1aP4y1f7mG?vd_source=85bb42770c1036d2fc85b057595f1054) (more than 17,000 view)
 - AITIME PhD debate about the backdoor attack in deep learning. [video](https://www.bilibili.com/video/BV1qT411g7Cq?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054). (more than 24,000 view)
 - The 9th seminar of MLNLP community. [[video]](https://www.bilibili.com/video/BV1wB4y1r7fa?spm_id_from=333.337.search-card.all.click)
@@ -82,15 +83,18 @@ I have hosted talks with more than 15w as follows:
       <p> 
       <strong> A Large Scale Search Dataset for Unbiased Learning to Rank </strong> <br>
       <strong> Top-5 score rank in NeurIPS2022 dataset track </strong><br>
-      <strong> First student author & co-first author</strong><br> 
-      <strong>Haitao Mao*</strong>, Lixin Zou*, Xiaokai Chu, Jiliang Tang, Shuaiqiang Wang, Wenwwen ye, Dawei yin. <br>
+      <strong>Haitao Mao*</strong>, Lixin Zou*, Xiaokai Chu, Jiliang Tang, Shuaiqiang Wang, Wenwen ye, Dawei yin. <br>
 
       [<a href="https://openreview.net/pdf?id=EZcHYuU_9E">pdf</a>]
-      [<a href="https://github.com/ChuXiaokai/baidu_ultr_dataset">Code</a>]
-      [<a href="https://haitaomao.github.io/baidu_ultr_page/">Dataset Homepage</a>]<br><br>
+      [<a href="https://github.com/ChuXiaokai/baidu_ultr_dataset">Code1</a>]
+      [<a href="https://github.com/ChuXiaokai/WSDMCUP_BaiduPLM_Paddle">Code2</a>]
+      [<a href="https://haitaomao.github.io/baidu_ultr_page/">Dataset Homepage1</a>]<br>
+      [<a href="https://searchscience.baidu.com/dataset.html">Dataset Homepage2</a>]<br>
+      [<a href="https://www.bilibili.com/video/BV1ZP411N75k/?spm_id_from=333.999.0.0">video</a>]
+      <br><br>
 
       I love this work for it opens great opportunity in ULTR domain, a very practical but less study domain.  It open multiple new directions in ULTR: pretrain, multi-task learning, user behavir analysis, causal discovery, long tail analysis. It is 20 times bigger than the existing ULTR datasets. <br>
-      The follow up is incoming soon!      
+      We are holding WSDM CUP with this dataset now!      
       </p>
 
     </li>
@@ -98,10 +102,12 @@ I have hosted talks with more than 15w as follows:
 
 
 ### Service
+- WWW 2023
 - ICML 2022
 - NeurIPS 2022 (main conference & [TGL workshop](https://sites.google.com/view/tglworkshop2022/home))
 - KDD 2022
 - CIKM 2022
+- LOG 2022
 - WSDM 2023
 - AAAI 2023
 
@@ -113,22 +119,12 @@ I have hosted talks with more than 15w as follows:
 - Click-Through Rate (CTR)
 
 
-
-### Activity
-
-I am a host in [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg) and [AITIME](http://www.aitime.cn/). Feel free to contact me if you need a host.
-
-I have hosted talks as follows:
-- AITIME PhD debate about theory in Deep Learning. 
-- AITIME PhD debate about the low-level vision.[video](https://www.bilibili.com/video/BV1aP4y1f7mG?vd_source=85bb42770c1036d2fc85b057595f1054) (more than 17,000 view)
-- AITIME PhD debate about the backdoor attack in deep learning. [video](https://www.bilibili.com/video/BV1qT411g7Cq?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054). (more than 24,000 view)
-- The 9th seminar of MLNLP community. [[video]](https://www.bilibili.com/video/BV1wB4y1r7fa?spm_id_from=333.337.search-card.all.click)
-- "AI2000: AI young scientist", [[video]](https://www.bilibili.com/video/BV1x94y1d7nL?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click) (more than 90,000 view)
-
-
-Thanks to my friend Yuanqi Du for invitation, I and Bohan Wang will contribute to the [AI4Science101 project](ai4science101.deepmodeling.com). We really appreciate Yuanqi for he is always doing something to change the world
-
-I also Manage communication group of CIKM2022, NeurIPS2022, LoG2022, WSDM2023 in MLNLP, more details in [link](https://github.com/MLNLP-World/Top-Conference-WeChat-Group)
+### Talks
+- Renmin University: Understanding and improving Deep Neural Network from neuron-level perspective [slides]()
+- AITIME: WSDM CUP2023-Unbiased learning & Pre-training for Web Search (More than 18000 views) [video]("https://www.bilibili.com/video/BV1ZP411N75k/?spm_id_from=333.999.0.0")[slides]()
+- AITIME: Neuron With steady response leads to better generalization [video]()[slides]()
+- AITIME & Rising star reading group: Neuron Campaign Guided by Information Bottleneck Theory [video]("https://www.bilibili.com/video/BV1fL411V7FP?spm_id_from=333.1007.top_right_bar_window_history.content.click").[slides]()
+- Mircosoft Research Asia: An introduction to Domain Adaptation towards privacy protection.[slides]()
 
 
 
@@ -136,7 +132,7 @@ I also Manage communication group of CIKM2022, NeurIPS2022, LoG2022, WSDM2023 in
 
 **Microsoft Research Asia (January, 2021 - November, 2021)**
 
-I was the first post-2000s generation research intern in the [Data Knowledge Intelligent Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) (Used to be called Software Analysis Group) leaded by [Dongmei Zhang]([Dongmei Zhang at Microsoft Research](https://www.microsoft.com/en-us/research/people/dongmeiz/)). Fortunately I was guided by Principal Researcher [Qiang Fu](https://scholar.google.com/citations?hl=en&user=bwTLZSIAAAAJ), Researcher [Lun Du](https://scholar.google.com/citations?user=3XUANDAAAAAJ&hl=en&oi=ao), and Senior Principal Researcher Manager [Shi Han](https://www.microsoft.com/en-us/research/people/shihan/). And my research topic in MSRA are: initialization strategy, regularization method, Unsupervised Domain Adaptation on Graph with three paper published. 
+I am the first post-2000s generation research intern in the [Data Knowledge Intelligent Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) (Used to be called Software Analysis Group) leaded by [Dongmei Zhang]([Dongmei Zhang at Microsoft Research](https://www.microsoft.com/en-us/research/people/dongmeiz/)). Fortunately I was guided by Principal Researcher [Qiang Fu](https://scholar.google.com/citations?hl=en&user=bwTLZSIAAAAJ), Researcher [Lun Du](https://scholar.google.com/citations?user=3XUANDAAAAAJ&hl=en&oi=ao), and Senior Principal Researcher Manager [Shi Han](https://www.microsoft.com/en-us/research/people/shihan/). And my research topic in MSRA are: initialization strategy, regularization method, Unsupervised Domain Adaptation on Graph with three paper published. 
 
 My achievement in MSRA are:
 

@@ -59,23 +59,9 @@ Additional thanks to other brilliant researchers and advisors help me on my rese
     </li>
     <li>
         <p>
-            <a href="http://ir.hit.edu.cn/~lbqin/">Libo Qin</a>
+            <a href="https://yuanqidu.github.io/">Yuanqi Du</a>
             <br>
-            My roomate also a selfless researcher who determine my dream to achieve a doctor degree.
-        </p>
-    </li>
-    <li>
-        <p>
-            <a href="https://andyjzhao.github.io/">Jianan Zhao</a>
-            <br>
-            Give me inspiration not only research, but also meditation, guitar, and climbing.
-        </p>
-    </li>
-    <li>
-        <p>
-            <a href="http://siviltaram.github.io/">Qian Liu</a>
-            <br>
-            A real warm-hearted senior P.hD who kindly help me a lot.
+            Can't imagine how much passion he has.
         </p>
     </li>
     <li>
@@ -87,23 +73,16 @@ Additional thanks to other brilliant researchers and advisors help me on my rese
     </li>
     <li>
         <p>
-            Xu Chen
+            <a href="https://andyjzhao.github.io/">Jianan Zhao</a>
             <br>
-            excellent co-author who can solve any problem I met.
+            Give me inspiration not only research, but also meditation, guitar, and climbing.
         </p>
     </li>
     <li>
         <p>
-            <a href="https://www.microsoft.com/en-us/research/people/xiaoyizhang/">Xiaoyi Zhang</a>
+            <a href="https://sxkdz.github.io/">Yanqiao Zhu</a>
             <br>
-            My roommate and guider to MSRA.
-        </p>
-    </li>
-    <li>
-        <p>
-            <a href="https://www.linkedin.com/in/ziteng-liu-602b3410a/">Ziteng Liu</a>
-            <br>
-            My roommate and open the door to physics and chemsitry.
+            Great life lover with great citations
         </p>
     </li>
 </ul>
@@ -118,7 +97,7 @@ Additional thanks to other brilliant researchers and advisors help me on my rese
         <p>
             <a href="http://dse.cse.msu.edu/">Data Science and Engineering Lab</a>, Michigan State University
             <br>
-                I will spent my best PhD adverture on the next coming five years with Prof Jiliang Tang. 
+                I am spending my best PhD adverture on the next coming five years with Prof Jiliang Tang. I really enjoy the life here. JT always support me on my research road. My collaboration with Wei Jin, Hongzhi Wen, Haoyu Han is fantastic. They not only give opinions on research, but also help me to write code efficently. ALl labmates help a lot in my everyday life, like Han Xu, Yuxuan Wan, Jie Ren would like to catch me up. 
         </p>
     </li>
     <li>
@@ -151,6 +130,48 @@ Additional thanks to other brilliant researchers and advisors help me on my rese
     </li>
     
 </ul>
+
+
+## Previous good friends
+You know that, there are many friends pass by my life and shed light into some periods. I will always keep your good in mind.
+<ul>
+    <li>
+        <p>
+            <a href="http://ir.hit.edu.cn/~lbqin/">Libo Qin</a>
+            <br>
+            My roomate also a selfless researcher who determine my dream to achieve a doctor degree.
+        </p>
+    </li>
+    <li>
+        <p>
+            <a href="http://siviltaram.github.io/">Qian Liu</a>
+            <br>
+            A real warm-hearted senior P.hD who kindly help me a lot.
+        </p>
+    </li>
+    <li>
+        <p>
+            Xu Chen
+            <br>
+            excellent co-author who can solve any problem I met.
+        </p>
+    </li>
+    <li>
+        <p>
+            <a href="https://www.microsoft.com/en-us/research/people/xiaoyizhang/">Xiaoyi Zhang</a>
+            <br>
+            My roommate and guider to MSRA.
+        </p>
+    </li>
+    <li>
+        <p>
+            <a href="https://www.linkedin.com/in/ziteng-liu-602b3410a/">Ziteng Liu</a>
+            <br>
+            My roommate and open the door to physics and chemsitry.
+        </p>
+    </li>
+</ul>
+
 
 
 ## My best Undergraduate Friends.

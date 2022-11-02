@@ -22,8 +22,11 @@ layout: single
         <strong> Top-5 score rank in NeurIPS2022 dataset track </strong><br>
         <strong>Haitao Mao*</strong>, Lixin Zou*, Xiaokai Chu, Jiliang Tang, Shuaiqiang Wang, Wenwen ye, Dawei yin. <br>
         [<a href="https://openreview.net/pdf?id=EZcHYuU_9E">pdf</a>]
-        [<a href="https://github.com/ChuXiaokai/baidu_ultr_dataset">Code</a>]
-        [<a href="https://haitaomao.github.io/baidu_ultr_page/">Dataset Homepage</a>]<br>
+        [<a href="https://github.com/ChuXiaokai/baidu_ultr_dataset">Code1</a>]
+        [<a href="https://github.com/ChuXiaokai/WSDMCUP_BaiduPLM_Paddle">Code2</a>]
+        [<a href="https://haitaomao.github.io/baidu_ultr_page/">Dataset Homepage1</a>]<br>
+        [<a href="https://searchscience.baidu.com/dataset.html">Dataset Homepage2</a>]<br>
+        [<a href="https://www.bilibili.com/video/BV1ZP411N75k/?spm_id_from=333.999.0.0">video</a>]
       </p>
     </li>
   <li>
@@ -38,7 +41,7 @@ layout: single
         <strong>Unbiased Learning to Rank & Pre-training for Web Search </strong><br>
         Lixin Zou, <strong>Haitao Mao</strong>, Xiaokai Chu, Changying Hao, Shuaiqiang Wang, Dawei Yin, Jiliang Tang<br>
         <strong> WSDM CUP 2023</strong><br>
-        [<a href="https://aistudio.baidu.com/aistudio/competition/detail/534/0/introduction">task1</a>][<a href="https://aistudio.baidu.com/aistudio/competition/detail/536/0/introduction">task2</a>]
+        [<a href="https://aistudio.baidu.com/aistudio/competition/detail/534/0/introduction">task1</a>][<a href="https://aistudio.baidu.com/aistudio/competition/detail/536/0/introduction">task2</a>][<a href="https://www.bilibili.com/video/BV1ZP411N75k/?spm_id_from=333.999.0.0">video</a>]
     </p>
   </li>
     
