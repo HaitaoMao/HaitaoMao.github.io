@@ -31,7 +31,7 @@ For understand DNN, typically GNN towards AI4Science. I always believe that GNN 
   - Understanding GNN as an energy function. 
 - Introduce GNN to more people, especially those in AI4science society.
   - Write the GNN and causal discovery part of AI4Science101 documents. [homepage](https://ai4science101.deepmodeling.com/en/latest/index.html)
-  - My course: Encouraging Graph Neural Network. [homepage](https://haitaomao.github.io/Encouraging-Graph-Neural-Network/)
+  - My course: Encouraging Graph Neural Network. [homepage](https://haitaomao.github.io/Encouraging-Graph-Neural-Network/) (Definitely, I will continue to do it. However, it is too too too busy recently. I will restart in the next vacation.)
   - I have more plans in the furture. Looking forward to see you!
 
 I also have a big dream on my research. **I believe** that all the techniques for solving the generalization problem, such as contrastive learning, meta-learning, and domain generalization, share some similar assumptions on the data generating process. (I think Matrix Factorization can be a good tool for solving the problem.)
@@ -44,7 +44,7 @@ My interests lies in singing (really good at it), long-distance running (3000m i
 #### I am a lecturer & community builder
 From junior high school, I really enjoy teaching other students and doing presentations though I am still not good at it. I am always practice to becomes a good lecturer. Revolving on this goal: 
 
-I start up a new course called [Encouraging Graph Neural Network](https://haitaomao.github.io/Encouraging-Graph-Neural-Network/). The course aims to bridge the gap between the brief introduction and the newest advanced semaniar. It provides history on the related works on GNN and more foundation concepts.
+I start up a new course called [Encouraging Graph Neural Network](https://haitaomao.github.io/Encouraging-Graph-Neural-Network/). (Definitely, I will continue to do it. However, it is too too too busy recently. I will restart in the next vacation.) The course aims to bridge the gap between the brief introduction and the newest advanced semaniar. It provides history on the related works on GNN and more foundation concepts.
 
 I am a host in [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg) and [AITIME](http://www.aitime.cn/).
 I have hosted talks with more than 15w as follows:
