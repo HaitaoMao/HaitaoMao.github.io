@@ -4,6 +4,7 @@ title: NEWS
 layout: single
 
 ---
+- 12/2022: So glad to be a reviewer of ICML2023
 - 10/2022: I host a debate about what theory is neccerary for deep learning
 - 10/2022: I give a talk with my mentor Lixin Zou for kicking off our WSDM CUP
 - 10/2022: Our WSDM CUP about Pre-training & Unbiased Learning for Web Search starts up

@@ -5,25 +5,40 @@ layout: single
 ---
 来小毛给他整个🔥，草！走！忽略 ጿ ኈ ቼ ዽ ጿ
 
+**Do the significant research that nobody do if I do not!**
+
 I am a first-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I have won **the best short paper award in CIKM2021** as the first author.
 
 #### I am a researcher
-My research interest is very simple: find and solve new practical data mining challange, Understanding DNN, especially GNN in data mining, to make them more acceptable and beneficial for AI4Science society.
+My research interest is very simple on following two aspective:
 
-For the new practical challenge in data mining, I try my best to propose and solve the industry problem. My achievements are as follows:
-- Unbiased Learning to Rank
+- find and solve new practical data mining challanges
+- solve the foundamental challenge from optimization perspective.  **A strong perception drives me to believe that many solutions can be attributed to inductive bias in optimization (Forward & Backward).** The algorithm should have the following properties: 
+  - Explanable: try to understand the training dynamics of neural network and what inductive biases model tries to induce. 
+  - Effective: (1) strong expressive ability power. (2) Introduce inductive bias easily.
+  - Efficient: Simple model which the time and memory complexity for the train and inference could be small.
+  - Theoretical guarantee: it should be a beautiful theory with its killer application.
+
+
+
+For the new practical challenge in data mining, I try my best to propose and solve the industry problem during my internship. My achievements are as follows:
+
+- Unbiased Learning to Rank (found in Baidu)
   - Propose new dataset with new challenges (NeurIPS2022 dataset Track)
   - Host a competition on the Unbiased Learning & pretraining (WSDM CUP 2023)
   - Propose a new scenario: **whole-page Unbiased Learning to Rank** with the first solution (Under review)
-- Privacy on Graph
+- Privacy on Graph (found in Microsoft)
   - Propose a new scenario: **Source Free Unsupervised Graph Domain Adaptation** with the first solution (Under review)
-- Finanical Knowledge Graph: 
+- Finanical Knowledge Graph:  (found in Warton Research Data Services, ongoing project))
   - Propose how to transfer information from 10Q and 10K financial report into A machine-readable Database.
   - Extract the information to conduct Knowledge Graph from he financial report.
+- Multiple regional Session Recommendation (with Amazon, ongoing project) 
 
 
-For understand DNN, typically GNN towards AI4Science. I always believe that GNN is not suitable for all tasks. But we can gain much insight and understanding from it. For example, GNN can be view as the gradient flow for some **energy function** with more physics insights. My achievements are as follows:
-- Understand and enhance general DNN
+
+For solving the foundamental challenge from optimization perspective, I specifically focus on GNN. I always believe that GNN is not suitable for all tasks and may not be well-optimized. But we can gain much insight and understanding from it. For example, GNN can be view as the optimization procedure for some **energy function** with more insights. My achievements are as follows:
+
+- Understand and enhance general DNN optimization
   - Propose an Initialization strategy with Neuron Compaign (**Won the CIKM2021 Best Short Paper**)
   - Propose a regularization term with understanding on how neuron response to different inputs. (NeurIPS 2022)
 - Understand and enhance how to learning on graph
@@ -32,7 +47,6 @@ For understand DNN, typically GNN towards AI4Science. I always believe that GNN 
 - Introduce GNN to more people, especially those in AI4science society.
   - Write the GNN and causal discovery part of AI4Science101 documents. [homepage](https://ai4science101.deepmodeling.com/en/latest/index.html)
   - My course: Encouraging Graph Neural Network. [homepage](https://haitaomao.github.io/Encouraging-Graph-Neural-Network/) (Definitely, I will continue to do it. However, it is too too too busy recently. I will restart in the next vacation.)
-  - I have more plans in the furture. Looking forward to see you!
 
 I also have a big dream on my research. **I believe** that all the techniques for solving the generalization problem, such as contrastive learning, meta-learning, and domain generalization, share some similar assumptions on the data generating process. (I think Matrix Factorization can be a good tool for solving the problem.)
 
@@ -82,7 +96,6 @@ I have hosted talks with more than 15w as follows:
     <li>
       <p> 
       <strong> A Large Scale Search Dataset for Unbiased Learning to Rank </strong> <br>
-      <strong> Top-5 score rank in NeurIPS2022 dataset track </strong><br>
       <strong>Haitao Mao*</strong>, Lixin Zou*, Xiaokai Chu, Jiliang Tang, Shuaiqiang Wang, Wenwen ye, Dawei yin. <br>
 
       [<a href="https://openreview.net/pdf?id=EZcHYuU_9E">pdf</a>]
@@ -92,18 +105,18 @@ I have hosted talks with more than 15w as follows:
       [<a href="https://searchscience.baidu.com/dataset.html">Dataset Homepage2</a>]<br>
       [<a href="https://www.bilibili.com/video/BV1ZP411N75k/?spm_id_from=333.999.0.0">video</a>]
       <br><br>
-
+    
       I love this work for it opens great opportunity in ULTR domain, a very practical but less study domain.  It open multiple new directions in ULTR: pretrain, multi-task learning, user behavir analysis, causal discovery, long tail analysis. It is 20 times bigger than the existing ULTR datasets. <br>
       We are holding WSDM CUP with this dataset now!      
       </p>
-
+    
     </li>
 </ul>
 
 
 ### Service
 - WWW 2023
-- ICML 2022
+- ICML 2022, 2023
 - NeurIPS 2022 (main conference & [TGL workshop](https://sites.google.com/view/tglworkshop2022/home))
 - KDD 2022
 - CIKM 2022

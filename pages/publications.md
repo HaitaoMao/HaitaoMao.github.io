@@ -19,7 +19,6 @@ layout: single
   <li>
       <p>
         <strong> A Large Scale Search Dataset for Unbiased Learning to Rank </strong> <br>
-        <strong> Top-5 score rank in NeurIPS2022 dataset track </strong><br>
         <strong>Haitao Mao*</strong>, Lixin Zou*, Xiaokai Chu, Jiliang Tang, Shuaiqiang Wang, Wenwen ye, Dawei yin. <br>
         [<a href="https://openreview.net/pdf?id=EZcHYuU_9E">pdf</a>]
         [<a href="https://github.com/ChuXiaokai/baidu_ultr_dataset">Code1</a>]
