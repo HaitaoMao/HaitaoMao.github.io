@@ -5,50 +5,43 @@ layout: single
 ---
 来小毛给他整个🔥，草！走！忽略 ጿ ኈ ቼ ዽ ጿ
 
-**Do the significant research that nobody do if I do not!**
-
 I am a first-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I have won **the best short paper award in CIKM2021** as the first author.
 
 #### I am a researcher
-My research interest is very simple on following two aspective:
+My research interest focuses on finding, understanding existing inductive bias and encode new inductive bias for Deep model (typically graph data with specific challenge). 
 
-- find and solve new practical data mining challanges
-- solve the foundamental challenge from optimization perspective.  **A strong perception drives me to believe that many solutions can be attributed to inductive bias in optimization (Forward & Backward).** The algorithm should have the following properties: 
-  - Explanable: try to understand the training dynamics of neural network and what inductive biases model tries to induce. 
-  - Effective: (1) strong expressive ability power. (2) Introduce inductive bias easily.
-  - Efficient: Simple model which the time and memory complexity for the train and inference could be small.
-  - Theoretical guarantee: it should be a beautiful theory with its killer application.
+From my perspective, inductive bias can be from the following three perspectives:
 
-
-
-For the new practical challenge in data mining, I try my best to propose and solve the industry problem during my internship. My achievements are as follows:
-
-- Unbiased Learning to Rank (found in Baidu)
-  - Propose new dataset with new challenges (NeurIPS2022 dataset Track)
-  - Host a competition on the Unbiased Learning & pretraining (WSDM CUP 2023)
-  - Propose a new scenario: **whole-page Unbiased Learning to Rank** with the first solution (Under review)
-- Privacy on Graph (found in Microsoft)
-  - Propose a new scenario: **Source Free Unsupervised Graph Domain Adaptation** with the first solution (Under review)
-- Finanical Knowledge Graph:  (found in Warton Research Data Services, ongoing project))
-  - Propose how to transfer information from 10Q and 10K financial report into A machine-readable Database.
-  - Extract the information to conduct Knowledge Graph from he financial report.
-- Multiple regional Session Recommendation (with Amazon, ongoing project) 
+- The principle for Deep Neural Network: There must be some underlying rules why the existing model structures, optimizatizer could work well, for example, Information Bottleneck Theory. However, they still remain much mysterious now. 
+- The principle for specific task: Introduce specific and suitable assumption to help the downstream task be better
+- The principle from expert knowledge: model can explicit use the human knowledge to become both powerful, explanable, and trustworthy
 
 
 
-For solving the foundamental challenge from optimization perspective, I specifically focus on GNN. I always believe that GNN is not suitable for all tasks and may not be well-optimized. But we can gain much insight and understanding from it. For example, GNN can be view as the optimization procedure for some **energy function** with more insights. My achievements are as follows:
+Revolving on this goal, I have done the following efforts for better understanding on DNN (**Theoretical inspire**) and enhance real-world application (**Practice first**)
 
-- Understand and enhance general DNN optimization
-  - Propose an Initialization strategy with Neuron Compaign (**Won the CIKM2021 Best Short Paper**)
-  - Propose a regularization term with understanding on how neuron response to different inputs. (NeurIPS 2022)
-- Understand and enhance how to learning on graph
-  - Understanding GNN as the multiview Learning. (Under review)
-  - Understanding GNN as an energy function. 
-- Introduce GNN to more people, especially those in AI4science society.
-  - Write the GNN and causal discovery part of AI4Science101 documents. [homepage](https://ai4science101.deepmodeling.com/en/latest/index.html)
-  - My course: Encouraging Graph Neural Network. [homepage](https://haitaomao.github.io/Encouraging-Graph-Neural-Network/) (Definitely, I will continue to do it. However, it is too too too busy recently. I will restart in the next vacation.)
+- Understand the principle for DNN to enhance general DNN optimization
 
-I also have a big dream on my research. **I believe** that all the techniques for solving the generalization problem, such as contrastive learning, meta-learning, and domain generalization, share some similar assumptions on the data generating process. (I think Matrix Factorization can be a good tool for solving the problem.)
+  - A new neuron-level understanding -> an Neuron Compaign Initialization strategy(**Won the CIKM2021 Best Short Paper**)
+  - A neuron steadiness phenomenon -> a general regularization term with performance improvement across architectures. (NeurIPS 2022)
+
+- Understand the principle for Graph-based tasks and enhance Graph-based model. **GNN is only one way but not neccerary to incoperate structure**
+
+  - Alternative optimization on Graph -> an efficient MLP model showing comparable performance with GNN (under review)
+  - Understand the tradeoff between explicit and implicit bias on graph modeling  (coming soon)
+
+- incorporate inductive bias to solve real-world problem
+
+  - Privacy issues on Graph -> propose new practical scenario: Source Free Unsupervised Graph Domain Adaptation-> a simle solution to graph data and model indutive bias simultaneously (Under review)
+  - Whole page unbiased learning to rank -> propose new practical dataset (NeurIPS 2022, WSDM CUP 2023)-> a causality based algorithm to find and mitigate bias automatically. (under review)
+  - Multiple regional Session Recommendation (with Amazon, ongoing project)
+  - Introduce how GNN introduce inductive bias  to AI4Science Community. See in AI4Science101 documents. [homepage](https://ai4science101.deepmodeling.com/en/latest/index.html)
+
+  - crisis of confidence for Deep learning in financial
+    - DNN and expert rules with human in the loop to extract essential semantic structure in financial report. (under review)
+    - Extract Relationships between companies and products with expert knowledge. (under review)
+
+I still have a big dream on my research. I believe I could build explanable, effective, effective models for the real-world application with deep understanding and theoritical guarantee.
 
 
 #### I am a life lover
@@ -58,10 +51,9 @@ My interests lies in singing (really good at it), long-distance running (3000m i
 #### I am a lecturer & community builder
 From junior high school, I really enjoy teaching other students and doing presentations though I am still not good at it. I am always practice to becomes a good lecturer. Revolving on this goal: 
 
-I start up a new course called [Encouraging Graph Neural Network](https://haitaomao.github.io/Encouraging-Graph-Neural-Network/). (Definitely, I will continue to do it. However, it is too too too busy recently. I will restart in the next vacation.) The course aims to bridge the gap between the brief introduction and the newest advanced semaniar. It provides history on the related works on GNN and more foundation concepts.
-
 I am a host in [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg) and [AITIME](http://www.aitime.cn/).
 I have hosted talks with more than 15w as follows:
+
 - AITIME PhD debate about theory in Deep Learning. [video](https://www.bilibili.com/video/BV1pe4y1U7Pc/?vd_source=85bb42770c1036d2fc85b057595f1054) (more than 24,000 views)
 - AITIME PhD debate about the low-level vision.[video](https://www.bilibili.com/video/BV1aP4y1f7mG?vd_source=85bb42770c1036d2fc85b057595f1054) (more than 17,000 view)
 - AITIME PhD debate about the backdoor attack in deep learning. [video](https://www.bilibili.com/video/BV1qT411g7Cq?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054). (more than 24,000 view)
@@ -117,15 +109,15 @@ I have hosted talks with more than 15w as follows:
 ### Service
 - WWW 2023
 - ICML 2022, 2023
-- NeurIPS 2022 (main conference & [TGL workshop](https://sites.google.com/view/tglworkshop2022/home))
-- KDD 2022
+- NeurIPS 2022
+- KDD 2022, 2023
 - CIKM 2022
 - LOG 2022
 - WSDM 2023
 - AAAI 2023
 
 
-### Familiar Research Interests
+### Familiar Research Topics
 - Knowledge Graph Construction(NER, Document-level relation extraction)
 - Knowledge Graph Completion
 - Session Recommendation System
