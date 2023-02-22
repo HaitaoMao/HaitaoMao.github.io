@@ -6,49 +6,9 @@ layout: single
 
 *represents equal contribution. Co-first authors in name alphabetical order.
 
-# more practical data mining challenge
+# The principle for Deep Neural Network
 <ul>
   <li>
-    <p>
-        <strong>Source Free Graph Unsupervised Domain Adaptation </strong><br>
-        <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Shi Han, Dongmei Zhang <br>
-        Preprint [<a href="https://arxiv.org/pdf/2112.00955.pdf">pdf</a>]
-        [<a href="https://haitaomao.github.io/categories/sourcefree/">blog</a>]
-    </p>
-  </li>
-  <li>
-      <p>
-        <strong> A Large Scale Search Dataset for Unbiased Learning to Rank </strong> <br>
-        <strong>Haitao Mao*</strong>, Lixin Zou*, Xiaokai Chu, Jiliang Tang, Shuaiqiang Wang, Wenwen ye, Dawei yin. <br>
-        [<a href="https://openreview.net/pdf?id=EZcHYuU_9E">pdf</a>]
-        [<a href="https://github.com/ChuXiaokai/baidu_ultr_dataset">Code1</a>]
-        [<a href="https://github.com/ChuXiaokai/WSDMCUP_BaiduPLM_Paddle">Code2</a>]
-        [<a href="https://haitaomao.github.io/baidu_ultr_page/">Dataset Homepage1</a>]<br>
-        [<a href="https://searchscience.baidu.com/dataset.html">Dataset Homepage2</a>]<br>
-        [<a href="https://www.bilibili.com/video/BV1ZP411N75k/?spm_id_from=333.999.0.0">video</a>]
-      </p>
-    </li>
-  <li>
-    <p>
-        <strong>Whole Page Unbiased Learning to Rank </strong><br>
-        <strong>Haitao Mao</strong>, Lixin Zou, Yujia Zheng, Jiliang Tang, Xiaokai Chu, Jiashu Zhao, Dawei Yin <br>
-        Preprint [<a href="">pdf</a>]
-    </p>
-  </li>
-  <li>
-    <p>
-        <strong>Unbiased Learning to Rank & Pre-training for Web Search </strong><br>
-        Lixin Zou, <strong>Haitao Mao</strong>, Xiaokai Chu, Changying Hao, Shuaiqiang Wang, Dawei Yin, Jiliang Tang<br>
-        <strong> WSDM CUP 2023</strong><br>
-        [<a href="https://aistudio.baidu.com/aistudio/competition/detail/534/0/introduction">task1</a>][<a href="https://aistudio.baidu.com/aistudio/competition/detail/536/0/introduction">task2</a>][<a href="https://www.bilibili.com/video/BV1ZP411N75k/?spm_id_from=333.999.0.0">video</a>]
-    </p>
-  </li>
-    
-</ul>
-
-# understand DNN, typically GNN -> Connecting Deep Learning with AI4science
-<ul>
-    <li>
       <p>
         <strong> Neuron Campaign for Initialization Guided by Information Bottleneck Theory </strong><br>
         <strong>CIKM2021 Best Short Paper</strong><br>
@@ -73,19 +33,83 @@ layout: single
         <strong> NeurIPS2022</strong><br> 
         [<a href="https://arxiv.org/pdf/2111.15414.pdf">pdf</a>]
         [<a href="">code</a>] 
-        <br> This is highly endorsed by Hsiao-Wuen Hon, Manager director of Microsoft Research Asia.
+      </p>
+    </li>
+</ul>
+
+# The principle for specific task
+<ul>
+  <li>
+    <p>
+        <strong>Source Free Graph Unsupervised Domain Adaptation </strong><br>
+        <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Shi Han, Dongmei Zhang <br>
+        Preprint [<a href="https://arxiv.org/pdf/2112.00955.pdf">pdf</a>]
+        [<a href="https://haitaomao.github.io/categories/sourcefree/">blog</a>]
+    </p>
+  </li>
+    <p>
+        <strong>Whole Page Unbiased Learning to Rank </strong><br>
+        <strong>Haitao Mao</strong>, Lixin Zou, Yujia Zheng, Jiliang Tang, Xiaokai Chu, Jiashu Zhao, Dawei Yin <br>
+        Preprint [<a href="">pdf</a>]
+    </p>
+  </li>
+  </li>
+    <p>
+        <strong>Alternately Optimized Graph Neural Network </strong><br>
+        Haoyu Han, Xiaorui Liu, <strong>Haitao Mao</strong>,  MohamadAli Torkamani, Feng Shi, Victor Lee, Jiliang Tang  <br>
+        Preprint [<a href="https://arxiv.org/pdf/2206.03638.pdf">pdf</a>]
+    </p>
+  </li>
+  
+    
+</ul>
+
+# The principle from expert knowledge (Interdisciplinary Research)
+<ul>
+    <li>
+      <p>
+        <strong> A Large Scale Search Dataset for Unbiased Learning to Rank </strong> <br>
+        <strong>Haitao Mao*</strong>, Lixin Zou*, Xiaokai Chu, Jiliang Tang, Shuaiqiang Wang, Wenwen ye, Dawei yin. <br>
+        <strong>NeurIPS 2022 Dataset Track</strong><br> 
+        [<a href="https://openreview.net/pdf?id=EZcHYuU_9E">pdf</a>]
+        [<a href="https://github.com/ChuXiaokai/baidu_ultr_dataset">Code1</a>]
+        [<a href="https://github.com/ChuXiaokai/WSDMCUP_BaiduPLM_Paddle">Code2</a>]
+        [<a href="https://haitaomao.github.io/baidu_ultr_page/">Dataset Homepage1</a>]<br>
+        [<a href="https://searchscience.baidu.com/dataset.html">Dataset Homepage2</a>]<br>
+        [<a href="https://www.bilibili.com/video/BV1ZP411N75k/?spm_id_from=333.999.0.0">video</a>]
       </p>
     </li>
     <li>
       <p>
-        <strong> Update soon! under-review now </strong> <br>
+        <strong> Company Competition Graph </strong> <br>
+        Yanci Zhang, Yutong Lu, <strong>Haitao Mao</strong>, Jiawei Huang, Cien Zhang, Xinyi Li, Rui Dai <br>
+        Preprint [<a href="">pdf</a>]
       </p>
     </li>
+    <li>
+      <p>
+        <strong> Form 10-K Itemization </strong> <br>
+        Yanci Zhang, Mengjia Xia, Mingyang Li, <strong>Haitao Mao</strong>, Yutong Lu, Yupeng Lan, Jinlin Ye, Rui Dai <br>
+        Preprint [<a href="">pdf</a>]
+      </p>
+    </li>
+    
+
+  
 </ul>
 
 
 
 
 # Others
-
+<ul>
+  <li>
+    <p>
+        <strong>Unbiased Learning to Rank & Pre-training for Web Search </strong><br>
+        Lixin Zou, <strong>Haitao Mao</strong>, Xiaokai Chu, Changying Hao, Shuaiqiang Wang, Dawei Yin, Jiliang Tang<br>
+        <strong> WSDM CUP 2023</strong><br>
+        [<a href="https://aistudio.baidu.com/aistudio/competition/detail/534/0/introduction">task1</a>][<a href="https://aistudio.baidu.com/aistudio/competition/detail/536/0/introduction">task2</a>][<a href="https://www.bilibili.com/video/BV1ZP411N75k/?spm_id_from=333.999.0.0">video</a>]
+    </p>
+  </li>
+</ul>
 
