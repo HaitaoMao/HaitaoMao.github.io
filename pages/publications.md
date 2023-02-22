@@ -54,7 +54,7 @@ layout: single
         Preprint [<a href="">pdf</a>]
     </p>
   </li>
-  </li>
+  <li>
     <p>
         <strong>Alternately Optimized Graph Neural Network </strong><br>
         Haoyu Han, Xiaorui Liu, <strong>Haitao Mao</strong>,  MohamadAli Torkamani, Feng Shi, Victor Lee, Jiliang Tang  <br>
