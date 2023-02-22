@@ -47,6 +47,7 @@ layout: single
         [<a href="https://haitaomao.github.io/categories/sourcefree/">blog</a>]
     </p>
   </li>
+  <li>
     <p>
         <strong>Whole Page Unbiased Learning to Rank </strong><br>
         <strong>Haitao Mao</strong>, Lixin Zou, Yujia Zheng, Jiliang Tang, Xiaokai Chu, Jiashu Zhao, Dawei Yin <br>
