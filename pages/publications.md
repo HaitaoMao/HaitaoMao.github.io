@@ -6,7 +6,7 @@ layout: single
 
 *represents equal contribution. Co-first authors in name alphabetical order.
 
-# The principle for Deep Neural Network
+# The principle for DNN
 <ul>
   <li>
       <p>
@@ -36,9 +36,9 @@ layout: single
         [<a href="https://neurips.cc/virtual/2022/poster/54444">Offical video</a>]
         [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/NSR-NeurIPS-version.pdf">Official slides</a>]
         [<a href="https://www.bilibili.com/video/BV19d4y1c7Lt/?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054">Long presentation video</a>]
-        [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/NSR-AITIME.pdf">Long presentation slides </a>]
-        [<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202022/54444.png?t=1668603047.5147302">Poster </a>]
-        [<a href="https://mp.weixin.qq.com/s/A45YqMcQeULULGFL05qBCA">Microsoft Research Asia News </a>]
+        [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/NSR-AITIME.pdf">Long presentation slides</a>]
+        [<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202022/54444.png?t=1668603047.5147302">Poster</a>]
+        [<a href="https://mp.weixin.qq.com/s/A45YqMcQeULULGFL05qBCA">Microsoft Research Asia News</a>]
       </p>
     </li>
 </ul>
@@ -81,7 +81,7 @@ layout: single
         [<a href="https://openreview.net/pdf?id=EZcHYuU_9E">pdf</a>]
         [<a href="https://github.com/ChuXiaokai/baidu_ultr_dataset">Code1</a>]
         [<a href="https://github.com/ChuXiaokai/WSDMCUP_BaiduPLM_Paddle">Code2</a>]
-        [<a href="https://haitaomao.github.io/baidu_ultr_page/">Dataset Homepage1</a>]>
+        [<a href="https://haitaomao.github.io/baidu_ultr_page/">Dataset Homepage1</a>]
         [<a href="https://searchscience.baidu.com/dataset.html">Dataset Homepage2</a>]
         [<a href="https://www.bilibili.com/video/BV1ZP411N75k/?spm_id_from=333.999.0.0">Long presentation video</a>]
         [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/Baidu-ULTR-MLNLP.pdf">Long presentation slides</a>]
