@@ -97,7 +97,7 @@ Additional thanks to other brilliant researchers and advisors help me on my rese
         <p>
             <a href="http://dse.cse.msu.edu/">Data Science and Engineering Lab</a>, Michigan State University
             <br>
-                I am spending my best PhD adverture on the next coming five years with Prof Jiliang Tang. I really enjoy the life here. JT always support me on my research road. My collaboration with Wei Jin, Hongzhi Wen, Haoyu Han is fantastic. They not only give opinions on research, but also help me to write code efficently. ALl labmates help a lot in my everyday life, like Han Xu, Yuxuan Wan, Jie Ren would like to catch me up. 
+                I am spending my best PhD adverture on the next coming five years with Prof Jiliang Tang. I really enjoy the life here. JT always support me on my research road. My collaboration with Wei Jin, Hongzhi Wen, Haoyu Han is fantastic. They not only give opinions on research, but also help me to write code efficently. ALl labmates help a lot in my everyday life. 
         </p>
     </li>
     <li>

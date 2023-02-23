@@ -32,7 +32,13 @@ layout: single
         <strong>Haitao Mao*</strong>, Lun Du*, Qiang Fu*, Xu Chen*, Wei Fang, Shi Han, Dongmei Zhang <br>
         <strong> NeurIPS2022</strong><br> 
         [<a href="https://arxiv.org/pdf/2111.15414.pdf">pdf</a>]
-        [<a href="">code</a>] 
+        [<a href="https://github.com/HaitaoMao/Neuron-with-Steady-Response-Leads-to-Better-Generalization">code</a>] 
+        [<a href="https://neurips.cc/virtual/2022/poster/54444">Offical video</a>]
+        [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/NSR-NeurIPS-version.pdf">Official slides</a>]
+        [<a href="https://www.bilibili.com/video/BV19d4y1c7Lt/?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054">Long presentation video</a>]
+        [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/NSR-AITIME.pdf">Long presentation slides </a>]
+        [<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202022/54444.png?t=1668603047.5147302">Poster </a>]
+        [<a href="https://mp.weixin.qq.com/s/A45YqMcQeULULGFL05qBCA">Microsoft Research Asia News </a>]
       </p>
     </li>
 </ul>
@@ -51,7 +57,7 @@ layout: single
     <p>
         <strong>Whole Page Unbiased Learning to Rank </strong><br>
         <strong>Haitao Mao</strong>, Lixin Zou, Yujia Zheng, Jiliang Tang, Xiaokai Chu, Jiashu Zhao, Dawei Yin <br>
-        Preprint [<a href="">pdf</a>]
+        Preprint [<a href="https://arxiv.org/pdf/2210.10718.pdf">pdf</a>]
     </p>
   </li>
   <li>
@@ -77,7 +83,11 @@ layout: single
         [<a href="https://github.com/ChuXiaokai/WSDMCUP_BaiduPLM_Paddle">Code2</a>]
         [<a href="https://haitaomao.github.io/baidu_ultr_page/">Dataset Homepage1</a>]<br>
         [<a href="https://searchscience.baidu.com/dataset.html">Dataset Homepage2</a>]<br>
-        [<a href="https://www.bilibili.com/video/BV1ZP411N75k/?spm_id_from=333.999.0.0">video</a>]
+        [<a href="https://www.bilibili.com/video/BV1ZP411N75k/?spm_id_from=333.999.0.0">Long presentation video</a>]
+        [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/Baidu-ULTR-MLNLP.pdf">Long presentation slides</a>]
+        [<a href="https://neurips.cc/virtual/2022/poster/55768">Official video</a>]
+        [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/Baidu-ULTR-NeurIPS-version.pdf">official slides</a>]
+        [<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202022/55768.png?t=1669701622.351326">Poster</a>]
       </p>
     </li>
     <li>
@@ -94,9 +104,6 @@ layout: single
         Preprint [<a href="">pdf</a>]
       </p>
     </li>
-    
-
-  
 </ul>
 
 
@@ -109,7 +116,11 @@ layout: single
         <strong>Unbiased Learning to Rank & Pre-training for Web Search </strong><br>
         Lixin Zou, <strong>Haitao Mao</strong>, Xiaokai Chu, Changying Hao, Shuaiqiang Wang, Dawei Yin, Jiliang Tang<br>
         <strong> WSDM CUP 2023</strong><br>
-        [<a href="https://aistudio.baidu.com/aistudio/competition/detail/534/0/introduction">task1</a>][<a href="https://aistudio.baidu.com/aistudio/competition/detail/536/0/introduction">task2</a>][<a href="https://www.bilibili.com/video/BV1ZP411N75k/?spm_id_from=333.999.0.0">video</a>]
+        [<a href="https://aistudio.baidu.com/aistudio/competition/detail/534/0/introduction">task1</a>]
+        [<a href="https://aistudio.baidu.com/aistudio/competition/detail/536/0/introduction">task2</a>]
+        [<a href="https://searchscience.baidu.com/dataset.html">Dataset Homepage</a>]
+        [<a href="https://www.bilibili.com/video/BV1ZP411N75k/?spm_id_from=333.999.0.0">video</a>]
+        [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/WSDMCUP_KICKOFF_AITIME.pdf">slides</a>]
     </p>
   </li>
 </ul>
