@@ -20,7 +20,7 @@ layout: single
         [<a href="https://github.com/haitaomao/haitaomao.github.io/blob/master/_files/CIKM2021/Init_poster.pdf">Offical Poster</a>]
         [<a href="https://github.com/haitaomao/haitaomao.github.io/blob/master/_files/CIKM2021/CIKM21_Neuron_Campaign_for_Initialization_Guided_by_Information_Bottleneck_Theory.pdf">Offical Slides</a>]
         [<a href="https://github.com/haitaomao/haitaomao.github.io/blob/master/_files/CIKM2021/Init_video.mp4">Offical Video</a>]
-        [<a href="https://mp.weixin.qq.com/s/PEt7m_iadPGm9puO0S0nHw">AI TIME Introduction </a>]
+        [<a href="https://mp.weixin.qq.com/s/PEt7m_iadPGm9puO0S0nHw">AI TIME Introduction</a>]
         [<a href="https://github.com/haitaomao/haitaomao.github.io/blob/master/_files/CIKM2021/AITime%20CIKM21%20-%20Neuron%20Campaign.pdf">AI TIME presentation Slides</a>]
         [<a href="https://www.bilibili.com/video/BV1fL411V7FP?spm_id_from=333.1007.top_right_bar_window_history.content.click">AI TIME Presentation Video</a>]
         [<a href="https://mp.weixin.qq.com/s/V0pwLwTR-rVpe8h5NL_u3g">AI TIME Report</a>]
@@ -81,8 +81,8 @@ layout: single
         [<a href="https://openreview.net/pdf?id=EZcHYuU_9E">pdf</a>]
         [<a href="https://github.com/ChuXiaokai/baidu_ultr_dataset">Code1</a>]
         [<a href="https://github.com/ChuXiaokai/WSDMCUP_BaiduPLM_Paddle">Code2</a>]
-        [<a href="https://haitaomao.github.io/baidu_ultr_page/">Dataset Homepage1</a>]<br>
-        [<a href="https://searchscience.baidu.com/dataset.html">Dataset Homepage2</a>]<br>
+        [<a href="https://haitaomao.github.io/baidu_ultr_page/">Dataset Homepage1</a>]>
+        [<a href="https://searchscience.baidu.com/dataset.html">Dataset Homepage2</a>]
         [<a href="https://www.bilibili.com/video/BV1ZP411N75k/?spm_id_from=333.999.0.0">Long presentation video</a>]
         [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/Baidu-ULTR-MLNLP.pdf">Long presentation slides</a>]
         [<a href="https://neurips.cc/virtual/2022/poster/55768">Official video</a>]
@@ -116,6 +116,7 @@ layout: single
         <strong>Unbiased Learning to Rank & Pre-training for Web Search </strong><br>
         Lixin Zou, <strong>Haitao Mao</strong>, Xiaokai Chu, Changying Hao, Shuaiqiang Wang, Dawei Yin, Jiliang Tang<br>
         <strong> WSDM CUP 2023</strong><br>
+        [<a href="https://www.wsdm-conference.org/2023/program/wsdm-cup">WSDM CUP page</a>]
         [<a href="https://aistudio.baidu.com/aistudio/competition/detail/534/0/introduction">task1</a>]
         [<a href="https://aistudio.baidu.com/aistudio/competition/detail/536/0/introduction">task2</a>]
         [<a href="https://searchscience.baidu.com/dataset.html">Dataset Homepage</a>]
