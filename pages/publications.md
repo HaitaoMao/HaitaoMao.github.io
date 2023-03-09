@@ -101,7 +101,7 @@ layout: single
       <p>
         <strong> Form 10-K Itemization </strong> <br>
         Yanci Zhang, Mengjia Xia, Mingyang Li, <strong>Haitao Mao</strong>, Yutong Lu, Yupeng Lan, Jinlin Ye, Rui Dai <br>
-        Preprint [<a href="">pdf</a>]
+        Preprint [<a href="https://arxiv.org/pdf/2303.04688.pdf">pdf</a>]
       </p>
     </li>
 </ul>
