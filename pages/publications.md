@@ -124,5 +124,13 @@ layout: single
         [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/WSDMCUP_KICKOFF_AITIME.pdf">slides</a>]
     </p>
   </li>
+  <li>
+    <p>
+        <strong>Amazon Multilingual Recommendation</strong><br>
+        Bing Yin, Chen Luo,Haitao Mao,Hanqing Lu,Haoming Jiang,Jiliang Tang,Karthik Subbian,Monica Cheng,Suhang Wang,Wei Jin,Xianfeng Tang,Yizhou Sun,Zhen Li,Zheng Li,Zhengyang Wang (in alphabetical order)<br> 
+        <strong> KDD CUP 2023</strong><br>
+        [<a href="https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge">KDD CUP page</a>]
+    </p>
+  </li>
 </ul>
 
