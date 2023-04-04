@@ -54,6 +54,7 @@ From junior high school, I really enjoy teaching other students and doing presen
 I am a host in [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg) and [AITIME](http://www.aitime.cn/).
 I have hosted talks with more than 15w as follows:
 
+- The 15th seminar of MLNLP community. [[video]]()
 - AITIME PhD debate about theory in Deep Learning. [video](https://www.bilibili.com/video/BV1pe4y1U7Pc/?vd_source=85bb42770c1036d2fc85b057595f1054) (more than 24,000 views)
 - AITIME PhD debate about the low-level vision.[video](https://www.bilibili.com/video/BV1aP4y1f7mG?vd_source=85bb42770c1036d2fc85b057595f1054) (more than 17,000 view)
 - AITIME PhD debate about the backdoor attack in deep learning. [video](https://www.bilibili.com/video/BV1qT411g7Cq?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054). (more than 24,000 view)
@@ -91,7 +92,7 @@ I have hosted talks with more than 15w as follows:
 - TKDE
 - WWW 2023
 - ICML 2022, 2023
-- NeurIPS 2022
+- NeurIPS 2022, 2023
 - KDD 2022, 2023
 - CIKM 2022
 - LOG 2022
@@ -100,8 +101,11 @@ I have hosted talks with more than 15w as follows:
 
 
 ### Familiar Research Topics
+- Learning on Graph
+  - Node Classification
+  - Link Prediction
+  - Knowledge Graph Completion
 - Knowledge Graph Construction(NER, Document-level relation extraction)
-- Knowledge Graph Completion
 - Session Recommendation System
 - Click-Through Rate (CTR)
 

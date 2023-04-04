@@ -94,7 +94,7 @@ layout: single
       <p>
         <strong> Company Competition Graph </strong> <br>
         Yanci Zhang, Yutong Lu, <strong>Haitao Mao</strong>, Jiawei Huang, Cien Zhang, Xinyi Li, Rui Dai <br>
-        Preprint [<a href="">pdf</a>]
+        Preprint [<a href="https://arxiv.org/pdf/2304.00323.pdf">pdf</a>]
       </p>
     </li>
     <li>
@@ -127,7 +127,7 @@ layout: single
   <li>
     <p>
         <strong>Amazon Multilingual Recommendation</strong><br>
-        Bing Yin, Chen Luo,Haitao Mao,Hanqing Lu,Haoming Jiang,Jiliang Tang,Karthik Subbian,Monica Cheng,Suhang Wang,Wei Jin,Xianfeng Tang,Yizhou Sun,Zhen Li,Zheng Li,Zhengyang Wang (in alphabetical order)<br> 
+        Bing Yin, Chen Luo, <strong>Haitao Mao</strong>, Hanqing Lu, Haoming Jiang, Jiliang Tang, Karthik Subbian, Monica Cheng ,Suhang Wang, Wei Jin, Xianfeng Tang, Yizhou Sun, Zhen Li, Zheng Li, Zhengyang Wang (in alphabetical order)<br> 
         <strong> KDD CUP 2023</strong><br>
         [<a href="https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge">KDD CUP page</a>]
     </p>
