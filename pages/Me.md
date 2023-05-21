@@ -9,7 +9,11 @@ I am a first-year Ph.D. student at Michigan State University supervised by Dr. [
 
 
 
-My research is  (1) using toy examples, (2) building  suitable assumption (3) conducting real-world experimental insights (4) deriving theoritical understanding aligning with real-world scenario. With those analysis, I can (1) understand graph-related task, datasets,  model architecture design,  and the learning procedure (2) find new real-world challnge and define research scenario revolving on real-world challenge. (3) Find new solution based on those insights. Details on my research taste can be found at [here](). Feel free to discuss with me for collaboration. 
+My research is  (1) using toy examples, (2) building  suitable assumption (3) conducting real-world experimental insights (4) deriving theoritical understanding aligning with real-world scenario. 
+
+With those analyses, I can (1) understand graph-related task, datasets,  model architecture design,  and the learning procedure (2) find new real-world challnge and define research scenario revolving on real-world challenge. (3) Find new solution based on those insights. 
+
+Details on my research taste can be found at [here](). Feel free to discuss with me for collaboration. 
 
 - The principle on DNN learning procedure: a novel neuron perspective:
   -  Neuron Compaign Initialization strategy (**Won the CIKM2021 Best Short Paper**) 
@@ -22,8 +26,8 @@ My research is  (1) using toy examples, (2) building  suitable assumption (3) co
   - Homophily-related Graph OOD scenario (under-review)
   - Whole-page Unbiased Learning to Rank (Found in Baidu) (WSDM CUP2023, NeurIPS 2022, under-review)
   - Multi-regional Session Recommendation (Found in Amazon) (KDD-CUP 2023, under-review)
-  - Graph application in Finance (Found in Wharton Research Data Service) (under-review)
-  - GPT on Graph (under-review)
+  - Graph application in Finance domain (Found in Wharton Research Data Service) (under-review)
+  - GPT on Graph
 
 I still have a big dream on my research. I believe I could build explanable, effective, effective models for the real-world application with first principle.
 
@@ -56,19 +60,37 @@ I still have a big dream on my research. I believe I could build explanable, eff
 
 ### Proposal
 
-- Graph Neural Networks for Link Prediction: Deep Insights and New Perspective 
-  PI: Dr. Jiliang Tang
-  Role: Designed and drafted the whole proposal  
-- LoG local mini-conferences in Michigan 
-  PI: Dr. Jiliang Tang
-  Role: Designed and drafted the whole proposal
-- LoG local mini-conferences in Beijing 
-  PI: Dr. Lun Du
-  Role: Designed and drafted part of the proposal"  
-- Unbiased Learning to Rank and Pre-training for Web Search 
-  PI: Dr. Lixin Zou
-  Role: Designed and drafted the whole proposal 
-  Result: Submitted to WSDM2023 Conference committee and Baidu Inc and funded in 2022.
+<ul>
+    <li>
+      <p>
+        <strong> Graph Neural Networks for Link Prediction: Deep Insights and New Perspective </strong><br>
+          <strong>PI: </strong> Jiliang Tang <br>
+        <strong>role: </strong> design and draft the whole proposal
+       </p>
+	</li>
+    <li>
+      <p>
+        <strong> LoG local mini-conferences in Michigan  </strong><br>
+          <strong>PI: </strong> Jiliang Tang <br>
+        <strong>role: </strong> design and draft the whole proposal
+       </p>
+	</li>
+    <li>
+      <p>
+        <strong> LoG local mini-conferences in Beijing  </strong><br>
+          <strong>PI: </strong> Lun Du <br>
+        <strong>role: </strong> design and draft part of the proposal
+       </p>
+	</li>
+    <li>
+      <p>
+        <strong> Unbiased Learning to Rank and Pre-training for Web Search   </strong><br>
+          <strong>PI: </strong> Lixin Zou <br>
+        <strong>role: </strong> design and draft part of the proposal <br>
+          <strong>Result:</strong>strong> Submitted to WSDM2023 Conference committee and Baidu Inc and funded in 2022.
+       </p>
+	</li>
+</ul>
 
 
 
@@ -81,17 +103,17 @@ I still have a big dream on my research. I believe I could build explanable, eff
 
 **Research Intern at Baidu (March, 2022 - September, 2022)**
 
-- Search strategy department supervised by [Lixin Zou](https://www.zoulixin.site/)(Now an associate professor in Wuhan University).
+- Search strategy department, supervised by [Lixin Zou](https://www.zoulixin.site/)(Now an associate professor in Wuhan University).
 - Project: Whole-page Unbiased Learning to rank (NeurIPS 2022 dataset track, WSDM CUP)
 
 **Research intern at Microsoft Research Asia (January, 2021 - November, 2021)**
 
--  [Data Knowledge Intelligent Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) supervised by Principal Researcher [Qiang Fu](https://scholar.google.com/citations?hl=en&user=bwTLZSIAAAAJ), Researcher [Lun Du](https://scholar.google.com/citations?user=3XUANDAAAAAJ&hl=en&oi=ao), and Senior Principal Researcher Manager [Shi Han](https://www.microsoft.com/en-us/research/people/shihan/). 
-- Project: initialization strategy (CIKM best short paper) and regularization method (NeurIPS 2022).  (One [news](https://mp.weixin.qq.com/s/9wREeVH-o1TZ6Y-zcxXxXQ) about us)
+-  [Data Knowledge Intelligent Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), supervised by Principal Researcher [Qiang Fu](https://scholar.google.com/citations?hl=en&user=bwTLZSIAAAAJ), Researcher [Lun Du](https://scholar.google.com/citations?user=3XUANDAAAAAJ&hl=en&oi=ao), and Senior Principal Researcher Manager [Shi Han](https://www.microsoft.com/en-us/research/people/shihan/). 
+- Project: initialization strategy (CIKM best short paper) and regularization method (NeurIPS 2022).  One [news](https://mp.weixin.qq.com/s/9wREeVH-o1TZ6Y-zcxXxXQ) about my research.
 - Application: Source Free Unsupervised Graph Domain Adaptation
 - Co-founded MS-Intern Guitar Club with Jianan Zhao.
 
-**Research Intern in NLP lab, Nanjing University (June, 2020 - August, 2020) **
+**Research Intern in NLP lab, Nanjing University (June, 2020 - August, 2020)**
 
 - Project: Document-level relation extraction
 - Win the best project and best performance award
