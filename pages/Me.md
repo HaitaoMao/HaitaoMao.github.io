@@ -7,63 +7,30 @@ layout: single
 
 I am a first-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I have won **the best short paper award in CIKM2021** as the first author.
 
-#### I am a researcher
-My research interest focuses on finding, understanding existing inductive bias and encode new inductive bias for Deep model (typically graph data with specific challenge). 
-
-From my perspective, inductive bias can be from the following three perspectives:
-
-- The principle for Deep Neural Network: There must be some underlying rules why the existing model structures, optimizatizer could work well, for example, Information Bottleneck Theory. However, they still remain much mysterious now. 
-- The principle for specific task: Introduce specific and suitable assumption to help the downstream task be better
-- The principle from expert knowledge: model can explicit use the human knowledge to become both powerful, explanable, and trustworthy
 
 
+My research is  (1) using toy examples, (2) building  suitable assumption (3) conducting real-world experimental insights (4) deriving theoritical understanding aligning with real-world scenario. With those analysis, I can (1) understand graph-related task, datasets,  model architecture design,  and the learning procedure (2) find new real-world challnge and define research scenario revolving on real-world challenge. (3) Find new solution based on those insights. Details on my research taste can be found at [here](). Feel free to discuss with me for collaboration. 
 
-Revolving on this goal, I have done the following efforts for better understanding on DNN (**Theoretical inspire**) and enhance real-world application (**Practice first**)
+- The principle on DNN learning procedure: a novel neuron perspective:
+  -  Neuron Compaign Initialization strategy (**Won the CIKM2021 Best Short Paper**) 
+  - Neuron steadiness regularization (**NeurIPS 2022**)
+- The principle on Graph-tasks: (**Theoretical inspire** and **Practice first**)
+  - Node classification: Can GNN benefits all nodes iin the same graph? (under-review)
+  - Link Prediction: What is the key factors for GNN success in Link prediction? (Ongoing)
+- Define new scenairo with real-world challenge
+  - Source-free graph Adaptation scenario (Found in Microsoft) (under-review)
+  - Homophily-related Graph OOD scenario (under-review)
+  - Whole-page Unbiased Learning to Rank (Found in Baidu) (WSDM CUP2023, NeurIPS 2022, under-review)
+  - Multi-regional Session Recommendation (Found in Amazon) (KDD-CUP 2023, under-review)
+  - Graph application in Finance (Found in Wharton Research Data Service) (under-review)
+  - GPT on Graph (under-review)
 
-- Understand the principle for DNN to enhance general DNN optimization
-
-  - A new neuron-level understanding -> an Neuron Compaign Initialization strategy(**Won the CIKM2021 Best Short Paper**)
-  - A neuron steadiness phenomenon -> a general regularization term with performance improvement across architectures. (NeurIPS 2022)
-
-- Understand the principle for Graph-based tasks and enhance Graph-based model. **GNN is only one way but not neccerary to incoperate structure**
-
-  - Alternative optimization on Graph -> an efficient MLP model showing comparable performance with GNN (under review)
-  - Understand the tradeoff between explicit and implicit bias on graph modeling  (coming soon)
-
-- incorporate inductive bias to solve real-world problem
-
-  - Privacy issues on Graph -> propose new practical scenario: Source Free Unsupervised Graph Domain Adaptation-> a simle solution to graph data and model indutive bias simultaneously (Under review)
-  - Whole page unbiased learning to rank -> propose new practical dataset (NeurIPS 2022, WSDM CUP 2023)-> a causality based algorithm to find and mitigate bias automatically. (under review)
-  - Multiple regional Session Recommendation (with Amazon, ongoing project)
-  - Introduce how GNN introduce inductive bias  to AI4Science Community. See in AI4Science101 documents. [homepage](https://ai4science101.deepmodeling.com/en/latest/index.html)
-
-  - crisis of confidence for Deep learning in financial
-    - DNN and expert rules with human in the loop to extract essential semantic structure in financial report. (under review)
-    - Extract Relationships between companies and products with expert knowledge. (under review)
-
-I still have a big dream on my research. I believe I could build explanable, effective, effective models for the real-world application with deep understanding and theoritical guarantee.
-
-
-#### I am a life lover
-I am a I enjoy my life research and I am certainly a heavy emotional person with sincerity, which is always thankful to those persons in my life through: relatives, teachers, leaders, precious friends. 
-My interests lies in singing (really good at it), long-distance running (3000m in 11 mins), playing guitar. I would die if there is one day without music. And I keep running and meditation every to keep health. That indeed helps.
-
-#### I am a lecturer & community builder
-From junior high school, I really enjoy teaching other students and doing presentations though I am still not good at it. I am always practice to becomes a good lecturer. Revolving on this goal: 
-
-I am a host in [MLNLP](https://mp.weixin.qq.com/s/IUjQIVCSKexVKuV_jz5SRg) and [AITIME](http://www.aitime.cn/).
-I have hosted talks with more than 15w as follows:
-
-- The 15th seminar of MLNLP community. [[video]]()
-- AITIME PhD debate about theory in Deep Learning. [video](https://www.bilibili.com/video/BV1pe4y1U7Pc/?vd_source=85bb42770c1036d2fc85b057595f1054) (more than 24,000 views)
-- AITIME PhD debate about the low-level vision.[video](https://www.bilibili.com/video/BV1aP4y1f7mG?vd_source=85bb42770c1036d2fc85b057595f1054) (more than 17,000 view)
-- AITIME PhD debate about the backdoor attack in deep learning. [video](https://www.bilibili.com/video/BV1qT411g7Cq?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054). (more than 24,000 view)
-- The 9th seminar of MLNLP community. [[video]](https://www.bilibili.com/video/BV1wB4y1r7fa?spm_id_from=333.337.search-card.all.click)
-- "AI2000: AI young scientist", [[video]](https://www.bilibili.com/video/BV1x94y1d7nL?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click) (more than 90,000 view)
+I still have a big dream on my research. I believe I could build explanable, effective, effective models for the real-world application with first principle.
 
 
 
 ### Selected publication
+
 <ul>
     <li>
       <p>
@@ -80,93 +47,93 @@ I have hosted talks with more than 15w as follows:
         [<a href="https://mp.weixin.qq.com/s/PEt7m_iadPGm9puO0S0nHw">AI TIME Introduction </a>]
         [<a href="https://github.com/haitaomao/haitaomao.github.io/blob/master/_files/CIKM2021/AITime%20CIKM21%20-%20Neuron%20Campaign.pdf">AI TIME presentation Slides</a>]
         [<a href="https://www.bilibili.com/video/BV1fL411V7FP?spm_id_from=333.1007.top_right_bar_window_history.content.click">AI TIME Presentation Video</a>]
-        [<a href="https://mp.weixin.qq.com/s/V0pwLwTR-rVpe8h5NL_u3g">AI TIME Report</a>] <br>
-        I love this work become the idea is easy and interesting and provide a new perspective, the inspiration comes from the Lottery Ticket theory and Information Bottleneck theory. <br>
-        See our follow up job accept by NeurIPS2022: Neuron with Steady Response Leads to Better Generalization.
+        [<a href="https://mp.weixin.qq.com/s/V0pwLwTR-rVpe8h5NL_u3g">AI TIME Report</a>] 
       </p>
     </li>
 </ul>
 
 
-### Service
-- TKDE
-- WWW 2023
-- ICML 2022, 2023
-- NeurIPS 2022, 2023
-- KDD 2022, 2023
-- CIKM 2022
-- LOG 2022
-- WSDM 2023
-- AAAI 2023
 
+### Proposal
 
-### Familiar Research Topics
-- Learning on Graph
-  - Node Classification
-  - Link Prediction
-  - Knowledge Graph Completion
-- Knowledge Graph Construction(NER, Document-level relation extraction)
-- Session Recommendation System
-- Click-Through Rate (CTR)
-
-
-### Talks
-- Renmin University: Understanding and improving Deep Neural Network from neuron-level perspective [slides]()
-- AITIME: WSDM CUP2023-Unbiased learning & Pre-training for Web Search (More than 18000 views) [video]("https://www.bilibili.com/video/BV1ZP411N75k/?spm_id_from=333.999.0.0")[slides]()
-- AITIME: Neuron With steady response leads to better generalization [video]()[slides]()
-- AITIME & Rising star reading group: Neuron Campaign Guided by Information Bottleneck Theory [video]("https://www.bilibili.com/video/BV1fL411V7FP?spm_id_from=333.1007.top_right_bar_window_history.content.click").[slides]()
-- Mircosoft Research Asia: An introduction to Domain Adaptation towards privacy protection.[slides]()
+- Graph Neural Networks for Link Prediction: Deep Insights and New Perspective 
+  PI: Dr. Jiliang Tang
+  Role: Designed and drafted the whole proposal  
+- LoG local mini-conferences in Michigan 
+  PI: Dr. Jiliang Tang
+  Role: Designed and drafted the whole proposal
+- LoG local mini-conferences in Beijing 
+  PI: Dr. Lun Du
+  Role: Designed and drafted part of the proposal"  
+- Unbiased Learning to Rank and Pre-training for Web Search 
+  PI: Dr. Lixin Zou
+  Role: Designed and drafted the whole proposal 
+  Result: Submitted to WSDM2023 Conference committee and Baidu Inc and funded in 2022.
 
 
 
-### Internship
+### Professional Experience
 
-**Microsoft Research Asia (January, 2021 - November, 2021)**
+**Visiting scholar at Hong Kong Polytechnic University (March, 2023 - September 2023)**
 
-I am the first post-2000s generation research intern in the [Data Knowledge Intelligent Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) (Used to be called Software Analysis Group) leaded by [Dongmei Zhang]([Dongmei Zhang at Microsoft Research](https://www.microsoft.com/en-us/research/people/dongmeiz/)). Fortunately I was guided by Principal Researcher [Qiang Fu](https://scholar.google.com/citations?hl=en&user=bwTLZSIAAAAJ), Researcher [Lun Du](https://scholar.google.com/citations?user=3XUANDAAAAAJ&hl=en&oi=ao), and Senior Principal Researcher Manager [Shi Han](https://www.microsoft.com/en-us/research/people/shihan/). And my research topic in MSRA are: initialization strategy, regularization method, Unsupervised Domain Adaptation on Graph with three paper published. One news about us [news](https://mp.weixin.qq.com/s/9wREeVH-o1TZ6Y-zcxXxXQ)
+- supervised by Research Assistant Professor [Wenqi Fan](https://wenqifan03.github.io/) and Professor [Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
+- Project: Graph Neural Networks for Link Prediction
 
-My achievement in MSRA are:
+**Research Intern at Baidu (March, 2022 - September, 2022)**
 
-- Get the star of tomorrow award (top 10% intern)
-- Get the CIKM2021 best short paper award as the first author.
-- One paper about regularization term accepted by Neurips2022 as the co-first author and first student author.
-- Participate in the KDD CUP2021 to handle large-scale graph and get the rank of 23th
+- Search strategy department supervised by [Lixin Zou](https://www.zoulixin.site/)(Now an associate professor in Wuhan University).
+- Project: Whole-page Unbiased Learning to rank (NeurIPS 2022 dataset track, WSDM CUP)
+
+**Research intern at Microsoft Research Asia (January, 2021 - November, 2021)**
+
+-  [Data Knowledge Intelligent Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) supervised by Principal Researcher [Qiang Fu](https://scholar.google.com/citations?hl=en&user=bwTLZSIAAAAJ), Researcher [Lun Du](https://scholar.google.com/citations?user=3XUANDAAAAAJ&hl=en&oi=ao), and Senior Principal Researcher Manager [Shi Han](https://www.microsoft.com/en-us/research/people/shihan/). 
+- Project: initialization strategy (CIKM best short paper) and regularization method (NeurIPS 2022).  (One [news](https://mp.weixin.qq.com/s/9wREeVH-o1TZ6Y-zcxXxXQ) about us)
+- Application: Source Free Unsupervised Graph Domain Adaptation
 - Co-founded MS-Intern Guitar Club with Jianan Zhao.
-  
 
-**Baidu (March, 2022 - September, 2022)**
+**Research Intern in NLP lab, Nanjing University (June, 2020 - August, 2020) **
 
-I am a research intern in search strategy department in Baidu supervised by [Lixin Zou](https://www.zoulixin.site/). Now my research topic in Baidu is Unbiased Learning To Rank. I am still focusing on the unifed view on Graph Neural Network.
-If as expected, my achievements in Baidu are:
+- Project: Document-level relation extraction
+- Win the best project and best performance award
 
-- One dataset paper accepte by NeurIPS 2020 dataset track on Unbiased Learning to rank problem. It provides new practical challenges on this task.
-- Host the WSDM CUP on the above dataset.
-- One full paper for causal disocvery on unbiased learning to rank problem (baseline for the above dataset).
 
 
 ### Education
+
 **Michigan State University (August 2022 - present)**
 
-I am a Ph.D. candidate in DSE lab at Michigan State University, supervised by [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). 
+- Ph.D. student in DSE lab at Michigan State University, supervised by [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). 
+- Research topic: (1) New insights and unify perspective on GNN (2) Frontier Application on Graph
 
 **University of Electronic Science and Technology of China  (September 2018 - June 2022)**
 
-I major in software engineering and fortunately selected as a member of the Elite program (the international class)
-
-My achievements in UESTC are:
+- Major in Elite program, software engineering 
+- **Rank first** in academic performance : (1) average score: 91.29 (1/58) (2) Comprehensive score: 96.79 (1/58) (3)GPA: 3.97
 
 - Two reports on the official website of UESTC and a report on Xinhua website
   - [因为热爱所以拼搏，全奖直博的他，成电四年很精彩！](https://mp.weixin.qq.com/s/CMcPWZ1YTafE8CUQcA619Q) 
   - [软件学院本科生在数据挖掘领域顶级会议CIKM上发表论文并获最佳短文奖](https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=81841)
-- Won the Sichuan Provincial Outstanding Graduate title.
-- The **first place** in-class performance (1/58) with an average score of 91.29 and a GPA of 3.97.
-- Won the **national first prize** in China Software Cup (20/45000). [[Github](https://github.com/xiaobao520123/EnterpriseNavigator)]
-- Won the **A+** performance (4/40) on the summer camp of the **Nation University of Singapore, School of computing**. 
-- Won the best project award and the best performance (3/57) on the summer camp of **Nanjing University, NLP lab**.
-- Worked as a research assistant in the artificial Intelligence and System Laboratory for about one year.
-- One software copyright
+
+### Awards:
+
+- CIKM2021 Best short paper award (first author) (1/626)
+- Excellent Student of High Education in Sichuan Province (30/763)
+- Outstanding Graduate in University of Electronic Science and Technology of China (74/763)
+- Star of tomorrow intern award in Microsoft Research Asia (top 10%)
+- National first prize in Chinese Software (20/45,000) [[Github](https://github.com/xiaobao520123/EnterpriseNavigator)]
+- Best project and best performance award in **Nanjing University, NLP lab**. (3/57)
+- **A+** performance (4/40) on the summer camp of the **Nation University of Singapore, School of computing**. 
+
+
+
+### Mentoring
+
+- Zhikai Chen
+- Juanhui Li
+- Zijun Wang
 
 
 
 ### Support
+
 This page is supported by [Hanlin Lan](https://runtus.top), one of my best friends in undergraduate period. Thanks for his great help.

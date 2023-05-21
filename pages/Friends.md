@@ -5,7 +5,7 @@ layout: single
 ---
 There is no way for me to have any achievements without your help. Sincerely thanks to all the friends and mentors who help me in this journey. 
 
-# Best mentors on my research road.
+# Best Advisor & mentors on my research road.
 <ul>
     <li>
         <p>
@@ -13,34 +13,49 @@ There is no way for me to have any achievements without your help. Sincerely tha
             my PhD advisor, selfless and with great passion. 
         </p>
     </li>
+        <li>
+        <p>
+            <a href="http://www.cse.msu.edu/~tangjili/index.html">Neil Shah</a>Leading scientist in SnapChat<br>
+        </p>
+    </li>
+    <li>
+        <p>
+            <a href="http://www.cse.msu.edu/~tangjili/index.html">Wei jin</a>: Assistant Professor in Emory<br>
+        </p>
+    </li>
+    <li>
+        <p>
+            <a href="http://www.cse.msu.edu/~tangjili/index.html">Yao Ma</a>: Assistant Professor in Emory<br>
+        </p>
+    </li>
+        <li>
+        <p>
+            <a href="http://www.cse.msu.edu/~tangjili/index.html">Tong Zhao</a>: <br>
+        </p>
+    </li>
     <li>
         <p>
             <a href="https://www.zoulixin.site">Lixin Zou</a>: Research Scientist in Baidu<br>
-            A modest and really hard working mentor.
         </p>
     </li>
     <li>
         <p>
             <a href="https://www.microsoft.com/en-us/research/people/ludu/">Lun Du</a>: Researcher in MSRA<br>
-            Mentor? No. More like a good brother can talk freely from the research to everyday life.
         </p>
     </li>
     <li>
         <p>
             <a href="https://scholar.google.com/citations?user=bwTLZSIAAAAJ&hl=en">Qiang Fu</a>: Principal Researcher in MSRA<br>
-            Opening the door to do meaningful research. Give me the first glance on how to do research.
         </p>
     </li>
     <li>
         <p>
             <a href="https://www.microsoft.com/en-us/research/people/shihan/">Shi Han</a>: Senior Principal Researcher Manager in MSRA<br>
-            A supervisor with great personality charm. "wise" is the most precise word to describe him.
         </p>
     </li>
     <li>
         <p>
-            <a href="https://sise.uestc.edu.cn/info/1036/5686.htm">Fan Zhou</a><br>
-            My undergraduate supervisor with great passion on research. 
+            <a href="https://sise.uestc.edu.cn/info/1035/9375.htm">Fan Zhou</a><br>
         </p>
     </li>
 </ul>
@@ -96,8 +111,6 @@ Additional thanks to other brilliant researchers and advisors help me on my rese
     <li>
         <p>
             <a href="http://dse.cse.msu.edu/">Data Science and Engineering Lab</a>, Michigan State University
-            <br>
-                I am spending my best PhD adverture on the next coming five years with Prof Jiliang Tang. I really enjoy the life here. JT always support me on my research road. My collaboration with Wei Jin, Hongzhi Wen, Haoyu Han is fantastic. They not only give opinions on research, but also help me to write code efficently. ALl labmates help a lot in my everyday life. 
         </p>
     </li>
     <li>
@@ -105,7 +118,7 @@ Additional thanks to other brilliant researchers and advisors help me on my rese
             Data Science Reading Group
             <br>
               This is a reading group organized by Yaoqiao Zhu. I think it is wonderful to meet these exciting young scientists! influence by their great attitude and passion on research. 
-            <br> So glad to have this chance to debate with so many friends: <a href="https://sxkdz.github.io/">Yanqiao Zhu</a>, <a href="https://yuanqidu.github.io/">Yuanqi Du</a>,<a href="https://andyjzhao.github.io/">Jianan Zhao</a>, <a href="https://haonan3.github.io/">Haonan Wang</a>,<a href="https://jieyuz2.github.io/">Jieyu Zhang</a>, Hejie Cui, Yiqiao Jin 
+            <br> So glad to have this chance to debate with so many friends: <a href="https://sxkdz.github.io/">Yanqiao Zhu</a>, <a href="https://yuanqidu.github.io/">Yuanqi Du</a>,<a href="https://andyjzhao.github.io/">Jianan Zhao</a>, <a href="https://haonan3.github.io/">Haonan Wang</a>,<a href="https://jieyuz2.github.io/">Jieyu Zhang</a>, <a href="https://hejiecui.com/"> Hejie Cui </a>, <a href="https://ahren09.github.io/"> Yiqiao Jin </a> 
             <img src = "https://pic4.zhimg.com/80/v2-8ddf8b961575a663a43b9f3af83845ba_1440w.png?source=d16d100b">
         </p>
     </li>
@@ -128,7 +141,7 @@ Additional thanks to other brilliant researchers and advisors help me on my rese
             <img src = "https://pic1.zhimg.com/80/v2-4f45d128734f2ee20fc7e8a6abb5f678_720w.jpeg">
         </p>
     </li>
-    
+
 </ul>
 
 

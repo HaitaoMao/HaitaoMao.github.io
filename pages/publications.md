@@ -64,7 +64,7 @@ layout: single
     <p>
         <strong>Alternately Optimized Graph Neural Network </strong><br>
         Haoyu Han, Xiaorui Liu, <strong>Haitao Mao</strong>,  MohamadAli Torkamani, Feng Shi, Victor Lee, Jiliang Tang  <br>
-        Preprint [<a href="https://arxiv.org/pdf/2206.03638.pdf">pdf</a>]
+        ICML 2023 [<a href="https://arxiv.org/pdf/2206.03638.pdf">pdf</a>]
     </p>
   </li>
   
