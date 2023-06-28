@@ -18,17 +18,9 @@ Details on my research taste can be found at [here](). Feel free to discuss with
 - The principle on DNN learning procedure: a novel neuron perspective:
   -  Neuron Compaign Initialization strategy (**Won the CIKM2021 Best Short Paper**) 
   - Neuron steadiness regularization (**NeurIPS 2022**)
-- The principle on Graph-tasks: (**Theoretical inspire** and **Practice first**)
+- The principle on Graph-tasks and GNN design: (**Theoretical inspire** and **Practice first**)
   - Node classification: Can GNN benefits all nodes iin the same graph? (under-review)
   - Link Prediction: What is the key factors for GNN success in Link prediction? (Ongoing)
-- Define new scenairo with real-world challenge
-  - Source-free graph Adaptation scenario (Found in Microsoft) (under-review)
-  - Homophily-related Graph OOD scenario (under-review)
-  - Whole-page Unbiased Learning to Rank (Found in Baidu) (WSDM CUP2023, NeurIPS 2022, under-review)
-  - Multi-regional Session Recommendation (Found in Amazon) (KDD-CUP 2023, under-review)
-  - Graph application in Finance domain (Found in Wharton Research Data Service) (under-review)
-  - GPT on Graph
-
 I still have a big dream on my research. I believe I could build explanable, effective, effective models for the real-world application with first principle.
 
 
@@ -54,6 +46,13 @@ I still have a big dream on my research. I believe I could build explanable, eff
         [<a href="https://mp.weixin.qq.com/s/V0pwLwTR-rVpe8h5NL_u3g">AI TIME Report</a>] 
       </p>
     </li>
+    <li>
+      <p>
+          <strong>Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?</strong><br>
+          <strong>Haitao Mao</strong>, Zhikai Chen, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
+          Preprint [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
+      </p>
+  </li>
 </ul>
 
 
@@ -145,14 +144,6 @@ I still have a big dream on my research. I believe I could build explanable, eff
 - National first prize in Chinese Software (20/45,000) [[Github](https://github.com/xiaobao520123/EnterpriseNavigator)]
 - Best project and best performance award in **Nanjing University, NLP lab**. (3/57)
 - **A+** performance (4/40) on the summer camp of the **Nation University of Singapore, School of computing**. 
-
-
-
-### Mentoring
-
-- Zhikai Chen
-- Juanhui Li
-- Zijun Wang
 
 
 

@@ -15,7 +15,7 @@ There is no way for me to have any achievements without your help. Sincerely tha
     </li>
         <li>
         <p>
-            <a href="http://www.cse.msu.edu/~tangjili/index.html">Neil Shah</a>Leading scientist in SnapChat<br>
+            <a href="http://www.cse.msu.edu/~tangjili/index.html">Neil Shah</a>research scientist and manager in Snap Chat<br>
         </p>
     </li>
     <li>
@@ -25,22 +25,22 @@ There is no way for me to have any achievements without your help. Sincerely tha
     </li>
     <li>
         <p>
-            <a href="http://www.cse.msu.edu/~tangjili/index.html">Yao Ma</a>: Assistant Professor in Emory<br>
+            <a href="http://www.cse.msu.edu/~tangjili/index.html">Yao Ma</a>: Assistant Professor in RPI<br>
         </p>
     </li>
         <li>
         <p>
-            <a href="http://www.cse.msu.edu/~tangjili/index.html">Tong Zhao</a>: <br>
+            <a href="http://www.cse.msu.edu/~tangjili/index.html">Tong Zhao</a>: Research scientist in Snap Chat<br>
         </p>
     </li>
     <li>
         <p>
-            <a href="https://www.zoulixin.site">Lixin Zou</a>: Research Scientist in Baidu<br>
+            <a href="https://www.zoulixin.site">Lixin Zou</a>: Associate Professor in Wuhan University<br>
         </p>
     </li>
     <li>
         <p>
-            <a href="https://www.microsoft.com/en-us/research/people/ludu/">Lun Du</a>: Researcher in MSRA<br>
+            <a href="https://www.microsoft.com/en-us/research/people/ludu/">Lun Du</a>: Senior Researcher in MSRA<br>
         </p>
     </li>
     <li>
@@ -55,53 +55,21 @@ There is no way for me to have any achievements without your help. Sincerely tha
     </li>
     <li>
         <p>
-            <a href="https://sise.uestc.edu.cn/info/1035/9375.htm">Fan Zhou</a><br>
+            <a href="https://sise.uestc.edu.cn/info/1035/9375.htm">Fan Zhou</a>: Professor in UESTC<br>
         </p>
     </li>
 </ul>
+
 Additional thanks to other brilliant researchers and advisors help me on my research road: Justin Ding, Shihan Zhang, Yong Liao.
 
 
 
-## Best friends on my research road.
-<ul>
-    <li>
-        <p>
-            <a href="http://yjzheng.com/">Yujia Zheng</a>
-            <br>
-            My most precious brother who led me to the road of research for the first time.
-        </p>
-    </li>
-    <li>
-        <p>
-            <a href="https://yuanqidu.github.io/">Yuanqi Du</a>
-            <br>
-            Can't imagine how much passion he has.
-        </p>
-    </li>
-    <li>
-        <p>
-            <a href="https://bhwangfy.github.io">Bohan Wang</a>
-            <br>
-            a genius in mathematics.
-        </p>
-    </li>
-    <li>
-        <p>
-            <a href="https://andyjzhao.github.io/">Jianan Zhao</a>
-            <br>
-            Give me inspiration not only research, but also meditation, guitar, and climbing.
-        </p>
-    </li>
-    <li>
-        <p>
-            <a href="https://sxkdz.github.io/">Yanqiao Zhu</a>
-            <br>
-            Great life lover with great citations
-        </p>
-    </li>
-</ul>
+## Mentoring
 
+- Zhikai Chen
+- Juanhui Li
+- Zijun Wang
+- BingHeng Li
 
 
 
@@ -118,7 +86,7 @@ Additional thanks to other brilliant researchers and advisors help me on my rese
             Data Science Reading Group
             <br>
               This is a reading group organized by Yaoqiao Zhu. I think it is wonderful to meet these exciting young scientists! influence by their great attitude and passion on research. 
-            <br> So glad to have this chance to debate with so many friends: <a href="https://sxkdz.github.io/">Yanqiao Zhu</a>, <a href="https://yuanqidu.github.io/">Yuanqi Du</a>,<a href="https://andyjzhao.github.io/">Jianan Zhao</a>, <a href="https://haonan3.github.io/">Haonan Wang</a>,<a href="https://jieyuz2.github.io/">Jieyu Zhang</a>, <a href="https://hejiecui.com/"> Hejie Cui </a>, <a href="https://ahren09.github.io/"> Yiqiao Jin </a> 
+            <br> So glad to have this chance to debate with so many friends: <a href="https://sxkdz.github.io/">Yanqiao Zhu</a>, <a href="https://yuanqidu.github.io/">Yuanqi Du</a>,<a href="https://andyjzhao.github.io/">Jianan Zhao</a>, <a href="https://haonan3.github.io/">Haonan Wang</a>,<a href="https://jieyuz2.github.io/">Jieyu Zhang</a>, <a href="https://hejiecui.com/"> Hejie Cui </a>, <a href="https://ahren09.github.io/"> Yiqiao Jin </a> <a href="http://yjzheng.com/"> Yujia Zheng </a> <a href="https://yupenghou.com/"> Yupeng Hou </a> 
             <img src = "https://pic4.zhimg.com/80/v2-8ddf8b961575a663a43b9f3af83845ba_1440w.png?source=d16d100b">
         </p>
     </li>
