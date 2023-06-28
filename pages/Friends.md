@@ -15,22 +15,22 @@ There is no way for me to have any achievements without your help. Sincerely tha
     </li>
         <li>
         <p>
-            <a href="http://www.cse.msu.edu/~tangjili/index.html">Neil Shah</a>research scientist and manager in Snap Chat<br>
+            <a href="http://nshah.net/">Neil Shah</a>: research scientist and manager in Snap Chat<br>
         </p>
     </li>
     <li>
         <p>
-            <a href="http://www.cse.msu.edu/~tangjili/index.html">Wei jin</a>: Assistant Professor in Emory<br>
+            <a href="http://www.cse.msu.edu/~jinwei2/">Wei jin</a>: Assistant Professor in Emory<br>
         </p>
     </li>
     <li>
         <p>
-            <a href="http://www.cse.msu.edu/~tangjili/index.html">Yao Ma</a>: Assistant Professor in RPI<br>
+            <a href="https://yaoma24.github.io/">Yao Ma</a>: Assistant Professor in RPI<br>
         </p>
     </li>
         <li>
         <p>
-            <a href="http://www.cse.msu.edu/~tangjili/index.html">Tong Zhao</a>: Research scientist in Snap Chat<br>
+            <a href="https://tzhao.io/">Tong Zhao</a>: Research scientist in Snap Chat<br>
         </p>
     </li>
     <li>
@@ -66,10 +66,16 @@ Additional thanks to other brilliant researchers and advisors help me on my rese
 
 ## Mentoring
 
-- Zhikai Chen
-- Juanhui Li
-- Zijun Wang
-- BingHeng Li
+- Zhikai Chen: Michigan State University, PhD student
+  - Co-authored papers: Demystifying Structural Disparity in Graph Neural Networks: can one size fit all?
+  - Ongoing Project: Graph enhanced by GPT.
+- Juanhui Li: Michigan State University, PhD student
+  - Co-authored papers: Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New benchmarking.
+  - Ongoing project: Revisiting GNN for link prediction.
+- Zijun Wang: Zhejiang University, undergraduate student 
+  - Ongoing project: Graph Neural Collapse.
+- BingHeng Li: UESTC, undergraduate student
+  - Generalization ability of Graph Neural Network.
 
 
 
@@ -113,51 +119,12 @@ Additional thanks to other brilliant researchers and advisors help me on my rese
 </ul>
 
 
-## Previous good friends
-You know that, there are many friends pass by my life and shed light into some periods. I will always keep your good in mind.
-<ul>
-    <li>
-        <p>
-            <a href="http://ir.hit.edu.cn/~lbqin/">Libo Qin</a>
-            <br>
-            My roomate also a selfless researcher who determine my dream to achieve a doctor degree.
-        </p>
-    </li>
-    <li>
-        <p>
-            <a href="http://siviltaram.github.io/">Qian Liu</a>
-            <br>
-            A real warm-hearted senior P.hD who kindly help me a lot.
-        </p>
-    </li>
-    <li>
-        <p>
-            Xu Chen
-            <br>
-            excellent co-author who can solve any problem I met.
-        </p>
-    </li>
-    <li>
-        <p>
-            <a href="https://www.microsoft.com/en-us/research/people/xiaoyizhang/">Xiaoyi Zhang</a>
-            <br>
-            My roommate and guider to MSRA.
-        </p>
-    </li>
-    <li>
-        <p>
-            <a href="https://www.linkedin.com/in/ziteng-liu-602b3410a/">Ziteng Liu</a>
-            <br>
-            My roommate and open the door to physics and chemsitry.
-        </p>
-    </li>
-</ul>
 
 
 
 ## My best Undergraduate Friends.
 Thanks to those friends fullfill my wonderful undergraduate life.
-They are Mingxu Xu, Ruijia Wen, Wei Li, Hangyue Li, Yilong Wu, Zhong Zheng, Yuhang Wu, Hanlin Lan, Ninghui Zhu, Yu Kang, Qian Ma, Hao Zhao, Ruisi Zhao, Yang Xu, Haicheng Liao, Xiaohao Xu, Jiacheng Liang, Xingyu Fan, Bochuan Cao.  
+They are Mingxun Xu, Ruijia Wen, Wei Li, Hangyue Li, Yilong Wu, Zhong Zheng, Yuhang Wu, Hanlin Lan, Ninghui Zhu, Yu Kang, Qian Ma, Hao Zhao, Ruisi Zhao, Yang Xu, Haicheng Liao, Xiaohao Xu, Jiacheng Liang, Xingyu Fan, Bochuan Cao.  
 
 
 <img src="https://pic1.zhimg.com/80/v2-fd918d1f30f8a257c2917cac08a8f8cb_1440w.png?source=d16d100b">

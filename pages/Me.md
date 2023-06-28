@@ -13,7 +13,7 @@ My research is  (1) using toy examples, (2) building  suitable assumption (3) co
 
 With those analyses, I can (1) understand graph-related task, datasets,  model architecture design,  and the learning procedure (2) find new real-world challnge and define research scenario revolving on real-world challenge. (3) Find new solution based on those insights. 
 
-Details on my research taste can be found at [here](). Feel free to discuss with me for collaboration. 
+Details on my naive understanding on research can be found at [here](https://haitaomao.github.io/categories/naive/). Feel free to discuss with me for collaboration. 
 
 - The principle on DNN learning procedure: a novel neuron perspective:
   -  Neuron Compaign Initialization strategy (**Won the CIKM2021 Best Short Paper**) 
