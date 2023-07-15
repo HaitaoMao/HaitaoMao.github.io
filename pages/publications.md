@@ -152,27 +152,6 @@ Generation </strong><br>
 
 # Others
 <ul>
-  <li>
-    <p>
-        <strong>Unbiased Learning to Rank & Pre-training for Web Search </strong><br>
-        Lixin Zou, <strong>Haitao Mao</strong>, Xiaokai Chu, Changying Hao, Shuaiqiang Wang, Dawei Yin, Jiliang Tang<br>
-        <strong> WSDM CUP 2023</strong><br>
-        [<a href="https://www.wsdm-conference.org/2023/program/wsdm-cup">WSDM CUP page</a>]
-        [<a href="https://aistudio.baidu.com/aistudio/competition/detail/534/0/introduction">task1</a>]
-        [<a href="https://aistudio.baidu.com/aistudio/competition/detail/536/0/introduction">task2</a>]
-        [<a href="https://searchscience.baidu.com/dataset.html">Dataset Homepage</a>]
-        [<a href="https://www.bilibili.com/video/BV1ZP411N75k/?spm_id_from=333.999.0.0">video</a>]
-        [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/WSDMCUP_KICKOFF_AITIME.pdf">slides</a>]
-    </p>
-  </li>
-  <li>
-    <p>
-        <strong>Amazon Multilingual Recommendation</strong><br>
-        Bing Yin, Chen Luo, <strong>Haitao Mao</strong>, Hanqing Lu, Haoming Jiang, Jiliang Tang, Karthik Subbian, Monica Cheng ,Suhang Wang, Wei Jin, Xianfeng Tang, Yizhou Sun, Zhen Li, Zheng Li, Zhengyang Wang (in alphabetical order)<br> 
-        <strong> KDD CUP 2023 & KDD workshop 2023</strong><br>
-        [<a href="https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge">KDD CUP page</a>]
-    </p>
-  </li>
     <li>
     <p>
         <strong>AI4Science101: Graph Machine Learning</strong><br>

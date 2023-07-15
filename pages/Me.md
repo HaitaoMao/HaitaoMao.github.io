@@ -11,14 +11,14 @@ I am a first-year Ph.D. student at Michigan State University supervised by Dr. [
 
 My research is  (1) using toy examples, (2) building  suitable assumption (3) conducting real-world experimental insights (4) deriving theoritical understanding aligning with real-world scenario. 
 
-With those analyses, I can (1) understand graph-related task, datasets,  model architecture design,  and the learning procedure (2) find new real-world challnge and define research scenario revolving on real-world challenge. (3) Find new solution based on those insights. 
+With those analyses, I can (1) understand graph-related task, datasets, model architecture design, and the learning procedure (2) find new real-world challnge and define research scenario revolving on real-world challenge. (3) Find new solution based on those insights. 
 
 Details on my naive understanding on research can be found at [here](https://haitaomao.github.io/categories/naive/). Feel free to discuss with me for collaboration. 
 
 - The principle on DNN learning procedure: a novel neuron perspective:
   -  Neuron Compaign Initialization strategy (**Won the CIKM2021 Best Short Paper**) 
-  - Neuron steadiness regularization (**NeurIPS 2022**)
-- The principle on Graph-tasks and GNN design: (**Theoretical inspire** and **Practice first**)
+  - Neuron steadiness regularization (**NeurIPS 2022**) 
+- The principle on Graph-tasks and new architecture design for learning on graph: (**Theoretical inspire** and **Practice first**)
   - Node classification: Can GNN benefits all nodes iin the same graph? (under-review)
   - Link Prediction: What is the key factors for GNN success in Link prediction? (Ongoing)
 I still have a big dream on my research. I believe I could build explanable, effective, effective models for the real-world application with first principle.
@@ -62,14 +62,21 @@ I still have a big dream on my research. I believe I could build explanable, eff
 <ul>
     <li>
       <p>
+        <strong>Towards Large Language Models (LLMs) for Learning on Graphs </strong><br>
+          <strong>PI: </strong> Jiliang Tang <br>
+        <strong>role: </strong> design and draft part of the proposal
+       </p>
+	  </li>
+    <li>
+      <p>
         <strong> Graph Neural Networks for Link Prediction: Deep Insights and New Perspective </strong><br>
           <strong>PI: </strong> Jiliang Tang <br>
         <strong>role: </strong> design and draft the whole proposal
        </p>
 	</li>
-    <li>
+  <li>
       <p>
-        <strong> LoG local mini-conferences in Michigan  </strong><br>
+        <strong> LoG local mini-conferences in MidNorth of US  </strong><br>
           <strong>PI: </strong> Jiliang Tang <br>
         <strong>role: </strong> design and draft the whole proposal
        </p>

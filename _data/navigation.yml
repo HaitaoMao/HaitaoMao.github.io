@@ -10,3 +10,6 @@ main:
     url: /friends/
   - title: NEWS
     url: /news/
+  - title: activities
+    url: /activities/
+
