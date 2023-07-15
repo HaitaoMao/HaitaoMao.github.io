@@ -45,13 +45,29 @@ layout: single
 
 
 
-# The principle for graph-task and GNN design
+# The principle for graph-task and new architecture design for learning on graph 
 <ul>
     <li>
       <p>
           <strong>Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?</strong><br>
           <strong>Haitao Mao</strong>, Zhikai Chen, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
           Preprint [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
+      </p>
+    </li>
+    <li>
+        <p>
+            <strong> Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs </strong><br>
+          Zhikai Chen, <strong>Haitao Mao</strong>, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang <br>
+            <font color="green">collaboration with Baidu</font> <br>
+            preprint[<a href="https://arxiv.org/pdf/2307.03393.pdf">pdf</a>][<a href="https://github.com/CurryTang/Graph-LLM">code</a>]
+        </p>
+    </li>
+        <li>
+      <p>
+          <strong>Alternately Optimized Graph Neural Network </strong><br>
+          Haoyu Han, Xiaorui Liu, <strong>Haitao Mao</strong>,  MohamadAli Torkamani, Feng Shi, Victor Lee, Jiliang Tang  <br>
+          <font color="green">collaboration with TigerGraph</font> <br>
+          ICML 2023 [<a href="https://arxiv.org/pdf/2206.03638.pdf">pdf</a>]
       </p>
     </li>
 </ul>
@@ -105,7 +121,7 @@ layout: single
         <strong> Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking </strong> <br>
         Juanhui Li*, Harry Shomer*, <strong>Haitao Mao</strong>, Shenglai Zeng, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin <br>
           <font color="green">collaboration with SnapChat</font> <br>
-        Preprint [<a href="https://arxiv.org/pdf/2306.10453.pdf">pdf</a>]
+        Preprint [<a href="https://arxiv.org/pdf/2306.10453.pdf">pdf</a>] [<a href="https://github.com/Juanhui28/HeaRT">code</a>]
       </p>
     </li>
     <li>
@@ -117,14 +133,6 @@ layout: single
           [<a href="https://haitaomao.github.io/categories/sourcefree/">blog</a>]
       </p>  
     </li>
-    <li>
-      <p>
-          <strong>Alternately Optimized Graph Neural Network </strong><br>
-          Haoyu Han, Xiaorui Liu, <strong>Haitao Mao</strong>,  MohamadAli Torkamani, Feng Shi, Victor Lee, Jiliang Tang  <br>
-          ICML 2023 [<a href="https://arxiv.org/pdf/2206.03638.pdf">pdf</a>]
-          <font color="green">collaboration with TigerGraph</font> <br>
-      </p>
-  </li>
     <li>
       <p>
           <strong>Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text
