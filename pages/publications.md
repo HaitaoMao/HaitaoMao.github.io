@@ -12,7 +12,8 @@ layout: single
       <p>
         <strong> Neuron Campaign for Initialization Guided by Information Bottleneck Theory </strong><br>
         <strong>Haitao Mao*</strong>, Lun Du*, Qiang Fu*, Xu Chen*,  Shi Han, Dongmei Zhang <br>
-        <strong>CIKM2021 Best Short Paper</strong><br>
+        <strong> CIKM2021 Best Short Paper</strong><br>
+        <font color="green">Work during internship in Microsoft Research Asia</font> <br>
         [<a href="https://arxiv.org/pdf/2108.06530.pdf">pdf</a>]
         [<a href="https://github.com/HaitaoMao/Neuron-Campaign-for-Initialization-Guided-by-Information-Bottleneck-Theory">github</a>]
         [<a href="https://haitaomao.github.io/categories/neuronCampaign/">blog</a>]
@@ -31,6 +32,7 @@ layout: single
         <strong>Neuron with Steady Response Leads to Better Generalization</strong><br>
         <strong>Haitao Mao*</strong>, Lun Du*, Qiang Fu*, Xu Chen, Wei Fang, Shi Han, Dongmei Zhang <br>
         <strong> NeurIPS2022</strong><br> 
+        <font color="green">Work during internship in Microsoft Research Asia</font> <br>
         [<a href="https://arxiv.org/pdf/2111.15414.pdf">pdf</a>]
         [<a href="https://github.com/HaitaoMao/Neuron-with-Steady-Response-Leads-to-Better-Generalization">code</a>] 
         [<a href="https://neurips.cc/virtual/2022/poster/54444">Offical video</a>]
@@ -45,12 +47,13 @@ layout: single
 
 
 
-# The principle for graph-task and new architecture design for learning on graph 
+# The principle and new architecture design for learning on graph 
 <ul>
     <li>
       <p>
           <strong>Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?</strong><br>
           <strong>Haitao Mao</strong>, Zhikai Chen, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
+          <font color="green">collaboration with SnapChat</font> <br>
           Preprint [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
       </p>
     </li>
@@ -59,7 +62,7 @@ layout: single
             <strong> Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs </strong><br>
           Zhikai Chen, <strong>Haitao Mao</strong>, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang <br>
             <font color="green">collaboration with Baidu</font> <br>
-            preprint[<a href="https://arxiv.org/pdf/2307.03393.pdf">pdf</a>][<a href="https://github.com/CurryTang/Graph-LLM">code</a>]
+            preprint [<a href="https://arxiv.org/pdf/2307.03393.pdf">pdf</a>][<a href="https://github.com/CurryTang/Graph-LLM">code</a>]
         </p>
     </li>
         <li>
@@ -67,7 +70,7 @@ layout: single
           <strong>Alternately Optimized Graph Neural Network </strong><br>
           Haoyu Han, Xiaorui Liu, <strong>Haitao Mao</strong>,  MohamadAli Torkamani, Feng Shi, Victor Lee, Jiliang Tang  <br>
           <font color="green">collaboration with TigerGraph</font> <br>
-          ICML 2023 [<a href="https://arxiv.org/pdf/2206.03638.pdf">pdf</a>]
+          ICML 2023 [<a href="https://arxiv.org/pdf/2206.03638.pdf">pdf</a>][<a href="https://github.com/haoyuhan1/ALT-OPT/">code</a>]
       </p>
     </li>
 </ul>
@@ -79,7 +82,7 @@ layout: single
         <strong> A Large Scale Search Dataset for Unbiased Learning to Rank </strong> <br>
         <strong>Haitao Mao*</strong>, Lixin Zou*, Xiaokai Chu, Jiliang Tang, Shuaiqiang Wang, Wenwen ye, Dawei yin. <br>
         <strong>NeurIPS 2022 Dataset Track</strong> <br> 
-          <font color="green">collaboration with Baidu</font><br> 
+        <font color="green">Work during internship in Baidu</font> <br>
         [<a href="https://openreview.net/pdf?id=EZcHYuU_9E">pdf</a>]
         [<a href="https://github.com/ChuXiaokai/baidu_ultr_dataset">Code1</a>]
         [<a href="https://github.com/ChuXiaokai/WSDMCUP_BaiduPLM_Paddle">Code2</a>]
@@ -96,7 +99,7 @@ layout: single
       <p>
           <strong>Whole Page Unbiased Learning to Rank </strong><br>
           <strong>Haitao Mao</strong>, Lixin Zou, Yujia Zheng, Jiliang Tang, Xiaokai Chu, Jiashu Zhao, Dawei Yin <br> 
-          <font color="green">collaboration with Baidu</font> <br>
+          <font color="green">Work during internship in Baidu</font> <br>
           Preprint [<a href="https://arxiv.org/pdf/2210.10718.pdf">pdf</a>]
       </p>
     </li>
@@ -128,18 +131,17 @@ layout: single
       <p>
           <strong>Source Free Graph Unsupervised Domain Adaptation </strong><br>
           <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Shi Han, Dongmei Zhang <br>
-          <font color="green">collaboration with Microsoft Research Asia</font> <br>
+          <font color="green">Work during internship in Microsoft Research Asia</font> <br>
           Preprint [<a href="https://arxiv.org/pdf/2112.00955.pdf">pdf</a>]
           [<a href="https://haitaomao.github.io/categories/sourcefree/">blog</a>]
       </p>  
     </li>
     <li>
       <p>
-          <strong>Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text
-Generation </strong><br>
+          <strong>Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation </strong><br>
          Wei Jin, <strong>Haitao Mao</strong>,  , Zheng Li, Haoming Jiang, Chen Luo, Hongzhi Wen, Haoyu Han, Hanqing Lu, Zhengyang Wang, Ruirui Li, Zhen Li, Monica Cheng, Rahul Goutam, Haiyang Zhang, Karthik Subbian, Suhang Wang, Yizhou Sun, Jiliang Tang, Bing Yin, and Xianfeng Tang  <br>
           <font color="green">collaboration with Amazon</font> <br>
-          preprint[<a href="">pdf</a>]
+          preprint[<a href="https://arxiv.org/pdf/2307.09688.pdf">pdf</a>] [<a href="https://kddcup23.github.io/">Homepage</a>] [<a href="https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge">Instructions</a>]
       </p>
   </li>
 </ul>
