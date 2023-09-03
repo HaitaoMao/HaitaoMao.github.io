@@ -139,7 +139,7 @@ layout: single
     <li>
       <p>
           <strong>Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation </strong><br>
-         Wei Jin, <strong>Haitao Mao</strong>,  , Zheng Li, Haoming Jiang, Chen Luo, Hongzhi Wen, Haoyu Han, Hanqing Lu, Zhengyang Wang, Ruirui Li, Zhen Li, Monica Cheng, Rahul Goutam, Haiyang Zhang, Karthik Subbian, Suhang Wang, Yizhou Sun, Jiliang Tang, Bing Yin, and Xianfeng Tang  <br>
+         Wei Jin*, <strong>Haitao Mao*</strong>,  , Zheng Li, Haoming Jiang, Chen Luo, Hongzhi Wen, Haoyu Han, Hanqing Lu, Zhengyang Wang, Ruirui Li, Zhen Li, Monica Cheng, Rahul Goutam, Haiyang Zhang, Karthik Subbian, Suhang Wang, Yizhou Sun, Jiliang Tang, Bing Yin, and Xianfeng Tang  <br>
           <font color="green">collaboration with Amazon</font> <br>
           preprint[<a href="https://arxiv.org/pdf/2307.09688.pdf">pdf</a>] [<a href="https://kddcup23.github.io/">Homepage</a>] [<a href="https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge">Instructions</a>]
       </p>

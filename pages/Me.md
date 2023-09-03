@@ -5,15 +5,9 @@ layout: single
 ---
 来小毛给他整个🔥，草！走！忽略 ጿ ኈ ቼ ዽ ጿ
 
-I am a first-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I have won **the best short paper award in CIKM2021** as the first author.
+I am a first-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I have won **the best short paper award in CIKM2021** as the first author. I am the (primary) organizer of WSDM CUP 2023, KDD CUP 2023, KDD workshop 2023, and LOG local meetup 2023 (MidNorth). 
 
-
-
-My research is  (1) using toy examples, (2) building  suitable assumption (3) conducting real-world experimental insights (4) deriving theoritical understanding aligning with real-world scenario. 
-
-With those analyses, I can (1) understand graph-related task, datasets, model architecture design, and the learning procedure (2) find new real-world challnge and define research scenario revolving on real-world challenge. (3) Find new solution based on those insights. 
-
-Details on my naive understanding on research can be found at [here](https://haitaomao.github.io/categories/naive/). Feel free to discuss with me for collaboration. 
+My reserch interests lies in:
 
 - The principle on DNN learning procedure: a novel neuron perspective:
   -  Neuron Compaign Initialization strategy (**Won the CIKM2021 Best Short Paper**) 
@@ -21,7 +15,13 @@ Details on my naive understanding on research can be found at [here](https://hai
 - The principle on Graph-tasks and new architecture design for learning on graph: (**Theoretical inspire** and **Practice first**)
   - Node classification: Can GNN benefits all nodes iin the same graph? (under-review)
   - Link Prediction: What is the key factors for GNN success in Link prediction? (Ongoing)
-I still have a big dream on my research. I believe I could build explanable, effective, effective models for the real-world application with first principle.
+- Find new and real-world data mining challenge
+
+
+
+My research style is (1) using toy examples, (2) building  suitable assumption (3) conducting real-world experimental insights (4) deriving theoritical understanding aligning with real-world scenario. With those analyses, I can (1) understand graph-related task, datasets, model architecture design, and the learning procedure (2) find new real-world challnge and define research scenario revolving on real-world challenge. (3) Find new solution based on those insights. 
+More details on my naive understanding on research can be found at [here](https://haitaomao.github.io/categories/naive/). Feel free to discuss with me and collaboration. 
+
 
 
 
@@ -32,7 +32,7 @@ I still have a big dream on my research. I believe I could build explanable, eff
       <p>
         <strong> Neuron Campaign for Initialization Guided by Information Bottleneck Theory </strong><br>
         <strong>CIKM2021 Best Short Paper</strong><br>
-        <strong>Haitao Mao*</strong>, Lun Du*, Qiang Fu*, Xu Chen*,   Shi Han, Dongmei Zhang <br>
+        <strong>Haitao Mao*</strong>, Lun Du*, Qiang Fu*, Xu Chen*, Shi Han, Dongmei Zhang <br>
         [<a href="https://arxiv.org/pdf/2108.06530.pdf">pdf</a>]
         [<a href="https://github.com/HaitaoMao/Neuron-Campaign-for-Initialization-Guided-by-Information-Bottleneck-Theory">github</a>]
         [<a href="https://haitaomao.github.io/categories/neuronCampaign/">blog</a>]
@@ -131,7 +131,7 @@ I still have a big dream on my research. I believe I could build explanable, eff
 **Michigan State University (August 2022 - present)**
 
 - Ph.D. student in DSE lab at Michigan State University, supervised by [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). 
-- Research topic: (1) New insights and unify perspective on GNN (2) Frontier Application on Graph
+- Research topic:（1）The principle on Graph-tasks （2） new architecture design for learning on graph (3) Frontier Application on Graph
 
 **University of Electronic Science and Technology of China  (September 2018 - June 2022)**
 
