@@ -1,9 +1,8 @@
 ---
-permalink: /activities/
-title: Activities
+permalink: /teach/
+title: TEACHING
 layout: single
 ---
-
 
 
 # Teaching activities
