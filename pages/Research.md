@@ -1,10 +1,53 @@
 ---
-permalink: /activities/
-title: Activities
+permalink: /research/
+title: RESEARCH
 layout: single
 ---
 
-# Academic activities 
+### Proposal
+
+<ul>
+    <li>
+      <p>
+        <strong>Towards Large Language Models (LLMs) for Learning on Graphs </strong><br>
+          <strong>PI: </strong> Jiliang Tang <br>
+        <strong>role: </strong> design and draft part of the proposal
+       </p>
+	  </li>
+    <li>
+      <p>
+        <strong> Graph Neural Networks for Link Prediction: Deep Insights and New Perspective </strong><br>
+          <strong>PI: </strong> Jiliang Tang <br>
+        <strong>role: </strong> design and draft the whole proposal
+       </p>
+	</li>
+  <li>
+      <p>
+        <strong> LoG local mini-conferences in MidNorth of US  </strong><br>
+          <strong>PI: </strong> Jiliang Tang <br>
+        <strong>role: </strong> design and draft the whole proposal
+       </p>
+	</li>
+    <li>
+      <p>
+        <strong> LoG local mini-conferences in Beijing  </strong><br>
+          <strong>PI: </strong> Lun Du <br>
+        <strong>role: </strong> design and draft part of the proposal
+       </p>
+	</li>
+    <li>
+      <p>
+        <strong> Unbiased Learning to Rank and Pre-training for Web Search   </strong><br>
+          <strong>PI: </strong> Lixin Zou <br>
+        <strong>role: </strong> design and draft part of the proposal <br>
+          <strong>Result:</strong>strong> Submitted to WSDM2023 Conference committee and Baidu Inc and funded in 2022.
+       </p>
+	</li>
+</ul>
+
+
+
+### Academic activities 
 <ul>
   <li>
     <p>
@@ -43,7 +86,7 @@ layout: single
 	</li>
   <li>
     <p>
-        <strong> Academid chair  </strong><br>
+        <strong> Academic chair  </strong><br>
           <strong>organizers: </strong> Lun Du, <strong>Haitao Mao</strong>, Yun He <br>
       </p>
 	</li>
@@ -99,12 +142,13 @@ layout: single
 </ul>
 
 
-# Teaching activities
-<ul>
-  <li>
-    <p>
-        <strong>Introduction to Artificial Intellegent </strong><br>
-    </p>
-  </li>    
-</ul>
 
+### Professional Services
+**Program Committee member / Reviewer**:
+
+**Journals**: TKDE, AIIM, TOIS
+
+**Conferences**: NeurIPS 2022/2023, NeurIPS(dataset track) 2023, ICML 2022/2023, ICLR 2024, LOG 2022/2023, KDD 2022/2023, WWW 2023/2024, WSCM 2023/2024, AAAI 2023, CIKM 2022, SDM 2024, RecSys 2023, ICWSM
+
+
+**Worshops**: NeurIPS 2022

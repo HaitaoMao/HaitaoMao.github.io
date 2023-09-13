@@ -9,7 +9,7 @@ There is no way for me to have any achievements without your help. Sincerely tha
 <ul>
     <li>
         <p>
-            <a href="http://www.cse.msu.edu/~tangjili/index.html">Jiliang Tang</a>: Prof in MSU<br>
+            <a href="http://www.cse.msu.edu/~tangjili/index.html">Jiliang Tang</a>: Foundation Professor in MSU<br>
             my PhD advisor, selfless and with great passion. 
         </p>
     </li>
@@ -59,23 +59,6 @@ There is no way for me to have any achievements without your help. Sincerely tha
         </p>
     </li>
 </ul>
-
-Additional thanks to other brilliant researchers and advisors help me on my research road: Justin Ding, Shihan Zhang, Yong Liao.
-
-
-
-## Mentoring
-
-- Zhikai Chen: Michigan State University, PhD student
-  - Co-authored papers: Demystifying Structural Disparity in Graph Neural Networks: can one size fit all?
-  - Ongoing Project: Graph enhanced by GPT.
-- Juanhui Li: Michigan State University, PhD student
-  - Co-authored papers: Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New benchmarking.
-  - Ongoing project: Revisiting GNN for link prediction.
-- Zijun Wang: Zhejiang University, undergraduate student 
-  - Ongoing project: Graph Neural Collapse.
-- BingHeng Li: UESTC, undergraduate student
-  - Generalization ability of Graph Neural Network.
 
 
 

@@ -24,7 +24,6 @@ More details on my naive understanding on research can be found at [here](https:
 
 
 
-
 ### Selected publication
 
 <ul>
@@ -56,50 +55,6 @@ More details on my naive understanding on research can be found at [here](https:
 </ul>
 
 
-
-### Proposal
-
-<ul>
-    <li>
-      <p>
-        <strong>Towards Large Language Models (LLMs) for Learning on Graphs </strong><br>
-          <strong>PI: </strong> Jiliang Tang <br>
-        <strong>role: </strong> design and draft part of the proposal
-       </p>
-	  </li>
-    <li>
-      <p>
-        <strong> Graph Neural Networks for Link Prediction: Deep Insights and New Perspective </strong><br>
-          <strong>PI: </strong> Jiliang Tang <br>
-        <strong>role: </strong> design and draft the whole proposal
-       </p>
-	</li>
-  <li>
-      <p>
-        <strong> LoG local mini-conferences in MidNorth of US  </strong><br>
-          <strong>PI: </strong> Jiliang Tang <br>
-        <strong>role: </strong> design and draft the whole proposal
-       </p>
-	</li>
-    <li>
-      <p>
-        <strong> LoG local mini-conferences in Beijing  </strong><br>
-          <strong>PI: </strong> Lun Du <br>
-        <strong>role: </strong> design and draft part of the proposal
-       </p>
-	</li>
-    <li>
-      <p>
-        <strong> Unbiased Learning to Rank and Pre-training for Web Search   </strong><br>
-          <strong>PI: </strong> Lixin Zou <br>
-        <strong>role: </strong> design and draft part of the proposal <br>
-          <strong>Result:</strong>strong> Submitted to WSDM2023 Conference committee and Baidu Inc and funded in 2022.
-       </p>
-	</li>
-</ul>
-
-
-
 ### Professional Experience
 
 **Visiting scholar at Hong Kong Polytechnic University (March, 2023 - September 2023)**
@@ -125,7 +80,6 @@ More details on my naive understanding on research can be found at [here](https:
 - Win the best project and best performance award
 
 
-
 ### Education
 
 **Michigan State University (August 2022 - present)**
@@ -141,6 +95,7 @@ More details on my naive understanding on research can be found at [here](https:
 - Two reports on the official website of UESTC and a report on Xinhua website
   - [因为热爱所以拼搏，全奖直博的他，成电四年很精彩！](https://mp.weixin.qq.com/s/CMcPWZ1YTafE8CUQcA619Q) 
   - [软件学院本科生在数据挖掘领域顶级会议CIKM上发表论文并获最佳短文奖](https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=81841)
+
 
 ### Awards:
 

@@ -8,8 +8,8 @@ main:
     url: /publications/
   - title: FRIENDS
     url: /friends/
-  - title: NEWS
-    url: /news/
-  - title: ACTIVITIES
-    url: /activities/
+  - title: RESEARCH
+    url: /research/
+  - title: TEACHING
+    url: /teaching/
 
