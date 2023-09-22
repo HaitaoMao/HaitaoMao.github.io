@@ -54,7 +54,7 @@ layout: single
           <strong>Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?</strong><br>
           <strong>Haitao Mao</strong>, Zhikai Chen, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
           <font color="green">collaboration with SnapChat</font> <br>
-          Preprint [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
+          NeurIPS 2023 [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
       </p>
     </li>
     <li>
@@ -124,7 +124,8 @@ layout: single
         <strong> Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking </strong> <br>
         Juanhui Li*, Harry Shomer*, <strong>Haitao Mao</strong>, Shenglai Zeng, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin <br>
           <font color="green">collaboration with SnapChat</font> <br>
-        Preprint [<a href="https://arxiv.org/pdf/2306.10453.pdf">pdf</a>] [<a href="https://github.com/Juanhui28/HeaRT">code</a>]
+        <strong>NeurIPS 2023 Dataset Track</strong> <br> 
+         [<a href="https://arxiv.org/pdf/2306.10453.pdf">pdf</a>] [<a href="https://github.com/Juanhui28/HeaRT">code</a>]
       </p>
     </li>
     <li>
@@ -141,7 +142,8 @@ layout: single
           <strong>Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation </strong><br>
          Wei Jin*, <strong>Haitao Mao*</strong>,  , Zheng Li, Haoming Jiang, Chen Luo, Hongzhi Wen, Haoyu Han, Hanqing Lu, Zhengyang Wang, Ruirui Li, Zhen Li, Monica Cheng, Rahul Goutam, Haiyang Zhang, Karthik Subbian, Suhang Wang, Yizhou Sun, Jiliang Tang, Bing Yin, and Xianfeng Tang  <br>
           <font color="green">collaboration with Amazon</font> <br>
-          preprint[<a href="https://arxiv.org/pdf/2307.09688.pdf">pdf</a>] [<a href="https://kddcup23.github.io/">Homepage</a>] [<a href="https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge">Instructions</a>]
+        <strong>NeurIPS 2022 Dataset Track</strong> <br> 
+          [<a href="https://arxiv.org/pdf/2307.09688.pdf">pdf</a>] [<a href="https://kddcup23.github.io/">Homepage</a>] [<a href="https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge">Instructions</a>]
       </p>
   </li>
 </ul>

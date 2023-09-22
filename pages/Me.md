@@ -3,7 +3,7 @@ permalink: /me/
 title: ME
 layout: single
 ---
-来小毛给他整个🔥，草！走！忽略 ጿ ኈ ቼ ዽ ጿ
+I work hard for easy in the future: 来小毛给他整个🔥，草！走！忽略 ጿ ኈ ቼ ዽ ጿ
 
 I am a first-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I have won **the best short paper award in CIKM2021** as the first author. I am the (primary) organizer of WSDM CUP 2023, KDD CUP 2023, KDD workshop 2023, and LOG local meetup 2023 (MidNorth). 
 
@@ -49,7 +49,7 @@ More details on my naive understanding on research can be found at [here](https:
       <p>
           <strong>Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?</strong><br>
           <strong>Haitao Mao</strong>, Zhikai Chen, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
-          Preprint [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
+          NeurIPS 2023 [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
       </p>
   </li>
 </ul>
