@@ -10,13 +10,14 @@ I am a first-year Ph.D. student at Michigan State University supervised by Dr. [
 My reserch interests lies in:
 
 - The principle on DNN learning procedure: a novel neuron perspective:
-  -  Neuron Compaign Initialization strategy (**Won the CIKM2021 Best Short Paper**) 
+  - Neuron Compaign Initialization strategy (**Won the CIKM2021 Best Short Paper**) 
   - Neuron steadiness regularization (**NeurIPS 2022**) 
+  - Understanding Graph structure of Neural Network (ongoing)
 - The principle on Graph-tasks and new architecture design for learning on graph: (**Theoretical inspire** and **Practice first**)
-  - Node classification: Can GNN benefits all nodes iin the same graph? (under-review)
-  - Link Prediction: What is the key factors for GNN success in Link prediction? (Ongoing)
-- Find new and real-world data mining challenge
-
+  - Node classification: Can GNN benefits all nodes iin the same graph? (**NeurIPS2023**)
+  - Link Prediction: What is the key factors for GNN success in Link prediction? (Under-review)
+  - LLM for Graph: LLM as graph predictor, annotater, and enhancer (Under-review)
+- Find new and real-world data mining challenge (NeurIPS 2022, 2023)
 
 
 My research style is (1) using toy examples, (2) building  suitable assumption (3) conducting real-world experimental insights (4) deriving theoritical understanding aligning with real-world scenario. With those analyses, I can (1) understand graph-related task, datasets, model architecture design, and the learning procedure (2) find new real-world challnge and define research scenario revolving on real-world challenge. (3) Find new solution based on those insights. 
@@ -27,6 +28,20 @@ More details on my naive understanding on research can be found at [here](https:
 ### Selected publication
 
 <ul>
+    <li>
+        <p>
+            <strong>Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?</strong><br>
+            <strong>Haitao Mao</strong>, Zhikai Chen, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
+            NeurIPS 2023 [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
+        </p>
+    </li>
+    <li>
+        <p>
+            <strong>Revisiting Link Prediction: A data perspective</strong><br>
+            <strong>Haitao Mao</strong>, Juanhui Li, Harry Shomer, Bingheng Li, Wenqi Fan, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
+            arxiv [<a href="https://arxiv.org/pdf/2310.00793.pdf">pdf</a>]
+        </p>
+    </li>
     <li>
       <p>
         <strong> Neuron Campaign for Initialization Guided by Information Bottleneck Theory </strong><br>
@@ -45,13 +60,6 @@ More details on my naive understanding on research can be found at [here](https:
         [<a href="https://mp.weixin.qq.com/s/V0pwLwTR-rVpe8h5NL_u3g">AI TIME Report</a>] 
       </p>
     </li>
-    <li>
-      <p>
-          <strong>Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?</strong><br>
-          <strong>Haitao Mao</strong>, Zhikai Chen, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
-          NeurIPS 2023 [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
-      </p>
-  </li>
 </ul>
 
 
