@@ -57,6 +57,8 @@ layout: single
           NeurIPS 2023 
           [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
           [<a href="https://github.com/HaitaoMao/Demystify-structural-disparity">code</a>] 
+          [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/NodeClassification.pdf">slides</a>] 
+          [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/Demestify-poster.pdf">poster</a>] 
       </p>
     </li>
     <li>
@@ -76,6 +78,7 @@ layout: single
             <font color="green">collaboration with SnapChat</font> <br>
             preprint 
             [<a href="https://arxiv.org/pdf/2310.00793.pdf">pdf</a>]
+            [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/LinkPrediction.pdf">slides</a>] 
         </p>
     </li>
     <li>

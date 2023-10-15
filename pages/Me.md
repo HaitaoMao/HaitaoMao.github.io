@@ -29,17 +29,25 @@ More details on my naive understanding on research can be found at [here](https:
 
 <ul>
     <li>
-        <p>
-            <strong>Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?</strong><br>
-            <strong>Haitao Mao</strong>, Zhikai Chen, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
-            NeurIPS 2023 [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
-        </p>
+      <p>
+          <strong>Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?</strong><br>
+          <strong>Haitao Mao</strong>, Zhikai Chen, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
+          <font color="green">collaboration with SnapChat</font> <br>
+          NeurIPS 2023 
+          [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
+          [<a href="https://github.com/HaitaoMao/Demystify-structural-disparity">code</a>] 
+          [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/NodeClassification.pdf">slides</a>] 
+          [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/Demestify-poster.pdf">poster</a>] 
+      </p>
     </li>
     <li>
         <p>
             <strong>Revisiting Link Prediction: A data perspective</strong><br>
             <strong>Haitao Mao</strong>, Juanhui Li, Harry Shomer, Bingheng Li, Wenqi Fan, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
-            arxiv [<a href="https://arxiv.org/pdf/2310.00793.pdf">pdf</a>]
+            <font color="green">collaboration with SnapChat</font> <br>
+            preprint 
+            [<a href="https://arxiv.org/pdf/2310.00793.pdf">pdf</a>]
+            [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/LinkPrediction.pdf">slides</a>] 
         </p>
     </li>
     <li>

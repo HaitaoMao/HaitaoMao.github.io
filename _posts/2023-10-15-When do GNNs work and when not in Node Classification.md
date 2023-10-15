@@ -98,25 +98,26 @@ In Fig.1, the number denotes the label, and different colors denote distinct fea
 
 **Graph Homophily Ratio.**
 
-_Given a graph $\mathcal{G} = \left\{\mathcal{V, E} \right\}$ and node label vector $y$, the edge homophily ratio is defined as the fraction of edges that connect nodes with the same labels. Formally, we have:_
+Given a graph $\mathcal{G} =  \{\mathcal{V, E}  \}$ and node label vector $y$, the edge homophily ratio is defined as the fraction of edges that connect nodes with the same labels. Formally, we have:_
 
 $$
 h(\mathcal{G}, \{y_i; i \in \mathcal{V}\}) = \frac{1}{\left| \mathcal{E} \right| } \sum_{(j, k) \in \mathcal{E}} \mathbb{I}(y_j = y_k)  
 $$
 
-_where $\left| \mathcal{E} \right|$ is the number of edges in the graph and $\mathbb{I}(\cdot)$ denotes the indicator function._
+where $| \mathcal{E} |$ is the number of edges in the graph and $\mathbb{I}(\cdot)$ denotes the indicator function.
 
 A graph is typically considered to be highly homophilous when $0.5 \le h(\cdot) \le 1$. On the other hand, a graph with a low edge homophily ratio ($0 \le h(\cdot) < 0.5$) is considered to be heterophilous.
 
 **Node Homophily Ratio.**
 
-_Node homophily ratio is defined as the proportion of a node's neighbors sharing the same label as the node. It is formally defined as:_
+Node homophily ratio is defined as the proportion of a node's neighbors sharing the same label as the node. It is formally defined as:
 
 $$
 h_i = \frac{1}{d_i} \sum_{j \in \mathcal{N}(i)} \mathbb{I}(y_j = y_i)  
 $$
 
-_where $\mathcal{N}(i)$ denotes the neighbor node set of $v_i$ and $d_i = \left| \mathcal{N}(i) \right|$ is the cardinality of this set._
+
+where <span>$\mathcal{N} (i)$</span> denotes the neighbor node set of $v_i$ and <span>$d_i = | \mathcal{N}(i) |$</span> is the cardinality of this set.
 
 Similarly, node $i$ is considered to be homophilic when $h_i \ge 0.5$, and is considered heterophilic otherwise. Moreover, this ratio can be easily extended to higher-order cases $h_{i}^{(k)}$ by considering $k$-order neighbors $\mathcal{N}_k(v_i)$.
 
@@ -190,15 +191,20 @@ More rigorously, we provide a theoretical understanding of what kinds of graphs 
 The rigorous theoretical analysis are shown as follows:   (You can skip the following part for heavy math!)
 
 
-Consider a graph $\mathcal{G} = \{\mathcal{V}, \mathcal{E}, \{\mathcal{F}_{c}, c\in \mathcal{C}\}, \{\mathcal{D}_{c}, c\in \mathcal{C}\}\}$, which follows Assumptions~(1)-(4). For any node $i\in \mathcal{V}$, the expectation of the pre-activation output of a single GCN operation is given by
+Consider a graph <span>$\mathcal{G} =  \mathcal{V}, \mathcal{E}, \{ \mathcal{F}_{c}, c \in \mathcal{C} \}$</span>,  <span> $\{ \mathcal{D}_{c}, c \in \mathcal{C}\} $</span>.
+
+For any node $i\in \mathcal{V}$, the expectation of the pre-activation output of a single GCN operation is given by
 $$
     \mathbb{E}[{\bf h}_i] = {\bf W}\left( \mathbb{E}_{c\sim \mathcal{D}_{y_i}, {\bf x}\sim \mathcal{F}_c } [{\bf x}]\right).
 $$
+
 and for any $t>0$, the probability that the distance between the observation ${\bf h}_i$ and its expectation is larger than $t$ is bounded by
+
 $$
     \mathbb{P}\left( \|{\bf h}_i - \mathbb{E}[{\bf h}_i]\|_2 \geq  t \right) \leq   2 \cdot l\cdot \exp \left(-\frac{ deg(i) t^{2}}{ 2\rho^2({\bf W})  B^2 l}\right)
 $$
-where $l$ denotes the feature dimensionality and $\rho({\bf W})$ denotes the largest singular value of ${\bf W}$, $B\geq\max _{i, j}|\mathbf{X}[i, j]|$.
+
+where $l$ denotes the feature dimensionality and $\rho({\bf W})$ denotes the largest singular value of ${\bf W}$, <span>$B\geq\max _{i, j}|\mathbf{X}[i, j]|$</span>.
 
 We can than have the rigorous conclusion that the inner-class distance (distance between $h_i$ the expectation in the same class $\mathbb{E}[h_i]$) on the GCN embedding is small with a high probability, which is due to the sampling from its neighborhood distribution $\mathcal{D}_{y_i}$. Notably, the key step in the proof is the Hoeffding inequality. Details can be found in the paper.
 
@@ -309,24 +315,36 @@ The above observations on the toy model show that GNN cannot work well on both h
 
 Motivated by the toy example, we then provide theoretical understanding rigioursly from a node level. We find that two keys on test performance are:
 
-- The aggregated feature distance between train and test nodes aggregated feature distance $\epsilon = \max_{j\in V_m}\min_{i\in V_\text{tr}} \|g_i(X, G)-g_j(X, G)\|_2$ between test node subgroup $V_m$ and training nodes $V_\text{tr}$, where  $g_i(X, G)$ is the hidden representation for node $i$. 
-- The homophily ratio difference $|h_\text{tr} - h_m|$.
+- The aggregated feature distance between train and test nodes aggregated feature distance <span>$\epsilon = \max_{ j \in V_m } \min_{ i \in V_{ \text{tr} } } | g_i(X, G) - g_j(X, G) |_2$</span> between test node subgroup <span>$V_m$</span> and training nodes <span>$V_{\text{tr}}$</span>, where  <span>$g_i(X, G)$</span> is the hidden representation for node $i$. 
+- The homophily ratio difference <span>$|h_\text{tr} - h_m|$</span>.
 
 
 
 The following theorem is based on the PAC-Bayes analysis, showing that both large aggregation distance and homophily ratio difference between train and test nodes lead to worse performance. (You can skip the following part for heavy math!)
 
 
-The theory typically aims to bound the generalization gap between the expected margin loss $\mathcal{L}_m^0$ on test subgroup $V_m$ for a margin $0$ and the empirical margin loss $\hat{\mathcal{L}}_{\text{tr}}^{\gamma}$ on train subgroup $V_\text{tr}$ for a margin $\gamma$. Those losses are generally utilized in PAC-Bayes analysis. The formulation is shown as follows:
+The theory typically aims to bound the generalization gap between the expected margin loss <span>$\mathcal{L}_{m}^{0}$</span> on test subgroup $V_m$ 
+for a margin $0$ and the empirical margin loss <span>$\hat{\mathcal{L}}_{\text{tr}}^{\gamma}$</span>on train subgroup 
+<span>$V_{\text{tr}}$</span> for a margin $\gamma$. Those losses are generally utilized in PAC-Bayes analysis. The formulation is shown as follows:
 
-$\textbf{Theorem} \ (\text{Subgroup Generalization Bound for GNNs})$ Let $\tilde{h}$ be any classifier in the classifier family $\mathcal{H}$ with parameters $\{\widetilde{W}_l\}_{l=1}^L$. For any $0< m \le M$, $\gamma \ge 0$, and large enough number of the training nodes $N_\text{tr}=|V_\text{tr}|$, there exist $0<\alpha<\frac{1}{4}$ with probability at least $1-\delta$ over the sample of $y^\text{tr}:=\{y_i\}_{i\in V_\text{tr}}$, we have: 
+**Theorem (Subgroup Generalization Bound for GNNs)**: 
+
+Let <span>$\tilde{h}$</span> be any classifier in the classifier family <span>$\mathcal{H}$</span> with parameters <span>$\{ \tilde{W}_{l} \} _{l=1}^{L}$ </span>. 
+
+For any <span>$0< m \le M$</span>, <span>$\gamma \ge 0$</span>, and large enough number of the training nodes <span>$N_{\text{tr}}=|V_{\text{tr}}|$</span>, there exist <span>$0<\alpha<\frac{1}{4}$</span> with probability at least <span>$1-\delta$</span> over the sample of <span>$y^{\text{tr}} = \{ y_i \} $</span>, <span>$i \in V_{\text{tr}}$</span> we have: 
 
 
 $$
 \mathcal{L}_m^0(\tilde{h}) \le \mathcal{L}_\text{tr}^{\gamma}(\tilde{h}) + O\left( \underbrace{\frac{K\rho}{\sqrt{2\pi}\sigma} (\epsilon_m + |h_\text{tr} - h_m|\cdot \rho)}_{\textbf{(a)}} + \underbrace{\frac{b\sum_{l=1}^L\|\widetilde{W}_l\|_F^2}{(\gamma/8)^{2/L}N_\text{tr}^{\alpha}}(\epsilon_m)^{2/L}}_{\textbf{(b)}} + \mathbf{R} \right)
 $$
 
-The bound is related to three terms: $\textbf{(a)}$ describes both large homophily ratio difference $|h_\text{tr} - h_m|$ and large aggregated feature distance $\epsilon = \max_{j\in bV_m}\min_{i\in V_\text{tr}} \|g_i(X, G)-g_j(X, G)\|_2$ between test node subgroup $V_m$ and training nodes $V_\text{tr}$ lead to large generalization error. $\rho=\left \|\mu_1 - \mu_2\right \|$ denotes the original feature separability, independent of structure. $K$ is the number of classes. $\textbf{(b)}$ further strengthens the effect of nodes with the aggregated feature distance $\epsilon$, leading to a large generalization error. $\textbf{(c)}$  $\mathbf{R}$ is a term independent with aggregated feature distance and homophily ratio difference, depicted as $\frac{1}{N_\text{tr}^{1-2\alpha}} + \frac{1}{N_\text{tr}^{2\alpha}} \ln\frac{LC(2B_m)^{1/L}}{\gamma^{1/L}\delta}$, where $B_m= \max_{i\in V_\text{tr}\cup V_m}\|g_i(X,G)\|_2$ is the maximum feature norm. $\mathbf{R}$ vanishes as training size $N_0$ grows.
+The bound is related to three terms: 
+
+**(a)** describes both large homophily ratio difference <span>$|h_{\text{tr}} - h_m|$</span> and large aggregated feature distance <span>$\epsilon = \max_{j\in bV_m}\min_{i\in V_{\text{tr}}} \|g_i(X, G)-g_j(X, G)\|_2$</span> between test node subgroup $V_m$ and training nodes <span>$V_{\text{tr}}$</span> lead to large generalization error. <span>$\rho= |\mu_1 - \mu_2 |$</span>denotes the original feature separability, independent of structure. $K$ is the number of classes. 
+
+**(b)** further strengthens the effect of nodes with the aggregated feature distance $\epsilon$, leading to a large generalization error. 
+
+**(c)** <span>$R$</span> is a term independent with aggregated feature distance and homophily ratio difference, depicted as $\frac{1}{N_\text{tr}^{1-2\alpha}} + \frac{1}{N_\text{tr}^{2\alpha}} \ln\frac{LC(2B_m)^{1/L}}{\gamma^{1/L}\delta}$, where $B_m= \max_{i\in V_\text{tr}\cup V_m}\|g_i(X,G)\|_2$ is the maximum feature norm. $\mathbf{R}$ vanishes as training size $N_0$ grows.
 
 Our theory suggests that both homophily ratio difference and aggregated feature distance to training nodes are key factors contributing to the performance disparity. Typically, nodes with large homophily ratio differences and aggregated feature distance to training nodes lead to performance degradation.
 
@@ -336,8 +354,8 @@ Our theory suggests that both homophily ratio difference and aggregated feature 
 To further verify the validity of the theoretical results, we provide more empirical evidence showing the empirical performance disparity. In particular, we compare the performance of different node subgroups divided with both homophily ratio difference and aggregated feature distance to training nodes.
 For a test node $i$, we measure the node disparity by 
 
-- The aggregated feature distance: selecting the closest training node $s_1 = \text{arg}\min_{v\in V_0} ||\mathbf{F}^{(2)}_u-\mathbf{F}^{(2)}_v||$. 
-- The homophily ratio difference $s_2 = |h^{(2)}_u - h^{(2)}_v|$. 
+- The aggregated feature distance: selecting the closest training node <span>$s_1 = \text{arg}\min_{v\in V_0} ||\mathbf{F}^{(2)}_u-\mathbf{F}^{(2)}_v||$</span>. 
+- The homophily ratio difference <span>$s_2 = |h^{(2)}_u - h^{(2)}_v|$</span>. 
 
 We then sort test nodes in terms of $s_1$ and $s_2$ and divide them into 5 equal-binned subgroups accordingly.
 We include popular GNN models including GCN, SGC (Simplified Graph Convolution), GAT (Graph Attention Network), GCNII (Graph Convolutional Networks with Inverse Inverse Propagation), and GPRGNN (Generalized PageRank Graph Neural Network). 
@@ -405,7 +423,7 @@ To investigate this problem, we compare vanilla GCN with different deeper GNNs, 
 </center>
 
 
-Having identified where deeper GNNs excel, reasons why effectiveness primarily appears in the minority node group remain elusive. Since the superiority of deeper GNNs stems from capturing higher-order information, we further investigate how higher-order homophily ratio differences vary on the minority nodes, denoted as, $|h_u^{(k)}-h_v^{(k)}|$, where node $u$ is the test node, node $v$ is the closest train node to test node $u$. We concentrate on analyzing these minority nodes $V_{\text{mi}}$ in terms of default one-hop homophily ratio $h_u$ and examine how $\sum_{u\in V_{\text{mi}}} |h_u^{(k)}-h_v^{(k)}|$ varies with different $k$ orders. 
+Having identified where deeper GNNs excel, reasons why effectiveness primarily appears in the minority node group remain elusive. Since the superiority of deeper GNNs stems from capturing higher-order information, we further investigate how higher-order homophily ratio differences vary on the minority nodes, denoted as, <span>$|h_u^{(k)}-h_v^{(k)}|$</span>, where node $u$ is the test node, node $v$ is the closest train node to test node $u$. We concentrate on analyzing these minority nodes <span>$V_{\text{mi}}$</span> in terms of default one-hop homophily ratio <span>$h_u$</span> and examine how <span>$\sum_{u\in V_{\text{mi}}} |h_u^{(k)}-h_v^{(k)}|$</span> varies with different $k$ orders. 
 
 Experimental results are shown in Fig.12, where a decreasing trend of homophily ratio difference is observed along with more neighborhood hops. The smaller homophily ratio difference leads to smaller generalization errors with better performance. 
 
@@ -438,10 +456,17 @@ We remain some questions for future works:
 # Reference
 
 [1]Ma, Yao and Jiliang Tang. "Deep learning on graphs." Cambridge University Press, 2021.
+
 [2]Ma, Yao, Xiaorui Liu, Neil Shah, and Jiliang Tang. "Is homophily a necessity for graph neural networks?." arXiv preprint arXiv:2106.06134 (2021).
+
 [3]Mao, Haitao, Zhikai Chen, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, and Jiliang Tang. "Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?." arXiv preprint arXiv:2306.01323 (2023).
+
 [4]Kipf, Thomas N., and Max Welling. "Semi-supervised classification with graph convolutional networks." arXiv preprint arXiv:1609.02907 (2016).
+
 [5]Hamilton, Will, Zhitao Ying, and Jure Leskovec. "Inductive representation learning on large graphs." Advances in neural information processing systems 30 (2017).
+
 [6]Xu, Keyulu, Weihua Hu, Jure Leskovec, and Stefanie Jegelka. "How powerful are graph neural networks?." arXiv preprint arXiv:1810.00826 (2018).
+
 [7]Fan, Wenqi, Yao Ma, Qing Li, Yuan He, Eric Zhao, Jiliang Tang, and Dawei Yin. "Graph neural networks for social recommendation." In The world wide web conference, pp. 417-426. 2019.
+
 [8]Zhu, Jiong, Yujun Yan, Lingxiao Zhao, Mark Heimann, Leman Akoglu, and Danai Koutra. "Beyond homophily in graph neural networks: Current limitations and effective designs." Advances in neural information processing systems 33 (2020): 7793-7804.
