@@ -54,22 +54,37 @@ layout: single
           <strong>Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?</strong><br>
           <strong>Haitao Mao</strong>, Zhikai Chen, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
           <font color="green">collaboration with SnapChat</font> <br>
-          NeurIPS 2023 [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
+          NeurIPS 2023 
+          [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
+          [<a href="https://github.com/HaitaoMao/Demystify-structural-disparity">code</a>] 
       </p>
     </li>
     <li>
         <p>
-            <strong> Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs </strong><br>
+          <strong> Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs </strong><br>
           Zhikai Chen, <strong>Haitao Mao</strong>, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang <br>
-            <font color="green">collaboration with Baidu</font> <br>
-            preprint [<a href="https://arxiv.org/pdf/2307.03393.pdf">pdf</a>][<a href="https://github.com/CurryTang/Graph-LLM">code</a>]
+          <font color="green">collaboration with Baidu</font> <br>
+          preprint 
+          [<a href="https://arxiv.org/pdf/2307.03393.pdf">pdf</a>]
+          [<a href="https://github.com/CurryTang/Graph-LLM">code</a>]
         </p>
     </li>
     <li>
         <p>
             <strong>Revisiting Link Prediction: A data perspective</strong><br>
             <strong>Haitao Mao</strong>, Juanhui Li, Harry Shomer, Bingheng Li, Wenqi Fan, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
-            arxiv [<a href="https://arxiv.org/pdf/2310.00793.pdf">pdf</a>]
+            <font color="green">collaboration with SnapChat</font> <br>
+            preprint 
+            [<a href="https://arxiv.org/pdf/2310.00793.pdf">pdf</a>]
+        </p>
+    </li>
+    <li>
+        <p>
+            <strong>Label-free Node Classification on Graphs with Large Language Models (LLMS)</strong><br>
+            Zhikai Chen, <strong>Haitao Mao</strong>, Hongzhi Wen, Haoyu Han, Wei Jin, Haiyang Zhang, Hui Liu, Jiliang Tang <br>
+            preprint 
+            [<a href="https://arxiv.org/pdf/2310.04668.pdf">pdf</a>]
+            [<a href="https://github.com/CurryTang/LLMGNN">code</a>]
         </p>
     </li>
     <li>
@@ -77,13 +92,25 @@ layout: single
           <strong>Alternately Optimized Graph Neural Network </strong><br>
           Haoyu Han, Xiaorui Liu, <strong>Haitao Mao</strong>,  MohamadAli Torkamani, Feng Shi, Victor Lee, Jiliang Tang  <br>
           <font color="green">collaboration with TigerGraph</font> <br>
-          ICML 2023 [<a href="https://arxiv.org/pdf/2206.03638.pdf">pdf</a>][<a href="https://github.com/haoyuhan1/ALT-OPT/">code</a>]
+          ICML 2023 
+          [<a href="https://arxiv.org/pdf/2206.03638.pdf">pdf</a>]
+          [<a href="https://github.com/haoyuhan1/ALT-OPT/">code</a>]
       </p>
     </li>
 </ul>
 
 # Real-world Data mining problem and solution  (Interdisciplinary Research)
 <ul>
+    <li>
+      <p>
+        <strong> Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking </strong> <br>
+        Juanhui Li*, Harry Shomer*, <strong>Haitao Mao</strong>, Shenglai Zeng, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin <br>
+        <font color="green">collaboration with SnapChat</font> <br>
+        <strong>NeurIPS 2023 Dataset Track</strong> <br> 
+        [<a href="https://arxiv.org/pdf/2306.10453.pdf">pdf</a>]
+        [<a href="https://github.com/Juanhui28/HeaRT">code</a>]
+      </p>
+    </li>
     <li>
       <p>
         <strong> A Large Scale Search Dataset for Unbiased Learning to Rank </strong> <br>
@@ -104,10 +131,22 @@ layout: single
     </li>
     <li>
       <p>
+        <strong>Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation </strong><br>
+        Wei Jin*, <strong>Haitao Mao*</strong>, Zheng Li, Haoming Jiang, Chen Luo, Hongzhi Wen, Haoyu Han, Hanqing Lu, Zhengyang Wang, Ruirui Li, Zhen Li, Monica Cheng, Rahul Goutam, Haiyang Zhang, Karthik Subbian, Suhang Wang, Yizhou Sun, Jiliang Tang, Bing Yin, and Xianfeng Tang  <br>
+        <font color="green">collaboration with Amazon</font> <br>
+        <strong>NeurIPS 2022 Dataset Track</strong> <br> 
+        [<a href="https://arxiv.org/pdf/2307.09688.pdf">pdf</a>]
+        [<a href="https://kddcup23.github.io/">Homepage</a>]
+        [<a href="https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge">Instructions</a>]
+      </p>
+  </li>
+    <li>
+      <p>
           <strong>Whole Page Unbiased Learning to Rank </strong><br>
           <strong>Haitao Mao</strong>, Lixin Zou, Yujia Zheng, Jiliang Tang, Xiaokai Chu, Jiashu Zhao, Dawei Yin <br> 
           <font color="green">Work during internship in Baidu</font> <br>
-          Preprint [<a href="https://arxiv.org/pdf/2210.10718.pdf">pdf</a>]
+          Preprint 
+          [<a href="https://arxiv.org/pdf/2210.10718.pdf">pdf</a>]
       </p>
     </li>
     <li>
@@ -128,37 +167,15 @@ layout: single
     </li>
     <li>
       <p>
-        <strong> Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking </strong> <br>
-        Juanhui Li*, Harry Shomer*, <strong>Haitao Mao</strong>, Shenglai Zeng, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin <br>
-          <font color="green">collaboration with SnapChat</font> <br>
-        <strong>NeurIPS 2023 Dataset Track</strong> <br> 
-         [<a href="https://arxiv.org/pdf/2306.10453.pdf">pdf</a>] [<a href="https://github.com/Juanhui28/HeaRT">code</a>]
-      </p>
-    </li>
-    <li>
-      <p>
           <strong>Source Free Graph Unsupervised Domain Adaptation </strong><br>
           <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Shi Han, Dongmei Zhang <br>
           <font color="green">Work during internship in Microsoft Research Asia</font> <br>
           Preprint [<a href="https://arxiv.org/pdf/2112.00955.pdf">pdf</a>]
           [<a href="https://haitaomao.github.io/categories/sourcefree/">blog</a>]
+          [<a href="https://github.com/HaitaoMao/SOGA">code</a>]
       </p>  
     </li>
-    <li>
-      <p>
-          <strong>Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation </strong><br>
-         Wei Jin*, <strong>Haitao Mao*</strong>, Zheng Li, Haoming Jiang, Chen Luo, Hongzhi Wen, Haoyu Han, Hanqing Lu, Zhengyang Wang, Ruirui Li, Zhen Li, Monica Cheng, Rahul Goutam, Haiyang Zhang, Karthik Subbian, Suhang Wang, Yizhou Sun, Jiliang Tang, Bing Yin, and Xianfeng Tang  <br>
-          <font color="green">collaboration with Amazon</font> <br>
-        <strong>NeurIPS 2022 Dataset Track</strong> <br> 
-          [<a href="https://arxiv.org/pdf/2307.09688.pdf">pdf</a>] [<a href="https://kddcup23.github.io/">Homepage</a>] [<a href="https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge">Instructions</a>]
-      </p>
-  </li>
 </ul>
-
-
-
-
-
 
 
 # Others
