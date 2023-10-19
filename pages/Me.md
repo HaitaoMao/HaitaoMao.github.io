@@ -68,6 +68,17 @@ More details on my naive understanding on research can be found at [here](https:
         [<a href="https://mp.weixin.qq.com/s/V0pwLwTR-rVpe8h5NL_u3g">AI TIME Report</a>] 
       </p>
     </li>
+    <li>
+        <p>
+          <strong> Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs </strong><br>
+          Zhikai Chen, <strong>Haitao Mao</strong>, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang <br>
+          <font color="green">collaboration with Baidu</font> <br>
+          preprint 
+          [<a href="https://arxiv.org/pdf/2307.03393.pdf">pdf</a>]
+          [<a href="https://github.com/CurryTang/Graph-LLM">code</a>]
+          [<a href="https://www.cse.msu.edu/~tangjili/talks/LLMs-LOG.pdf">slides</a>]
+        </p>
+    </li>
 </ul>
 
 

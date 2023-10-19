@@ -69,6 +69,7 @@ layout: single
           preprint 
           [<a href="https://arxiv.org/pdf/2307.03393.pdf">pdf</a>]
           [<a href="https://github.com/CurryTang/Graph-LLM">code</a>]
+          [<a href="https://www.cse.msu.edu/~tangjili/talks/LLMs-LOG.pdf">slides</a>]
         </p>
     </li>
     <li>
@@ -106,13 +107,14 @@ layout: single
 <ul>
     <li>
       <p>
-        <strong> Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking </strong> <br>
-        Juanhui Li*, Harry Shomer*, <strong>Haitao Mao</strong>, Shenglai Zeng, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin <br>
-        <font color="green">collaboration with SnapChat</font> <br>
-        <strong>NeurIPS 2023 Dataset Track</strong> <br> 
-        [<a href="https://arxiv.org/pdf/2306.10453.pdf">pdf</a>]
-        [<a href="https://github.com/Juanhui28/HeaRT">code</a>]
-      </p>
+          <strong>Source Free Graph Unsupervised Domain Adaptation </strong><br>
+          <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Shi Han, Dongmei Zhang <br>
+          <font color="green">Work during internship in Microsoft Research Asia</font> <br>
+          WSDM 2024 <strong> Oral presentation </strong> 
+          [<a href="https://arxiv.org/pdf/2112.00955.pdf">pdf</a>]
+          [<a href="https://haitaomao.github.io/categories/sourcefree/">blog</a>]
+          [<a href="https://github.com/HaitaoMao/SOGA">code</a>]
+      </p>  
     </li>
     <li>
       <p>
@@ -134,6 +136,15 @@ layout: single
     </li>
     <li>
       <p>
+          <strong>Whole Page Unbiased Learning to Rank </strong><br>
+          <strong>Haitao Mao</strong>, Lixin Zou, Yujia Zheng, Jiliang Tang, Xiaokai Chu, Jiashu Zhao, Dawei Yin <br> 
+          <font color="green">Work during internship in Baidu</font> <br>
+          Preprint 
+          [<a href="https://arxiv.org/pdf/2210.10718.pdf">pdf</a>]
+      </p>
+    </li>
+    <li>
+      <p>
         <strong>Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation </strong><br>
         Wei Jin*, <strong>Haitao Mao*</strong>, Zheng Li, Haoming Jiang, Chen Luo, Hongzhi Wen, Haoyu Han, Hanqing Lu, Zhengyang Wang, Ruirui Li, Zhen Li, Monica Cheng, Rahul Goutam, Haiyang Zhang, Karthik Subbian, Suhang Wang, Yizhou Sun, Jiliang Tang, Bing Yin, and Xianfeng Tang  <br>
         <font color="green">collaboration with Amazon</font> <br>
@@ -142,14 +153,15 @@ layout: single
         [<a href="https://kddcup23.github.io/">Homepage</a>]
         [<a href="https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge">Instructions</a>]
       </p>
-  </li>
+    </li>
     <li>
       <p>
-          <strong>Whole Page Unbiased Learning to Rank </strong><br>
-          <strong>Haitao Mao</strong>, Lixin Zou, Yujia Zheng, Jiliang Tang, Xiaokai Chu, Jiashu Zhao, Dawei Yin <br> 
-          <font color="green">Work during internship in Baidu</font> <br>
-          Preprint 
-          [<a href="https://arxiv.org/pdf/2210.10718.pdf">pdf</a>]
+        <strong> Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking </strong> <br>
+        Juanhui Li*, Harry Shomer*, <strong>Haitao Mao</strong>, Shenglai Zeng, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin <br>
+        <font color="green">collaboration with SnapChat</font> <br>
+        <strong>NeurIPS 2023 Dataset Track</strong> <br> 
+        [<a href="https://arxiv.org/pdf/2306.10453.pdf">pdf</a>]
+        [<a href="https://github.com/Juanhui28/HeaRT">code</a>]
       </p>
     </li>
     <li>
@@ -167,16 +179,6 @@ layout: single
           <font color="green">collaboration with Wharton Data Center</font> <br>
         Preprint [<a href="https://arxiv.org/pdf/2304.00323.pdf">pdf</a>]
       </p>
-    </li>
-    <li>
-      <p>
-          <strong>Source Free Graph Unsupervised Domain Adaptation </strong><br>
-          <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Shi Han, Dongmei Zhang <br>
-          <font color="green">Work during internship in Microsoft Research Asia</font> <br>
-          Preprint [<a href="https://arxiv.org/pdf/2112.00955.pdf">pdf</a>]
-          [<a href="https://haitaomao.github.io/categories/sourcefree/">blog</a>]
-          [<a href="https://github.com/HaitaoMao/SOGA">code</a>]
-      </p>  
     </li>
 </ul>
 
