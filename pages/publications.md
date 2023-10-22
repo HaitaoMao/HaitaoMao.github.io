@@ -93,6 +93,15 @@ layout: single
     </li>
     <li>
       <p>
+          <strong>Adaptive Pairwise Encodings for Link Prediction</strong><br>
+          Harry Shomer, Yao Ma, <strong>Haitao Mao</strong>,  Juanhui Li, Bo Wu, Jiliang Tang  <br>
+          preprint
+          [<a href="https://arxiv.org/pdf/2310.11009.pdf">pdf</a>]
+          [<a href="https://github.com/HarryShomer/LPFormer">code</a>]
+      </p>
+    </li>
+    <li>
+      <p>
           <strong>Alternately Optimized Graph Neural Network </strong><br>
           Haoyu Han, Xiaorui Liu, <strong>Haitao Mao</strong>,  MohamadAli Torkamani, Feng Shi, Victor Lee, Jiliang Tang  <br>
           <font color="green">collaboration with TigerGraph</font> <br>
