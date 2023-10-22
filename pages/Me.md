@@ -126,6 +126,7 @@ More details on my naive understanding on research can be found at [here](https:
 
 ### Awards:
 
+- NeurIPS 2023 Scholar Award
 - CIKM2021 Best short paper award (first author) (1/626)
 - Excellent Student of High Education in Sichuan Province (30/763)
 - Outstanding Graduate in University of Electronic Science and Technology of China (74/763)
