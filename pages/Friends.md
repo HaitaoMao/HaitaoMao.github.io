@@ -72,15 +72,6 @@ There is no way for me to have any achievements without your help. Sincerely tha
     </li>
     <li>
         <p>
-            Data Science Reading Group
-            <br>
-              This is a reading group organized by Yaoqiao Zhu. I think it is wonderful to meet these exciting young scientists! influence by their great attitude and passion on research. 
-            <br> So glad to have this chance to debate with so many friends: <a href="https://sxkdz.github.io/">Yanqiao Zhu</a>, <a href="https://yuanqidu.github.io/">Yuanqi Du</a>,<a href="https://andyjzhao.github.io/">Jianan Zhao</a>, <a href="https://haonan3.github.io/">Haonan Wang</a>,<a href="https://jieyuz2.github.io/">Jieyu Zhang</a>, <a href="https://hejiecui.com/"> Hejie Cui </a>, <a href="https://ahren09.github.io/"> Yiqiao Jin </a> <a href="http://yjzheng.com/"> Yujia Zheng </a> <a href="https://yupenghou.com/"> Yupeng Hou </a> 
-            <img src = "https://pic4.zhimg.com/80/v2-8ddf8b961575a663a43b9f3af83845ba_1440w.png?source=d16d100b">
-        </p>
-    </li>
-    <li>
-        <p>
             <a href="https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/">Data Analysis team, Data Knowledge Intelligence Group</a>, Microsoft Research Asia
             <br>
               The best MSRA team founded by Han Shi. The first time I met so many interesting P.hD. students. Each meal with you is with great fun. Time with you is the most beautiful advanture in my life time.

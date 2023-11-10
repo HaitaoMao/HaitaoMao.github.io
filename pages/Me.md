@@ -5,7 +5,7 @@ layout: single
 ---
 I work hard for easy in the future: 来小毛给他整个🔥，草！走！忽略 ጿ ኈ ቼ ዽ ጿ
 
-I am a first-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I have won **the best short paper award in CIKM2021** as the first author. I am the (primary) organizer of WSDM CUP 2023, KDD CUP 2023, KDD workshop 2023, and LOG local meetup 2023 (MidNorth). 
+I am a second-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I have won **the best short paper award in CIKM2021** as the first author. I am the (primary) organizer of WSDM CUP 2023, KDD CUP 2023, KDD workshop 2023, and LOG local meetup 2023 (MidNorth nUS & Beijing). 
 
 My reserch interests lies in:
 
@@ -17,7 +17,7 @@ My reserch interests lies in:
   - Node classification: Can GNN benefits all nodes iin the same graph? (**NeurIPS2023**)
   - Link Prediction: What is the key factors for GNN success in Link prediction? (Under-review)
   - LLM for Graph: LLM as graph predictor, annotater, and enhancer (Under-review)
-- Find new and real-world data mining challenge (NeurIPS 2022, 2023)
+- Find new and real-world data mining challenge (NeurIPS 2022, 2023, WSDM 2023 Oral)
 
 
 My research style is (1) using toy examples, (2) building  suitable assumption (3) conducting real-world experimental insights (4) deriving theoritical understanding aligning with real-world scenario. With those analyses, I can (1) understand graph-related task, datasets, model architecture design, and the learning procedure (2) find new real-world challnge and define research scenario revolving on real-world challenge. (3) Find new solution based on those insights. 
