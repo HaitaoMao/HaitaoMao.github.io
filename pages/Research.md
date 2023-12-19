@@ -146,9 +146,8 @@ layout: single
 ### Professional Services
 **Program Committee member / Reviewer**:
 
-**Journals**: TKDE, AIIM, TOIS
+**Journals**: TKDE, AIIM, TOIS, IEEE TBD
 
-**Conferences**: NeurIPS 2022/2023, NeurIPS(dataset track) 2023, ICML 2022/2023, ICLR 2024, LOG 2022/2023, KDD 2022/2023, WWW 2023/2024, WSCM 2023/2024, AAAI 2023, CIKM 2022, SDM 2024, RecSys 2023, ICWSM
+**Conferences**: NeurIPS 2022/2023, NeurIPS(dataset track) 2023, ICML 2022/2023/2024, ICLR 2024, LOG 2022/2023, KDD 2022/2023, WWW 2023/2024, WSDM 2023/2024, AAAI 2023, CIKM 2022, SDM 2024, RecSys 2023
 
-
-**Worshops**: NeurIPS 2022
+**Worshops**: NeurIPS 2022/2023

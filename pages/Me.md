@@ -5,23 +5,9 @@ layout: single
 ---
 I work hard for easy in the future: 来小毛给他整个🔥，草！走！忽略 ጿ ኈ ቼ ዽ ጿ
 
-I am a second-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I have won **the best short paper award in CIKM2021** as the first author. I am the (primary) organizer of WSDM CUP 2023, KDD CUP 2023, KDD workshop 2023, and LOG local meetup 2023 (MidNorth nUS & Beijing). 
+I am a second-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I have won **the best short paper award in CIKM2021** as the first author. I am the (primary) organizer of WSDM CUP 2023, KDD CUP 2023, KDD workshop 2023, WWW workshop 2024, and LOG local meetup 2023 (MidNorth US & Beijing). 
 
-My reserch interests lies in:
-
-- The principle on DNN learning procedure: a novel neuron perspective:
-  - Neuron Compaign Initialization strategy (**Won the CIKM2021 Best Short Paper**) 
-  - Neuron steadiness regularization (**NeurIPS 2022**) 
-  - Understanding Graph structure of Neural Network (ongoing)
-- The principle on Graph-tasks and new architecture design for learning on graph: (**Theoretical inspire** and **Practice first**)
-  - Node classification: Can GNN benefits all nodes iin the same graph? (**NeurIPS2023**)
-  - Link Prediction: What is the key factors for GNN success in Link prediction? (Under-review)
-  - LLM for Graph: LLM as graph predictor, annotater, and enhancer (Under-review)
-- Find new and real-world data mining challenge (NeurIPS 2022, 2023, WSDM 2023 Oral)
-
-
-My research style is (1) using toy examples, (2) building  suitable assumption (3) conducting real-world experimental insights (4) deriving theoritical understanding aligning with real-world scenario. With those analyses, I can (1) understand graph-related task, datasets, model architecture design, and the learning procedure (2) find new real-world challnge and define research scenario revolving on real-world challenge. (3) Find new solution based on those insights. 
-More details on my naive understanding on research can be found at [here](https://haitaomao.github.io/categories/naive/). Feel free to discuss with me and collaboration. 
+My research revolves on conducting, understanding, utilizing **structure** to solve the practical challenge.  My research typically has the following steps: (1) building suitable assumption (2) developing toy examples (3) deriving theoritical understanding  (4) aligning understanding with real-world experimental insights.  With those steps, I can (1) find the underlying meaningful **structure** from raw data （2）analyze the quality of the **structural** data (3) develop powerful graph **structural** model (4) find new real-world challenge and define research scenario revolving on real-world challenges. More details on my naive understanding on research can be found at [here](https://haitaomao.github.io/categories/naive/). Feel free to discuss with me and find potential collaboration chance via haitaoma@msu.edu. 
 
 
 
@@ -54,7 +40,7 @@ More details on my naive understanding on research can be found at [here](https:
       <p>
         <strong> Neuron Campaign for Initialization Guided by Information Bottleneck Theory </strong><br>
         <strong>CIKM2021 Best Short Paper</strong><br>
-        <strong>Haitao Mao*</strong>, Lun Du*, Qiang Fu*, Xu Chen*, Shi Han, Dongmei Zhang <br>
+        <strong>Haitao Mao</strong>, Xu Chen, Qiang Fu, Lun Du, Shi Han, Dongmei Zhang <br>
         [<a href="https://arxiv.org/pdf/2108.06530.pdf">pdf</a>]
         [<a href="https://github.com/HaitaoMao/Neuron-Campaign-for-Initialization-Guided-by-Information-Bottleneck-Theory">github</a>]
         [<a href="https://haitaomao.github.io/categories/neuronCampaign/">blog</a>]
@@ -68,43 +54,18 @@ More details on my naive understanding on research can be found at [here](https:
         [<a href="https://mp.weixin.qq.com/s/V0pwLwTR-rVpe8h5NL_u3g">AI TIME Report</a>] 
       </p>
     </li>
-    <li>
-        <p>
-          <strong> Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs </strong><br>
-          Zhikai Chen, <strong>Haitao Mao</strong>, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang <br>
-          <font color="green">collaboration with Baidu</font> <br>
-          preprint 
-          [<a href="https://arxiv.org/pdf/2307.03393.pdf">pdf</a>]
-          [<a href="https://github.com/CurryTang/Graph-LLM">code</a>]
-          [<a href="https://www.cse.msu.edu/~tangjili/talks/LLMs-LOG.pdf">slides</a>]
-        </p>
-    </li>
 </ul>
 
 
 ### Professional Experience
 
-**Visiting scholar at Hong Kong Polytechnic University (March, 2023 - September 2023)**
+- **Visiting scholar at Hong Kong Polytechnic University (March, 2023 - September 2023)**: supervised by Research Assistant Professor [Wenqi Fan](https://wenqifan03.github.io/) and Professor [Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
+- **Research Intern at Baidu (March, 2022 - September, 2022)**: Search strategy department, supervised by [Lixin Zou](https://www.zoulixin.site/)(Now an associate professor in Wuhan University).
+- **Research intern at Microsoft Research Asia (January, 2021 - November, 2021)**
+  -  [Data Knowledge Intelligent Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), supervised by Principal Researcher [Qiang Fu](https://scholar.google.com/citations?hl=en&user=bwTLZSIAAAAJ), Researcher [Lun Du](https://scholar.google.com/citations?user=3XUANDAAAAAJ&hl=en&oi=ao), and Senior Principal Researcher Manager [Shi Han](https://www.microsoft.com/en-us/research/people/shihan/). 
+  - One [news](https://mp.weixin.qq.com/s/9wREeVH-o1TZ6Y-zcxXxXQ) about my research.
+  - Co-founded MS-Intern Guitar Club.
 
-- supervised by Research Assistant Professor [Wenqi Fan](https://wenqifan03.github.io/) and Professor [Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
-- Project: Graph Neural Networks for Link Prediction
-
-**Research Intern at Baidu (March, 2022 - September, 2022)**
-
-- Search strategy department, supervised by [Lixin Zou](https://www.zoulixin.site/)(Now an associate professor in Wuhan University).
-- Project: Whole-page Unbiased Learning to rank (NeurIPS 2022 dataset track, WSDM CUP)
-
-**Research intern at Microsoft Research Asia (January, 2021 - November, 2021)**
-
--  [Data Knowledge Intelligent Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), supervised by Principal Researcher [Qiang Fu](https://scholar.google.com/citations?hl=en&user=bwTLZSIAAAAJ), Researcher [Lun Du](https://scholar.google.com/citations?user=3XUANDAAAAAJ&hl=en&oi=ao), and Senior Principal Researcher Manager [Shi Han](https://www.microsoft.com/en-us/research/people/shihan/). 
-- Project: initialization strategy (CIKM best short paper) and regularization method (NeurIPS 2022).  One [news](https://mp.weixin.qq.com/s/9wREeVH-o1TZ6Y-zcxXxXQ) about my research.
-- Application: Source Free Unsupervised Graph Domain Adaptation
-- Co-founded MS-Intern Guitar Club with Jianan Zhao.
-
-**Research Intern in NLP lab, Nanjing University (June, 2020 - August, 2020)**
-
-- Project: Document-level relation extraction
-- Win the best project and best performance award
 
 
 ### Education
@@ -112,13 +73,11 @@ More details on my naive understanding on research can be found at [here](https:
 **Michigan State University (August 2022 - present)**
 
 - Ph.D. student in DSE lab at Michigan State University, supervised by [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). 
-- Research topic:（1）The principle on Graph-tasks （2） new architecture design for learning on graph (3) Frontier Application on Graph
 
 **University of Electronic Science and Technology of China  (September 2018 - June 2022)**
 
 - Major in Elite program, software engineering 
 - **Rank first** in academic performance : (1) average score: 91.29 (1/58) (2) Comprehensive score: 96.79 (1/58) (3)GPA: 3.97
-
 - Two reports on the official website of UESTC and a report on Xinhua website
   - [因为热爱所以拼搏，全奖直博的他，成电四年很精彩！](https://mp.weixin.qq.com/s/CMcPWZ1YTafE8CUQcA619Q) 
   - [软件学院本科生在数据挖掘领域顶级会议CIKM上发表论文并获最佳短文奖](https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=81841)
@@ -126,6 +85,7 @@ More details on my naive understanding on research can be found at [here](https:
 
 ### Awards:
 
+- NSF Student Travel Grant - WSDM 2024
 - NeurIPS 2023 Scholar Award
 - CIKM2021 Best short paper award (first author) (1/626)
 - Excellent Student of High Education in Sichuan Province (30/763)

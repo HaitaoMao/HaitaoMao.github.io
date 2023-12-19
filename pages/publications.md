@@ -6,7 +6,9 @@ layout: single
 
 *represents equal contribution. Co-first authors in name alphabetical order.
 
-# The principle for DNN design
+# find structure from raw data 
+
+## Neural Network Structure 
 <ul>
   <li>
       <p>
@@ -45,9 +47,46 @@ layout: single
     </li>
 </ul>
 
+## structure in user behavior
+
+<ul>
+  <li>
+      <p>
+          <strong>Whole Page Unbiased Learning to Rank </strong><br>
+          <strong>Haitao Mao</strong>, Lixin Zou, Yujia Zheng, Jiliang Tang, Xiaokai Chu, Jiashu Zhao, Dawei Yin <br> 
+          <font color="green">Work during internship in Baidu</font> <br>
+          Preprint 
+          [<a href="https://arxiv.org/pdf/2210.10718.pdf">pdf</a>]
+      </p>
+    </li>
+</ul>
 
 
-# The principle and new architecture design for learning on graph 
+## Structure in Finance report 
+
+<ul>
+  <li>
+      <p>
+        <strong> Form 10-K Itemization </strong> <br>
+        Yanci Zhang, Mengjia Xia, Mingyang Li, <strong>Haitao Mao</strong>, Yutong Lu, Yupeng Lan, Jinlin Ye, Rui Dai <br>
+          <font color="green">collaboration with Wharton Data Center</font> <br>
+        Preprint [<a href="https://arxiv.org/pdf/2303.04688.pdf">pdf</a>]
+      </p>
+    </li>
+    <li>
+      <p>
+        <strong> Company Competition Graph </strong> <br>
+        Yanci Zhang, Yutong Lu, <strong>Haitao Mao</strong>, Jiawei Huang, Cien Zhang, Xinyi Li, Rui Dai <br>
+          <font color="green">collaboration with Wharton Data Center</font> <br>
+        Preprint [<a href="https://arxiv.org/pdf/2304.00323.pdf">pdf</a>]
+      </p>
+    </li>
+</ul>
+
+
+
+
+# Analyze the quality of structural data
 <ul>
     <li>
       <p>
@@ -63,6 +102,31 @@ layout: single
     </li>
     <li>
         <p>
+            <strong>Revisiting Link Prediction: A data perspective</strong><br>
+            <strong>Haitao Mao</strong>, Juanhui Li, Harry Shomer, Bingheng Li, Wenqi Fan, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
+            <font color="green">collaboration with SnapChat</font> <br>
+            preprint 
+            [<a href="https://arxiv.org/pdf/2310.00793.pdf">pdf</a>]
+            [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/LinkPrediction.pdf">slides</a>] 
+        </p>
+    </li>
+</ul>
+
+# develop powerful graph structural model
+<ul>
+  <li>
+      <p>
+          <strong>Source Free Graph Unsupervised Domain Adaptation </strong><br>
+          <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Shi Han, Dongmei Zhang <br>
+          <font color="green">Work during internship in Microsoft Research Asia</font> <br>
+          WSDM 2024 <strong> Oral presentation </strong> 
+          [<a href="https://arxiv.org/pdf/2112.00955.pdf">pdf</a>]
+          [<a href="https://haitaomao.github.io/categories/sourcefree/">blog</a>]
+          [<a href="https://github.com/HaitaoMao/SOGA">code</a>]
+      </p>  
+    </li>
+    <li>
+        <p>
           <strong> Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs </strong><br>
           Zhikai Chen, <strong>Haitao Mao</strong>, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang <br>
           <font color="green">collaboration with Baidu</font> <br>
@@ -70,16 +134,6 @@ layout: single
           [<a href="https://arxiv.org/pdf/2307.03393.pdf">pdf</a>]
           [<a href="https://github.com/CurryTang/Graph-LLM">code</a>]
           [<a href="https://www.cse.msu.edu/~tangjili/talks/LLMs-LOG.pdf">slides</a>]
-        </p>
-    </li>
-    <li>
-        <p>
-            <strong>Revisiting Link Prediction: A data perspective</strong><br>
-            <strong>Haitao Mao</strong>, Juanhui Li, Harry Shomer, Bingheng Li, Wenqi Fan, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
-            <font color="green">collaboration with SnapChat</font> <br>
-            preprint 
-            [<a href="https://arxiv.org/pdf/2310.00793.pdf">pdf</a>]
-            [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/LinkPrediction.pdf">slides</a>] 
         </p>
     </li>
     <li>
@@ -112,19 +166,9 @@ layout: single
     </li>
 </ul>
 
-# Real-world Data mining problem and solution  (Interdisciplinary Research)
+
+# Find New Real-world challenges  
 <ul>
-    <li>
-      <p>
-          <strong>Source Free Graph Unsupervised Domain Adaptation </strong><br>
-          <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Shi Han, Dongmei Zhang <br>
-          <font color="green">Work during internship in Microsoft Research Asia</font> <br>
-          WSDM 2024 <strong> Oral presentation </strong> 
-          [<a href="https://arxiv.org/pdf/2112.00955.pdf">pdf</a>]
-          [<a href="https://haitaomao.github.io/categories/sourcefree/">blog</a>]
-          [<a href="https://github.com/HaitaoMao/SOGA">code</a>]
-      </p>  
-    </li>
     <li>
       <p>
         <strong> A Large Scale Search Dataset for Unbiased Learning to Rank </strong> <br>
@@ -141,15 +185,6 @@ layout: single
         [<a href="https://neurips.cc/virtual/2022/poster/55768">Official video</a>]
         [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/Baidu-ULTR-NeurIPS-version.pdf">official slides</a>]
         [<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202022/55768.png?t=1669701622.351326">Poster</a>]
-      </p>
-    </li>
-    <li>
-      <p>
-          <strong>Whole Page Unbiased Learning to Rank </strong><br>
-          <strong>Haitao Mao</strong>, Lixin Zou, Yujia Zheng, Jiliang Tang, Xiaokai Chu, Jiashu Zhao, Dawei Yin <br> 
-          <font color="green">Work during internship in Baidu</font> <br>
-          Preprint 
-          [<a href="https://arxiv.org/pdf/2210.10718.pdf">pdf</a>]
       </p>
     </li>
     <li>
@@ -171,22 +206,6 @@ layout: single
         <strong>NeurIPS 2023 Dataset Track</strong> <br> 
         [<a href="https://arxiv.org/pdf/2306.10453.pdf">pdf</a>]
         [<a href="https://github.com/Juanhui28/HeaRT">code</a>]
-      </p>
-    </li>
-    <li>
-      <p>
-        <strong> Form 10-K Itemization </strong> <br>
-        Yanci Zhang, Mengjia Xia, Mingyang Li, <strong>Haitao Mao</strong>, Yutong Lu, Yupeng Lan, Jinlin Ye, Rui Dai <br>
-          <font color="green">collaboration with Wharton Data Center</font> <br>
-        Preprint [<a href="https://arxiv.org/pdf/2303.04688.pdf">pdf</a>]
-      </p>
-    </li>
-    <li>
-      <p>
-        <strong> Company Competition Graph </strong> <br>
-        Yanci Zhang, Yutong Lu, <strong>Haitao Mao</strong>, Jiawei Huang, Cien Zhang, Xinyi Li, Rui Dai <br>
-          <font color="green">collaboration with Wharton Data Center</font> <br>
-        Preprint [<a href="https://arxiv.org/pdf/2304.00323.pdf">pdf</a>]
       </p>
     </li>
 </ul>

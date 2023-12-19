@@ -18,7 +18,7 @@ layout: single
         </li>
         <li>
           <p>
-              <strong>Guest lecturer on "Responsbility for Artificial Intelligence"</strong><br>
+              <strong>Guest lecturer on "How to use GPT-4"</strong><br>
           </p>
         </li>
         </ul>    
