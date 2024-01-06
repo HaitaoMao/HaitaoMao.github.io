@@ -4,17 +4,15 @@ title: Publications
 layout: single
 ---
 
-*represents equal contribution. Co-first authors in name alphabetical order.
-
-# find structure from raw data 
-
-## Neural Network Structure 
+Underline indicates student mentored. *represents equal contribution. Co-first authors in name alphabetical order.
+#### Find structure from raw data 
+**Neural Network Structure**
 <ul>
   <li>
       <p>
         <strong> Neuron Campaign for Initialization Guided by Information Bottleneck Theory </strong><br>
         <strong>Haitao Mao*</strong>, Lun Du*, Qiang Fu*, Xu Chen*,  Shi Han, Dongmei Zhang <br>
-        <strong> CIKM2021 Best Short Paper</strong><br>
+        <strong> <font color="red">CIKM2021 Best Short Paper </font> </strong><br>
         <font color="green">Work during internship in Microsoft Research Asia</font> <br>
         [<a href="https://arxiv.org/pdf/2108.06530.pdf">pdf</a>]
         [<a href="https://github.com/HaitaoMao/Neuron-Campaign-for-Initialization-Guided-by-Information-Bottleneck-Theory">github</a>]
@@ -47,8 +45,7 @@ layout: single
     </li>
 </ul>
 
-## structure in user behavior
-
+**User behavior structure**
 <ul>
   <li>
       <p>
@@ -62,8 +59,7 @@ layout: single
 </ul>
 
 
-## Structure in Finance report 
-
+**Finance domain Structure** 
 <ul>
   <li>
       <p>
@@ -83,15 +79,12 @@ layout: single
     </li>
 </ul>
 
-
-
-
-# Analyze the quality of structural data
+#### Analyze structure quality
 <ul>
     <li>
       <p>
           <strong>Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?</strong><br>
-          <strong>Haitao Mao</strong>, Zhikai Chen, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
+          <strong>Haitao Mao</strong>, <u>Zhikai Chen</u>, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
           <font color="green">collaboration with SnapChat</font> <br>
           NeurIPS 2023 
           [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
@@ -103,7 +96,7 @@ layout: single
     <li>
         <p>
             <strong>Revisiting Link Prediction: A data perspective</strong><br>
-            <strong>Haitao Mao</strong>, Juanhui Li, Harry Shomer, Bingheng Li, Wenqi Fan, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
+            <strong>Haitao Mao</strong>, <u>Juanhui Li</u>, Harry Shomer, Bingheng Li, Wenqi Fan, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
             <font color="green">collaboration with SnapChat</font> <br>
             preprint 
             [<a href="https://arxiv.org/pdf/2310.00793.pdf">pdf</a>]
@@ -112,7 +105,7 @@ layout: single
     </li>
 </ul>
 
-# develop powerful graph structural model
+#### Develop powerful graph structural model
 <ul>
   <li>
       <p>
@@ -128,7 +121,7 @@ layout: single
     <li>
         <p>
           <strong> Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs </strong><br>
-          Zhikai Chen, <strong>Haitao Mao</strong>, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang <br>
+          <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang <br>
           <font color="green">collaboration with Baidu</font> <br>
           preprint 
           [<a href="https://arxiv.org/pdf/2307.03393.pdf">pdf</a>]
@@ -139,7 +132,7 @@ layout: single
     <li>
         <p>
             <strong>Label-free Node Classification on Graphs with Large Language Models (LLMS)</strong><br>
-            Zhikai Chen, <strong>Haitao Mao</strong>, Hongzhi Wen, Haoyu Han, Wei Jin, Haiyang Zhang, Hui Liu, Jiliang Tang <br>
+            <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Hongzhi Wen, Haoyu Han, Wei Jin, Haiyang Zhang, Hui Liu, Jiliang Tang <br>
             preprint 
             [<a href="https://arxiv.org/pdf/2310.04668.pdf">pdf</a>]
             [<a href="https://github.com/CurryTang/LLMGNN">code</a>]
@@ -167,7 +160,7 @@ layout: single
 </ul>
 
 
-# Find New Real-world challenges  
+#### Find New Real-world challenges  
 <ul>
     <li>
       <p>
@@ -201,7 +194,7 @@ layout: single
     <li>
       <p>
         <strong> Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking </strong> <br>
-        Juanhui Li*, Harry Shomer*, <strong>Haitao Mao</strong>, Shenglai Zeng, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin <br>
+        <u>Juanhui Li*</u>, Harry Shomer*, <strong>Haitao Mao</strong>, Shenglai Zeng, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin <br>
         <font color="green">collaboration with SnapChat</font> <br>
         <strong>NeurIPS 2023 Dataset Track</strong> <br> 
         [<a href="https://arxiv.org/pdf/2306.10453.pdf">pdf</a>]
@@ -211,7 +204,7 @@ layout: single
 </ul>
 
 
-# Others
+#### Others
 <ul>
     <li>
     <p>
