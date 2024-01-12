@@ -7,7 +7,9 @@ layout: single
 
 I am a second-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I have won **the best short paper award in CIKM2021** as the first author. I am the (primary) organizer of WSDM CUP 2023, KDD CUP 2023, KDD workshop 2023, WWW workshop 2024, and LOG local meetup 2023 MidNorth US. 
 
-My research revolves on conducting, understanding, utilizing **structure** to solve the practical challenge.  My research typically has the following steps: (1) building suitable assumption (2) developing toy examples (3) deriving theoritical understanding  (4) aligning understanding with real-world experimental insights.  With those steps, I can (1) find the underlying meaningful **structure** from raw data （2）analyze the quality of the **structural** data (3) develop powerful graph **structural** model (4) find new real-world challenge and define research scenario revolving on real-world challenges. More details on my naive understanding on research can be found at [here](https://haitaomao.github.io/categories/naive/). Feel free to discuss with me and find potential collaboration chance via haitaoma@msu.edu. 
+My research revolves on conducting, understanding, utilizing **structure** to solve the practical challenge.  My research typically has the following steps: (1) building suitable assumption (2) developing toy examples (3) deriving theoritical understanding  (4) aligning understanding with real-world experimental insights.  With those steps, I can (1) Find the underlying meaningful **structure** from raw data (2) Analyze the quality of the **structural** data (3) Develop powerful graph **structural** models (focus on the graph foundation model) (4) Find new real-world challenges and define the corresponding research scenario. More details on my naive understanding on research can be found at [here](https://haitaomao.github.io/categories/naive/). Feel free to discuss with me and find potential collaboration chance via haitaoma@msu.edu. 
+
+
 
 > I know. It is all wrong. By rights, we shouldn't even be here. But we are. It is like the great stories, Mr. Frodo. The ones that really matters. Full of darkness and danger they were. And sometimes you didn't want to know the end. Because how could the end be happy. How could the world go back to the way it was when so much bad had happened. But in the end, it's only a passing thing this shadow. Even darkness must pass. A new day will come. And the sunshines, it will shine out the clearer. Those were the stories that stayed with you... that meant something. Even if you were too small to undestand why. But I think, Mr. Frodo, I do understand. I know now. Folk in those stories had lots of chances of turning back, only they didn't. They kept going because they were holding on to something. That there's some good in this world, Mr. Frodo. And it's worth fighting for. 
 
@@ -41,7 +43,7 @@ My research revolves on conducting, understanding, utilizing **structure** to so
     <li>
       <p>
         <strong> Neuron Campaign for Initialization Guided by Information Bottleneck Theory </strong><br>
-        <strong>CIKM2021 Best Short Paper</strong><br>
+        <font color="red"><strong>CIKM2021 Best Short Paper</strong></font><br>
         <font color="green">Work during internship in Microsoft Research Asia</font> <br>
         <strong>Haitao Mao</strong>, Xu Chen, Qiang Fu, Lun Du, Shi Han, Dongmei Zhang <br>
         [<a href="https://arxiv.org/pdf/2108.06530.pdf">pdf</a>]
