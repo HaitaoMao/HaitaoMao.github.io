@@ -5,7 +5,7 @@ layout: single
 ---
 因为淋过雨 所以想变成伞: Caught in the rain, with to be an umbrella.
 
-I am a second-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I have won **the best short paper award in CIKM2021** as the first author. I am the (primary) organizer of WSDM CUP 2023, KDD CUP 2023, KDD workshop 2023, WWW workshop 2024, and LOG local meetup 2023 (MidNorth US & Beijing). 
+I am a second-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I have won **the best short paper award in CIKM2021** as the first author. I am the (primary) organizer of WSDM CUP 2023, KDD CUP 2023, KDD workshop 2023, WWW workshop 2024, and LOG local meetup 2023 MidNorth US. 
 
 My research revolves on conducting, understanding, utilizing **structure** to solve the practical challenge.  My research typically has the following steps: (1) building suitable assumption (2) developing toy examples (3) deriving theoritical understanding  (4) aligning understanding with real-world experimental insights.  With those steps, I can (1) find the underlying meaningful **structure** from raw data （2）analyze the quality of the **structural** data (3) develop powerful graph **structural** model (4) find new real-world challenge and define research scenario revolving on real-world challenges. More details on my naive understanding on research can be found at [here](https://haitaomao.github.io/categories/naive/). Feel free to discuss with me and find potential collaboration chance via haitaoma@msu.edu. 
 
@@ -23,7 +23,8 @@ My research revolves on conducting, understanding, utilizing **structure** to so
           [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
           [<a href="https://github.com/HaitaoMao/Demystify-structural-disparity">code</a>] 
           [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/NodeClassification.pdf">slides</a>] 
-          [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/Demestify-poster.pdf">poster</a>] 
+          [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/Demestify-poster.pdf">poster</a>]
+          [<a href="https://www.bilibili.com/video/BV1jj411s7h5/?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054">video</a>]
       </p>
     </li>
     <li>
@@ -34,12 +35,14 @@ My research revolves on conducting, understanding, utilizing **structure** to so
             preprint 
             [<a href="https://arxiv.org/pdf/2310.00793.pdf">pdf</a>]
             [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/LinkPrediction.pdf">slides</a>] 
+            [<a href="https://www.bilibili.com/video/BV1jj411s7h5/?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054">video</a>]
         </p>
     </li>
     <li>
       <p>
         <strong> Neuron Campaign for Initialization Guided by Information Bottleneck Theory </strong><br>
         <strong>CIKM2021 Best Short Paper</strong><br>
+        <font color="green">Work during internship in Microsoft Research Asia</font> <br>
         <strong>Haitao Mao</strong>, Xu Chen, Qiang Fu, Lun Du, Shi Han, Dongmei Zhang <br>
         [<a href="https://arxiv.org/pdf/2108.06530.pdf">pdf</a>]
         [<a href="https://github.com/HaitaoMao/Neuron-Campaign-for-Initialization-Guided-by-Information-Bottleneck-Theory">github</a>]

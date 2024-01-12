@@ -45,7 +45,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
     </li>
 </ul>
 
-**User behavior structure**
+**User Behavior Structure**
 <ul>
   <li>
       <p>
@@ -59,7 +59,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
 </ul>
 
 
-**Finance domain Structure** 
+**Finance Domain Structure** 
 <ul>
   <li>
       <p>
@@ -91,6 +91,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
           [<a href="https://github.com/HaitaoMao/Demystify-structural-disparity">code</a>] 
           [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/NodeClassification.pdf">slides</a>] 
           [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/Demestify-poster.pdf">poster</a>] 
+          [<a href="https://www.bilibili.com/video/BV1jj411s7h5/?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054">video</a>]
       </p>
     </li>
     <li>
@@ -101,6 +102,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
             preprint 
             [<a href="https://arxiv.org/pdf/2310.00793.pdf">pdf</a>]
             [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/LinkPrediction.pdf">slides</a>] 
+            [<a href="https://www.bilibili.com/video/BV1jj411s7h5/?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054">video</a>]
         </p>
     </li>
 </ul>
@@ -123,7 +125,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
           <strong> Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs </strong><br>
           <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang <br>
           <font color="green">collaboration with Baidu</font> <br>
-          preprint 
+          SIGKDD Explorations 2023
           [<a href="https://arxiv.org/pdf/2307.03393.pdf">pdf</a>]
           [<a href="https://github.com/CurryTang/Graph-LLM">code</a>]
           [<a href="https://www.cse.msu.edu/~tangjili/talks/LLMs-LOG.pdf">slides</a>]
@@ -187,8 +189,10 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
         <font color="green">collaboration with Amazon</font> <br>
         <strong>NeurIPS 2022 Dataset Track</strong> <br> 
         [<a href="https://arxiv.org/pdf/2307.09688.pdf">pdf</a>]
-        [<a href="https://kddcup23.github.io/">Homepage</a>]
-        [<a href="https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge">Instructions</a>]
+        [<a href="https://kddcup23.github.io/">homepage</a>]
+        [<a href="https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge">instructions</a>]
+        [<a href="https://github.com/HaitaoMao/Amazon-M2">code</a>]
+        [<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73435.png?t=1699921948.3531067">poster</a>]
       </p>
     </li>
     <li>
@@ -199,6 +203,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
         <strong>NeurIPS 2023 Dataset Track</strong> <br> 
         [<a href="https://arxiv.org/pdf/2306.10453.pdf">pdf</a>]
         [<a href="https://github.com/Juanhui28/HeaRT">code</a>]
+        [<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73552.png?t=1697474274.198515">poster</a>]
       </p>
     </li>
 </ul>
