@@ -138,6 +138,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
             preprint 
             [<a href="https://arxiv.org/pdf/2310.04668.pdf">pdf</a>]
             [<a href="https://github.com/CurryTang/LLMGNN">code</a>]
+            [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/LABELFREE.pdf">slides</a>]
         </p>
     </li>
     <li>

@@ -3,7 +3,6 @@ permalink: /me/
 title: ME
 layout: single
 ---
-因为淋过雨 所以想变成伞: Caught in the rain, with to be an umbrella.
 
 I am a second-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I have won **the best short paper award in CIKM2021** as the first author. I am the (primary) organizer of WSDM CUP 2023, KDD CUP 2023, KDD workshop 2023, WWW workshop 2024, and LOG local meetup 2023 MidNorth US. 
 
