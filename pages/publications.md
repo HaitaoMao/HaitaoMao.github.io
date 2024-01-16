@@ -97,9 +97,9 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
     <li>
         <p>
             <strong>Revisiting Link Prediction: A data perspective</strong><br>
-            <strong>Haitao Mao</strong>, <u>Juanhui Li</u>, Harry Shomer, Bingheng Li, Wenqi Fan, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
+            <strong>Haitao Mao</strong>, <u>Juanhui Li</u>, Harry Shomer, <u>Bingheng Li</u>, Wenqi Fan, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
             <font color="green">collaboration with SnapChat</font> <br>
-            preprint 
+            ICLR 2024 
             [<a href="https://arxiv.org/pdf/2310.00793.pdf">pdf</a>]
             [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/LinkPrediction.pdf">slides</a>] 
             [<a href="https://www.bilibili.com/video/BV1jj411s7h5/?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054">video</a>]
@@ -135,7 +135,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
         <p>
             <strong>Label-free Node Classification on Graphs with Large Language Models (LLMS)</strong><br>
             <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Hongzhi Wen, Haoyu Han, Wei Jin, Haiyang Zhang, Hui Liu, Jiliang Tang <br>
-            preprint 
+            ICLR 2024
             [<a href="https://arxiv.org/pdf/2310.04668.pdf">pdf</a>]
             [<a href="https://github.com/CurryTang/LLMGNN">code</a>]
             [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/LABELFREE.pdf">slides</a>]

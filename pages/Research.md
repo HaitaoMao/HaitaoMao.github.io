@@ -23,16 +23,17 @@ layout: single
 	</li>
   <li>
       <p>
+        <strong> Accelerate Foundation Models Academic Research Initiative  </strong><br>
+          <strong>PI: </strong> Jiliang Tang <br>
+        <strong>role: </strong> ideal proposal
+       </p>
+	</li>
+  
+  <li>
+      <p>
         <strong> LoG local mini-conferences in MidNorth of US  </strong><br>
           <strong>PI: </strong> Jiliang Tang <br>
         <strong>role: </strong> design and draft the whole proposal
-       </p>
-	</li>
-    <li>
-      <p>
-        <strong> LoG local mini-conferences in Beijing  </strong><br>
-          <strong>PI: </strong> Lun Du <br>
-        <strong>role: </strong> design and draft part of the proposal
        </p>
 	</li>
     <li>

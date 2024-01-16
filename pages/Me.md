@@ -33,7 +33,7 @@ My research revolves on conducting, understanding, utilizing **structure** to so
             <strong>Revisiting Link Prediction: A data perspective</strong><br>
             <strong>Haitao Mao</strong>, Juanhui Li, Harry Shomer, Bingheng Li, Wenqi Fan, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
             <font color="green">collaboration with SnapChat</font> <br>
-            preprint 
+            ICLR 2024
             [<a href="https://arxiv.org/pdf/2310.00793.pdf">pdf</a>]
             [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/LinkPrediction.pdf">slides</a>] 
             [<a href="https://www.bilibili.com/video/BV1jj411s7h5/?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054">video</a>]
