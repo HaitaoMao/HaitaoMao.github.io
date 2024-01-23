@@ -66,7 +66,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
         <strong> Form 10-K Itemization </strong> <br>
         Yanci Zhang, Mengjia Xia, Mingyang Li, <strong>Haitao Mao</strong>, Yutong Lu, Yupeng Lan, Jinlin Ye, Rui Dai <br>
           <font color="green">collaboration with Wharton Data Center</font> <br>
-        Preprint [<a href="https://arxiv.org/pdf/2303.04688.pdf">pdf</a>]
+        preprint [<a href="https://arxiv.org/pdf/2303.04688.pdf">pdf</a>]
       </p>
     </li>
     <li>
@@ -74,7 +74,8 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
         <strong> Company Competition Graph </strong> <br>
         Yanci Zhang, Yutong Lu, <strong>Haitao Mao</strong>, Jiawei Huang, Cien Zhang, Xinyi Li, Rui Dai <br>
           <font color="green">collaboration with Wharton Data Center</font> <br>
-        Preprint [<a href="https://arxiv.org/pdf/2304.00323.pdf">pdf</a>]
+        <strong> MAF 2024</strong><br>
+        [<a href="https://arxiv.org/pdf/2304.00323.pdf">pdf</a>]
       </p>
     </li>
 </ul>
