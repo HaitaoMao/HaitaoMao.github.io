@@ -18,7 +18,7 @@ layout: single
         </li>
         <li>
           <p>
-              <strong>Guest lecturer on "How to use GPT-4"</strong><br>
+              <strong>Guest lecturer on "The advance use of ChatGPT"</strong><br>
           </p>
         </li>
         </ul>    
@@ -26,7 +26,12 @@ layout: single
   </li>    
   <li>
     <p>
-        <strong>Write blog for <a href="https://ai4science101.github.io/blogs/">AI4Science101</a> </strong>: a hands-on blog for learning on graph with more than 7,000 words <br>
+        <strong>Write learning on graph blog for <a href="https://ai4science101.github.io/blogs/">AI4Science101</a> </strong>: a hands-on blog for the growing AI for Science community <br>
+    </p>
+  </li>
+  <li>
+    <p>
+        Official subtitle translation of Fast.ai: Practical Deep Learning for Coders
     </p>
   </li>
 </ul>

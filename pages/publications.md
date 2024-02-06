@@ -5,6 +5,8 @@ layout: single
 ---
 
 Underline indicates student mentored. *represents equal contribution. Co-first authors in name alphabetical order.
+
+
 #### Find structure from raw data 
 **Neural Network Structure**
 <ul>
@@ -58,9 +60,40 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
     </li>
 </ul>
 
+**Structure in LLM**
+<ul>
+  <li>
+      <p>
+          <strong>A Data Generation Perspective to the Mechanism of In-Context Learning</strong><br>
+          <strong>Haitao Mao</strong>, Guangliang Liu, Yao Ma, Rongrong Wang, Jiliang Tang <br>
+          Preprint [<a href="https://arxiv.org/pdf/2402.02212.pdf">pdf</a>]
+      </p>
+    </li>
+</ul>
+
+
+**Structure in Leaning to Optimize** 
+<ul>
+    <li>
+      <p>
+          <strong>PDHG-Unrolled Learning-to-Optimize Method for Large-Scale Linear Programming</strong><br>
+          <u>Bingheng Li</u>, Linxin Yang, Yupeng Chen, Senmiao Wang, Qian Chen, <strong>Haitao Mao</strong>, Yao Ma, Akang Wang, Tian Ding, Jiliang Tang, Ruoyu Sun <br>
+          Preprint [<a href="">pdf</a>]
+      </p>
+    </li>
+</ul>
+
 
 **Finance Domain Structure** 
 <ul>
+    <li>
+      <p>
+        <strong> Company Competition Graph </strong> <br>
+        Yanci Zhang, Yutong Lu, <strong>Haitao Mao</strong>, Jiawei Huang, Cien Zhang, Xinyi Li, Rui Dai <br>
+          <font color="green">collaboration with Wharton Data Center</font> <br>
+        <strong> MAF 2024</strong>[<a href="https://arxiv.org/pdf/2304.00323.pdf">pdf</a>]<br>
+      </p>
+    </li>
   <li>
       <p>
         <strong> Form 10-K Itemization </strong> <br>
@@ -69,16 +102,8 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
         preprint [<a href="https://arxiv.org/pdf/2303.04688.pdf">pdf</a>]
       </p>
     </li>
-    <li>
-      <p>
-        <strong> Company Competition Graph </strong> <br>
-        Yanci Zhang, Yutong Lu, <strong>Haitao Mao</strong>, Jiawei Huang, Cien Zhang, Xinyi Li, Rui Dai <br>
-          <font color="green">collaboration with Wharton Data Center</font> <br>
-        <strong> MAF 2024</strong><br>
-        [<a href="https://arxiv.org/pdf/2304.00323.pdf">pdf</a>]
-      </p>
-    </li>
 </ul>
+
 
 #### Analyze structure quality
 <ul>
@@ -86,8 +111,8 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
       <p>
           <strong>Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?</strong><br>
           <strong>Haitao Mao</strong>, <u>Zhikai Chen</u>, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
+          <strong>NeurIPS 2023</strong> 
           <font color="green">collaboration with SnapChat</font> <br>
-          NeurIPS 2023 
           [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
           [<a href="https://github.com/HaitaoMao/Demystify-structural-disparity">code</a>] 
           [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/NodeClassification.pdf">slides</a>] 
@@ -99,23 +124,42 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
         <p>
             <strong>Revisiting Link Prediction: A data perspective</strong><br>
             <strong>Haitao Mao</strong>, <u>Juanhui Li</u>, Harry Shomer, <u>Bingheng Li</u>, Wenqi Fan, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
+            <strong>ICLR 2024</strong> 
             <font color="green">collaboration with SnapChat</font> <br>
-            ICLR 2024 
             [<a href="https://arxiv.org/pdf/2310.00793.pdf">pdf</a>]
             [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/LinkPrediction.pdf">slides</a>] 
             [<a href="https://www.bilibili.com/video/BV1jj411s7h5/?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054">video</a>]
         </p>
     </li>
+    <li>
+      <p>
+          <strong>Neural Scaling Law on Graph</strong><br>
+          <u>Jingzhe Liu</u>, <strong>Haitao Mao</strong>, <u>Zhikai Chen</u>, Tong Zhao, Neil Shah, Jiliang Tang
+          <font color="green">collaboration with SnapChat</font> <br>
+          preprint [<a href="https://arxiv.org/pdf/2402.02054.pdf">pdf</a>]
+      </p>
+    </li>
 </ul>
+
+
+
 
 #### Develop powerful graph structural model
 <ul>
+    <li>
+      <p>
+          <strong>Graph Foundation Models</strong><br>
+          <strong>Haitao Mao</strong>*, <u>Zhikai Chen</u>*, <u>Wenzhuo Tang</u>, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang <br>
+          <font color="green">collaboration with SnapChat and Intel</font> <br>
+          preprint [<a href="https://arxiv.org/pdf/2402.02216.pdf">pdf</a>]
+      </p>
+    </li>
   <li>
       <p>
           <strong>Source Free Graph Unsupervised Domain Adaptation </strong><br>
           <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Shi Han, Dongmei Zhang <br>
+          <strong>WSDM 2024  Oral presentation </strong> 
           <font color="green">Work during internship in Microsoft Research Asia</font> <br>
-          WSDM 2024 <strong> Oral presentation </strong> 
           [<a href="https://arxiv.org/pdf/2112.00955.pdf">pdf</a>]
           [<a href="https://haitaomao.github.io/categories/sourcefree/">blog</a>]
           [<a href="https://github.com/HaitaoMao/SOGA">code</a>]
@@ -125,8 +169,8 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
         <p>
           <strong> Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs </strong><br>
           <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang <br>
+          <strong>SIGKDD Explorations 2023</strong>
           <font color="green">collaboration with Baidu</font> <br>
-          SIGKDD Explorations 2023
           [<a href="https://arxiv.org/pdf/2307.03393.pdf">pdf</a>]
           [<a href="https://github.com/CurryTang/Graph-LLM">code</a>]
           [<a href="https://www.cse.msu.edu/~tangjili/talks/LLMs-LOG.pdf">slides</a>]
@@ -136,17 +180,24 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
         <p>
             <strong>Label-free Node Classification on Graphs with Large Language Models (LLMS)</strong><br>
             <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Hongzhi Wen, Haoyu Han, Wei Jin, Haiyang Zhang, Hui Liu, Jiliang Tang <br>
-            ICLR 2024
+            <strong>ICLR 2024</strong>
             [<a href="https://arxiv.org/pdf/2310.04668.pdf">pdf</a>]
             [<a href="https://github.com/CurryTang/LLMGNN">code</a>]
             [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/LABELFREE.pdf">slides</a>]
         </p>
     </li>
     <li>
+        <p>
+            <strong>Universal link predictor by in-context learning</strong><br>
+            Kaiwen Dong, <strong>Haitao Mao</strong>, Zhichun Guo, Nitesh Chewla<br>
+            preprint [<a href="">pdf</a>]
+        </p>
+    </li>
+    <li>
       <p>
           <strong>Adaptive Pairwise Encodings for Link Prediction</strong><br>
           Harry Shomer, Yao Ma, <strong>Haitao Mao</strong>,  Juanhui Li, Bo Wu, Jiliang Tang  <br>
-          preprint
+          preprint 
           [<a href="https://arxiv.org/pdf/2310.11009.pdf">pdf</a>]
           [<a href="https://github.com/HarryShomer/LPFormer">code</a>]
       </p>
@@ -155,8 +206,8 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
       <p>
           <strong>Alternately Optimized Graph Neural Network </strong><br>
           Haoyu Han, Xiaorui Liu, <strong>Haitao Mao</strong>,  MohamadAli Torkamani, Feng Shi, Victor Lee, Jiliang Tang  <br>
+          <strong>ICML 2023</strong> 
           <font color="green">collaboration with TigerGraph</font> <br>
-          ICML 2023 
           [<a href="https://arxiv.org/pdf/2206.03638.pdf">pdf</a>]
           [<a href="https://github.com/haoyuhan1/ALT-OPT/">code</a>]
       </p>
@@ -188,8 +239,8 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
       <p>
         <strong>Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation </strong><br>
         Wei Jin*, <strong>Haitao Mao*</strong>, Zheng Li, Haoming Jiang, Chen Luo, Hongzhi Wen, Haoyu Han, Hanqing Lu, Zhengyang Wang, Ruirui Li, Zhen Li, Monica Cheng, Rahul Goutam, Haiyang Zhang, Karthik Subbian, Suhang Wang, Yizhou Sun, Jiliang Tang, Bing Yin, and Xianfeng Tang  <br>
-        <font color="green">collaboration with Amazon</font> <br>
         <strong>NeurIPS 2022 Dataset Track</strong> <br> 
+        <font color="green">collaboration with Amazon</font> <br>
         [<a href="https://arxiv.org/pdf/2307.09688.pdf">pdf</a>]
         [<a href="https://kddcup23.github.io/">homepage</a>]
         [<a href="https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge">instructions</a>]
@@ -201,11 +252,18 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
       <p>
         <strong> Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking </strong> <br>
         <u>Juanhui Li*</u>, Harry Shomer*, <strong>Haitao Mao</strong>, Shenglai Zeng, Yao Ma, Neil Shah, Jiliang Tang, Dawei Yin <br>
-        <font color="green">collaboration with SnapChat</font> <br>
         <strong>NeurIPS 2023 Dataset Track</strong> <br> 
+        <font color="green">collaboration with SnapChat</font> <br>
         [<a href="https://arxiv.org/pdf/2306.10453.pdf">pdf</a>]
         [<a href="https://github.com/Juanhui28/HeaRT">code</a>]
         [<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73552.png?t=1697474274.198515">poster</a>]
+      </p>
+    </li>
+    <li>
+      <p>
+          <strong>Addressing Shortcomings in Fair Graph Learning Datasets: Towards a New Benchmark</strong><br>
+          <u>Xiaowei Qian</u>, Zhimeng Guo, Jialiang Li, <strong>Haitao Mao</strong>, <u>Bingheng Li</u>, Suhang Wang, Yao Ma  <br>
+          preprint [<a href="">pdf</a>]
       </p>
     </li>
 </ul>
