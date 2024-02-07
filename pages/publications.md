@@ -8,7 +8,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
 
 
 #### Find structure from raw data 
-**Neural Network Structure**
+**Structure in the Neural Network**
 <ul>
   <li>
       <p>
@@ -47,7 +47,19 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
     </li>
 </ul>
 
-**User Behavior Structure**
+**Structure in the LLM**
+<ul>
+  <li>
+      <p>
+          <strong>A Data Generation Perspective to the Mechanism of In-Context Learning</strong><br>
+          <strong>Haitao Mao</strong>, Guangliang Liu, Yao Ma, Rongrong Wang, Jiliang Tang <br>
+          Preprint [<a href="https://arxiv.org/pdf/2402.02212.pdf">pdf</a>]
+      </p>
+    </li>
+</ul>
+
+
+**Structure in the User Behavior**
 <ul>
   <li>
       <p>
@@ -56,17 +68,6 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
           <font color="green">Work during internship in Baidu</font> <br>
           <strong> WebConference 2024</strong><br> 
           [<a href="https://arxiv.org/pdf/2210.10718.pdf">pdf</a>]
-      </p>
-    </li>
-</ul>
-
-**Structure in LLM**
-<ul>
-  <li>
-      <p>
-          <strong>A Data Generation Perspective to the Mechanism of In-Context Learning</strong><br>
-          <strong>Haitao Mao</strong>, Guangliang Liu, Yao Ma, Rongrong Wang, Jiliang Tang <br>
-          Preprint [<a href="https://arxiv.org/pdf/2402.02212.pdf">pdf</a>]
       </p>
     </li>
 </ul>
@@ -84,7 +85,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
 </ul>
 
 
-**Finance Domain Structure** 
+**Structure in the Finance Domain** 
 <ul>
     <li>
       <p>
@@ -158,7 +159,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
       <p>
           <strong>Source Free Graph Unsupervised Domain Adaptation </strong><br>
           <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Shi Han, Dongmei Zhang <br>
-          <strong>WSDM 2024  Oral presentation </strong> 
+          <strong>WSDM 2024  Oral presentation </strong> <br>
           <font color="green">Work during internship in Microsoft Research Asia</font> <br>
           [<a href="https://arxiv.org/pdf/2112.00955.pdf">pdf</a>]
           [<a href="https://haitaomao.github.io/categories/sourcefree/">blog</a>]
@@ -169,7 +170,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
         <p>
           <strong> Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs </strong><br>
           <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang <br>
-          <strong>SIGKDD Explorations 2023</strong>
+          <strong>SIGKDD Explorations 2023</strong> <br>
           <font color="green">collaboration with Baidu</font> <br>
           [<a href="https://arxiv.org/pdf/2307.03393.pdf">pdf</a>]
           [<a href="https://github.com/CurryTang/Graph-LLM">code</a>]
@@ -180,7 +181,8 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
         <p>
             <strong>Label-free Node Classification on Graphs with Large Language Models (LLMS)</strong><br>
             <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Hongzhi Wen, Haoyu Han, Wei Jin, Haiyang Zhang, Hui Liu, Jiliang Tang <br>
-            <strong>ICLR 2024</strong>
+            <strong>ICLR 2024</strong> 
+            <font color="green">collaboration with Amazon</font> <br>
             [<a href="https://arxiv.org/pdf/2310.04668.pdf">pdf</a>]
             [<a href="https://github.com/CurryTang/LLMGNN">code</a>]
             [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/LABELFREE.pdf">slides</a>]
@@ -206,7 +208,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
       <p>
           <strong>Alternately Optimized Graph Neural Network </strong><br>
           Haoyu Han, Xiaorui Liu, <strong>Haitao Mao</strong>,  MohamadAli Torkamani, Feng Shi, Victor Lee, Jiliang Tang  <br>
-          <strong>ICML 2023</strong> 
+          <strong>ICML 2023</strong>  <br>
           <font color="green">collaboration with TigerGraph</font> <br>
           [<a href="https://arxiv.org/pdf/2206.03638.pdf">pdf</a>]
           [<a href="https://github.com/haoyuhan1/ALT-OPT/">code</a>]
