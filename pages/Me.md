@@ -106,10 +106,10 @@ The order indicates my personal preference.
 
 
 ### Awards:
-
+- WSDM2024 Best Paper Honor Mentioned award (first author) (3/615)
+- CIKM2021 Best short paper award (first author) (1/626)
 - NSF Student Travel Grant - WSDM 2024
 - NeurIPS 2023 Scholar Award
-- CIKM2021 Best short paper award (first author) (1/626)
 - Excellent Student of High Education in Sichuan Province (30/763)
 - Outstanding Graduate in University of Electronic Science and Technology of China (74/763)
 - Star of tomorrow intern award in Microsoft Research Asia (top 10%)
