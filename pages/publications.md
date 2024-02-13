@@ -112,7 +112,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
       <p>
           <strong>Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?</strong><br>
           <strong>Haitao Mao</strong>, <u>Zhikai Chen</u>, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
-          <strong>NeurIPS 2023</strong> 
+          <strong>NeurIPS 2023</strong> <br>
           <font color="green">collaboration with SnapChat</font> <br>
           [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
           [<a href="https://github.com/HaitaoMao/Demystify-structural-disparity">code</a>] 
@@ -125,7 +125,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
         <p>
             <strong>Revisiting Link Prediction: A data perspective</strong><br>
             <strong>Haitao Mao</strong>, <u>Juanhui Li</u>, Harry Shomer, <u>Bingheng Li</u>, Wenqi Fan, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
-            <strong>ICLR 2024</strong> 
+            <strong>ICLR 2024</strong>  <br>
             <font color="green">collaboration with SnapChat</font> <br>
             [<a href="https://arxiv.org/pdf/2310.00793.pdf">pdf</a>]
             [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/LinkPrediction.pdf">slides</a>] 
@@ -135,7 +135,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
     <li>
       <p>
           <strong>Neural Scaling Law on Graph</strong><br>
-          <u>Jingzhe Liu</u>, <strong>Haitao Mao</strong>, <u>Zhikai Chen</u>, Tong Zhao, Neil Shah, Jiliang Tang
+          <u>Jingzhe Liu</u>, <strong>Haitao Mao</strong>, <u>Zhikai Chen</u>, Tong Zhao, Neil Shah, Jiliang Tang <br>
           <font color="green">collaboration with SnapChat</font> <br>
           preprint [<a href="https://arxiv.org/pdf/2402.02054.pdf">pdf</a>]
       </p>
@@ -159,8 +159,8 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
       <p>
           <strong>Source Free Graph Unsupervised Domain Adaptation </strong><br>
           <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Shi Han, Dongmei Zhang <br>
-          <strong>WSDM 2024  Oral presentation </strong> <br>
           <font color="green">Work during internship in Microsoft Research Asia</font> <br>
+          <strong> <font color="red"> WSDM 2024 Best Paper Honor Mention </font> </strong> <br>
           [<a href="https://arxiv.org/pdf/2112.00955.pdf">pdf</a>]
           [<a href="https://haitaomao.github.io/categories/sourcefree/">blog</a>]
           [<a href="https://github.com/HaitaoMao/SOGA">code</a>]

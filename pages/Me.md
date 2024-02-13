@@ -4,13 +4,13 @@ title: ME
 layout: single
 ---
 
-I am a second-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I have won **the best short paper award in CIKM2021** as the first author. I am the (primary) organizer of WSDM CUP 2023, KDD CUP 2023, KDD workshop 2023, WWW workshop 2024, and LOG local meetup 2023 MidNorth US. 
+I am a second-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I am the (primary) organizer of WSDM CUP 2023, KDD CUP 2023, KDD workshop 2023, WWW workshop 2024, and LOG local meetup 2023 MidNorth US. 
 
 My research revolves on conducting, understanding, utilizing **structure** to solve the practical challenge.  My research typically has the following steps: (1) building suitable assumption (2) developing toy examples (3) deriving theoritical understanding  (4) aligning understanding with real-world experimental insights.  With those steps, I can (1) Find the underlying meaningful **structure** from raw data (2) Analyze the quality of the **structural** data (3) Develop powerful graph **structural** models (focus on the graph foundation model) (4) Find new real-world challenges and define the corresponding research scenario. Feel free to discuss with me and find potential collaboration chance via haitaoma@msu.edu. 
 
 
-### Selected publication
-
+### Selected publications
+The order indicates my personal preference. 
 <ul>
   <li>
       <p>
@@ -21,6 +21,17 @@ My research revolves on conducting, understanding, utilizing **structure** to so
       </p>
     </li>
     <li>
+        <p>
+            <strong>Revisiting Link Prediction: A data perspective</strong><br>
+            <strong>Haitao Mao</strong>, <u>Juanhui Li</u>, Harry Shomer, Bingheng Li, Wenqi Fan, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
+            <strong>ICLR 2024</strong><br>
+            <font color="green">collaboration with SnapChat</font> <br>
+            [<a href="https://arxiv.org/pdf/2310.00793.pdf">pdf</a>]
+            [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/LinkPrediction.pdf">slides</a>] 
+            [<a href="https://www.bilibili.com/video/BV1jj411s7h5/?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054">video</a>]
+        </p>
+    </li>
+    <li>
       <p>
           <strong>A Data Generation Perspective to the Mechanism of In-Context Learning</strong><br>
           <strong>Haitao Mao</strong>, Guangliang Liu, Yao Ma, Rongrong Wang, Jiliang Tang <br>
@@ -29,9 +40,24 @@ My research revolves on conducting, understanding, utilizing **structure** to so
     </li>
     <li>
       <p>
+        <strong> Neuron Campaign for Initialization Guided by Information Bottleneck Theory </strong><br>
+        <strong>Haitao Mao</strong>, Xu Chen, Qiang Fu, Lun Du, Shi Han, Dongmei Zhang <br>
+        [<a href="https://arxiv.org/pdf/2108.06530.pdf">pdf</a>]
+        [<a href="https://github.com/HaitaoMao/Neuron-Campaign-for-Initialization-Guided-by-Information-Bottleneck-Theory">code</a>]
+        [<a href="https://haitaomao.github.io/categories/neuronCampaign/">blog</a>]
+        [<a href="https://zhuanlan.zhihu.com/p/398198523">Chinese blog</a>]
+        [<a href="https://github.com/haitaomao/haitaomao.github.io/blob/master/_files/CIKM2021/Init_poster.pdf">Poster</a>]
+        [<a href="https://github.com/haitaomao/haitaomao.github.io/blob/master/_files/CIKM2021/AITime%20CIKM21%20-%20Neuron%20Campaign.pdf">Slides</a>]
+        [<a href="https://www.bilibili.com/video/BV1fL411V7FP?spm_id_from=333.1007.top_right_bar_window_history.content.click">Video</a>]
+        <font color="green">Work during internship in Microsoft Research Asia</font> <br>
+        <font color="red"><strong>CIKM2021 Best Short Paper</strong></font><br>
+      </p>
+    </li>
+    <li>
+      <p>
           <strong>Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?</strong><br>
           <strong>Haitao Mao</strong>, <u>Zhikai Chen</u>, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
-          <strong>NeurIPS 2023</strong> 
+          <strong>NeurIPS 2023</strong> <br>
           <font color="green">collaboration with SnapChat</font> <br>
           [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
           [<a href="https://github.com/HaitaoMao/Demystify-structural-disparity">code</a>] 
@@ -41,34 +67,14 @@ My research revolves on conducting, understanding, utilizing **structure** to so
       </p>
     </li>
     <li>
-        <p>
-            <strong>Revisiting Link Prediction: A data perspective</strong><br>
-            <strong>Haitao Mao</strong>, <u>Juanhui Li</u>, Harry Shomer, Bingheng Li, Wenqi Fan, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
-            <strong>ICLR 2024</strong>
-            <font color="green">collaboration with SnapChat</font> <br>
-            [<a href="https://arxiv.org/pdf/2310.00793.pdf">pdf</a>]
-            [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/LinkPrediction.pdf">slides</a>] 
-            [<a href="https://www.bilibili.com/video/BV1jj411s7h5/?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054">video</a>]
-        </p>
-    </li>
-    <li>
       <p>
-        <strong> Neuron Campaign for Initialization Guided by Information Bottleneck Theory </strong><br>
-        <font color="red"><strong>CIKM2021 Best Short Paper</strong></font><br>
-        <font color="green">Work during internship in Microsoft Research Asia</font> <br>
-        <strong>Haitao Mao</strong>, Xu Chen, Qiang Fu, Lun Du, Shi Han, Dongmei Zhang <br>
-        [<a href="https://arxiv.org/pdf/2108.06530.pdf">pdf</a>]
-        [<a href="https://github.com/HaitaoMao/Neuron-Campaign-for-Initialization-Guided-by-Information-Bottleneck-Theory">github</a>]
-        [<a href="https://haitaomao.github.io/categories/neuronCampaign/">blog</a>]
-        [<a href="https://zhuanlan.zhihu.com/p/398198523">Chinese blog</a>]
-        [<a href="https://github.com/haitaomao/haitaomao.github.io/blob/master/_files/CIKM2021/Init_poster.pdf">Offical Poster</a>]
-        [<a href="https://github.com/haitaomao/haitaomao.github.io/blob/master/_files/CIKM2021/CIKM21_Neuron_Campaign_for_Initialization_Guided_by_Information_Bottleneck_Theory.pdf">Offical Slides</a>]
-        [<a href="https://github.com/haitaomao/haitaomao.github.io/blob/master/_files/CIKM2021/Init_video.mp4">Offical Video</a>]
-        [<a href="https://mp.weixin.qq.com/s/PEt7m_iadPGm9puO0S0nHw">AI TIME Introduction </a>]
-        [<a href="https://github.com/haitaomao/haitaomao.github.io/blob/master/_files/CIKM2021/AITime%20CIKM21%20-%20Neuron%20Campaign.pdf">AI TIME presentation Slides</a>]
-        [<a href="https://www.bilibili.com/video/BV1fL411V7FP?spm_id_from=333.1007.top_right_bar_window_history.content.click">AI TIME Presentation Video</a>]
-        [<a href="https://mp.weixin.qq.com/s/V0pwLwTR-rVpe8h5NL_u3g">AI TIME Report</a>] 
-      </p>
+          <strong>Source Free Graph Unsupervised Domain Adaptation </strong><br>
+          <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Shi Han, Dongmei Zhang <br>
+          <font color="green">Work during internship in Microsoft Research Asia</font> <br>
+          <strong><font color="red">WSDM 2024 Best Paper Honor Mention</font></strong> <br>[<a href="https://arxiv.org/pdf/2112.00955.pdf">pdf</a>]
+          [<a href="https://haitaomao.github.io/categories/sourcefree/">blog</a>]
+          [<a href="https://github.com/HaitaoMao/SOGA">code</a>]
+      </p>  
     </li>
 </ul>
 
