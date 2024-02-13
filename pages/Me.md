@@ -18,6 +18,8 @@ The order indicates my personal preference.
           <strong>Haitao Mao</strong>*, <u>Zhikai Chen</u>*, <u>Wenzhuo Tang</u>, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang <br>
           <font color="green">collaboration with SnapChat and Intel</font> <br>
           preprint [<a href="https://arxiv.org/pdf/2402.02216.pdf">pdf</a>]
+          [<a href="https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-">Reading List 1</a>]
+          [<a href="https://github.com/CurryTang/Towards-graph-foundation-models">Reading List 2</a>]
       </p>
     </li>
     <li>
@@ -48,10 +50,21 @@ The order indicates my personal preference.
         [<a href="https://zhuanlan.zhihu.com/p/398198523">Chinese blog</a>]
         [<a href="https://github.com/haitaomao/haitaomao.github.io/blob/master/_files/CIKM2021/Init_poster.pdf">Poster</a>]
         [<a href="https://github.com/haitaomao/haitaomao.github.io/blob/master/_files/CIKM2021/AITime%20CIKM21%20-%20Neuron%20Campaign.pdf">Slides</a>]
-        [<a href="https://www.bilibili.com/video/BV1fL411V7FP?spm_id_from=333.1007.top_right_bar_window_history.content.click">Video</a>]
+        [<a href="https://www.bilibili.com/video/BV1fL411V7FP?spm_id_from=333.1007.top_right_bar_window_history.content.click">Video</a>] <br>
         <font color="green">Work during internship in Microsoft Research Asia</font> <br>
         <font color="red"><strong>CIKM2021 Best Short Paper</strong></font><br>
       </p>
+    </li>
+    <li>
+        <p>
+          <strong> Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs </strong><br>
+          <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang <br>
+          <strong>SIGKDD Explorations 2023</strong> <br>
+          <font color="green">collaboration with Baidu</font> <br>
+          [<a href="https://arxiv.org/pdf/2307.03393.pdf">pdf</a>]
+          [<a href="https://github.com/CurryTang/Graph-LLM">code</a>]
+          [<a href="https://www.cse.msu.edu/~tangjili/talks/LLMs-LOG.pdf">slides</a>]
+        </p>
     </li>
     <li>
       <p>
