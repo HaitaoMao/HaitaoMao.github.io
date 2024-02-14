@@ -199,7 +199,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
     </li>
     <li>
       <p>
-          <strong>Adaptive Pairwise Encodings for Link Prediction</strong><br>
+          <strong>LPFormer: An Adaptive Graph Transformer for Link Prediction</strong><br>
           Harry Shomer, Yao Ma, <strong>Haitao Mao</strong>,  Juanhui Li, Bo Wu, Jiliang Tang  <br>
           preprint 
           [<a href="https://arxiv.org/pdf/2310.11009.pdf">pdf</a>]

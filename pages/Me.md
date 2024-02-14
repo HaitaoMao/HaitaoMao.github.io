@@ -44,15 +44,15 @@ The order indicates my personal preference.
       <p>
         <strong> Neuron Campaign for Initialization Guided by Information Bottleneck Theory </strong><br>
         <strong>Haitao Mao</strong>, Xu Chen, Qiang Fu, Lun Du, Shi Han, Dongmei Zhang <br>
+        <font color="red"><strong>CIKM2021 Best Short Paper</strong></font><br>
+        <font color="green">Work during internship in Microsoft Research Asia</font> <br>
         [<a href="https://arxiv.org/pdf/2108.06530.pdf">pdf</a>]
         [<a href="https://github.com/HaitaoMao/Neuron-Campaign-for-Initialization-Guided-by-Information-Bottleneck-Theory">code</a>]
         [<a href="https://haitaomao.github.io/categories/neuronCampaign/">blog</a>]
         [<a href="https://zhuanlan.zhihu.com/p/398198523">Chinese blog</a>]
         [<a href="https://github.com/haitaomao/haitaomao.github.io/blob/master/_files/CIKM2021/Init_poster.pdf">Poster</a>]
         [<a href="https://github.com/haitaomao/haitaomao.github.io/blob/master/_files/CIKM2021/AITime%20CIKM21%20-%20Neuron%20Campaign.pdf">Slides</a>]
-        [<a href="https://www.bilibili.com/video/BV1fL411V7FP?spm_id_from=333.1007.top_right_bar_window_history.content.click">Video</a>] <br>
-        <font color="green">Work during internship in Microsoft Research Asia</font> <br>
-        <font color="red"><strong>CIKM2021 Best Short Paper</strong></font><br>
+        [<a href="https://www.bilibili.com/video/BV1fL411V7FP?spm_id_from=333.1007.top_right_bar_window_history.content.click">Video</a>] 
       </p>
     </li>
     <li>
