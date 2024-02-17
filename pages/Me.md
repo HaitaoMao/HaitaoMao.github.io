@@ -4,9 +4,9 @@ title: ME
 layout: single
 ---
 
-I am a second-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). And I received my bachelor degree from the Elite Program, Software Academy at [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2022. I am the (primary) organizer of WSDM CUP 2023, KDD CUP 2023, KDD workshop 2023, WWW workshop 2024, and LOG local meetup 2023 MidNorth US. 
+I am a second-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). I am the (primary) organizer of WSDM CUP 2023, KDD CUP 2023, KDD workshop 2023, WWW workshop 2024, and LOG local meetup 2023 MidNorth US. 
 
-My research revolves on conducting, understanding, utilizing **structure** to solve the practical challenge.  My research typically has the following steps: (1) building suitable assumption (2) developing toy examples (3) deriving theoritical understanding  (4) aligning understanding with real-world experimental insights.  With those steps, I can (1) Find the underlying meaningful **structure** from raw data (2) Analyze the quality of the **structural** data (3) Develop powerful graph **structural** models (focus on the graph foundation model) (4) Find new real-world challenges and define the corresponding research scenario. Feel free to discuss with me and find potential collaboration chance via haitaoma@msu.edu. 
+My research revolves on conducting, understanding, utilizing **structure** to solve the practical challenges.  My research typically has the following steps: (1) building suitable assumption (2) developing toy examples (3) deriving theoritical understanding  (4) aligning understanding with real-world experimental insights.  With those steps, I can (1) Find the underlying meaningful **structure** from raw data (2) Analyze the quality of the **structural** data (3) Develop powerful graph **structural** models (focus on the **graph foundation model**) (4) Find new real-world challenges and define the corresponding research scenario. 
 
 
 ### Selected publications
@@ -18,8 +18,8 @@ The order indicates my personal preference.
           <strong>Haitao Mao</strong>*, <u>Zhikai Chen</u>*, <u>Wenzhuo Tang</u>, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang <br>
           <font color="green">collaboration with SnapChat and Intel</font> <br>
           preprint [<a href="https://arxiv.org/pdf/2402.02216.pdf">pdf</a>]
-          [<a href="https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-">Reading List 1</a>]
-          [<a href="https://github.com/CurryTang/Towards-graph-foundation-models">Reading List 2</a>]
+          [<a href="https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-">reading List 1</a>]
+          [<a href="https://github.com/CurryTang/Towards-graph-foundation-models">reading List 2</a>]
       </p>
     </li>
     <li>
@@ -84,7 +84,8 @@ The order indicates my personal preference.
           <strong>Source Free Graph Unsupervised Domain Adaptation </strong><br>
           <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Shi Han, Dongmei Zhang <br>
           <font color="green">Work during internship in Microsoft Research Asia</font> <br>
-          <strong><font color="red">WSDM 2024 Best Paper Honor Mention</font></strong> <br>[<a href="https://arxiv.org/pdf/2112.00955.pdf">pdf</a>]
+          <strong><font color="red">WSDM 2024 Best Paper Honor Mention</font></strong> <br>
+          [<a href="https://arxiv.org/pdf/2112.00955.pdf">pdf</a>]
           [<a href="https://haitaomao.github.io/categories/sourcefree/">blog</a>]
           [<a href="https://github.com/HaitaoMao/SOGA">code</a>]
       </p>  

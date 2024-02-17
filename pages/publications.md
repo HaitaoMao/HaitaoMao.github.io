@@ -153,8 +153,8 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
           <strong>Haitao Mao</strong>*, <u>Zhikai Chen</u>*, <u>Wenzhuo Tang</u>, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang <br>
           <font color="green">collaboration with SnapChat and Intel</font> <br>
           preprint [<a href="https://arxiv.org/pdf/2402.02216.pdf">pdf</a>]
-          [<a href="https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-">Reading List 1</a>]
-          [<a href="https://github.com/CurryTang/Towards-graph-foundation-models">Reading List 2</a>]
+          [<a href="https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-">reading List 1</a>]
+          [<a href="https://github.com/CurryTang/Towards-graph-foundation-models">reading List 2</a>]
       </p>
     </li>
   <li>
@@ -192,9 +192,9 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
     </li>
     <li>
         <p>
-            <strong>Universal link predictor by in-context learning</strong><br>
+            <strong>Universal Link Predictor by In-Context Learning on Graphs</strong><br>
             <u>Kaiwen Dong</u>, <strong>Haitao Mao</strong>, Zhichun Guo, Nitesh Chewla<br>
-            preprint [<a href="">pdf</a>]
+            preprint [<a href="https://arxiv.org/pdf/2402.07738.pdf">pdf</a>]
         </p>
     </li>
     <li>
@@ -266,7 +266,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
     <li>
       <p>
           <strong>Addressing Shortcomings in Fair Graph Learning Datasets: Towards a New Benchmark</strong><br>
-          <u>Xiaowei Qian</u>, Zhimeng Guo, Jialiang Li, <strong>Haitao Mao</strong>, <u>Bingheng Li</u>, Suhang Wang, Yao Ma  <br>
+          <u>Xiaowei Qian</u>, Zhimeng Guo, Jialiang Li, <strong>Haitao Mao</strong>, Bingheng Li, Suhang Wang, Yao Ma  <br>
           preprint [<a href="">pdf</a>]
       </p>
     </li>
