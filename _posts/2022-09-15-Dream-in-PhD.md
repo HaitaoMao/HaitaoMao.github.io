@@ -21,9 +21,6 @@ About leadership
 About graph community
 
 - Write the book: Deep Learning on Graph
-- Finish my course: Encouraging Graph Neural Network
-
-
 
 About my research:
 
