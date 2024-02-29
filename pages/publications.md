@@ -66,7 +66,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
           <strong>Whole Page Unbiased Learning to Rank </strong><br>
           <strong>Haitao Mao</strong>, Lixin Zou, Yujia Zheng, Jiliang Tang, Xiaokai Chu, Jiashu Zhao, Dawei Yin <br> 
           <font color="green">Work during internship in Baidu</font> <br>
-          <strong> WebConference 2024</strong> <font color="red">Oral</front><br> 
+          <strong> WebConference 2024</strong> <font color="red">Oral</font><br> 
           [<a href="https://arxiv.org/pdf/2210.10718.pdf">pdf</a>]
       </p>
     </li>
