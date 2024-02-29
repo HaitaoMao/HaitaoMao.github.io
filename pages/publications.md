@@ -33,7 +33,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
       <p>
         <strong>Neuron with Steady Response Leads to Better Generalization</strong><br>
         <strong>Haitao Mao*</strong>, Lun Du*, Qiang Fu*, Xu Chen, Wei Fang, Shi Han, Dongmei Zhang <br>
-        <strong> NeurIPS2022</strong><br> 
+        <strong>NeurIPS2022</strong><br> 
         <font color="green">Work during internship in Microsoft Research Asia</font> <br>
         [<a href="https://arxiv.org/pdf/2111.15414.pdf">pdf</a>]
         [<a href="https://github.com/HaitaoMao/Neuron-with-Steady-Response-Leads-to-Better-Generalization">code</a>] 
