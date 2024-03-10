@@ -17,6 +17,7 @@ The order indicates my personal preference.
           <strong>Haitao Mao</strong>*, <u>Zhikai Chen</u>*, <u>Wenzhuo Tang</u>, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang <br>
           <font color="green">collaboration with SnapChat and Intel</font> <br>
           preprint [<a href="https://arxiv.org/pdf/2402.02216.pdf">pdf</a>]
+          [<a href="https://medium.com/@jeongiitae/graph-foundation-models-8cca5d31ddb9">blog</a>]  
           [<a href="https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-">reading List 1</a>]
           [<a href="https://github.com/CurryTang/Towards-graph-foundation-models">reading List 2</a>]
       </p>
@@ -91,6 +92,19 @@ The order indicates my personal preference.
     </li>
 </ul>
 
+### Awards:
+- WSDM2024 Best Paper Honor Mentioned award (first author) (3/615)
+- CIKM2021 Best short paper award (first author) (1/626)
+- NSF Student Travel Grant - WSDM 2024
+- NeurIPS 2023 Scholar Award
+- Excellent Student of High Education in Sichuan Province (30/763)
+- Outstanding Graduate in University of Electronic Science and Technology of China (74/763)
+- Star of tomorrow intern award in Microsoft Research Asia (top 10%)
+- National first prize in Chinese Software (20/45,000) [[Github](https://github.com/xiaobao520123/EnterpriseNavigator)]
+- Best project and best performance award in **Nanjing University, NLP lab**. (3/57)
+- **A+** performance (4/40) on the summer camp of the **Nation University of Singapore, School of computing**. 
+
+
 
 ### Professional Experience
 
@@ -117,18 +131,6 @@ The order indicates my personal preference.
   - [因为热爱所以拼搏，全奖直博的他，成电四年很精彩！](https://mp.weixin.qq.com/s/CMcPWZ1YTafE8CUQcA619Q) 
   - [软件学院本科生在数据挖掘领域顶级会议CIKM上发表论文并获最佳短文奖](https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=81841)
 
-
-### Awards:
-- WSDM2024 Best Paper Honor Mentioned award (first author) (3/615)
-- CIKM2021 Best short paper award (first author) (1/626)
-- NSF Student Travel Grant - WSDM 2024
-- NeurIPS 2023 Scholar Award
-- Excellent Student of High Education in Sichuan Province (30/763)
-- Outstanding Graduate in University of Electronic Science and Technology of China (74/763)
-- Star of tomorrow intern award in Microsoft Research Asia (top 10%)
-- National first prize in Chinese Software (20/45,000) [[Github](https://github.com/xiaobao520123/EnterpriseNavigator)]
-- Best project and best performance award in **Nanjing University, NLP lab**. (3/57)
-- **A+** performance (4/40) on the summer camp of the **Nation University of Singapore, School of computing**. 
 
 
 

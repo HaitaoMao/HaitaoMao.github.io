@@ -138,6 +138,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
           <u>Jingzhe Liu</u>, <strong>Haitao Mao</strong>, <u>Zhikai Chen</u>, Tong Zhao, Neil Shah, Jiliang Tang <br>
           <font color="green">collaboration with SnapChat</font> <br>
           preprint [<a href="https://arxiv.org/pdf/2402.02054.pdf">pdf</a>]
+          [<a href="https://medium.com/@jeongiitae/neural-scaling-laws-on-graphs-do-you-believe-is-there-strong-related-between-model-data-size-ebd139778928">blog</a>]  
       </p>
     </li>
 </ul>
@@ -153,6 +154,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
           <strong>Haitao Mao</strong>*, <u>Zhikai Chen</u>*, <u>Wenzhuo Tang</u>, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang <br>
           <font color="green">collaboration with SnapChat and Intel</font> <br>
           preprint [<a href="https://arxiv.org/pdf/2402.02216.pdf">pdf</a>]
+          [<a href="https://medium.com/@jeongiitae/graph-foundation-models-8cca5d31ddb9">blog</a>]  
           [<a href="https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-">reading List 1</a>]
           [<a href="https://github.com/CurryTang/Towards-graph-foundation-models">reading List 2</a>]
       </p>
