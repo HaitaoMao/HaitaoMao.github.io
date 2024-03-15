@@ -4,7 +4,7 @@ title: ME
 layout: single
 ---
 
-I am a second-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). I am also working close with Dr. [Rongrong Wang](https://users.math.msu.edu/users/wangron6/). In those years, I opens up the new direction, Graph Foundation Model in our group. See details in [DSE GFM subgroup](https://dse-gfm.github.io/). I am super happy and proud to work with those talented guys. 
+I am a second-year Ph.D. student at Michigan State University. In those years, I opens up the new direction, Graph Foundation Model in our group. See details [here](https://dse-gfm.github.io/). I am super happy and proud to work with those talented guys. 
 
 My research revolves on conducting, understanding, utilizing **structure** to solve the practical challenges.  My research typically has the following steps: (1) building suitable assumption (2) developing toy examples (3) deriving theoritical understanding (4) aligning understanding with real-world experimental insights. With those steps, I can (1) Find the underlying meaningful **structure** from raw data (e.g., scene graph in the CV domain) (2) Analyze the quality of the **structural** data (Network Analysis) (3) Develop powerful graph **structural** models (focus on the **Graph Foundation Model**) (4) Find new real-world challenges and define the corresponding research scenarios. More recently, I am exploring more on CV and NLP domain for the graph strcuture usage and the potential for mechanism interpretability. 
 
@@ -120,8 +120,6 @@ The order indicates my personal preference.
 ### Education
 
 **Michigan State University (August 2022 - present)**
-
-- Ph.D. student in DSE lab at Michigan State University, supervised by [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). 
 
 **University of Electronic Science and Technology of China  (September 2018 - June 2022)**
 

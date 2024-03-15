@@ -6,8 +6,6 @@ main:
     url: /me/
   - title: PUBLICATIONS
     url: /publications/
-  - title: FRIENDS
-    url: /friends/
   - title: RESEARCH
     url: /research/
   - title: TEACHING
