@@ -6,7 +6,35 @@ layout: single
 
 I am a second-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). I am also working close with Dr. [Rongrong Wang](https://users.math.msu.edu/users/wangron6/). In those years, I opens up the new direction, Graph Foundation Model in our group. See details in [DSE GFM subgroup](https://dse-gfm.github.io/). I am super happy and proud to work with those talented guys. 
 
-My research revolves on conducting, understanding, utilizing **structure** to solve the practical challenges.  My research typically has the following steps: (1) building suitable assumption (2) developing toy examples (3) deriving theoritical understanding (4) aligning understanding with real-world experimental insights. With those steps, I can (1) Find the underlying meaningful **structure** from raw data (e.g., scene graph in the CV domain) (2) Analyze the quality of the **structural** data (Network Analysis) (3) Develop powerful graph **structural** models (focus on the **Graph Foundation Model**) (4) Find new real-world challenges and define the corresponding research scenarios. More recently, I am exploring more on CV and NLP domain for the graph strcuture usage and the potential for mechanism interpretability. 
+
+My research revolves on understanding some interesting phenomenons, finding pitfalls in existing literature, and defining some interesting new challenges. I am skilled in (1) conducting curious analytical experiments to observe interesting behaviors and (2) defining an interesting research perspective (but may not be practical). However, I am not good at (1) implementing systematic solutions with heavy engineering, e.g., data cleaning and large-scale distributed training (2) tuning the model for better performance, e.g., attending Kaggle competition (3) I remain thinking like a CS person. I am not familiar with statistical physics, dynamic systems, and PDE, and scientific thinking mindset for basic sciences. 
+
+During my research road, I answer the following research questions:
+
+**Graph & Data Mining**
+<details>
+<summary style="font-size: 15px;">Details</summary>
+  <ul type='disc'> 
+   <li> The graph data can be diverse, how can one GNN perform well across graphs from different domains? It seemly obeying the Occam's razor I believe in. </li>
+   <li> Despite the graph data being seemingly diverse, are there any shared principles across certain graphs? What are the underlying latent factors underlying the graph we observed? In the current stage, I typically believe in three perspectives: (1) geometric perspective which can help when the graph is strictly constructed following principles (2) network analysis perspective: find the frequent motifs among graphs. (3) LLM perspective: I am not sure what the superpower of this black box. </li>
+   <li> How can we build graph foundation models and what is the killer application for it?</li>
+   <li> How can we apply graph techniques on an industry-level large graph with a trade-off between effectiveness and efficiency?</li>
+   <li> Is there any additional gain from graph structure after utilizing the LLM to encode textural node features? </li>
+   <li> How to define a more practical ranking and recommendation scenario in academics and build suitable system accordingly?</li> 
+  </ul>
+</details>
+
+<br>
+
+**Neural Network mechanism analysis**   
+<details> 
+<summary style="font-size: 15px;">Details</summary>
+  <ul type='disc'> 
+    <li> The Neuron Network is a complicated black-box system, how can we understand it? Is there any interesting generalization behavior for each individual neuron? How can we improve each individual neuron toward better generalization? I typically believe in the “competing subnetworks” concept: the model initially represents a variety of distinct algorithms, corresponding to different subnetworks, and generalization occurs when it ultimately converges into one. However, I think this may not work for large-scale LLM</li>
+    <li> LLMs show many emerging capabilities after specific fine-tuning, e.g., instruction following, however, the fine-tuning only requires minor modification on the original weights. How can the new capability come out with only minor modifications?</li>
+    <li> The most amazing LLM capability is the in-context learning capability which can learn from contextual information requiring no gradient update. How does the LLM learn new knowledge or activate the particular subnetwork with contextual information? I am specifically interested in self-correction and moral reasoning capability.</li>
+  </ul>
+</details>
 
 ### Selected publications
 The order indicates my personal preference. 
