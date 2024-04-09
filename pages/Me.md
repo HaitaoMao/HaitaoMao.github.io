@@ -7,8 +7,7 @@ layout: single
 I am a second-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). I am also working close with Dr. [Rongrong Wang](https://users.math.msu.edu/users/wangron6/). In those years, I opens up the new direction, Graph Foundation Model in our group. See details in [DSE GFM subgroup](https://dse-gfm.github.io/). I am super happy and proud to work with those talented guys. 
 
 
-My research revolves on understanding some interesting phenomenons, finding pitfalls in existing literature, and defining some interesting new challenges. I am skilled in (1) conducting curious analytical experiments to observe interesting behaviors and (2) defining an interesting research perspective (but may not be practical). However, I am not good at (1) implementing systematic solutions with heavy engineering, e.g., data cleaning and large-scale distributed training (2) tuning the model for better performance, e.g., attending Kaggle competition (3) I remain thinking like a CS person. I am not familiar with statistical physics, dynamic systems, and PDE, and scientific thinking mindset for basic sciences. 
-
+My research revolves on understanding some interesting phenomenons, finding pitfalls in existing literature, and defining some interesting new challenges. I am skilled in (1) conducting curious analytical experiments to observe interesting behaviors and (2) defining an interesting research perspective (but may not be practical). 
 During my research road, I answer the following research questions:
 
 **Graph & Data Mining**
