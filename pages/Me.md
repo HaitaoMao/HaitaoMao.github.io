@@ -8,10 +8,9 @@ layout: single
 
 I am a second-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). I am also working close with Dr. [Rongrong Wang](https://users.math.msu.edu/users/wangron6/). In those years, I opens up the new direction, Graph Foundation Model in our group. See details in [DSE GFM subgroup](https://dse-gfm.github.io/). I am super happy and proud to work with those talented guys. 
 
-My research revolves on understanding some interesting phenomenons, finding pitfalls in existing literature, and defining some interesting new challenges. I am skilled in (1) conducting curious analytical experiments to observe interesting behaviors and (2) defining an interesting research perspective (but may not be practical). 
-During my research road, I answer the following research questions:
+My research revolves on understanding **network** and **LLM** mechanisms from **a data generation perspective**. I enjoy doing research on understanding some interesting phenomenons, finding pitfalls in existing literature, and defining some interesting new challenges. I am skilled in (1) conducting curious analytical experiments to observe interesting behaviors and (2) defining an interesting research perspective (but may not be practical). During my research road, I answer the following research questions:
 
-**Graph & Data Mining**
+**Network mechanism & new data mining challenges**
 <details>
 <summary style="font-size: 15px;">Details</summary>
   <ul type='disc'> 
@@ -26,7 +25,7 @@ During my research road, I answer the following research questions:
 
 <br>
 
-**Neural Network mechanism analysis**   
+**LLM mechanism analysis**   
 <details> 
 <summary style="font-size: 15px;">Details</summary>
   <ul type='disc'> 
@@ -111,8 +110,8 @@ The order indicates my personal preference.
       <p>
           <strong>Source Free Graph Unsupervised Domain Adaptation </strong><br>
           <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Shi Han, Dongmei Zhang <br>
-          <font color="green">Work during internship in Microsoft Research Asia</font> <br>
           <strong><font color="red">WSDM 2024 Best Paper Honor Mention</font></strong> <br>
+          <font color="green">Work during internship in Microsoft Research Asia</font> <br>
           [<a href="https://arxiv.org/pdf/2112.00955.pdf">pdf</a>]
           [<a href="https://haitaomao.github.io/categories/sourcefree/">blog</a>]
           [<a href="https://github.com/HaitaoMao/SOGA">code</a>]
@@ -142,7 +141,6 @@ The order indicates my personal preference.
   -  [Data Knowledge Intelligent Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), supervised by Principal Researcher [Qiang Fu](https://scholar.google.com/citations?hl=en&user=bwTLZSIAAAAJ), Researcher [Lun Du](https://scholar.google.com/citations?user=3XUANDAAAAAJ&hl=en&oi=ao), and Senior Principal Researcher Manager [Shi Han](https://www.microsoft.com/en-us/research/people/shihan/). 
   - One [news](https://mp.weixin.qq.com/s/9wREeVH-o1TZ6Y-zcxXxXQ) about my research.
   - Co-founded MS-Intern Guitar Club.
-
 
 
 ### Education
