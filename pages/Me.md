@@ -42,8 +42,9 @@ The order indicates my personal preference.
       <p>
           <strong>Graph Foundation Models</strong><br>
           <strong>Haitao Mao</strong>*, <u>Zhikai Chen</u>*, <u>Wenzhuo Tang</u>, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang <br>
+          <strong>ICML 2024</strong><br> 
           <font color="green">collaboration with SnapChat and Intel</font> <br>
-          preprint [<a href="https://arxiv.org/pdf/2402.02216.pdf">pdf</a>]
+          [<a href="https://arxiv.org/pdf/2402.02216.pdf">pdf</a>]
           [<a href="https://medium.com/@jeongiitae/graph-foundation-models-8cca5d31ddb9">blog</a>]  
           [<a href="https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-">reading List 1</a>]
           [<a href="https://github.com/CurryTang/Towards-graph-foundation-models">reading List 2</a>]
