@@ -34,5 +34,17 @@ layout: single
         Official subtitle translation of Fast.ai: Practical Deep Learning for Coders
     </p>
   </li>
+  <li>
+    <p>
+        <strong>Invited Lecturer for CSCI 4961/6961  <a href="https://yaoma24.github.io/csci4961_6961/index.html">Deep Learning</a> (Undergraduate level 2024) </strong><br>
+        <ul>
+        <li>
+          <p>
+              <strong> Lectures on "Introduction to ChatGPT" </strong><br>
+          </p>
+        </li>
+        </ul>    
+    </p>
+  </li>
 </ul>
 
