@@ -190,7 +190,8 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
       <p>
           <strong>Addressing Shortcomings in Fair Graph Learning Datasets: Towards a New Benchmark</strong><br>
           <u>Xiaowei Qian</u>, Zhimeng Guo, Jialiang Li, <strong>Haitao Mao</strong>, Bingheng Li, Suhang Wang, Yao Ma  <br>
-          preprint [<a href="https://arxiv.org/pdf/2403.06017.pdf">pdf</a>][<a href="https://github.com/XweiQ/Benchmark-GraphFairness">code</a>]
+          <strong>KDD 2024</strong> <br>
+          [<a href="https://arxiv.org/pdf/2403.06017.pdf">pdf</a>][<a href="https://github.com/XweiQ/Benchmark-GraphFairness">code</a>]
       </p>
     </li>
 </ul>
@@ -275,7 +276,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
       <p>
           <strong>LPFormer: An Adaptive Graph Transformer for Link Prediction</strong><br>
           Harry Shomer, Yao Ma, <strong>Haitao Mao</strong>,  Juanhui Li, Bo Wu, Jiliang Tang  <br>
-          preprint 
+          <strong>KDD 2024</strong> <br>  
           [<a href="https://arxiv.org/pdf/2310.11009.pdf">pdf</a>]
           [<a href="https://github.com/HarryShomer/LPFormer">code</a>]
       </p>
