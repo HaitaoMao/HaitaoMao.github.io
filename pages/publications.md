@@ -4,10 +4,17 @@ title: Publications
 layout: single
 ---
 
-Underline indicates student mentored. *represents equal contribution. Co-first authors in name alphabetical order.
+Underline indicates student mentored. *represents equal contribution.
 
 ### LLM mechanism (and toy NN) 
 <ul>
+  <li>
+      <p>
+        <strong>On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept </strong> <br>
+        <strong>Haitao Mao*</strong>, Guangliang Liu*, Bochuan Cao, Zhiyu Xue, Kristen Johnson, Jiliang Tang, Rongrong Wang<br>
+        preprint [<a href="https://arxiv.org/pdf/2402.02212">pdf</a>]
+      </p>
+  </li>
   <li>
       <p>
         <strong>A Data Generation Perspective to the Mechanism of In-Context Learning </strong> <br>
@@ -53,8 +60,20 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
 </ul>
 
 
-### Graph mechanism towards Graph Foundation Models
+### Graph Mechanism towards Graph Foundation Models
 <ul>
+  <li>
+      <p>
+          <strong>Position: Graph Foundation Models Are Already Here</strong><br>
+          <strong>Haitao Mao</strong>*, <u>Zhikai Chen</u>*, <u>Wenzhuo Tang</u>, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang <br>
+          <strong>ICML 2024</strong><br> 
+          <font color="green">collaboration with SnapChat and Intel</font> <br>
+          [<a href="https://arxiv.org/pdf/2402.02216.pdf">pdf</a>]
+          [<a href="https://medium.com/@jeongiitae/graph-foundation-models-8cca5d31ddb9">blog</a>]  
+          [<a href="https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-">reading List 1</a>]
+          [<a href="https://github.com/CurryTang/Towards-graph-foundation-models">reading List 2</a>]
+      </p>
+    </li>
     <li>
       <p>
           <strong>Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?</strong><br>
@@ -80,16 +99,34 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
         </p>
     </li>
     <li>
-      <p>
-          <strong>Graph Foundation Models</strong><br>
-          <strong>Haitao Mao</strong>*, <u>Zhikai Chen</u>*, <u>Wenzhuo Tang</u>, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang <br>
-          <strong>ICML 2024</strong><br> 
-          <font color="green">collaboration with SnapChat and Intel</font> <br>
-          [<a href="https://arxiv.org/pdf/2402.02216.pdf">pdf</a>]
-          [<a href="https://medium.com/@jeongiitae/graph-foundation-models-8cca5d31ddb9">blog</a>]  
-          [<a href="https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-">reading List 1</a>]
-          [<a href="https://github.com/CurryTang/Towards-graph-foundation-models">reading List 2</a>]
-      </p>
+        <p>
+            <strong>Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models</strong><br>
+            <u>Wenzhuo Tang</u>, <strong>Haitao Mao</strong>, Danial Dervovic, Ivan Brugere, Saumitra Mishra, Yuying Xie, Jiliang Tang<br>
+            <font color="green">collaboration with JP Morgan</font> <br>
+            preprint [<a href="">pdf</a>]
+        </p>
+    </li>
+    <li>
+        <p>
+            <strong>Text-space graph foundation models: a comprehensive benchmark and new insights</strong><br>
+            <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Jingzhe Liu, Yu Song, Bingheng Li, Wei Jin, Bahare Fatemi, Anton Tsitsulin, Bryan Perozzi, Hui Liu, Jiliang Tang <br>
+            <font color="green">collaboration with Google</font> <br>
+            preprint [<a href="">pdf</a>]
+        </p>
+    </li>
+    <li>
+        <p>
+            <strong>Do Neural Scaling Laws exist on Graph Self-Supervised Learning</strong><br>
+            <u>Qian Ma</u>, <strong>Haitao Mao</strong>, Zhehua Zhang, Chunlin Feng, Jingzhe Liu, Yu Song, Yao Ma<br>
+            preprint [<a href="">pdf</a>]
+        </p>
+    </li>
+    <li>
+        <p>
+            <strong>Universal Link Predictor by In-Context Learning on Graphs</strong><br>
+            <u>Kaiwen Dong</u>, <strong>Haitao Mao</strong>, Zhichun Guo, Nitesh Chewla<br>
+            preprint [<a href="https://arxiv.org/pdf/2402.07738.pdf">pdf</a>]
+        </p>
     </li>
     <li>
       <p>
@@ -102,9 +139,9 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
     </li>
     <li>
         <p>
-            <strong>Universal Link Predictor by In-Context Learning on Graphs</strong><br>
-            <u>Kaiwen Dong</u>, <strong>Haitao Mao</strong>, Zhichun Guo, Nitesh Chewla<br>
-            preprint [<a href="https://arxiv.org/pdf/2402.07738.pdf">pdf</a>]
+            <strong>A Pure Transformer Pretraining Framework on Text-attributed Graphs</strong><br>
+            <u>Yu Song</u>, <strong>Haitao Mao</strong>, Jiachen Xiao, Jingzhe Liu, Zhikai Chen, Wei Jin, Carl Yang, Jiliang Tang, Hui Liu<br>
+            preprint [<a href="">pdf</a>]
         </p>
     </li>
 </ul>
@@ -144,7 +181,7 @@ Underline indicates student mentored. *represents equal contribution. Co-first a
     <li>
       <p>
           <strong>PDHG-Unrolled Learning-to-Optimize Method for Large-Scale Linear Programming</strong><br>
-          <u>Bingheng Li</u>, Linxin Yang, Yupeng Chen, Senmiao Wang, Qian Chen, <strong>Haitao Mao</strong>, Yao Ma, Akang Wang, Tian Ding, Jiliang Tang, Ruoyu Sun <br>
+          Bingheng Li, Linxin Yang, Yupeng Chen, Senmiao Wang, Qian Chen, <strong>Haitao Mao</strong>, Yao Ma, Akang Wang, Tian Ding, Jiliang Tang, Ruoyu Sun <br>
           <strong>ICML 2024</strong><br> 
           [<a href="">pdf</a>]
       </p>

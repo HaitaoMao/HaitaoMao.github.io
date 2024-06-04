@@ -6,7 +6,9 @@ layout: single
 
 来小毛给他整个活！草，走，忽略！ጿ ኈ ቼ ዽ ጿ
 
-I am a second-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). I am also working close with Dr. [Rongrong Wang](https://users.math.msu.edu/users/wangron6/). In those years, I opens up the new direction, Graph Foundation Model in our group. See details in [DSE GFM subgroup](https://dse-gfm.github.io/). I am super happy and proud to work with those talented guys. 
+I am a second-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). I am also working with [Neil Shah](http://nshah.net/), [Yao Ma](https://yaoma24.github.io/), [Michael Galkin](https://migalkin.github.io/), and [Rongrong Wang](https://users.math.msu.edu/users/wangron6/). Each of them provide unique perspective on how to do scientific thinking during my research road. In those years, I opens up the new direction, Graph Foundation Model in our group. See details in [DSE GFM subgroup](https://dse-gfm.github.io/). I am super happy to work with those talented guys. 
+
+I am the organizer of [Learning on Graph Conference 2024](https://logconference.org/). It is an encouraging new conference for graph and geometry. The call for paper can be found [here](https://logconference.org/cfp/). Do not hesitate to submit your work before September 11th, 2024! 
 
 My research revolves on understanding **network** and **LLM** mechanisms from **a data generation perspective**. I enjoy doing research on understanding some interesting phenomenons, finding pitfalls in existing literature, and defining some interesting new challenges. I am skilled in (1) conducting curious analytical experiments to observe interesting behaviors and (2) defining an interesting research perspective (but may not be practical). During my research road, I answer the following research questions:
 
@@ -14,9 +16,9 @@ My research revolves on understanding **network** and **LLM** mechanisms from **
 <details>
 <summary style="font-size: 15px;">Details</summary>
   <ul type='disc'> 
+   <li> How can we build graph foundation models and what is the killer application for it?</li>
    <li> The graph data can be diverse, how can one GNN perform well across graphs from different domains? It seemly obeying the Occam's razor I believe in. </li>
    <li> Despite the graph data being seemingly diverse, are there any shared principles across certain graphs? What are the underlying latent factors underlying the graph we observed? In the current stage, I typically believe in three perspectives: (1) geometric perspective which can help when the graph is strictly constructed following principles (2) network analysis perspective: find the frequent motifs among graphs. (3) LLM perspective: I am not sure what the superpower of this black box. </li>
-   <li> How can we build graph foundation models and what is the killer application for it?</li>
    <li> How can we apply graph techniques on an industry-level large graph with a trade-off between effectiveness and efficiency?</li>
    <li> Is there any additional gain from graph structure after utilizing the LLM to encode textural node features? </li>
    <li> How to define a more practical ranking and recommendation scenario in academics and build suitable system accordingly?</li> 
@@ -40,14 +42,21 @@ The order indicates my personal preference.
 <ul>
   <li>
       <p>
-          <strong>Graph Foundation Models</strong><br>
+          <strong>Position: Graph Foundation Models are Already Here</strong><br>
           <strong>Haitao Mao</strong>*, <u>Zhikai Chen</u>*, <u>Wenzhuo Tang</u>, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang <br>
           <strong>ICML 2024</strong><br> 
-          <font color="green">collaboration with SnapChat and Intel</font> <br>
+          <font color="green">collaboration with SnapChat and Intel lab</font> <br>
           [<a href="https://arxiv.org/pdf/2402.02216.pdf">pdf</a>]
           [<a href="https://medium.com/@jeongiitae/graph-foundation-models-8cca5d31ddb9">blog</a>]  
           [<a href="https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-">reading List 1</a>]
           [<a href="https://github.com/CurryTang/Towards-graph-foundation-models">reading List 2</a>]
+      </p>
+    </li>
+    <li>
+      <p>
+        <strong>On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept </strong> <br>
+        <strong>Haitao Mao*</strong>, Guangliang Liu*, Bochuan Cao, Zhiyu Xue, Kristen Johnson, Jiliang Tang, Rongrong Wang<br>
+        preprint [<a href="https://arxiv.org/pdf/2402.02212">pdf</a>]
       </p>
     </li>
     <li>
@@ -62,10 +71,24 @@ The order indicates my personal preference.
         </p>
     </li>
     <li>
+        <p>
+            <strong>Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models</strong><br>
+            <u>Wenzhuo Tang</u>, <strong>Haitao Mao</strong>, Danial Dervovic, Ivan Brugere, Saumitra Mishra, Yuying Xie, Jiliang Tang<br>
+            <font color="green">collaboration with JP Morgan</font> <br>
+            preprint [<a href="">pdf</a>]
+        </p>
+    </li>
+    <li>
       <p>
-          <strong>A Data Generation Perspective to the Mechanism of In-Context Learning</strong><br>
-          <strong>Haitao Mao</strong>, Guangliang Liu, Yao Ma, Rongrong Wang, Jiliang Tang <br>
-          Preprint [<a href="https://arxiv.org/pdf/2402.02212.pdf">pdf</a>]
+          <strong>Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?</strong><br>
+          <strong>Haitao Mao</strong>, <u>Zhikai Chen</u>, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
+          <strong>NeurIPS 2023</strong> <br>
+          <font color="green">collaboration with SnapChat</font> <br>
+          [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
+          [<a href="https://github.com/HaitaoMao/Demystify-structural-disparity">code</a>] 
+          [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/NodeClassification.pdf">slides</a>] 
+          [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/Demestify-poster.pdf">poster</a>]
+          [<a href="https://www.bilibili.com/video/BV1jj411s7h5/?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054">video</a>]
       </p>
     </li>
     <li>
@@ -85,6 +108,21 @@ The order indicates my personal preference.
     </li>
     <li>
         <p>
+            <strong>Text-space graph foundation models: a comprehensive benchmark and new insights</strong><br>
+            <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Jingzhe Liu, Yu Song, Bingheng Li, Wei Jin, Bahare Fatemi, Anton Tsitsulin, Bryan Perozzi, Hui Liu, Jiliang Tang <br>
+            <font color="green">collaboration with Google</font> <br>
+            preprint [<a href="">pdf</a>]
+        </p>
+    </li>
+    <li>
+      <p>
+          <strong>A Data Generation Perspective to the Mechanism of In-Context Learning</strong><br>
+          <strong>Haitao Mao</strong>, Guangliang Liu, Yao Ma, Rongrong Wang, Jiliang Tang <br>
+          Preprint [<a href="https://arxiv.org/pdf/2402.02212.pdf">pdf</a>]
+      </p>
+    </li>
+    <li>
+        <p>
           <strong> Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs </strong><br>
           <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang <br>
           <strong>SIGKDD Explorations 2023</strong> <br>
@@ -93,19 +131,6 @@ The order indicates my personal preference.
           [<a href="https://github.com/CurryTang/Graph-LLM">code</a>]
           [<a href="https://www.cse.msu.edu/~tangjili/talks/LLMs-LOG.pdf">slides</a>]
         </p>
-    </li>
-    <li>
-      <p>
-          <strong>Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?</strong><br>
-          <strong>Haitao Mao</strong>, <u>Zhikai Chen</u>, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
-          <strong>NeurIPS 2023</strong> <br>
-          <font color="green">collaboration with SnapChat</font> <br>
-          [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
-          [<a href="https://github.com/HaitaoMao/Demystify-structural-disparity">code</a>] 
-          [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/NodeClassification.pdf">slides</a>] 
-          [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/Demestify-poster.pdf">poster</a>]
-          [<a href="https://www.bilibili.com/video/BV1jj411s7h5/?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054">video</a>]
-      </p>
     </li>
     <li>
       <p>
