@@ -12,7 +12,7 @@ Underline indicates student mentored. *represents equal contribution.
       <p>
         <strong>On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept </strong> <br>
         <strong>Haitao Mao*</strong>, Guangliang Liu*, Bochuan Cao, Zhiyu Xue, Kristen Johnson, Jiliang Tang, Rongrong Wang<br>
-        preprint [<a href="https://arxiv.org/pdf/2402.02212">pdf</a>]
+        preprint [<a href="https://arxiv.org/pdf/2406.02378">pdf</a>]
       </p>
   </li>
   <li>

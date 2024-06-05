@@ -4,7 +4,11 @@ title: ME
 layout: single
 ---
 
-来小毛给他整个活！草，走，忽略！ጿ ኈ ቼ ዽ ጿ
+> 沧浪之江，西来水泱泱，江上一轮明月，照多少沉浮过往。
+> 沧浪之江，东往水莽莽，谁赏江上明月，谁听江声浩荡
+> The vast river of Canglang, with its waters flowing grandly from the west, Under the moonlight above the river, illuminating countless ups and downs of the past.
+> The vast river of Canglang, with its waters surging endlessly to the east, Who gazes at the moon above the river, who listens to the majestic roar of the river?
+
 
 I am a second-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). I am also working with [Neil Shah](http://nshah.net/), [Yao Ma](https://yaoma24.github.io/), [Michael Galkin](https://migalkin.github.io/), and [Rongrong Wang](https://users.math.msu.edu/users/wangron6/). Each of them provide unique perspective on how to do scientific thinking during my research road. In those years, I opens up the new direction, Graph Foundation Model in our group. See details in [DSE GFM subgroup](https://dse-gfm.github.io/). I am super happy to work with those talented guys. 
 
@@ -56,7 +60,7 @@ The order indicates my personal preference.
       <p>
         <strong>On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept </strong> <br>
         <strong>Haitao Mao*</strong>, Guangliang Liu*, Bochuan Cao, Zhiyu Xue, Kristen Johnson, Jiliang Tang, Rongrong Wang<br>
-        preprint [<a href="https://arxiv.org/pdf/2402.02212">pdf</a>]
+        preprint [<a href="https://arxiv.org/pdf/2406.02378">pdf</a>]
       </p>
     </li>
     <li>
