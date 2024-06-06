@@ -77,7 +77,7 @@ The order indicates my personal preference.
             <strong>Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models</strong><br>
             <u>Wenzhuo Tang</u>, <strong>Haitao Mao</strong>, Danial Dervovic, Ivan Brugere, Saumitra Mishra, Yuying Xie, Jiliang Tang<br>
             <font color="green">collaboration with JP Morgan</font> <br>
-            preprint [<a href="">pdf</a>]
+            preprint [<a href="https://arxiv.org/pdf/2406.01899">pdf</a>]
         </p>
     </li>
     <li>
