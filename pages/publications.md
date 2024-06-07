@@ -66,7 +66,7 @@ Underline indicates student mentored. *represents equal contribution.
       <p>
           <strong>Position: Graph Foundation Models Are Already Here</strong><br>
           <strong>Haitao Mao</strong>*, <u>Zhikai Chen</u>*, <u>Wenzhuo Tang</u>, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang <br>
-          <strong>ICML 2024</strong><br> 
+          <strong>ICML 2024 <font color="red">spotlight</font></strong><br> 
           <font color="green">collaboration with SnapChat and Intel</font> <br>
           [<a href="https://arxiv.org/pdf/2402.02216.pdf">pdf</a>]
           [<a href="https://medium.com/@jeongiitae/graph-foundation-models-8cca5d31ddb9">blog</a>]  
