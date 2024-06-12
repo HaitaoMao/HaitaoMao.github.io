@@ -46,7 +46,7 @@ The order indicates my personal preference.
       <p>
           <strong>Position: Graph Foundation Models are Already Here</strong><br>
           <strong>Haitao Mao</strong>*, <u>Zhikai Chen</u>*, <u>Wenzhuo Tang</u>, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang <br>
-          <strong>ICML 2024 <font color="red">spotlight</font> </strong><br> 
+          <strong>ICML 2024 <font color="red">spotlight (335/9473, 3.5% acceptance rate) </font>  </strong><br> 
           <font color="green">collaboration with SnapChat and Intel lab</font> <br>
           [<a href="https://arxiv.org/pdf/2402.02216.pdf">pdf</a>]
           [<a href="https://medium.com/@jeongiitae/graph-foundation-models-8cca5d31ddb9">blog</a>]  
@@ -97,7 +97,7 @@ The order indicates my personal preference.
       <p>
         <strong> Neuron Campaign for Initialization Guided by Information Bottleneck Theory </strong><br>
         <strong>Haitao Mao</strong>, Xu Chen, Qiang Fu, Lun Du, Shi Han, Dongmei Zhang <br>
-        <font color="red"><strong>CIKM2021 Best Short Paper</strong></font><br>
+        <font color="red"><strong>CIKM2021 Best Short Paper (1/626, 0.15% acceptance rate)</strong></font><br>
         <font color="green">Work during internship in Microsoft Research Asia</font> <br>
         [<a href="https://arxiv.org/pdf/2108.06530.pdf">pdf</a>]
         [<a href="https://github.com/HaitaoMao/Neuron-Campaign-for-Initialization-Guided-by-Information-Bottleneck-Theory">code</a>]
@@ -138,7 +138,7 @@ The order indicates my personal preference.
       <p>
           <strong>Source Free Graph Unsupervised Domain Adaptation </strong><br>
           <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Shi Han, Dongmei Zhang <br>
-          <strong><font color="red">WSDM 2024 Best Paper Honor Mention</font></strong> <br>
+          <strong><font color="red">WSDM 2024 Best Paper Honor Mention (3/615, 0.4% acceptance rate)</font></strong> <br>
           <font color="green">Work during internship in Microsoft Research Asia</font> <br>
           [<a href="https://arxiv.org/pdf/2112.00955.pdf">pdf</a>]
           [<a href="https://haitaomao.github.io/categories/sourcefree/">blog</a>]
