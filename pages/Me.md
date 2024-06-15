@@ -113,7 +113,7 @@ The order indicates my personal preference.
             <strong>Text-space graph foundation models: a comprehensive benchmark and new insights</strong><br>
             <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Jingzhe Liu, Yu Song, Bingheng Li, Wei Jin, Bahare Fatemi, Anton Tsitsulin, Bryan Perozzi, Hui Liu, Jiliang Tang <br>
             <font color="green">collaboration with Google</font> <br>
-            preprint [<a href="">pdf</a>]
+            preprint [<a href="">pdf</a>][<a href="https://github.com/CurryTang/TSGFM">code</a>] 
         </p>
     </li>
     <li>
