@@ -13,12 +13,12 @@ layout: single
         <ul>
         <li>
           <p>
-              <strong>Duties included online discussions, office hours and gradings </strong><br>
+              <strong>Duties included Online Discussions, Office Hours and Gradings </strong><br>
           </p>
         </li>
         <li>
           <p>
-              <strong>Guest lecturer on "The advance use of ChatGPT"</strong><br>
+              <strong>Guest Lecturer on "The Advance Use of ChatGPT"</strong><br>
           </p>
         </li>
         </ul>    
@@ -26,17 +26,17 @@ layout: single
   </li>    
   <li>
     <p>
-        <strong>Write learning on graph blog for <a href="https://ai4science101.github.io/blogs/">AI4Science101</a> </strong>: a hands-on blog for the growing AI for Science community <br>
+        <strong>Write Learning on Graph Blog for <a href="https://ai4science101.github.io/blogs/">AI4Science101</a> </strong>: A Hands-on Blog for the Growing AI for Science Community <br>
     </p>
   </li>
   <li>
     <p>
-        Official subtitle translation of Fast.ai: Practical Deep Learning for Coders
+        <strong>Official Subtitle Translation of Fast.ai: Practical Deep Learning for Coders</strong>
     </p>
   </li>
   <li>
     <p>
-        <strong>Invited Lecturer for CSCI 4961/6961  <a href="https://yaoma24.github.io/csci4961_6961/index.html">Deep Learning</a> (Undergraduate level 2024) </strong><br>
+        <strong>Invited Lecturer for CSCI 4961/6961  <a href="https://yaoma24.github.io/csci4961_6961/index.html">Deep Learning</a> (Undergraduate Level 2024) </strong><br>
         <ul>
         <li>
           <p>
