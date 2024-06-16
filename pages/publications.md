@@ -256,7 +256,7 @@ layout: single
     <li>
       <p>
           <strong>Addressing Shortcomings in Fair Graph Learning Datasets: Towards a New Benchmark</strong><br>
-          <u>Xiaowei Qian</u>, Zhimeng Guo, Jialiang Li, <strong>Haitao Mao</strong>, Bingheng Li, Suhang Wang, Yao Ma  <br>
+          <u>Xiaowei Qian</u>*, Zhimeng Guo*, Jialiang Li, <strong>Haitao Mao</strong>, Bingheng Li, Suhang Wang, Yao Ma  <br>
           <strong>KDD ADS Track 2024</strong> <br>
           [<a href="https://arxiv.org/pdf/2403.06017.pdf">pdf</a>][<a href="https://github.com/XweiQ/Benchmark-GraphFairness">Code</a>]
       </p>

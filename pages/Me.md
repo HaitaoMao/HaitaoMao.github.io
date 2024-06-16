@@ -37,7 +37,7 @@ My research focuses on (1) developing Graph Foundation Models (GFMs) with scalin
 
 
 
-### Selected publications
+### Selected Publications
 The order indicates my personal preference. 
 <ul>
   <li>
@@ -149,12 +149,12 @@ The order indicates my personal preference.
 - WSDM2024 Best Paper Honor Mentioned Award (First Author) (3/615)
 - CIKM2021 Best Short Paper Award (First Author) (1/626)
 - ICML 2024 Spotlight (First Author) (335/9473)
-- NSF Student Travel Grant - WSDM 2024
+- NWSDM 2024 Student Travel Award
 - NeurIPS 2023 Scholar Award
 - Excellent Student of High Education in Sichuan Province (30/763)
 - Outstanding Graduate in University of Electronic Science and Technology of China (74/763)
 - Star of Tomorrow Intern Award in Microsoft Research Asia (Top 10%)
-- National First Prize in Chinese Software Cup(20/45,000) [[Github](https://github.com/xiaobao520123/EnterpriseNavigator)]
+- National First Prize in Chinese Software Cup (20/45,000) [[Github](https://github.com/xiaobao520123/EnterpriseNavigator)]
 
 
 
@@ -162,7 +162,7 @@ The order indicates my personal preference.
 
 - **Visiting Scholar at Hong Kong Polytechnic University (March, 2023 - September 2023)**: Mentored by Research Assistant Professor [Wenqi Fan](https://wenqifan03.github.io/) and Professor [Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
 - **Research Intern at Baidu (March, 2022 - September, 2022)**: Search Strategy Department, Mentored by Dr. [Lixin Zou](https://www.zoulixin.site/).
-- **Research intern at Microsoft Research Asia (January, 2021 - November, 2021)**
+- **Research Intern at Microsoft Research Asia (January, 2021 - November, 2021)**
   -  [Data Knowledge Intelligent Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), Mentored by Principal Researcher [Qiang Fu](https://scholar.google.com/citations?hl=en&user=bwTLZSIAAAAJ), Researcher [Lun Du](https://scholar.google.com/citations?user=3XUANDAAAAAJ&hl=en&oi=ao), and Senior Principal Researcher Manager [Shi Han](https://www.microsoft.com/en-us/research/people/shihan/). 
   - One [news](https://mp.weixin.qq.com/s/9wREeVH-o1TZ6Y-zcxXxXQ) about my research.
   - Co-founded MS-Intern Guitar Club.
@@ -174,9 +174,9 @@ The order indicates my personal preference.
 
 **University of Electronic Science and Technology of China  (September 2018 - June 2022)**
 
-- Major in Elite program, software engineering 
-- **Rank First** in Academic Performance : (1) Average Score: 91.29 (1/58) (2) Comprehensive Score: 96.79 (1/58) (3)GPA: 3.97
-- Two Reports on the Official Website of UESTC and A Report on Xinhua Website
+- Major in Elite program, Software Engineering 
+- **Rank First** in Academic Performance : (1) Average Score: 91.29 (1/58) (2) Comprehensive Score: 96.79 (1/58) (3) GPA: 3.97
+- Two Reports on the Official Website of UESTC and a Report on Xinhua Website
   - [因为热爱所以拼搏，全奖直博的他，成电四年很精彩！](https://mp.weixin.qq.com/s/CMcPWZ1YTafE8CUQcA619Q) 
   - [软件学院本科生在数据挖掘领域顶级会议CIKM上发表论文并获最佳短文奖](https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=81841)
 
