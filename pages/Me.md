@@ -4,37 +4,19 @@ title: ME
 layout: single
 ---
 
-I am a final-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). I also collaborate with [Neil Shah](http://nshah.net/), [Yao Ma](https://yaoma24.github.io/), [Michael Galkin](https://migalkin.github.io/), and [Rongrong Wang](https://users.math.msu.edu/users/wangron6/). Each of them provides a unique perspective on scientific thinking throughout my research journey. During those years, I open up a new direction, Graph Foundation Model (GFM) in our group. More details can be found on the [DSE GFM subgroup](https://dse-gfm.github.io/). It has been a pleasure working with these talented guys. 
+I am a final-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). I also collaborate with [Neil Shah](http://nshah.net/), [Yao Ma](https://yaoma24.github.io/), [Michael Galkin](https://migalkin.github.io/), and [Rongrong Wang](https://users.math.msu.edu/users/wangron6/). Each of them provides a unique perspective on scientific thinking throughout my research journey. I am an organizer of the [Learning on Graph Conference 2024](https://logconference.org/), an exciting new conference focused on graph and geometry. The call for paper is available [here](https://logconference.org/cfp/), with a submission deadline of September 11th, 2024. Do not hesitate to submit your work!
 
-I am an organizer of the [Learning on Graph Conference 2024](https://logconference.org/)an exciting new conference focused on graph and geometry. The call for paper is available [here](https://logconference.org/cfp/), with a submission deadline of September 11th, 2024. Do not hesitate to submit your work!
-
-My research focuses on (1) developing Graph Foundation Models (GFMs) with scaling behavior (clever leveraging graph principles such as network analysis and expressiveness) and (2) understanding the mechanisms of Large Language Models (LLMs). During my research road, I answer the following research questions:
-
-**Developing Graph Foundation Models (GFMs)**
-<details>
-<summary style="font-size: 15px;">Details</summary>
-  <ul type='disc'> 
-   <li> Is there a universal structure space among graphs from different domains? </li>
-   <li> What is the killer application for GFMs? </li>
-   <li> How can we build GFMs? A good vocabulary design with a transformer could be a viable solution </li>
-   <li> Are there any shared principles across graphs despite their apparent diversity? What are the underlying latent factors underlying the graphs we observed? Currently, I believe in three perspectives: (1) Geometric perspective: Useful when the graph is strictly constructed following principles. (2) Network analysis perspective: Identifying frequent motifs among graphs. (3) LLM perspective: I am still invesigating the superpower of this black box. </li>
-   <li> How can we apply GFMs on an industry-level large graphs, balancing effectiveness and efficiency? (A hashing map vocabulary can be a good solution).</li>
-   <li> As we approach GFMs with much stronger capabilities, many previous graph problems may become obsolete. What are the new critical questions in the GFM era? For instance, the privacy issue. </li>
-  </ul>
-</details>
-
-<br>
-
-**Understanding the Mechanisms of Large Language Models (LLMs)**   
-<details> 
-<summary style="font-size: 15px;">Details</summary>
-  <ul type='disc'> 
-    <li> LLMs exhibit many emerging capabilities after specific fine-tuning, such as instruction following, yet this fine-tuning only requires minor modifications to the original weights. How can new capabilities emerge with only minor modifications?</li>
-    <li> One of the most remarkable capabilities of LLMs is in-context learning, which allows learning from contextual information without requiring gradient updates. How do LLMs learn new knowledge or activate particular subnetworks with contextual information? I am particularly interested in self-correction and moral reasoning capabilities.</li>
-    <li> The neural network is a complex black-box system. How can we understand it? Is there any interesting generalization behavior for each individual neuron? How can we improve each individual neuron toward better generalization? I believe in the "competing subnetworks" concept, where the model initially represents a variety of distinct algorithms, corresponding to different subnetworks, and generalization occurs when it ultimately converges into one. However, this may not work for large-scale LLMs.</li>
-  </ul>
-</details>
-
+My research focuses on developing Graph Foundation Models (GFMs) with the help of many amazing collaborators. Check our recent [blog](https://towardsdatascience.com/foundation-models-in-graph-geometric-deep-learning-f363e2576f58) and [paper](https://arxiv.org/abs/2402.02216v3) for more details. I believe GFMs can be the next graph learning paradigm, and the key to achieve scaling behavior is to clever leverage graph transferability principles such as network analysis and expressiveness. During my research road, I answer the following research questions:
+<ul> 
+  <li> What can be transferable across diverse graphs that seem irrelevant, ranging from social networks to molecular graphs?</li>
+  <li> Can GFMs benefit from pre-training on large-scale graph data and large model scale? </li>
+  <li> How can we develop practical GFMs leveraging LLMs with rich knowledge and emerging world understanding capabilites? </li> 
+  <li> Is there a universal structure space among graphs from different domains? </li>
+  <li> What should be an ideal GFM? A good vocabulary design with a transformer could be a viable solution </li>
+  <li> How can we apply GFMs on industry-level large graphs, balancing effectiveness and efficiency?</li>
+  <li> Can we adapt the general GFMs towards specific ai4science application?</li>
+  <li> What is the unique advantage of GFMs over FMs from other modalities? How can we combine FMs towards more general intelligence. </li>
+</ul>
 
 
 ### Selected Publications
@@ -46,7 +28,8 @@ The order indicates my personal preference.
           <strong>Haitao Mao</strong>*, <u>Zhikai Chen</u>*, <u>Wenzhuo Tang</u>, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang <br>
           <strong>ICML 2024 <font color="red">Spotlight (335/9473) </font>  </strong><br> 
           <font color="green">Collaboration with SnapChat and Intel lab</font> <br>
-          [<a href="https://arxiv.org/pdf/2402.02216.pdf">pdf</a>]
+          [<a href="https://arxiv.org/abs/2402.02216.pdf">pdf</a>]
+          [<a href="https://towardsdatascience.com/foundation-models-in-graph-geometric-deep-learning-f363e2576f58">Primary Blog</a>]
           [<a href="https://medium.com/@jeongiitae/graph-foundation-models-8cca5d31ddb9">Blog</a>]  
           [<a href="https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-">Reading List 1</a>]
           [<a href="https://github.com/CurryTang/Towards-graph-foundation-models">Reading List 2</a>]
@@ -93,7 +76,7 @@ The order indicates my personal preference.
     </li>
     <li>
       <p>
-        <strong> Neuron Campaign for Initialization Guided by Information Bottleneck Theory </strong><br>
+        <strong>Neuron Campaign for Initialization Guided by Information Bottleneck Theory </strong><br>
         <strong>Haitao Mao</strong>, Xu Chen, Qiang Fu, Lun Du, Shi Han, Dongmei Zhang <br>
         <font color="red"><strong>CIKM2021 Best Short Paper (1/626)</strong></font><br>
         <font color="green">Work During Internship in Microsoft Research Asia</font> <br>
@@ -111,7 +94,7 @@ The order indicates my personal preference.
             <strong>Text-space Graph Foundation Models: A Comprehensive Benchmark and New Insights</strong><br>
             <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Jingzhe Liu, Yu Song, Bingheng Li, Wei Jin, Bahare Fatemi, Anton Tsitsulin, Bryan Perozzi, Hui Liu, Jiliang Tang <br>
             <font color="green">Collaboration with Google</font> <br>
-            Preprint [<a href="">pdf</a>][<a href="https://github.com/CurryTang/TSGFM">Code</a>] 
+            Preprint [<a href="https://urldefense.com/v3/__http://arxiv.org/abs/2406.10727__;!!HXCxUKc!1pwiKrYUNCH_An5AfKT-QrrfN1BpapLE8rQdzv_0olBoU3tzTWyHwHWGqqjn6Wbwt2v0PkNeWfWfoaNYyiE$">pdf</a>][<a href="https://github.com/CurryTang/TSGFM">Code</a>] 
         </p>
     </li>
     <li>
@@ -146,10 +129,10 @@ The order indicates my personal preference.
 </ul>
 
 ### Awards:
-- WSDM2024 Best Paper Honor Mentioned Award (First Author) (3/615)
-- CIKM2021 Best Short Paper Award (First Author) (1/626)
+- WSDM 2024 Best Paper Honor Mentioned Award (First Author) (3/615)
+- CIKM 2021 Best Short Paper Award (First Author) (1/626)
 - ICML 2024 Spotlight (First Author) (335/9473)
-- NWSDM 2024 Student Travel Award
+- WSDM 2024 Student Travel Award
 - NeurIPS 2023 Scholar Award
 - Excellent Student of High Education in Sichuan Province (30/763)
 - Outstanding Graduate in University of Electronic Science and Technology of China (74/763)
@@ -175,7 +158,7 @@ The order indicates my personal preference.
 **University of Electronic Science and Technology of China  (September 2018 - June 2022)**
 
 - Major in Elite program, Software Engineering 
-- **Rank First** in Academic Performance : (1) Average Score: 91.29 (1/58) (2) Comprehensive Score: 96.79 (1/58) (3) GPA: 3.97
+- Rank First in Academic Performance : (1) Average Score: 91.29 (1/58) (2) Comprehensive Score: 96.79 (1/58) (3) GPA: 3.97
 - Two Reports on the Official Website of UESTC and a Report on Xinhua Website
   - [因为热爱所以拼搏，全奖直博的他，成电四年很精彩！](https://mp.weixin.qq.com/s/CMcPWZ1YTafE8CUQcA619Q) 
   - [软件学院本科生在数据挖掘领域顶级会议CIKM上发表论文并获最佳短文奖](https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=81841)
