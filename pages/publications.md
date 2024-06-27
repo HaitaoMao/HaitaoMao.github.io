@@ -106,7 +106,7 @@ layout: single
         <p>
             <strong>A Pure Transformer Pretraining Framework on Text-attributed Graphs</strong><br>
             <u>Yu Song</u>, <strong>Haitao Mao</strong>, Jiachen Xiao, Jingzhe Liu, Zhikai Chen, Wei Jin, Carl Yang, Jiliang Tang, Hui Liu<br>
-            Preprint [<a href="">pdf</a>]
+            Preprint [<a href="https://arxiv.org/abs/2406.13873v1">pdf</a>]
         </p>
     </li>
     <li>
