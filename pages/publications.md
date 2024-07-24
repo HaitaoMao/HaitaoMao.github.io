@@ -5,7 +5,7 @@ layout: single
 ---
 **Underline indicates student I mentored. * indicates equal contribution.**
 
-### Essential principles towards Graph Foundation Models
+### Network Science Insights towards Graph Foundation Models
 <ul>
   <li>
       <p>
@@ -70,7 +70,32 @@ layout: single
     </li> 
 </ul>
 
-### Practical GFMs via leveraging LLMs
+### LLM mechanisms 
+<ul>
+  <li>
+      <p>
+        <strong>Intrinsic Self-correction for Enhanced Morality: An Analysis of Internal Mechanisms and the Superficial Hypothesis</strong> <br>
+        Guangliang Liu, <strong>Haitao Mao</strong>, Jiliang Tang, Kristen Johns.<br>
+        Preprint [<a href="https://arxiv.org/pdf/2407.15286">pdf</a>]
+      </p>
+  </li>
+  <li>
+      <p>
+        <strong>On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept </strong> <br>
+        <strong>Haitao Mao*</strong>, Guangliang Liu*, Bochuan Cao, Zhiyu Xue, Kristen Johnson, Jiliang Tang, Rongrong Wang<br>
+        Preprint [<a href="https://arxiv.org/pdf/2406.02378">pdf</a>]
+      </p>
+  </li>
+  <li>
+      <p>
+        <strong>A Data Generation Perspective to the Mechanism of In-Context Learning </strong> <br>
+        <strong>Haitao Mao</strong>, Guangliang Liu, Yao Ma, Rongrong Wang, Jiliang Tang <br>
+        Preprint [<a href="https://arxiv.org/pdf/2402.02212">pdf</a>]
+      </p>
+  </li>
+</ul>
+
+### Graph Foundation Models
 <ul>
   <li>
         <p>
@@ -116,27 +141,6 @@ layout: single
             Preprint [<a href="https://arxiv.org/pdf/2402.07738.pdf">pdf</a>]
         </p>
     </li>
-    <li>
-      <p>
-        <strong>Intrinsic Self-correction for Enhanced Morality: An Analysis of Internal Mechanisms and the Superficial Hypothesis</strong> <br>
-        Guangliang Liu, <strong>Haitao Mao</strong>, Jiliang Tang, Kristen Johns.<br>
-        Preprint [<a href="">pdf</a>]
-      </p>
-  </li>
-  <li>
-      <p>
-        <strong>On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept </strong> <br>
-        <strong>Haitao Mao*</strong>, Guangliang Liu*, Bochuan Cao, Zhiyu Xue, Kristen Johnson, Jiliang Tang, Rongrong Wang<br>
-        Preprint [<a href="https://arxiv.org/pdf/2406.02378">pdf</a>]
-      </p>
-  </li>
-  <li>
-      <p>
-        <strong>A Data Generation Perspective to the Mechanism of In-Context Learning </strong> <br>
-        <strong>Haitao Mao</strong>, Guangliang Liu, Yao Ma, Rongrong Wang, Jiliang Tang <br>
-        Preprint [<a href="https://arxiv.org/pdf/2402.02212">pdf</a>]
-      </p>
-  </li>
   <li>
       <p>
           <strong>Graph Machine Learning in the Era of Large Language Models (LLMs)</strong><br>

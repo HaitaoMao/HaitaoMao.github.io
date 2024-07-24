@@ -6,8 +6,9 @@ layout: single
 
 I am a final-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). I also collaborate with [Neil Shah](http://nshah.net/), [Yao Ma](https://yaoma24.github.io/), [Michael Galkin](https://migalkin.github.io/), and [Rongrong Wang](https://users.math.msu.edu/users/wangron6/). Each of them provides a unique perspective on scientific thinking throughout my research journey. I am an organizer of the [Learning on Graph Conference 2024](https://logconference.org/), an exciting new conference focused on graph and geometry. The call for paper is available [here](https://logconference.org/cfp/), with a submission deadline of September 11th, 2024. Do not hesitate to submit your work!
 
-My research focuses on developing Graph Foundation Models (GFMs) with the help of many amazing collaborators. Check our recent [blog](https://towardsdatascience.com/foundation-models-in-graph-geometric-deep-learning-f363e2576f58) and [paper](https://arxiv.org/abs/2402.02216v3) for more details. I believe GFMs can be the next graph learning paradigm, and the key to achieve scaling behavior is to clever leverage graph transferability principles such as network analysis and expressiveness. During my research road, I answer the following research questions:
+My research focuses on developing better graph deep learning model (especially Graph Foundation Models) grounded in the network science insights. Check our recent [blog](https://towardsdatascience.com/foundation-models-in-graph-geometric-deep-learning-f363e2576f58) and [paper](https://arxiv.org/abs/2402.02216v3) for more details. I believe GFMs can be the next graph learning paradigm, and the key to achieve scaling behavior is to clever leverage graph transferability principles such as network analysis and expressiveness. During my research road, I answer the following research questions:
 <ul> 
+  <li> What is the drawback of current GNNs?</li>
   <li> What can be transferable across diverse graphs that seem irrelevant, ranging from social networks to molecular graphs?</li>
   <li> Can GFMs benefit from pre-training on large-scale graph data and large model scale? </li>
   <li> How can we develop practical GFMs leveraging LLMs with rich knowledge and emerging world understanding capabilites? </li> 
@@ -150,18 +151,6 @@ The order indicates my personal preference.
   - One [news](https://mp.weixin.qq.com/s/9wREeVH-o1TZ6Y-zcxXxXQ) about my research.
   - Co-founded MS-Intern Guitar Club.
 
-
-### Education
-
-**Michigan State University (August 2022 - present)**
-
-**University of Electronic Science and Technology of China  (September 2018 - June 2022)**
-
-- Major in Elite program, Software Engineering 
-- Rank First in Academic Performance : (1) Average Score: 91.29 (1/58) (2) Comprehensive Score: 96.79 (1/58) (3) GPA: 3.97
-- Two Reports on the Official Website of UESTC and a Report on Xinhua Website
-  - [因为热爱所以拼搏，全奖直博的他，成电四年很精彩！](https://mp.weixin.qq.com/s/CMcPWZ1YTafE8CUQcA619Q) 
-  - [软件学院本科生在数据挖掘领域顶级会议CIKM上发表论文并获最佳短文奖](https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=81841)
 
 
 
