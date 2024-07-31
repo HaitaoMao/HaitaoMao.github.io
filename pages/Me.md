@@ -6,18 +6,8 @@ layout: single
 
 I am a final-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). I also collaborate with [Neil Shah](http://nshah.net/), [Yao Ma](https://yaoma24.github.io/), [Michael Galkin](https://migalkin.github.io/), and [Rongrong Wang](https://users.math.msu.edu/users/wangron6/). Each of them provides a unique perspective on scientific thinking throughout my research journey. I am an organizer of the [Learning on Graph Conference 2024](https://logconference.org/), an exciting new conference focused on graph and geometry. The call for paper is available [here](https://logconference.org/cfp/), with a submission deadline of September 11th, 2024. Do not hesitate to submit your work!
 
-My research focuses on developing better graph deep learning model (especially Graph Foundation Models) grounded in the network science insights. Check our recent [blog](https://towardsdatascience.com/foundation-models-in-graph-geometric-deep-learning-f363e2576f58) and [paper](https://arxiv.org/abs/2402.02216v3) for more details. I believe GFMs can be the next graph learning paradigm, and the key to achieve scaling behavior is to clever leverage graph transferability principles such as network analysis and expressiveness. During my research road, I answer the following research questions:
-<ul> 
-  <li> What is the drawback of current GNNs?</li>
-  <li> What can be transferable across diverse graphs that seem irrelevant, ranging from social networks to molecular graphs?</li>
-  <li> Can GFMs benefit from pre-training on large-scale graph data and large model scale? </li>
-  <li> How can we develop practical GFMs leveraging LLMs with rich knowledge and emerging world understanding capabilites? </li> 
-  <li> Is there a universal structure space among graphs from different domains? </li>
-  <li> What should be an ideal GFM? A good vocabulary design with a transformer could be a viable solution </li>
-  <li> How can we apply GFMs on industry-level large graphs, balancing effectiveness and efficiency?</li>
-  <li> Can we adapt the general GFMs towards specific ai4science application?</li>
-  <li> What is the unique advantage of GFMs over FMs from other modalities? How can we combine FMs towards more general intelligence. </li>
-</ul>
+My research focuses on developing better graph deep learning model (especially Graph Foundation Models) grounded in the network science insights. Check our recent [blog](https://towardsdatascience.com/foundation-models-in-graph-geometric-deep-learning-f363e2576f58) and [paper](https://arxiv.org/abs/2402.02216v3) for more details. I believe GFMs can be the next graph learning paradigm, and the key to achieve scaling behavior is to clever leverage graph transferability principles such as network science and expressiveness. 
+Recently, I am interested in the self-correction technique in LLM to refine its own output for more reliable response. 
 
 
 ### Selected Publications
