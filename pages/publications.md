@@ -55,8 +55,8 @@ layout: single
     <li>
         <p>
             <strong>Do Neural Scaling Laws Exist on Graph Self-Supervised Learning</strong><br>
-            <u>Qian Ma</u>, <strong>Haitao Mao</strong>, <u>Jingzhe Liu</u>, Zhehua Zhang, Chunlin Feng,  Yu Song, Yao Ma<br>
-            Preprint [<a href="">pdf</a>]
+            <u>Qian Ma</u>, <strong>Haitao Mao</strong>, Jingzhe Liu, Zhehua Zhang, Chunlin Feng, Yu Song, Tianfan Fu, Yao Ma<br>
+            Preprint [<a href="https://arxiv.org/abs/2408.11243">pdf</a>][<a href="https://github.com/GraphSSLScaling/GraphSSLScaling">code</a>]
         </p>
     </li>
     <li>
@@ -107,7 +107,7 @@ layout: single
     </li>
   <li>
       <p>
-          <strong> Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs </strong><br>
+          <strong>Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs </strong><br>
           <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang <br>
           <strong>SIGKDD Explorations 2023</strong> <br>
           <font color="green">Collaboration with Baidu</font> <br>
