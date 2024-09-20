@@ -134,6 +134,7 @@ The order indicates my personal preference.
 
 ### Professional Experience
 
+- **Research Intern at SnapChat (September 2024 - now)**: Mentor by Research Scientist and Manager [Neil Shah](https://nshah.net/) and Senior Reserch Scientist [Tong Zhao](https://tzhao.io/)
 - **Visiting Scholar at Hong Kong Polytechnic University (March, 2023 - September 2023)**: Mentored by Research Assistant Professor [Wenqi Fan](https://wenqifan03.github.io/) and Professor [Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
 - **Research Intern at Baidu (March, 2022 - September, 2022)**: Search Strategy Department, Mentored by Dr. [Lixin Zou](https://www.zoulixin.site/).
 - **Research Intern at Microsoft Research Asia (January, 2021 - November, 2021)**

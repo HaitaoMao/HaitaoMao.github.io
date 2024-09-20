@@ -64,7 +64,7 @@ layout: single
           <strong>Neural Scaling Law on Graph</strong><br>
           <u>Jingzhe Liu</u>, <strong>Haitao Mao</strong>, <u>Zhikai Chen</u>, Tong Zhao, Neil Shah, Jiliang Tang <br>
           <font color="green">Collaboration with SnapChat</font> <br>
-          Preprint [<a href="https://arxiv.org/pdf/2402.02054.pdf">pdf</a>]
+          Preprint [<a href="https://arxiv.org/pdf/2402.02054.pdf">pdf</a>][<a href="https://github.com/Liu-Jingzhe/graph-scaling-laws">code</a>]
           [<a href="https://medium.com/@jeongiitae/neural-scaling-laws-on-graphs-do-you-believe-is-there-strong-related-between-model-data-size-ebd139778928">Blog</a>]  
       </p>
     </li> 
@@ -76,7 +76,7 @@ layout: single
       <p>
         <strong>Intrinsic Self-correction for Enhanced Morality: An Analysis of Internal Mechanisms and the Superficial Hypothesis</strong> <br>
         Guangliang Liu, <strong>Haitao Mao</strong>, Jiliang Tang, Kristen Johns.<br>
-        Preprint [<a href="https://arxiv.org/pdf/2407.15286">pdf</a>]
+        EMNLP 2024 <br> [<a href="https://arxiv.org/pdf/2407.15286">pdf</a>]
       </p>
   </li>
   <li>
