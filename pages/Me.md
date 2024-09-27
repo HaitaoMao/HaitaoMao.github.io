@@ -6,8 +6,7 @@ layout: single
 
 I am a final-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). I also collaborate with [Neil Shah](http://nshah.net/), [Yao Ma](https://yaoma24.github.io/), [Michael Galkin](https://migalkin.github.io/), and [Rongrong Wang](https://users.math.msu.edu/users/wangron6/). Each of them provides a unique perspective on scientific thinking throughout my research journey. I am an organizer of the [Learning on Graph Conference 2024](https://logconference.org/), an exciting new conference focused on graph and geometry. The call for paper is available [here](https://logconference.org/cfp/), with a submission deadline of September 11th, 2024. Do not hesitate to submit your work!
 
-**I am actively seeking postdoctoral and research scientist positions for Fall 2025.** My work focuses on pioneering Graph Foundation Models (GFMs) grounded in network science. Unlike conventional data-driven approaches and wish the black-box to do everything, GFMs require many non-parameterized operators with principal guidance (e.g., reasoning, search, expressiveness), due the complicated graph data. 
-Check our recent [blog](https://towardsdatascience.com/foundation-models-in-graph-geometric-deep-learning-f363e2576f58) and [paper](https://arxiv.org/abs/2402.02216v3) for more details. I am interested in exploring the future applications of GFMs in areas such as molecular graphs, scene graphs, code graphs, and beyond. Additionally, I am currently investigating the conditional generation capabilities of large language models (LLMs), with a particular focus on their self-correction abilities.
+**I am actively seeking postdoctoral and research scientist positions for Fall 2025.** My work focuses on pioneering Graph Foundation Models (GFMs) grounded in network science. Check our recent [blog](https://towardsdatascience.com/foundation-models-in-graph-geometric-deep-learning-f363e2576f58) and [paper](https://arxiv.org/abs/2402.02216v3) for more details. Additionally, I investigate the conditional generation capabilities of large language models (LLMs), with a particular focus on their self-correction abilities.
 
 
 ### Selected Publications
@@ -85,7 +84,8 @@ The order indicates my personal preference.
             <strong>Text-space Graph Foundation Models: A Comprehensive Benchmark and New Insights</strong><br>
             <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Jingzhe Liu, Yu Song, Bingheng Li, Wei Jin, Bahare Fatemi, Anton Tsitsulin, Bryan Perozzi, Hui Liu, Jiliang Tang <br>
             <font color="green">Collaboration with Google</font> <br>
-            Preprint [<a href="https://urldefense.com/v3/__http://arxiv.org/abs/2406.10727__;!!HXCxUKc!1pwiKrYUNCH_An5AfKT-QrrfN1BpapLE8rQdzv_0olBoU3tzTWyHwHWGqqjn6Wbwt2v0PkNeWfWfoaNYyiE$">pdf</a>][<a href="https://github.com/CurryTang/TSGFM">Code</a>] 
+            <strong>NeurIPS 2024 Dataset & Benchmark Track</strong><br>
+            [<a href="https://urldefense.com/v3/__http://arxiv.org/abs/2406.10727__;!!HXCxUKc!1pwiKrYUNCH_An5AfKT-QrrfN1BpapLE8rQdzv_0olBoU3tzTWyHwHWGqqjn6Wbwt2v0PkNeWfWfoaNYyiE$">pdf</a>][<a href="https://github.com/CurryTang/TSGFM">Code</a>] 
         </p>
     </li>
     <li>

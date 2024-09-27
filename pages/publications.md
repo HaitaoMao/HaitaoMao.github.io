@@ -102,7 +102,8 @@ layout: single
             <strong>Text-space Graph Foundation Models: a Comprehensive Benchmark and New Insights</strong><br>
             <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Jingzhe Liu, Yu Song, Bingheng Li, Wei Jin, Bahare Fatemi, Anton Tsitsulin, Bryan Perozzi, Hui Liu, Jiliang Tang <br>
             <font color="green">collaboration with Google</font> <br>
-            Preprint [<a href="https://arxiv.org/abs/2406.10727#:~:text=Text%2Dspace%20Graph%20Foundation%20Models%3A%20Comprehensive%20Benchmarks%20and%20New%20Insights,-Zhikai%20Chen%2C%20Haitao&text=Given%20the%20ubiquity%20of%20graph,has%20recently%20garnered%20significant%20interests.">pdf</a>][<a href="https://github.com/CurryTang/TSGFM">Code</a>]
+            <strong>NeurIPS 2024 Dataset & Benchmark Track</strong><br>
+            [<a href="https://arxiv.org/abs/2406.10727#:~:text=Text%2Dspace%20Graph%20Foundation%20Models%3A%20Comprehensive%20Benchmarks%20and%20New%20Insights,-Zhikai%20Chen%2C%20Haitao&text=Given%20the%20ubiquity%20of%20graph,has%20recently%20garnered%20significant%20interests.">pdf</a>][<a href="https://github.com/CurryTang/TSGFM">Code</a>]
         </p>
     </li>
   <li>
