@@ -25,7 +25,7 @@ My research interests include Graph Machine Learning, Recommender System, Natura
   - Topic 1: Solve out-of-distribution Challenge under Data Privacy Constraints
   - Topic 2: Accelerate and Stabilize Neural Network Training
   - Mentor: by Principal Researcher [Qiang Fu](https://scholar.google.com/citations?hl=en&user=bwTLZSIAAAAJ)
-  - One[news](https://mp.weixin.qq.com/s/9wREeVH-o1TZ6Y-zcxXxXQ) in Microsoft about our research.
+  - One [news](https://mp.weixin.qq.com/s/9wREeVH-o1TZ6Y-zcxXxXQ) in Microsoft about our research.
   - Won Star of Tomorrow Intern Award in Microsoft Research Asia (Top 10%)
   - Co-founded MS-Intern Guitar Club.
 
