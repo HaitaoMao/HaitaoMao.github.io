@@ -4,13 +4,12 @@ title: ME
 layout: single
 ---
 
-I am a final-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). I also collaborate with [Neil Shah](http://nshah.net/), [Yao Ma](https://yaoma24.github.io/), [Michael Galkin](https://migalkin.github.io/), and [Rongrong Wang](https://users.math.msu.edu/users/wangron6/). Each of them provides a unique perspective on scientific thinking throughout my research journey. I am an organizer of the [Learning on Graph Conference 2024](https://logconference.org/), an exciting new conference focused on graph and geometry. 
+I am a final-year Ph.D. student at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). I also collaborate with [Neil Shah](http://nshah.net/), [Yao Ma](https://yaoma24.github.io/), [Michael Galkin](https://migalkin.github.io/), and [Rongrong Wang](https://users.math.msu.edu/users/wangron6/). Each of them provides a unique perspective on scientific thinking throughout my research journey. I am an organizer of the [Learning on Graph Conference 2024](https://logconference.org/), an exciting new conference focused on graph and geometry. The call for paper is available [here](https://logconference.org/cfp/), with a submission deadline of September 11th, 2024. Do not hesitate to submit your work!
 
 **I am actively seeking postdoctoral and research scientist positions for Fall 2025.** My work focuses on pioneering Graph Foundation Models (GFMs) grounded in network science. Check our recent [blog](https://towardsdatascience.com/foundation-models-in-graph-geometric-deep-learning-f363e2576f58) and [paper](https://arxiv.org/abs/2402.02216v3) for more details. Additionally, I investigate the conditional generation capabilities of large language models (LLMs), with a particular focus on their self-correction abilities.
 
 
 ### Selected Publications
-The order indicates my personal preference. 
 <ul>
   <li>
       <p>
@@ -120,6 +119,7 @@ The order indicates my personal preference.
 </ul>
 
 ### Awards:
+- NeurIPS 2024 Top Reviewer Award (Both Main track \& DB Track) (0.64%)
 - WSDM 2024 Best Paper Honor Mentioned Award (First Author) (3/615)
 - CIKM 2021 Best Short Paper Award (First Author) (1/626)
 - ICML 2024 Spotlight (First Author) (335/9473)
@@ -138,11 +138,9 @@ The order indicates my personal preference.
 - **Visiting Scholar at Hong Kong Polytechnic University (March, 2023 - September 2023)**: Mentored by Research Assistant Professor [Wenqi Fan](https://wenqifan03.github.io/) and Professor [Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
 - **Research Intern at Baidu (March, 2022 - September, 2022)**: Search Strategy Department, Mentored by Dr. [Lixin Zou](https://www.zoulixin.site/).
 - **Research Intern at Microsoft Research Asia (January, 2021 - November, 2021)**
-  -  [Data Knowledge Intelligent Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), Mentored by Principal Researcher [Qiang Fu](https://scholar.google.com/citations?hl=en&user=bwTLZSIAAAAJ), Researcher [Lun Du](https://scholar.google.com/citations?user=3XUANDAAAAAJ&hl=en&oi=ao), and Senior Principal Researcher Manager [Shi Han](https://www.microsoft.com/en-us/research/people/shihan/). 
+  -  [Data Knowledge Intelligent Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), Mentored by Principal Researcher [Qiang Fu](https://scholar.google.com/citations?hl=en&user=bwTLZSIAAAAJ), 
   - One [news](https://mp.weixin.qq.com/s/9wREeVH-o1TZ6Y-zcxXxXQ) about my research.
   - Co-founded MS-Intern Guitar Club.
-
-
 
 
 
