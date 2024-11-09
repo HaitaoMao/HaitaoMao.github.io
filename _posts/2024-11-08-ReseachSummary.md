@@ -27,11 +27,17 @@ Revolving on this questions, my research are three folds:
 1. <a href="#section11"> The failure of GNNs under distribution shift
 2. <a href="#section12"> LLMs cannot solve graph tasks individually with incapability on capturing structure patterns 
 3. <a href="#section13"> Develop versatile graph model via capturing essential network patterns </a>
+    
     3.1 <a href="#section131"> Essential structure patterns and underlying relationships</a>
+    
     3.2 <a href="#section132"> Versatile structural graph model from a generative perspective</a>
+    
     3.3 <a href="#section133"> When additional feature into consideration </a>
+    
     3.4 <a href="#section134"> Essential Feature patterns and underlying relationships</a>
+    
     3.5 <a href="#section135"> Feature-centric versatile graph model
+
 4. <a href="#section14"> Align versatile graph models with LLMs for enhanced understanding on different modalities </a>
 
 <div id="section11"></div>
