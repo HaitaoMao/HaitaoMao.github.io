@@ -99,11 +99,11 @@ words_per_minute         : 200
 #     tracking_id          :
 #     anonymize_ip         : # true, false (default)
 
-
+# https://z3.ax1x.com/2021/11/10/Iaxkxe.jpg
 # Site Author
 author:
   name             : "Haitao Mao (Seeking full time industry job)"
-  avatar           : https://z3.ax1x.com/2021/11/10/Iaxkxe.jpg
+  avatar           : https://img.picui.cn/free/2024/11/09/672f1379d09a3.png
   bio              : "PhD@MSU, Expected Graduate in May 2025."
   location         : "United State, East Lansing"
   links:
@@ -116,9 +116,6 @@ author:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/haitao-mao-742862204/"
-    - label: "Zhihu"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.zhihu.com/column/c_1223551570643632128"
     - label: "GitHub"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/HaitaoMao"

@@ -203,8 +203,11 @@ My research maintains industry connections through internships at Microsoft, Sna
 ### Outline
 1. <a href="#section21">Search: Text-rich Unbiased Learning to Rank in Baidu</a> 
 2. <a href="#section22">Recommendation</a>
+   
    2.1. <a href="#section221">Multiple-locale Multilingual Session Recommendation in Amazon</a>
+
    2.2. <a href="#section222">Cross-domain Sequential Recommendation with Generative Retrieval</a>
+
 3. <a href="#section11">Tabular Metadata Tagging in Microsoft</a>
 4. <a href="#section24">Accelerate and Stabilize Neural Network training through insights on inter-neuron relationship</a>
 
