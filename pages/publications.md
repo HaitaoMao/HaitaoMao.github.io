@@ -12,21 +12,21 @@ layout: single
       <p>
         <strong>Intrinsic Self-correction for Enhanced Morality: An Analysis of Internal Mechanisms and the Superficial Hypothesis</strong> <br>
         Guangliang Liu, <strong>Haitao Mao</strong>, Jiliang Tang, Kristen Johns.<br>
-        EMNLP 2024 <br> [<a href="https://arxiv.org/abs/2407.15286">pdf</a>]
+        EMNLP 2024 <br> [<a href="https://arxiv.org/abs/2407.15286">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section31">Short Summary</a>]
       </p>
   </li>
   <li>
       <p>
         <strong>On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept </strong> <br>
         <strong>Haitao Mao*</strong>, Guangliang Liu*, Bochuan Cao, Zhiyu Xue, Kristen Johnson, Jiliang Tang, Rongrong Wang<br>
-        Preprint [<a href="https://arxiv.org/abs/2406.02378">pdf</a>]
+        Preprint [<a href="https://arxiv.org/abs/2406.02378">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section32">Short Summary</a>]
       </p>
   </li>
   <li>
       <p>
         <strong>A Data Generation Perspective to the Mechanism of In-Context Learning </strong> <br>
         <strong>Haitao Mao</strong>, Guangliang Liu, Yao Ma, Rongrong Wang, Jiliang Tang <br>
-        Preprint [<a href="https://arxiv.org/abs/2402.02212">pdf</a>]
+        Preprint [<a href="https://arxiv.org/abs/2402.02212">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section32">Short Summary</a>]
       </p>
   </li>
 </ul>
@@ -39,7 +39,7 @@ layout: single
             <strong>Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models</strong><br>
             <u>Wenzhuo Tang*</u>, <strong>Haitao Mao*</strong>, Danial Dervovic, Ivan Brugere, Saumitra Mishra, Yuying Xie, Jiliang Tang<br>
             <font color="green">Collaboration with JP Morgan</font> <br>
-            preprint [<a href="https://arxiv.org/abs/2406.01899">pdf</a>][<a href="https://github.com/WenzhuoTang/UniAug">code</a>]
+            preprint [<a href="https://arxiv.org/abs/2406.01899">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section132">Short Summary</a>][<a href="https://github.com/WenzhuoTang/UniAug">code</a>]
         </p>
     </li>
   <li>
@@ -49,7 +49,7 @@ layout: single
           <strong>ICML 2024 <font color="red">Spotlight (335/9473) </font>  </strong><br> 
           <font color="green">Collaboration with SnapChat and Intel</font> <br>
           [<a href="https://arxiv.org/abs/2402.02216.pdf">pdf</a>]
-          [<a href="https://towardsdatascience.com/foundation-models-in-graph-geometric-deep-learning-f363e2576f58"> Blog</a>]
+          [<a href="https://towardsdatascience.com/foundation-models-in-graph-geometric-deep-learning-f363e2576f58">Blog</a>]
           [<a href="https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-">Reading List 1</a>]
           [<a href="https://github.com/CurryTang/Towards-graph-foundation-models">Reading List 2</a>]
       </p>
@@ -60,7 +60,7 @@ layout: single
             <strong>Haitao Mao</strong>, <u>Juanhui Li</u>, Harry Shomer, <u>Bingheng Li</u>, Wenqi Fan, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
             <strong>ICLR 2024</strong>  <br>
             <font color="green">Collaboration with SnapChat</font> <br>
-            [<a href="https://arxiv.org/abs/2310.00793.pdf">pdf</a>]
+            [<a href="https://arxiv.org/abs/2310.00793.pdf">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section131">Short Summary</a>]
             [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/LinkPrediction.pdf">Slides</a>] 
         </p>
     </li>
@@ -70,7 +70,7 @@ layout: single
           <strong>Haitao Mao</strong>, <u>Zhikai Chen</u>, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
           <strong>NeurIPS 2023</strong> <br>
           <font color="green">Collaboration with SnapChat</font> <br>
-          [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>]
+          [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section134">Short Summary</a>]
           [<a href="https://github.com/HaitaoMao/Demystify-structural-disparity">Code</a>] 
           [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/NodeClassification.pdf">Slides</a>] 
       </p>
@@ -79,7 +79,7 @@ layout: single
         <p>
             <strong>A Pure Transformer Pretraining Framework on Text-attributed Graphs</strong><br>
             <u>Yu Song</u>, <strong>Haitao Mao</strong>, Jiachen Xiao, Jingzhe Liu, Zhikai Chen, Wei Jin, Carl Yang, Jiliang Tang, Hui Liu<br>
-            Preprint [<a href="https://arxiv.org/abs/2406.13873v1">pdf</a>]
+            Preprint [<a href="https://arxiv.org/abs/2406.13873v1">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section135">Short Summary</a>]
         </p>
     </li>
     <li>
@@ -116,6 +116,7 @@ layout: single
         <strong>NeurIPS 2022 Datasets and Benchmarks Track</strong> <br> 
         <font color="green">Collaboration with Amazon</font> <br>
         [<a href="https://arxiv.org/abs/2307.09688.pdf">pdf</a>]
+        [<a href="https://haitaomao.github.io/categories/ResearchSummary/#section221">Short Summary</a>]
         [<a href="https://kddcup23.github.io/">Homepage</a>]
         [<a href="https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge">Instructions</a>]
         [<a href="https://github.com/HaitaoMao/Amazon-M2">Code</a>]
@@ -125,7 +126,7 @@ layout: single
       <p>
           <strong>Whole Page Unbiased Learning to Rank </strong><br>
           <strong>Haitao Mao</strong>, Lixin Zou, Yujia Zheng, Jiliang Tang, Xiaokai Chu, Jiashu Zhao, Dawei Yin <br> 
-          <strong> WebConference 2024</strong> <font color="red"><strong>Oral </strong> <strong>(198/2,008)</strong> </font> [<a href="https://arxiv.org/abs/2210.10718.pdf">pdf</a>]<br>
+          <strong> WebConference 2024</strong> <font color="red"><strong>Oral </strong> <strong>(198/2,008)</strong> </font> [<a href="https://arxiv.org/abs/2210.10718.pdf">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section21">Short Summary</a>]<br>
           <font color="green">Work During Internship in Baidu</font> <br>
       </p>
     </li>
@@ -135,7 +136,7 @@ layout: single
         <strong>Haitao Mao*</strong>, Lixin Zou*, Xiaokai Chu, Jiliang Tang, Shuaiqiang Wang, Wenwen ye, Dawei yin. <br>
         <strong>NeurIPS 2022 Datasets & Benchmarks Track</strong> <br> 
         <font color="green">Work During Internship in Baidu</font> <br>
-        [<a href="https://arxiv.org/abs/2207.03051">pdf</a>]
+        [<a href="https://arxiv.org/abs/2207.03051">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section21">Short Summary</a>]
         [<a href="https://github.com/ChuXiaokai/baidu_ultr_dataset">Code1</a>]
         [<a href="https://github.com/ChuXiaokai/WSDMCUP_BaiduPLM_Paddle">Code2</a>]
         [<a href="https://searchscience.baidu.com/dataset.html">Dataset Homepage2</a>]
@@ -147,7 +148,7 @@ layout: single
         <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Shi Han, Dongmei Zhang <br>
         <strong><font color="red">WSDM 2024 Best Paper Honor Mention (3/615)</font></strong> <br>
         <font color="green">Work During Internship in Microsoft Research Asia</font> <br>
-        [<a href="https://arxiv.org/abs/2112.00955.pdf">pdf</a>]
+        [<a href="https://arxiv.org/abs/2112.00955.pdf">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section11">Short Summary</a>]
         [<a href="https://haitaomao.github.io/categories/sourcefree/">Blog</a>]
         [<a href="https://github.com/HaitaoMao/SOGA">Code</a>]
     </p>  
@@ -158,7 +159,7 @@ layout: single
         <strong>Haitao Mao*</strong>, Lun Du*, Qiang Fu*, Xu Chen*, Wei Fang, Shi Han, Dongmei Zhang <br>
         <strong>NeurIPS2022</strong><br> 
         <font color="green">Work During Internship in Microsoft Research Asia</font> <br>
-        [<a href="https://arxiv.org/abs/2111.15414.pdf">pdf</a>]
+        [<a href="https://arxiv.org/abs/2111.15414.pdf">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section24">Short Summary</a>]
         [<a href="https://github.com/HaitaoMao/Neuron-with-Steady-Response-Leads-to-Better-Generalization">Code</a>] 
         [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/NSR-AITIME.pdf">Slides</a>]
         [<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202022/54444.png?t=1668603047.5147302">Poster</a>]
@@ -166,11 +167,11 @@ layout: single
     </li>
     <li>
       <p>
-        <strong> Neuron Campaign for Initialization Guided by Information Bottleneck Theory </strong><br>
+        <strong>Neuron Campaign for Initialization Guided by Information Bottleneck Theory </strong><br>
         <strong>Haitao Mao*</strong>, Xu Chen*, Qiang Fu*, Lun Du*, Shi Han, Dongmei Zhang <br>
         <font color="red"><strong>CIKM2021 Best Short Paper (1/626)</strong></font><br>
         <font color="green">Work During Internship in Microsoft Research Asia</font> <br>
-        [<a href="https://arxiv.org/abs/2108.06530.pdf">pdf</a>]
+        [<a href="https://arxiv.org/abs/2108.06530.pdf">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section24">Short Summary</a>]
         [<a href="https://github.com/HaitaoMao/Neuron-Campaign-for-Initialization-Guided-by-Information-Bottleneck-Theory">Code</a>]
         [<a href="https://haitaomao.github.io/categories/neuronCampaign/">Blog</a>]
         [<a href="https://github.com/haitaomao/haitaomao.github.io/blob/master/_files/CIKM2021/AITime%20CIKM21%20-%20Neuron%20Campaign.pdf">Slides</a>]
@@ -186,7 +187,7 @@ layout: single
             <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Jingzhe Liu, Yu Song, Bingheng Li, Wei Jin, Bahare Fatemi, Anton Tsitsulin, Bryan Perozzi, Hui Liu, Jiliang Tang <br>
             <font color="green">collaboration with Google</font> <br>
             <strong>NeurIPS 2024 Dataset & Benchmark Track</strong><br>
-            [<a href="https://arxiv.org/abs/2406.10727">pdf</a>][<a href="https://github.com/CurryTang/TSGFM">Code</a>]
+            [<a href="https://arxiv.org/abs/2406.10727">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section12">Short Summary</a>][<a href="https://github.com/CurryTang/TSGFM">Code</a>]
         </p>
     </li>
   <li>
@@ -195,7 +196,7 @@ layout: single
           <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang <br>
           <strong>SIGKDD Explorations 2023</strong> <br>
           <font color="green">Collaboration with Baidu</font> <br>
-          [<a href="https://arxiv.org/abs/2307.03393.pdf">pdf</a>]
+          [<a href="https://arxiv.org/abs/2307.03393.pdf">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section12">Short Summary</a>]
           [<a href="https://github.com/CurryTang/Graph-LLM">Code</a>]
           [<a href="https://www.cse.msu.edu/~tangjili/talks/LLMs-LOG.pdf">Slides</a>]
         </p>
@@ -206,7 +207,7 @@ layout: single
             <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Hongzhi Wen, Haoyu Han, Wei Jin, Haiyang Zhang, Hui Liu, Jiliang Tang <br>
             <strong>ICLR 2024</strong> <br> 
             <font color="green">Collaboration with Amazon</font> <br>
-            [<a href="https://arxiv.org/abs/2310.04668.pdf">pdf</a>]
+            [<a href="https://arxiv.org/abs/2310.04668.pdf">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section12">Short Summary</a>]
             [<a href="https://github.com/CurryTang/LLMGNN">Code</a>]
             [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/LABELFREE.pdf">Slides</a>]
         </p>

@@ -2,14 +2,14 @@
 title: Research Summary
 layout: category
 permalink: /categories/ResearchSummary/
-taxonomy: Research Summary of my PhD Research
+taxonomy: Research Summary of My PhD Research
 ---
 
 # What is the role of graphs in the Age of Foundation Models
 
-Hello, this is Haitao, a final-year Ph.D. candidate at Michigan State University, <font color="red">I am actively seeking industry position starting around May 2025.</font> My research interests include Graph Machine Learning, Recommender System, Large Language Model, and Information Retrieval. More Details can be found in my [CV](https://drive.google.com/file/d/1mQguPsi5dnD9vnwu1Fz9DWOG1Sdg8ShQ/view?usp=sharing), [Research Statement](https://drive.google.com/file/d/1DycBQkBdTCmZOWh9WHNo6gNrALHmDLfe/view?usp=sharing), and [Talk Slides](https://drive.google.com/file/d/1RSfGXJAC11c3wc9Gduqg-SoMJ8qfbh7N/view?usp=sharing). If you know of any relevant openings, I would greatly appreciate your consideration. Thank you!  This article highlights my research contributions and offers an overview of my work. 
+Hello, this is Haitao, a final-year Ph.D. candidate at Michigan State University, <font color="red">I am actively seeking industry position starting around May 2025.</font> My research interests include Graph Machine Learning, Recommender System, Large Language Model, and Information Retrieval. More Details can be found in my [Resume](https://drive.google.com/file/d/1mQguPsi5dnD9vnwu1Fz9DWOG1Sdg8ShQ/view?usp=sharing), [Research Statement](https://drive.google.com/file/d/1DycBQkBdTCmZOWh9WHNo6gNrALHmDLfe/view?usp=sharing), and [Talk Slides](https://drive.google.com/file/d/1RSfGXJAC11c3wc9Gduqg-SoMJ8qfbh7N/view?usp=sharing). If you know of any relevant openings, I would greatly appreciate your consideration. Thank you!  This article highlights my research contributions and offers an overview of my work. 
 
-Graphs describe complicated relationships between different instances, revealing how data instances are interconnected and uncovering collective patterns which are difficult to express with a single element. I have experienced many real-world graph usage, including relationships between cells in the tabular data, primary-foreign key connection in relational database, and how user behaviors are influenced by search engine result pages. However, due to the distinct graph characteristics in varioußs domains, most existing solutions require careful domain-specific architecture designs and train from scratch on each application. It leads to an expertise-intensive process of graph modeling, hindering generalization across graphs from different domains with varying properties. 
+Graphs describe complicated relationships between different instances, revealing how data instances are interconnected and uncovering collective patterns which are difficult to express with a single element. I have experienced many real-world graph usage, including relationships between cells in the tabular data, primary-foreign key connection in relational database, and how user behaviors are influenced by search engine result pages. However, due to the distinct graph characteristics in various domains, most existing solutions require careful domain-specific architecture designs and train from scratch on each application. It leads to an expertise-intensive process of graph modeling, hindering generalization across graphs from different domains with varying properties. 
 
 The era of Foundation Models (FMs) brings versatile model capabilities that reduce the requirement for training from scratch. FMs aim to recognize foundational patterns, enabling models to transfer knowledge across data from different domains and adapt to a wide range of tasks. In this context, two questions arises at the heart of my research: (1) Can graph have similar versatile models requiring less expertise designs? (2) Can graph enhance the utilization of existing foundation models in other modalities?
 
@@ -75,7 +75,9 @@ With the emergence of ChatGPT’s powerful yet largely unexplored capabilities(a
 
 
 [1] [Exploring the potential of large language models (llms) in learning on graphs](https://arxiv.org/abs/2307.03393), Zhikai Chen, Haitao Mao et al., KDD Exploration 2024
+
 [2] [Label-free Node Classification on Graphs with Large Language Models (LLMs)](https://arxiv.org/abs/2310.04668), Zhikai Chen, Haitao Mao et al., ICLR 2024
+
 [3] [Text-space Graph Foundation Models: A Comprehensive Benchmark and New Insights](https://arxiv.org/abs/2406.10727), Zhikai Chen, Haitao Mao et al., NeurIPS 2024 DB track
 
 <div id="section13"></div>
@@ -223,6 +225,7 @@ My research maintains industry connections through internships at Microsoft, Sna
   - **Unbiased Learning Algorithm**: Implement an algorithm to mitigate confounding biases by applying importance reweighting to the learned user behavior model. 
 
 [1] [A Large Scale Search Dataset for Unbiased Learning to Rank](https://arxiv.org/abs/2207.03051), Haitao Mao et al., NeurIPS 2022 
+
 [2] [Whole Page Unbiased Learning to Rank](https://arxiv.org/abs/2210.10718), Haitao Mao et al., WebConference 2024 
 
 
@@ -269,6 +272,7 @@ Neural networks, with their vast parameter scale, often suffer from slow and pot
 - **Results**: promotes a more stable training process, leading to faster convergence and improved generalization across tasks.
 
 [1] [Neuron Campaign for Initialization Guided by Information Bottleneck Theory](https://arxiv.org/abs/2108.06530), Haitao Mao et al., CIKM 2021 Best Paper Award
+
 [2] [Neuron with Steady Response Leads to Better Generalization](https://arxiv.org/abs/2111.15414), Haitao Mao et al., NeurIPS 2022 
 
 
@@ -277,6 +281,7 @@ Neural networks, with their vast parameter scale, often suffer from slow and pot
 ## LLM Mechanism Analysis for more reliable LLM outputs
 <!-- Despite impressive capabilities of LLMs, limitation can be found with superficial LLM responses. My research focuses on understanding this limitation and developing methods to achieve more reliable LLM outputs. -->
 
+<div id="section31"></div>
 
 #### ICL Mechanism Analysis
 
@@ -312,6 +317,8 @@ Neural networks, with their vast parameter scale, often suffer from slow and pot
 The pretraining stage can be interpreted as learning the data generation function classes underlying pretraining corpus, where xxx objectives that allow us learn the data generation functions. Similarly, the ICL stage can be considered as a label generation process given the query inputs. Therefore, adopting this data generation perspective enables a unified framework through which we can cohesively analyze both pretraining and ICL stages, offering a holistic approach to understanding the foundations of LLMs.
 -->
 
+<div id="section32"></div>
+
 #### Convergence guarantee on iteratively applying intrinsic self-correction
 
 - **Intrinsic self-correction ability**: LLMs can improve their responses when instructed with only the task's goal without specific details about potential issues in the response
@@ -342,6 +349,7 @@ The pretraining stage can be interpreted as learning the data generation functio
   - LLMs tend to append additional non-toxic text to previous responses but not modify previous responses
  -->
 [1] [Intrinsic Self-correction for Enhanced Morality: An Analysis of Internal Mechanisms and the Superficial Hypothesis](https://arxiv.org/abs/2407.15286), Guanliang Liu, Haitao Mao et al., EMNLP 2024 
+
 [2] [On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept](https://arxiv.org/abs/2406.02378), Haitao Mao et al., 2024 
 
 
