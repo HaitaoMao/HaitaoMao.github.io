@@ -13,7 +13,7 @@ layout: single
           <strong>Haitao Mao</strong>*, <u>Zhikai Chen</u>*, <u>Wenzhuo Tang</u>, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang <br>
           <strong>ICML 2024 <font color="red">Spotlight (335/9473) </font>  </strong><br> 
           <font color="green">Collaboration with SnapChat and Intel</font> <br>
-          [<a href="https://arxiv.org/pdf/2402.02216.pdf">pdf</a>]
+          [<a href="https://arxiv.org/abs/2402.02216">pdf</a>]
           [<a href="https://towardsdatascience.com/foundation-models-in-graph-geometric-deep-learning-f363e2576f58">Primary Blog</a>]
           [<a href="https://medium.com/@jeongiitae/graph-foundation-models-8cca5d31ddb9">Blog</a>]  
           [<a href="https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-">Reading List 1</a>]
@@ -39,7 +39,7 @@ layout: single
             <strong>Haitao Mao</strong>, <u>Juanhui Li</u>, Harry Shomer, <u>Bingheng Li</u>, Wenqi Fan, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
             <strong>ICLR 2024</strong>  <br>
             <font color="green">Collaboration with SnapChat</font> <br>
-            [<a href="https://arxiv.org/pdf/2310.00793.pdf">pdf</a>]
+            [<a href="https://arxiv.org/abs/2310.00793.pdf">pdf</a>]
             [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/LinkPrediction.pdf">Slides</a>] 
             [<a href="https://www.bilibili.com/video/BV1jj411s7h5/?spm_id_from=333.999.0.0&vd_source=85bb42770c1036d2fc85b057595f1054">Video</a>]
         </p>
@@ -49,7 +49,7 @@ layout: single
             <strong>Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models</strong><br>
             <u>Wenzhuo Tang*</u>, <strong>Haitao Mao*</strong>, Danial Dervovic, Ivan Brugere, Saumitra Mishra, Yuying Xie, Jiliang Tang<br>
             <font color="green">Collaboration with JP Morgan</font> <br>
-            preprint [<a href="https://arxiv.org/pdf/2406.01899">pdf</a>]
+            preprint [<a href="https://arxiv.org/abs/2406.01899">pdf</a>]
         </p>
     </li>
     <li>
@@ -64,7 +64,7 @@ layout: single
           <strong>Neural Scaling Law on Graph</strong><br>
           <u>Jingzhe Liu</u>, <strong>Haitao Mao</strong>, <u>Zhikai Chen</u>, Tong Zhao, Neil Shah, Jiliang Tang <br>
           <font color="green">Collaboration with SnapChat</font> <br>
-          Preprint [<a href="https://arxiv.org/pdf/2402.02054.pdf">pdf</a>][<a href="https://github.com/Liu-Jingzhe/graph-scaling-laws">code</a>]
+          Preprint [<a href="https://arxiv.org/abs/2402.02054.pdf">pdf</a>][<a href="https://github.com/Liu-Jingzhe/graph-scaling-laws">code</a>]
           [<a href="https://medium.com/@jeongiitae/neural-scaling-laws-on-graphs-do-you-believe-is-there-strong-related-between-model-data-size-ebd139778928">Blog</a>]  
       </p>
     </li> 
@@ -76,21 +76,21 @@ layout: single
       <p>
         <strong>Intrinsic Self-correction for Enhanced Morality: An Analysis of Internal Mechanisms and the Superficial Hypothesis</strong> <br>
         Guangliang Liu, <strong>Haitao Mao</strong>, Jiliang Tang, Kristen Johns.<br>
-        EMNLP 2024 <br> [<a href="https://arxiv.org/pdf/2407.15286">pdf</a>]
+        EMNLP 2024 <br> [<a href="https://arxiv.org/abs/2407.15286">pdf</a>]
       </p>
   </li>
   <li>
       <p>
         <strong>On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept </strong> <br>
         <strong>Haitao Mao*</strong>, Guangliang Liu*, Bochuan Cao, Zhiyu Xue, Kristen Johnson, Jiliang Tang, Rongrong Wang<br>
-        Preprint [<a href="https://arxiv.org/pdf/2406.02378">pdf</a>]
+        Preprint [<a href="https://arxiv.org/abs/2406.02378">pdf</a>]
       </p>
   </li>
   <li>
       <p>
         <strong>A Data Generation Perspective to the Mechanism of In-Context Learning </strong> <br>
         <strong>Haitao Mao</strong>, Guangliang Liu, Yao Ma, Rongrong Wang, Jiliang Tang <br>
-        Preprint [<a href="https://arxiv.org/pdf/2402.02212">pdf</a>]
+        Preprint [<a href="https://arxiv.org/abs/2402.02212">pdf</a>]
       </p>
   </li>
 </ul>
@@ -112,7 +112,7 @@ layout: single
           <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang <br>
           <strong>SIGKDD Explorations 2023</strong> <br>
           <font color="green">Collaboration with Baidu</font> <br>
-          [<a href="https://arxiv.org/pdf/2307.03393.pdf">pdf</a>]
+          [<a href="https://arxiv.org/abs/2307.03393.pdf">pdf</a>]
           [<a href="https://github.com/CurryTang/Graph-LLM">Code</a>]
           [<a href="https://www.cse.msu.edu/~tangjili/talks/LLMs-LOG.pdf">Slides</a>]
         </p>
@@ -123,7 +123,7 @@ layout: single
             <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Hongzhi Wen, Haoyu Han, Wei Jin, Haiyang Zhang, Hui Liu, Jiliang Tang <br>
             <strong>ICLR 2024</strong> <br> 
             <font color="green">Collaboration with Amazon</font> <br>
-            [<a href="https://arxiv.org/pdf/2310.04668.pdf">pdf</a>]
+            [<a href="https://arxiv.org/abs/2310.04668.pdf">pdf</a>]
             [<a href="https://github.com/CurryTang/LLMGNN">Code</a>]
             [<a href="https://github.com/HaitaoMao/HaitaoMao.github.io/blob/master/_files/LABELFREE.pdf">Slides</a>]
         </p>
@@ -139,14 +139,14 @@ layout: single
         <p>
             <strong>Universal Link Predictor by In-Context Learning on Graphs</strong><br>
             <u>Kaiwen Dong</u>, <strong>Haitao Mao</strong>, Zhichun Guo, Nitesh Chewla<br>
-            Preprint [<a href="https://arxiv.org/pdf/2402.07738.pdf">pdf</a>]
+            Preprint [<a href="https://arxiv.org/abs/2402.07738.pdf">pdf</a>]
         </p>
     </li>
   <li>
       <p>
           <strong>Graph Machine Learning in the Era of Large Language Models (LLMs)</strong><br>
           Wenqi Fan, Shijie Wang, Jiani Huang, Zhikai Chen, Yu Song, Wenzhuo Tang,<br> <strong>Haitao Mao</strong>, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li<br>
-          [<a href="https://arxiv.org/pdf/2404.14928">pdf</a>]
+          [<a href="https://arxiv.org/abs/2404.14928">pdf</a>]
       </p>
     </li>
       <li>
@@ -154,7 +154,7 @@ layout: single
           <strong>LPFormer: An Adaptive Graph Transformer for Link Prediction</strong><br>
           Harry Shomer, Yao Ma, <strong>Haitao Mao</strong>,  Juanhui Li, Bo Wu, Jiliang Tang <br>
           <strong>KDD 2024</strong> <br>  
-          [<a href="https://arxiv.org/pdf/2310.11009.pdf">pdf</a>]
+          [<a href="https://arxiv.org/abs/2310.11009.pdf">pdf</a>]
           [<a href="https://github.com/HarryShomer/LPFormer">Code</a>]
       </p>
     </li>
@@ -168,7 +168,7 @@ layout: single
       <p>
           <strong>Whole Page Unbiased Learning to Rank </strong><br>
           <strong>Haitao Mao</strong>, Lixin Zou, Yujia Zheng, Jiliang Tang, Xiaokai Chu, Jiashu Zhao, Dawei Yin <br> 
-          <strong> WebConference 2024</strong> <font color="red"><strong>Oral </strong> <strong>(198/2,008)</strong> </font> [<a href="https://arxiv.org/pdf/2210.10718.pdf">pdf</a>]<br>
+          <strong> WebConference 2024</strong> <font color="red"><strong>Oral </strong> <strong>(198/2,008)</strong> </font> [<a href="https://arxiv.org/abs/2210.10718.pdf">pdf</a>]<br>
           <font color="green">Work During Internship in Baidu</font> <br>
       </p>
     </li>
@@ -183,7 +183,7 @@ layout: single
         <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Shi Han, Dongmei Zhang <br>
         <strong><font color="red">WSDM 2024 Best Paper Honor Mention (3/615)</font></strong> <br>
         <font color="green">Work During Internship in Microsoft Research Asia</font> <br>
-        [<a href="https://arxiv.org/pdf/2112.00955.pdf">pdf</a>]
+        [<a href="https://arxiv.org/abs/2112.00955.pdf">pdf</a>]
         [<a href="https://haitaomao.github.io/categories/sourcefree/">Blog</a>]
         [<a href="https://github.com/HaitaoMao/SOGA">Code</a>]
     </p>  
@@ -197,7 +197,7 @@ layout: single
           <strong>PDHG-Unrolled Learning-to-Optimize Method for Large-Scale Linear Programming</strong><br>
           Bingheng Li, Linxin Yang, Yupeng Chen, Senmiao Wang, Qian Chen, <strong>Haitao Mao</strong>, Yao Ma, Akang Wang, Tian Ding, Jiliang Tang, Ruoyu Sun <br>
           <strong>ICML 2024</strong><br> 
-          [<a href="https://openreview.net/pdf?id=2cXzNDe614">pdf</a>]
+          [<a href="https://arxiv.org/abs/2406.01908">pdf</a>]
       </p>
     </li>
 </ul>
@@ -211,7 +211,7 @@ layout: single
         Yanci Zhang, Yutong Lu, <strong>Haitao Mao</strong>, Jiawei Huang, Cien Zhang, Xinyi Li, Rui Dai <br>
         <strong>MAF 2024</strong> <br>
         <font color="green">Collaboration with Wharton Data Center</font> <br>
-        [<a href="https://arxiv.org/pdf/2304.00323.pdf">pdf</a>]<br>
+        [<a href="https://arxiv.org/abs/2304.00323.pdf">pdf</a>]<br>
       </p>
     </li>
   <li>
@@ -219,7 +219,7 @@ layout: single
         <strong> Form 10-K Itemization </strong> <br>
         Yanci Zhang, Mengjia Xia, Mingyang Li, <strong>Haitao Mao</strong>, Yutong Lu, Yupeng Lan, Jinlin Ye, Rui Dai <br>
         <font color="green">Collaboration with Wharton Data Center</font> <br>
-        Preprint [<a href="https://arxiv.org/pdf/2303.04688.pdf">pdf</a>]
+        Preprint [<a href="https://arxiv.org/abs/2303.04688.pdf">pdf</a>]
       </p>
     </li>
 </ul>

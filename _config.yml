@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Open to work"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Haitao Mao (Seeking full-time industry job)"
+name                     : "Haitao Mao (Seeking full time industry job)"
 description              : "PhD@MSU, Expected Graduate in May 2025."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ words_per_minute         : 200
 
 # Site Author
 author:
-  name             : "Haitao Mao (Seeking full-time industry job)"
+  name             : "Haitao Mao (Seeking full time industry job)"
   avatar           : https://z3.ax1x.com/2021/11/10/Iaxkxe.jpg
   bio              : "PhD@MSU, Expected Graduate in May 2025."
   location         : "United State, East Lansing"
