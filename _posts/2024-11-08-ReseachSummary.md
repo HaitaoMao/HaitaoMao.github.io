@@ -54,6 +54,19 @@ Revolving on this questions, my research are three folds:
 - **Algorithm Solution:** leveraging non-i.i.d. relationships between nodes in the target graph to adapt the initial discriminative ability from the source domain. Two structural proximity objectives are proposed to enhance prediction consistency.
 - **Conclusion**: GNNs are not robust across graphs with structural shifts. 
 
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="http://yjzheng.com/images/SOGA2.png">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">the source training procedure and labeled source graph in the shadow box are not accessible. Our  algorithm only includes the left dashed box describing the adaptation procedure. SOGA utilizes the output of the model on the unlabeled target graph to optimize two objectives: Information Maximization and Structure Consistency to adapt the model on the target domain.</div>
+</center>
+
+
+
 My further research reveals that most GNNs struggle to capture (i) both homophily and heterophily patterns simultaneously and (ii) long-range dependency, such as PPR and Katz pattern. These observations motivate me to explore alternative solutions that could replace GNNs without above limitations. My first try is efficient MLP with graph regularization, but it fails after multiple tries. 
 
 [1] [Source Free Graph Unsupervised Domain Adaptation](https://arxiv.org/abs/2112.00955), Haitao Mao et al. WSDM 2024 Best Paper Honor Mention
@@ -79,6 +92,16 @@ With the emergence of ChatGPT’s powerful yet largely unexplored capabilities(a
   - Select representative nodes for LLM to annnotation
   - Utilize LLM predictions as pseudo-labels to train downstream GNNs.
 
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://img.picui.cn/free/2024/11/10/67304c28391c6.png">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Illustration of LLMs for Graph ML.</div>
+</center>
 
 [1] [Exploring the potential of large language models (llms) in learning on graphs](https://arxiv.org/abs/2307.03393), Zhikai Chen, Haitao Mao et al., KDD Exploration 2024
 
@@ -107,6 +130,17 @@ Since the success of LLMs cannot be directly applied to the graph domain, I pion
   - GNNs can capture LSP well while they struggle on graphs with GSP patterns
   - the traditional Katz heuristic surpasses GNNs by 10% in a power network.
 
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://img.picui.cn/free/2024/11/10/6730487983cc1.png">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Local Structural Proximity (LSP) and Global Structural Proximity (GSP) are two fundamental structural patterns. LSP is more effective while GSP plays the role when LSP is absent.</div>
+</center>
+
 [1] [Revisiting Link Prediction: A Data Perspective](https://arxiv.org/abs/2310.00793), Haitao Mao et al., ICLR 2024 
 
 
@@ -126,6 +160,17 @@ Since the success of LLMs cannot be directly applied to the graph domain, I pion
   - Directly applicable learned representations for downstream tasks.
   - Generate effective data augmentation, improving node classification, link prediction, and graph regression performance.
   - Generates synthetic graphs with varied properties, allowing comprehensive GNN performance evaluation.
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://img.picui.cn/free/2024/11/10/6730487926856.png">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">GNNs fail to capture GSP pattern with a discriminative approach easily over-rely on one pattern. The structural GFM adopt the generative approach achieves more comprehensive graph modeling.</div>
+</center>
 
 [1] [Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models](https://arxiv.org/abs/2406.01899), Haitao Mao et al., 2024 
 
@@ -155,6 +200,17 @@ Beyond essential structural patterns common to all graphs, many graphs offer hig
   - The symmetries on homophily and heterophily patterns differ through mean aggregation
 - **The failure of GNN**: GNN can work on either homophily or heterophily, but underperform on the other side
 
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://img.picui.cn/free/2024/11/10/673048790633a.png">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Homophily and heterophily are two fundamental feature patterns. GNNs often excel at one but struggle with the other. The challenge stems from different feature symmetries on different patterns: after message passing, homophily node features stay consistent while heterophily node features flip, which challenges for GNNs to handle both effectively.</div>
+</center>
+
 [1] [Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?](https://arxiv.org/abs/2306.01323), Haitao Mao et al., NeurIPS 2023 
 
 
@@ -170,6 +226,17 @@ Beyond essential structural patterns common to all graphs, many graphs offer hig
 - **Results**: 
     - **Selective Attention Mechanism** with high weights on useful neighbor nodes
     - **Satisfied few-shot performance** comparable with full supervised learning
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://img.picui.cn/free/2024/11/10/673048795744e.png">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">The feature-centric GFM employs transformers with a feature-driven approach for selecting relevant neighborhoods. To enhance neighbor selection, I convert node features into textual representations, enabling high-quality embeddings. Masked node modeling is then applied over 100 million instances, ensuring a comprehensive feature learning.</div>
+</center>
 
 [1] [A Pure Transformer Pretraining Framework on Text-attributed Graphs](https://arxiv.org/abs/2406.13873), Yu Song, Haitao Mao et al., 2024 
 
@@ -233,6 +300,17 @@ My research maintains industry connections through internships at Microsoft, Sna
     - **Graph Structure Learning** to capture biases from diverse SERP features in a data-driven approach, adapting to the unique characteristics of each feature.
   - **Unbiased Learning Algorithm**: Implement an algorithm to mitigate confounding biases by applying importance reweighting to the learned user behavior model. 
 
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://img.picui.cn/free/2024/11/10/67304c28c2be4.png">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;"> (a) A demo explanation of rich page presentation information in Baidu-ULTR. There are 8 presentation features that start from D1 to D8. (b) A demo explanation of rich user behaviors in Baidu-ULTR. There are 18 user behaviors starting from U1 to U18. </div>
+</center>
+
 [1] [A Large Scale Search Dataset for Unbiased Learning to Rank](https://arxiv.org/abs/2207.03051), Haitao Mao et al., NeurIPS 2022 
 
 [2] [Whole Page Unbiased Learning to Rank](https://arxiv.org/abs/2210.10718), Haitao Mao et al., WebConference 2024 
@@ -267,6 +345,7 @@ Ongoing project explores a novel approach for cross-domain recommendation by lev
 ### 4. Accelerate and Stabilize Neural Network training through insights on neuron relationship
 
 Neural networks, with their vast parameter scale, often suffer from slow and potentially unstable training. Reducing training resource requirements remains a key practical challenge. During my internship at Microsoft, I introduced a novel perspective centered on individual neurons, inspired by the insight that permutations of hidden neurons within the same layer leave the input-output mapping unchanged. By treating each neuron as a fundamental unit of analysis, I modified neuron-specific behaviors to improve both training efficiency and stability.
+
 
 **Neuron Campaign Strategy for Accelerating training procedure** 
 - **Goal**: An initialization can promote model convergence, instead of only preventing training failure, e.g., gradient vanishing or explosion.
@@ -343,6 +422,18 @@ The pretraining stage can be interpreted as learning the data generation functio
 - **Remaining Challenges**: While skill recognition helps align LLM responses with calibrated abilities, it primarily taps into the model's existing, pre-trained skills. Due to the inherent limitations of these capabilities, the improvements often remain superficial:
   - **Incomplete Correction**: Self-correction struggles to fully eliminate undesirable content embedded in intermediate hidden states.
   - **Superficial Modification**: LLMs typically add non-toxic text to the original response instead of genuinely revising problematic parts.
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://img.picui.cn/free/2024/11/10/67304c286b0da.png">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;"> (1) Superficial: LLMs tend to append non-toxic text but do not modify previous responses (2)Convergence: Instruction reduces model uncertainty and improves positive concept, guiding LLMs to converged less toxic performance.</div>
+</center>
+
 
 <!--
 #### Convergence guarantee on iteratively applying intrinsic self-correction
