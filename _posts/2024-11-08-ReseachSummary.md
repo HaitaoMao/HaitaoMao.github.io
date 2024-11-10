@@ -57,12 +57,12 @@ Revolving on this questions, my research are three folds:
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="http://yjzheng.com/images/SOGA2.png">
+    src="https://picx.zhimg.com/80/v2-1ea22be2a5cc4bcccb40dcf88dc5b788_1440w.png">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">the source training procedure and labeled source graph in the shadow box are not accessible. Our  algorithm only includes the left dashed box describing the adaptation procedure. SOGA utilizes the output of the model on the unlabeled target graph to optimize two objectives: Information Maximization and Structure Consistency to adapt the model on the target domain.</div>
+    padding: 2px;">The source training procedure and labeled source graph in the shadow box are not accessible. Our  algorithm only includes the left dashed box describing the adaptation procedure. SOGA utilizes the output of the model on the unlabeled target graph to optimize two objectives: Information Maximization and Structure Consistency to adapt the model on the target domain.</div>
 </center>
 
 
@@ -346,6 +346,17 @@ Ongoing project explores a novel approach for cross-domain recommendation by lev
 
 Neural networks, with their vast parameter scale, often suffer from slow and potentially unstable training. Reducing training resource requirements remains a key practical challenge. During my internship at Microsoft, I introduced a novel perspective centered on individual neurons, inspired by the insight that permutations of hidden neurons within the same layer leave the input-output mapping unchanged. By treating each neuron as a fundamental unit of analysis, I modified neuron-specific behaviors to improve both training efficiency and stability.
 
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://img.picui.cn/free/2024/11/10/67304c27c2425.png">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Permute neuron ids does not change the input-output mapping
+    </div>
+</center>
 
 **Neuron Campaign Strategy for Accelerating training procedure** 
 - **Goal**: An initialization can promote model convergence, instead of only preventing training failure, e.g., gradient vanishing or explosion.
