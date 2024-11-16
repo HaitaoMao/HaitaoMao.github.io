@@ -5,7 +5,12 @@ layout: single
 ---
 
 I am a final-year Ph.D. candidate at Michigan State University (MSU) supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). <font color="red">I am actively seeking industry position starting around May 2025.</font> 
-My research interests include Graph Machine Learning, Recommender System, Large Language Model, and Information Retrieval. More Details can be found in my [Resume](https://drive.google.com/file/d/1mQguPsi5dnD9vnwu1Fz9DWOG1Sdg8ShQ/view?usp=sharing), [Research Statement](https://drive.google.com/file/d/1DycBQkBdTCmZOWh9WHNo6gNrALHmDLfe/view?usp=sharing), and [Talk Slides](https://drive.google.com/file/d/1RSfGXJAC11c3wc9Gduqg-SoMJ8qfbh7N/view?usp=sharing). If you know of any relevant openings, I would greatly appreciate your consideration! 
+My research interests include Graph Machine Learning, Recommender System, Large Language Model, and Information Retrieval. If you know of any relevant openings, I would greatly appreciate your consideration! More Details can be found in:
+
+- [Resume](https://drive.google.com/file/d/1mQguPsi5dnD9vnwu1Fz9DWOG1Sdg8ShQ/view?usp=sharing)
+- [Research Statement](https://drive.google.com/file/d/1DycBQkBdTCmZOWh9WHNo6gNrALHmDLfe/view?usp=sharing)
+- [Talk Slides](https://drive.google.com/file/d/1RSfGXJAC11c3wc9Gduqg-SoMJ8qfbh7N/view?usp=sharing)
+- [Research Blog](https://haitaomao.github.io/categories/ResearchSummary/)
 
 **My academic research** focuses on (i) developing **versatile graph models** rooted in network science, to achieve strong generalization and broad downstream graph applicability. (ii) **LLM mechanism analysis** to enhance output reliability.
 

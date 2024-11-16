@@ -79,7 +79,7 @@ layout: single
         <p>
             <strong>A Pure Transformer Pretraining Framework on Text-attributed Graphs</strong><br>
             <u>Yu Song</u>, <strong>Haitao Mao</strong>, Jiachen Xiao, Jingzhe Liu, Zhikai Chen, Wei Jin, Carl Yang, Jiliang Tang, Hui Liu<br>
-            Preprint [<a href="https://arxiv.org/abs/2406.13873v1">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section135">Short Summary</a>]
+            <strong>LoG 2024</strong> <br> [<a href="https://arxiv.org/abs/2406.13873v1">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section135">Short Summary</a>]
         </p>
     </li>
     <li>
@@ -93,7 +93,8 @@ layout: single
         <p>
             <strong>Do Neural Scaling Laws Exist on Graph Self-Supervised Learning</strong><br>
             <u>Qian Ma</u>, <strong>Haitao Mao</strong>, Jingzhe Liu, Zhehua Zhang, Chunlin Feng, Yu Song, Tianfan Fu, Yao Ma<br>
-            Preprint [<a href="https://arxiv.org/abs/2408.11243">pdf</a>][<a href="https://github.com/GraphSSLScaling/GraphSSLScaling">code</a>]
+            <strong>LoG 2024</strong> <br>
+            [<a href="https://arxiv.org/abs/2408.11243">pdf</a>][<a href="https://github.com/GraphSSLScaling/GraphSSLScaling">code</a>]
         </p>
     </li>
     <li>
@@ -101,7 +102,8 @@ layout: single
           <strong>Neural Scaling Law on Graph</strong><br>
           <u>Jingzhe Liu</u>, <strong>Haitao Mao</strong>, <u>Zhikai Chen</u>, Tong Zhao, Neil Shah, Jiliang Tang <br>
           <font color="green">Collaboration with SnapChat</font> <br>
-          Preprint [<a href="https://arxiv.org/abs/2402.02054.pdf">pdf</a>][<a href="https://github.com/Liu-Jingzhe/graph-scaling-laws">code</a>]
+          <strong>LoG 2024</strong> <br>
+          [<a href="https://arxiv.org/abs/2402.02054.pdf">pdf</a>][<a href="https://github.com/Liu-Jingzhe/graph-scaling-laws">code</a>]
           [<a href="https://medium.com/@jeongiitae/neural-scaling-laws-on-graphs-do-you-believe-is-there-strong-related-between-model-data-size-ebd139778928">Blog</a>]  
       </p>
     </li>
