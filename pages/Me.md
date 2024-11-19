@@ -23,7 +23,7 @@ Moreover, I was engaged in **academic-industry collaborations** between MSU and 
 
 - **[User Modeling and Personalization Team, Snap Research](https://research.snap.com/team/user-modeling-and-personalization.html) (September 2024 - now)**: 
   - Ongoing Topic: Recommender System with Generative Retrieval. 
-  - Previous Collaboration Topic: Versatile Graph Models [[NeurIPS'23]](https://arxiv.org/abs/2306.01323.pdf) [[ICLR'24]](https://arxiv.org/abs/2310.00793.pdf) [[ICML'24]](https://arxiv.org/abs/2402.02216.pdf)
+  - Previous Collaboration Topic: Versatile Graph Models [[NeurIPS'23]](https://arxiv.org/abs/2306.01323.pdf) [[ICLR'24]](https://arxiv.org/abs/2310.00793.pdf) [[ICML'24 Spotlight]](https://arxiv.org/abs/2402.02216.pdf) [[LoG'24]](https://arxiv.org/abs/2402.02054.pdf)
   - Mentors: Dr. [Neil Shah](https://nshah.net/), Dr. [Tong Zhao](https://tzhao.io/), and Dr. [Clark Ju](https://jumxglhf.github.io/)
 - **[Search Strategy Team, Baidu Inc](https://searchscience.baidu.com/) (March, 2022 - September, 2022)** 
   - Topic: Text-rich Unbiased Learning to Rank Algorithm [[NeurIPS'22]](https://arxiv.org/abs/2307.09688.pdf) [[Webconf'24 Oral]](https://arxiv.org/abs/2210.10718.pdf)
