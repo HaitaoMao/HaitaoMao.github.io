@@ -19,14 +19,16 @@ layout: single
       <p>
         <strong>On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept </strong> <br>
         <strong>Haitao Mao*</strong>, Guangliang Liu*, Bochuan Cao, Zhiyu Xue, Kristen Johnson, Jiliang Tang, Rongrong Wang<br>
-        Preprint [<a href="https://arxiv.org/abs/2406.02378">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section32">Short Summary</a>]
+        Preprint <br>
+        [<a href="https://arxiv.org/abs/2406.02378">pdf</a>][<a href="https://github.com/HaitaoMao/LLM-self-correction">code</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section32">Short Summary</a>]
       </p>
   </li>
   <li>
       <p>
         <strong>A Data Generation Perspective to the Mechanism of In-Context Learning </strong> <br>
         <strong>Haitao Mao</strong>, Guangliang Liu, Yao Ma, Rongrong Wang, Jiliang Tang <br>
-        Preprint [<a href="https://arxiv.org/abs/2402.02212">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section32">Short Summary</a>]
+        Preprint <br>
+        [<a href="https://arxiv.org/abs/2402.02212">pdf</a>][<a href="https://github.com/HaitaoMao/Awesome-LLM-Mechanism-Analysis">Reading List</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section32">Short Summary</a>]
       </p>
   </li>
 </ul>
@@ -45,7 +47,7 @@ layout: single
   <li>
       <p>
           <strong>Position: Graph Foundation Models Are Already Here</strong><br>
-          <strong>Haitao Mao</strong>*, <u>Zhikai Chen</u>*, <u>Wenzhuo Tang</u>, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang <br>
+          <strong>Haitao Mao</strong>*, <u>Zhikai Chen</u>*, Wenzhuo Tang, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin, Jiliang Tang <br>
           <strong>ICML 2024 <font color="red">Spotlight (335/9473) </font>  </strong><br> 
           <font color="green">Collaboration with SnapChat and Intel</font> <br>
           [<a href="https://arxiv.org/abs/2402.02216.pdf">pdf</a>]
@@ -57,7 +59,7 @@ layout: single
     <li>
         <p>
             <strong>Revisiting Link Prediction: A Data Perspective</strong><br>
-            <strong>Haitao Mao</strong>, <u>Juanhui Li</u>, Harry Shomer, <u>Bingheng Li</u>, Wenqi Fan, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
+            <strong>Haitao Mao</strong>, Juanhui Li, Harry Shomer, Bingheng Li, Wenqi Fan, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
             <strong>ICLR 2024</strong>  <br>
             <font color="green">Collaboration with SnapChat</font> <br>
             [<a href="https://arxiv.org/abs/2310.00793.pdf">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section131">Short Summary</a>]
@@ -67,7 +69,7 @@ layout: single
     <li>
       <p>
           <strong>Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?</strong><br>
-          <strong>Haitao Mao</strong>, <u>Zhikai Chen</u>, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
+          <strong>Haitao Mao</strong>, Zhikai Chen, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang <br>
           <strong>NeurIPS 2023</strong> <br>
           <font color="green">Collaboration with SnapChat</font> <br>
           [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section134">Short Summary</a>]
@@ -80,13 +82,6 @@ layout: single
             <strong>A Pure Transformer Pretraining Framework on Text-attributed Graphs</strong><br>
             <u>Yu Song</u>, <strong>Haitao Mao</strong>, Jiachen Xiao, Jingzhe Liu, Zhikai Chen, Wei Jin, Carl Yang, Jiliang Tang, Hui Liu<br>
             <strong>LoG 2024</strong> <br> [<a href="https://arxiv.org/abs/2406.13873v1">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section135">Short Summary</a>]
-        </p>
-    </li>
-    <li>
-        <p>
-            <strong>Universal Link Predictor by In-Context Learning on Graphs</strong><br>
-            <u>Kaiwen Dong</u>, <strong>Haitao Mao</strong>, Zhichun Guo, Nitesh Chewla<br>
-            Preprint [<a href="https://arxiv.org/abs/2402.07738.pdf">pdf</a>]
         </p>
     </li>
     <li>
@@ -106,6 +101,20 @@ layout: single
           [<a href="https://arxiv.org/abs/2402.02054.pdf">pdf</a>][<a href="https://github.com/Liu-Jingzhe/graph-scaling-laws">code</a>]
           [<a href="https://medium.com/@jeongiitae/neural-scaling-laws-on-graphs-do-you-believe-is-there-strong-related-between-model-data-size-ebd139778928">Blog</a>]  
       </p>
+    </li>
+    <li>
+        <p>
+            <strong>One Model for One Graph: A New Perspective for  Pretraining with Cross-domain Graphs</strong><br>
+            <u>Jingzhe Liu</u>, <strong>Haitao Mao</strong>, Zhikai Chen, Wenqi Fan, Mingxuan Ju, Tong Zhao, Neil Shah, Jiliang Tang<br>
+            Preprint [<a href="https://arxiv.org/abs/2412.00315">pdf</a>]
+        </p>
+    </li>
+    <li>
+        <p>
+            <strong>Universal Link Predictor by In-Context Learning on Graphs</strong><br>
+            <u>Kaiwen Dong</u>, <strong>Haitao Mao</strong>, Zhichun Guo, Nitesh Chewla<br>
+            Preprint [<a href="https://arxiv.org/abs/2402.07738.pdf">pdf</a>]
+        </p>
     </li>
 </ul>
 

@@ -52,6 +52,7 @@ Revolving on this questions, my research are three folds:
 - **Challenge 2: Data privacy.** Tabular data from different organizations cannot be shared due to the data privacy policy. 
 - **New Scenario Definition: Source-free Graph Domain Adaptation.** We adapt the source graph model to unlabeled target graphs without requiring access to the labeled source graph. 
 - **Algorithm Solution:** leveraging non-i.i.d. relationships between nodes in the target graph to adapt the initial discriminative ability from the source domain. Two structural proximity objectives are proposed to enhance prediction consistency.
+- **Usage**: help to annnotate tag the tabular data
 - **Conclusion**: GNNs are not robust across graphs with structural shifts. 
 
 <center>
