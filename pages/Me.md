@@ -4,7 +4,9 @@ title: ME
 layout: single
 ---
 
-I am a final-year Ph.D. candidate at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). <font color="red">I am actively seeking industry position starting around May 2025.</font> My research interests include Large Language Model, Recommender System, Information Retrieval, and Graph Machine Learning. If you know of any relevant openings, I would greatly appreciate your consideration! More Details can be found in: [Resume](https://drive.google.com/file/d/1mQguPsi5dnD9vnwu1Fz9DWOG1Sdg8ShQ/view?usp=sharing)[Research Blog](https://haitaomao.github.io/categories/ResearchSummary/)
+My resume can be found here [[Resume]](https://drive.google.com/file/d/1mQguPsi5dnD9vnwu1Fz9DWOG1Sdg8ShQ/view?usp=sharing).
+
+I am a final-year Ph.D. candidate at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). <font color="red">I am actively seeking industry position starting around May 2025.</font> My research interests include Large Language Model, Recommender System, Information Retrieval, and Graph Machine Learning. If you know of any relevant openings, I would greatly appreciate your consideration! More Details can be found in [[my research blog]](https://haitaomao.github.io/categories/ResearchSummary/)
 
 
 **My academic research** focuses on 
