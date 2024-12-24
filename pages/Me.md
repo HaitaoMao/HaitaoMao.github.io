@@ -4,10 +4,7 @@ title: ME
 layout: single
 ---
 
-I am a final-year Ph.D. candidate at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). <font color="red">I am actively seeking industry position starting around May 2025.</font> My research interests include Large Language Model, Recommender System, Information Retrieval, and Graph Machine Learning. If you know of any relevant openings, I would greatly appreciate your consideration! More Details can be found in:
-
-- [Resume](https://drive.google.com/file/d/1mQguPsi5dnD9vnwu1Fz9DWOG1Sdg8ShQ/view?usp=sharing)
-- [Research Blog](https://haitaomao.github.io/categories/ResearchSummary/)
+I am a final-year Ph.D. candidate at Michigan State University supervised by Dr. [Jiliang Tang](http://www.cse.msu.edu/~tangjili/index.html). <font color="red">I am actively seeking industry position starting around May 2025.</font> My research interests include Large Language Model, Recommender System, Information Retrieval, and Graph Machine Learning. If you know of any relevant openings, I would greatly appreciate your consideration! More Details can be found in: [Resume](https://drive.google.com/file/d/1mQguPsi5dnD9vnwu1Fz9DWOG1Sdg8ShQ/view?usp=sharing)[Research Blog](https://haitaomao.github.io/categories/ResearchSummary/)
 
 
 **My academic research** focuses on 
@@ -16,13 +13,13 @@ I am a final-year Ph.D. candidate at Michigan State University supervised by Dr.
 
 
 **Industrial Resource-efficient Solutions During Internships**
-- LLM-based Generative Recommendation (ongoing), [Snap Research, User Modeling and Personalization Team](https://research.snap.com/team/user-modeling-and-personalization.html)
-- LLM-based Ranking Algorithms [[paper1]](https://arxiv.org/abs/2210.10718.pdf)[[paper2]](https://arxiv.org/abs/2207.03051), [Baidu, Search Strategy Team](https://searchscience.baidu.com/)
-- Accelerate and Stabilize Neural Network Training [[paper1]](https://arxiv.org/abs/2111.15414.pdf)[[paper2]](https://arxiv.org/abs/2108.06530.pdf), [Microsoft Research Asia, Data Knowledge Intelligence Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/)
+- LLM-based Generative Recommendation (ongoing), [**Snap Research, User Modeling and Personalization Team**](https://research.snap.com/team/user-modeling-and-personalization.html)
+- LLM-based Ranking Algorithms [[paper1]](https://arxiv.org/abs/2210.10718.pdf)[[paper2]](https://arxiv.org/abs/2207.03051), [**Baidu, Search Strategy Team**](https://searchscience.baidu.com/)
+- Accelerate and Stabilize Neural Network Training [[paper1]](https://arxiv.org/abs/2111.15414.pdf)[[paper2]](https://arxiv.org/abs/2108.06530.pdf), [**Microsoft Research Asia, Data Knowledge Intelligence Group**](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/)
 
 **Transform Industrial Problems into Academic Challenges**
-- [[Baidu WSDM CUP'23]](https://aistudio.baidu.com/competition/detail/536/0/introduction): Pre-training for Web Search. 
-- [[Amazon KDD CUP'23]](https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge): Multilingual Shopping Session Recommendation. 
+- Organize [Baidu WSDM CUP'23](https://aistudio.baidu.com/competition/detail/536/0/introduction): Pre-training for Web Search. 
+- Organize [Amazon KDD CUP'23](https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge): Multilingual Shopping Session Recommendation. 
 
 Moreover, I was engaged in **academic-industry collaborations** between MSU and several companies, including [Graph Mining team in Google Research](https://research.google/teams/graph-mining/),  [Query Understanding team in Amazon](https://amazonsearchqu.github.io/), [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html), [J.P. Morgan AI Research](https://www.jpmorgan.com/technology/artificial-intelligence). I **led the [graph research subgroup](https://dse-gfm.github.io/)** in my PhD lab, where I made my best memory collaborating closely with my talented labmates sharing the same goal. I am now serving as the **organizer of the [Learning on Graph Conference 2024](https://logconference.org/)**, an exciting new conference facilitating graph and geometry community engagement. 
 
@@ -34,7 +31,7 @@ Moreover, I was engaged in **academic-industry collaborations** between MSU and 
   - Previous Collaboration Topic: Network Analysis & Graph Pretraining [[NeurIPS'23]](https://arxiv.org/abs/2306.01323.pdf) [[ICLR'24]](https://arxiv.org/abs/2310.00793.pdf) [[ICML'24 Spotlight]](https://arxiv.org/abs/2402.02216.pdf) [[LoG'24]](https://arxiv.org/abs/2402.02054.pdf)
   - Mentors: Dr. [Neil Shah](https://nshah.net/), Dr. [Tong Zhao](https://tzhao.io/), and Dr. [Clark Ju](https://jumxglhf.github.io/)
 - **[Search Strategy Team, Baidu Inc](https://searchscience.baidu.com/) (March, 2022 - September, 2022)** 
-  - Topic: Text-rich Unbiased Learning to Rank Algorithm [[NeurIPS'22]](https://arxiv.org/abs/2307.09688.pdf) [[Webconf'24 Oral]](https://arxiv.org/abs/2210.10718.pdf)
+  - Topic: LLM-based Unbiased Learning to Rank Algorithm [[NeurIPS'22]](https://arxiv.org/abs/2307.09688.pdf) [[Webconf'24 Oral]](https://arxiv.org/abs/2210.10718.pdf)
   - Mentor: Dr. [Lixin Zou](https://www.zoulixin.site/)
 - **[Data Knowledge Intelligence Group, Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) (January, 2021 - November, 2021)**
   - Topic 1: Solve out-of-distribution Challenge under Data Privacy Constraints [[WSDM'24 Best Paper Honor Mention]](https://arxiv.org/abs/2112.00955.pdf)
