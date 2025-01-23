@@ -17,18 +17,18 @@ layout: single
   </li>
   <li>
       <p>
-        <strong>On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept </strong> <br>
-        <strong>Haitao Mao*</strong>, Guangliang Liu*, Bochuan Cao, Zhiyu Xue, Kristen Johnson, Jiliang Tang, Rongrong Wang<br>
-        Preprint <br>
-        [<a href="https://arxiv.org/abs/2406.02378">pdf</a>][<a href="https://github.com/HaitaoMao/LLM-self-correction">code</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section32">Short Summary</a>]
+        <strong>A Survey to Recent Progress Towards Understanding In-Context Learning</strong> <br>
+        <strong>Haitao Mao</strong>, Guangliang Liu, Yao Ma, Rongrong Wang, Jiliang Tang <br>
+        NAACL 2025 Findings <br>
+        [<a href="https://arxiv.org/abs/2402.02212">pdf</a>][<a href="https://github.com/HaitaoMao/Awesome-LLM-Mechanism-Analysis">Reading List</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section32">Short Summary</a>]
       </p>
   </li>
   <li>
       <p>
-        <strong>A Data Generation Perspective to the Mechanism of In-Context Learning </strong> <br>
-        <strong>Haitao Mao</strong>, Guangliang Liu, Yao Ma, Rongrong Wang, Jiliang Tang <br>
+        <strong>On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept </strong> <br>
+        <strong>Haitao Mao*</strong>, Guangliang Liu*, Bochuan Cao, Zhiyu Xue, Kristen Johnson, Jiliang Tang, Rongrong Wang<br>
         Preprint <br>
-        [<a href="https://arxiv.org/abs/2402.02212">pdf</a>][<a href="https://github.com/HaitaoMao/Awesome-LLM-Mechanism-Analysis">Reading List</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section32">Short Summary</a>]
+        [<a href="https://arxiv.org/abs/2406.02378">pdf</a>][<a href="https://github.com/HaitaoMao/LLM-self-correction">code</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section32">Short Summary</a>]
       </p>
   </li>
 </ul>
