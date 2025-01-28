@@ -10,17 +10,18 @@ layout: single
 <ul>
   <li>
       <p>
-        <strong>Intrinsic Self-correction for Enhanced Morality: An Analysis of Internal Mechanisms and the Superficial Hypothesis</strong> <br>
-        Guangliang Liu, <strong>Haitao Mao</strong>, Jiliang Tang, Kristen Johns.<br>
-        EMNLP 2024 <br> [<a href="https://arxiv.org/abs/2407.15286">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section31">Short Summary</a>]
-      </p>
-  </li>
-  <li>
-      <p>
         <strong>A Survey to Recent Progress Towards Understanding In-Context Learning</strong> <br>
         <strong>Haitao Mao</strong>, Guangliang Liu, Yao Ma, Rongrong Wang, Jiliang Tang <br>
         NAACL 2025 Findings <br>
         [<a href="https://arxiv.org/abs/2402.02212">pdf</a>][<a href="https://github.com/HaitaoMao/Awesome-LLM-Mechanism-Analysis">Reading List</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section32">Short Summary</a>]
+      </p>
+  </li>
+  <li>
+      <p>
+        <strong>Intrinsic Self-correction for Enhanced Morality: An Analysis of Internal Mechanisms and the Superficial Hypothesis</strong> <br>
+        Guangliang Liu, <strong>Haitao Mao</strong>, Jiliang Tang, Kristen Johns.<br>
+        EMNLP 2024 <strong><font color="red">(Recommendation for best paper)</font></strong> <br>
+        [<a href="https://arxiv.org/abs/2407.15286">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section31">Short Summary</a>]
       </p>
   </li>
   <li>
