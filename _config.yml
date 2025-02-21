@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Open to work"
+title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Haitao Mao (Seeking full time industry job)"
-description              : "PhD@MSU, Expected Graduate in May 2025."
+name                     : "Haitao Mao"
+description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,10 +102,10 @@ words_per_minute         : 200
 # https://z3.ax1x.com/2021/11/10/Iaxkxe.jpg
 # Site Author
 author:
-  name             : "Haitao Mao (Seeking full time industry job)"
+  name             : "Haitao Mao"
   avatar           : https://img.picui.cn/free/2024/11/09/672f1379d09a3.png
-  bio              : "PhD@MSU, Expected Graduate in May 2025."
-  location         : "United State, East Lansing"
+  bio              : "PhD@MSU"
+  location         : "United State"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
