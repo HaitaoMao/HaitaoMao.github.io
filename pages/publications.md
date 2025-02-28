@@ -12,7 +12,7 @@ The full paper list can be found at [Google Scholar](https://scholar.google.com/
   <li>
       <p>
         <strong>A Survey to Recent Progress Towards Understanding In-Context Learning</strong> <br>
-        <strong>Haitao Mao</strong>, Guangliang Liu, Yao Ma, Rongrong Wang <br>
+        <strong>Haitao Mao</strong> et al.
         NAACL 2025 Findings <br>
         [<a href="https://arxiv.org/abs/2402.02212">pdf</a>][<a href="https://github.com/HaitaoMao/Awesome-LLM-Mechanism-Analysis">Reading List</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section32">Short Summary</a>]
       </p>
@@ -20,7 +20,7 @@ The full paper list can be found at [Google Scholar](https://scholar.google.com/
   <li>
       <p>
         <strong>Intrinsic Self-correction for Enhanced Morality: An Analysis of Internal Mechanisms and the Superficial Hypothesis</strong> <br>
-        Guangliang Liu, <strong>Haitao Mao</strong>, Kristen Johns.<br>
+        Guangliang Liu, <strong>Haitao Mao</strong> et al.<br>
         EMNLP 2024 <strong><font color="red">(Recommendation for best paper)</font></strong> <br>
         [<a href="https://arxiv.org/abs/2407.15286">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section31">Short Summary</a>]
       </p>
@@ -28,7 +28,7 @@ The full paper list can be found at [Google Scholar](https://scholar.google.com/
   <li>
       <p>
         <strong>On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept </strong> <br>
-        <strong>Haitao Mao*</strong>, Guangliang Liu*, Bochuan Cao, Zhiyu Xue, Kristen Johnson, Rongrong Wang<br>
+        <strong>Haitao Mao*</strong>, Guangliang Liu* et al.<br>
         Preprint <br>
         [<a href="https://arxiv.org/abs/2406.02378">pdf</a>][<a href="https://github.com/HaitaoMao/LLM-self-correction">code</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section32">Short Summary</a>]
       </p>
@@ -40,7 +40,7 @@ The full paper list can be found at [Google Scholar](https://scholar.google.com/
   <li>
         <p>
             <strong>Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models</strong><br>
-            <u>Wenzhuo Tang*</u>, <strong>Haitao Mao*</strong>, Danial Dervovic, Ivan Brugere, Saumitra Mishra, Yuying Xie<br>
+            <u>Wenzhuo Tang*</u>, <strong>Haitao Mao*</strong> et al.<br>
             <font color="green">Collaboration with JP Morgan</font> <br>
             preprint [<a href="https://arxiv.org/abs/2406.01899">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section132">Short Summary</a>][<a href="https://github.com/WenzhuoTang/UniAug">code</a>]
         </p>
@@ -48,7 +48,7 @@ The full paper list can be found at [Google Scholar](https://scholar.google.com/
   <li>
       <p>
           <strong>Position: Graph Foundation Models Are Already Here</strong><br>
-          <strong>Haitao Mao</strong>*, <u>Zhikai Chen</u>*, Wenzhuo Tang, Jianan Zhao, Yao Ma, Tong Zhao, Neil Shah, Mikhail Galkin <br>
+          <strong>Haitao Mao</strong>*, <u>Zhikai Chen</u>* et al. <br>
           <strong>ICML 2024 <font color="red">Spotlight (335/9473) </font>  </strong><br> 
           <font color="green">Collaboration with SnapChat and Intel</font> <br>
           [<a href="https://arxiv.org/abs/2402.02216.pdf">pdf</a>]
@@ -60,7 +60,7 @@ The full paper list can be found at [Google Scholar](https://scholar.google.com/
     <li>
         <p>
             <strong>Revisiting Link Prediction: A Data Perspective</strong><br>
-            <strong>Haitao Mao</strong>, Juanhui Li, Harry Shomer, Bingheng Li, Wenqi Fan, Yao Ma, Tong Zhao, Neil Shah<br>
+            <strong>Haitao Mao</strong> et al.<br>
             <strong>ICLR 2024</strong>  <br>
             <font color="green">Collaboration with SnapChat</font> <br>
             [<a href="https://arxiv.org/abs/2310.00793.pdf">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section131">Short Summary</a>]
@@ -70,7 +70,7 @@ The full paper list can be found at [Google Scholar](https://scholar.google.com/
     <li>
       <p>
           <strong>Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?</strong><br>
-          <strong>Haitao Mao</strong>, Zhikai Chen, Wei Jin, Haoyu Han, Yao Ma, Tong Zhao, Neil Shah<br>
+          <strong>Haitao Mao</strong> et al.<br>
           <strong>NeurIPS 2023</strong> <br>
           <font color="green">Collaboration with SnapChat</font> <br>
           [<a href="https://arxiv.org/abs/2306.01323.pdf">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section134">Short Summary</a>]
@@ -81,14 +81,14 @@ The full paper list can be found at [Google Scholar](https://scholar.google.com/
     <li>
         <p>
             <strong>A Pure Transformer Pretraining Framework on Text-attributed Graphs</strong><br>
-            <u>Yu Song</u>, <strong>Haitao Mao</strong>, Jiachen Xiao, Jingzhe Liu, Zhikai Chen, Wei Jin, Carl Yang Hui Liu<br>
+            <u>Yu Song</u>, <strong>Haitao Mao</strong> et al.<br>
             <strong>LoG 2024</strong> <br> [<a href="https://arxiv.org/abs/2406.13873v1">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section135">Short Summary</a>]
         </p>
     </li>
     <li>
         <p>
             <strong>Do Neural Scaling Laws Exist on Graph Self-Supervised Learning</strong><br>
-            <u>Qian Ma</u>, <strong>Haitao Mao</strong>, Jingzhe Liu, Zhehua Zhang, Chunlin Feng, Yu Song, Tianfan Fu, Yao Ma<br>
+            <u>Qian Ma</u>, <strong>Haitao Mao</strong>  et al.<br>
             <strong>LoG 2024</strong> <br>
             [<a href="https://arxiv.org/abs/2408.11243">pdf</a>][<a href="https://github.com/GraphSSLScaling/GraphSSLScaling">code</a>]
         </p>
@@ -96,7 +96,7 @@ The full paper list can be found at [Google Scholar](https://scholar.google.com/
     <li>
       <p>
           <strong>Neural Scaling Law on Graph</strong><br>
-          <u>Jingzhe Liu</u>, <strong>Haitao Mao</strong>, <u>Zhikai Chen</u>, Tong Zhao, Neil Shah<br>
+          <u>Jingzhe Liu</u>, <strong>Haitao Mao</strong> et al.<br>
           <font color="green">Collaboration with SnapChat</font> <br>
           <strong>LoG 2024</strong> <br>
           [<a href="https://arxiv.org/abs/2402.02054.pdf">pdf</a>][<a href="https://github.com/Liu-Jingzhe/graph-scaling-laws">code</a>]
@@ -106,7 +106,7 @@ The full paper list can be found at [Google Scholar](https://scholar.google.com/
     <li>
         <p>
             <strong>Text-space Graph Foundation Models: a Comprehensive Benchmark and New Insights</strong><br>
-            <u>Zhikai Chen</u>, <strong>Haitao Mao</strong>, Jingzhe Liu, Yu Song, Bingheng Li, Wei Jin, Bahare Fatemi, Anton Tsitsulin, Bryan Perozzi, Hui Liu<br>
+            <u>Zhikai Chen</u>, <strong>Haitao Mao</strong> et al.<br>
             <font color="green">collaboration with Google</font> <br>
             <strong>NeurIPS 2024 Dataset & Benchmark Track</strong><br>
             [<a href="https://arxiv.org/abs/2406.10727">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section12">Short Summary</a>][<a href="https://github.com/CurryTang/TSGFM">Code</a>]
@@ -121,7 +121,7 @@ The full paper list can be found at [Google Scholar](https://scholar.google.com/
   <li>
       <p>
           <strong>Whole Page Unbiased Learning to Rank </strong><br>
-          <strong>Haitao Mao</strong>, Lixin Zou, Yujia Zheng, Jiliang Tang, Xiaokai Chu, Jiashu Zhao, Dawei Yin <br> 
+          <strong>Haitao Mao</strong>  et al. <br> 
           <strong> WebConference 2024</strong> <font color="red"><strong>Oral </strong> <strong>(198/2,008)</strong> </font> [<a href="https://arxiv.org/abs/2210.10718.pdf">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section21">Short Summary</a>]<br>
           <font color="green">Work During Internship in Baidu</font> <br>
       </p>
@@ -129,7 +129,7 @@ The full paper list can be found at [Google Scholar](https://scholar.google.com/
     <li>
     <p>
         <strong>Source Free Graph Unsupervised Domain Adaptation </strong><br>
-        <strong>Haitao Mao</strong>, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Shi Han, Dongmei Zhang <br>
+        <strong>Haitao Mao</strong>  et al. <br>
         <strong><font color="red">WSDM 2024 Best Paper Honor Mention (3/615)</font></strong> <br>
         <font color="green">Work During Internship in Microsoft Research Asia</font> <br>
         [<a href="https://arxiv.org/abs/2112.00955.pdf">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section11">Short Summary</a>]
@@ -140,7 +140,7 @@ The full paper list can be found at [Google Scholar](https://scholar.google.com/
   <li>
       <p>
         <strong>Neuron with Steady Response Leads to Better Generalization</strong><br>
-        <strong>Haitao Mao*</strong>, Lun Du*, Qiang Fu*, Xu Chen*, Wei Fang, Shi Han, Dongmei Zhang <br>
+        <strong>Haitao Mao*</strong> et al. <br>
         <strong>NeurIPS2022</strong><br> 
         <font color="green">Work During Internship in Microsoft Research Asia</font> <br>
         [<a href="https://arxiv.org/abs/2111.15414.pdf">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section24">Short Summary</a>]
@@ -152,7 +152,7 @@ The full paper list can be found at [Google Scholar](https://scholar.google.com/
     <li>
       <p>
         <strong>Neuron Campaign for Initialization Guided by Information Bottleneck Theory </strong><br>
-        <strong>Haitao Mao*</strong>, Xu Chen*, Qiang Fu*, Lun Du*, Shi Han, Dongmei Zhang <br>
+        <strong>Haitao Mao*</strong>, Xu Chen*, Qiang Fu*, Lun Du*  et al. <br>
         <font color="red"><strong>CIKM2021 Best Short Paper (1/626)</strong></font><br>
         <font color="green">Work During Internship in Microsoft Research Asia</font> <br>
         [<a href="https://arxiv.org/abs/2108.06530.pdf">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section24">Short Summary</a>]
@@ -164,7 +164,7 @@ The full paper list can be found at [Google Scholar](https://scholar.google.com/
   <li>
       <p>
         <strong>Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation </strong><br>
-        Wei Jin*, <strong>Haitao Mao*</strong>, Zheng Li, Haoming Jiang, Chen Luo, Hongzhi Wen, Haoyu Han, Hanqing Lu, Zhengyang Wang, Ruirui Li, Zhen Li, Monica Cheng, Rahul Goutam, Haiyang Zhang, Karthik Subbian, Suhang Wang, Yizhou Sun, Jiliang Tang, Bing Yin, and Xianfeng Tang  <br>
+        Wei Jin*, <strong>Haitao Mao*</strong> et al.  <br>
         <strong>NeurIPS 2022 Datasets and Benchmarks Track</strong> <br> 
         <font color="green">Collaboration with Amazon</font> <br>
         [<a href="https://arxiv.org/abs/2307.09688.pdf">pdf</a>]
@@ -177,7 +177,7 @@ The full paper list can be found at [Google Scholar](https://scholar.google.com/
     <li>
       <p>
         <strong>A Large Scale Search Dataset for Unbiased Learning to Rank </strong> <br>
-        <strong>Haitao Mao*</strong>, Lixin Zou*, Xiaokai Chu, Jiliang Tang, Shuaiqiang Wang, Wenwen ye, Dawei yin. <br>
+        <strong>Haitao Mao*</strong>, Lixin Zou* et al. <br>
         <strong>NeurIPS 2022 Datasets & Benchmarks Track</strong> <br> 
         <font color="green">Work During Internship in Baidu</font> <br>
         [<a href="https://arxiv.org/abs/2207.03051">pdf</a>][<a href="https://haitaomao.github.io/categories/ResearchSummary/#section21">Short Summary</a>]
