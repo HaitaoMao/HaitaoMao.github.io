@@ -103,22 +103,19 @@ words_per_minute         : 200
 # Site Author
 author:
   name             : "Haitao Mao"
-  avatar           : https://img.picui.cn/free/2024/11/09/672f1379d09a3.png
+  avatar           : 
   bio              : "PhD@MSU"
   location         : "United State"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:haitaoma@msu.edu"
+      url: "mailto:haitaomao385@gmail.com"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=3GmlKM4AAAAJ&hl=en"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/haitao-mao-742862204/"
-    - label: "GitHub"
-      icon: "fas fa-fw fa-link"
-      url: "https://github.com/HaitaoMao"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
