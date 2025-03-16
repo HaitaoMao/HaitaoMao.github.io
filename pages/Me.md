@@ -4,9 +4,26 @@ title: ME
 layout: single
 ---
 
-I will be joining Amazon's Neo Team as an Applied Scientist, focusing on pre-training foundation models for recommendation. I serve as the organizer of the [Learning on Graph Conference 2024/25](https://logconference.org/), an exciting new conference facilitating graph and geometry community engagement. 
+I will be joining Amazon's Neo Team as an Applied Scientist, focusing on foundation models for conversational recommendation. In the long run, I am intrigued about pragmatics in user intent modeling, given my prior experience working briefly on moral inference. I look forward to seeing how this field evolves over the next decade. 
 
-My PhD research focuses on (1) Graph Foundational Model inspired by Network Science [[Research Statement]](https://drive.google.com/file/d/1DycBQkBdTCmZOWh9WHNo6gNrALHmDLfe/view?usp=sharing)[[Talk Slides]](https://drive.google.com/file/d/1RSfGXJAC11c3wc9Gduqg-SoMJ8qfbh7N/view?usp=sharing) and (2) Moral Inferenece with LLMs. 
+
+Before transitioning to this role, I spent five years researching the fundamental modeling capabilities on networks and downstream applications in search and recommendation. During this journey, two moments stand out as sources of profound inner fulfillment.
+
+<ul>
+  <li>
+      <p>
+        <strong>Pioneering Graph Foundation Models (GFMs)</strong> [[Research Statement]](https://drive.google.com/file/d/1DycBQkBdTCmZOWh9WHNo6gNrALHmDLfe/view?usp=sharing)[[Talk Slides]](https://drive.google.com/file/d/1RSfGXJAC11c3wc9Gduqg-SoMJ8qfbh7N/view?usp=sharing) <br>
+        GFM is a naive yet intriguing research topic that intersects network science, geometry, and neural-symbolic reasoning, providing a complementary perspective to the existing foundation model paradigm. GFMs may hold future potential for applications in code graphs, scene graphs, and higher-level intelligence, such as analogical reasoning. I wish I were able to explore this direction further to satisfy my personal curiosity. <br>
+      </p>
+  </li>
+  <li>
+      <p>
+        <strong>Serving as the organizer of the [Learning on Graph Conference 2024/25](https://logconference.org/)</strong> <br>
+        LoG is an exciting new conference facilitating graph and geometry community engagement. Being part of this initiative is exciting. 
+      </p>
+  </li>
+
+
 
 
 ### Awards
