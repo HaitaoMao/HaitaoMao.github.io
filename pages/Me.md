@@ -20,7 +20,7 @@ Before transitioning to this role, I spent five years researching the fundamenta
   </li>
   <li>
       <p>
-        <strong>Serving as the organizer of the [Learning on Graph Conference 2024/25](https://logconference.org/)</strong> <br>
+        <strong>Serving as the organizer of the [<a href="https://logconference.org/">Learning on Graph Conference 2024/25</a>]</strong> <br>
         LoG is an exciting new conference facilitating graph and geometry community engagement. Being part of this initiative is exciting. 
       </p>
   </li>
