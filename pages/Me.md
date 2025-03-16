@@ -12,9 +12,9 @@ Before transitioning to this role, I spent five years researching the fundamenta
 <ul>
   <li>
       <p>
-        <strong>Pioneering Graph Foundation Models (GFMs)</strong> 
+        <strong>Pioneering Graph Foundation Models (GFMs) 
         [<a href="https://drive.google.com/file/d/1DycBQkBdTCmZOWh9WHNo6gNrALHmDLfe/view?usp=sharing">Research Statement</a>]
-        [<a href="https://drive.google.com/file/d/1RSfGXJAC11c3wc9Gduqg-SoMJ8qfbh7N/view?usp=sharing">Talk Slides</a>] <br>
+        [<a href="https://drive.google.com/file/d/1RSfGXJAC11c3wc9Gduqg-SoMJ8qfbh7N/view?usp=sharing">Talk Slides</a>]</strong> <br>
         GFM is a naive yet intriguing research topic that intersects network science, geometry, and neural-symbolic reasoning, providing a complementary perspective to the existing foundation model paradigm. GFMs may hold future potential for applications in code graphs, scene graphs, and higher-level intelligence, such as analogical reasoning. I wish I were able to explore this direction further to satisfy my personal curiosity. <br>
       </p>
   </li>
