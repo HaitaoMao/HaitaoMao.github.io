@@ -104,8 +104,8 @@ words_per_minute         : 200
 author:
   name             : "Haitao Mao"
   avatar           : 
-  bio              : "PhD@MSU"
-  location         : "United State"
+  bio              : "Applied Scientist@Amazon"
+  location         : "United States"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
