@@ -4,7 +4,7 @@ title: ME
 layout: single
 ---
 
-I will be joining Amazon's Neo Team as an Applied Scientist, focusing on foundation models for conversational recommendation. In the long run, I am intrigued about pragmatics in user intent modeling, given my prior experience working briefly on moral inference. I look forward to seeing how this field evolves over the next decade. 
+I will be joining Amazon as an Applied Scientist II, focusing on foundation models for conversational recommendation. In the long run, I am intrigued about pragmatics in user intent modeling, given my prior experience working briefly on moral inference. I look forward to seeing how this field evolves over the next decade. 
 
 
 Before transitioning to this role, I spent five years researching the fundamental modeling capabilities on networks and downstream applications in search and recommendation. During this journey, two moments stand out as sources of profound inner fulfillment.
